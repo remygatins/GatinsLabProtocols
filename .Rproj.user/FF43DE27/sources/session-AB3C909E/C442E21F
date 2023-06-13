@@ -1,0 +1,31 @@
+{
+    "id": "C442E21F",
+    "path": "~/Documents/GitHub/GatinsLab/people.qmd",
+    "project_path": "people.qmd",
+    "type": "quarto_markdown",
+    "hash": "4160351184",
+    "contents": "",
+    "dirty": true,
+    "created": 1686688711857.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1686688686,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1686688714750,
+    "read_only": false,
+    "read_only_alternatives": []
+}
