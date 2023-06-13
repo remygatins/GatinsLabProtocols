@@ -5,6 +5,8 @@ project:
 website:
   title: "Gatins lab"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
