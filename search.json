@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "research.html#hybridization",
-    "href": "research.html#hybridization",
-    "title": "Research",
-    "section": "Hybridization",
-    "text": "Hybridization"
-  },
-  {
-    "objectID": "research.html#range-expansions",
-    "href": "research.html#range-expansions",
-    "title": "Research",
-    "section": "Range Expansions",
-    "text": "Range Expansions"
-  },
-  {
     "objectID": "people.html#annabell-hughes",
     "href": "people.html#annabell-hughes",
     "title": "People",
@@ -28,11 +14,32 @@
     "text": "Future students"
   },
   {
+    "objectID": "people.html#postdocs",
+    "href": "people.html#postdocs",
+    "title": "People",
+    "section": "Postdocs",
+    "text": "Postdocs"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gatins Lab",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nTesting"
+  },
+  {
+    "objectID": "research.html#hybridization",
+    "href": "research.html#hybridization",
+    "title": "Research",
+    "section": "Hybridization",
+    "text": "Hybridization"
+  },
+  {
+    "objectID": "research.html#range-expansions",
+    "href": "research.html#range-expansions",
+    "title": "Research",
+    "section": "Range Expansions",
+    "text": "Range Expansions"
   },
   {
     "objectID": "about.html",
