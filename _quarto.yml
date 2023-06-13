@@ -13,6 +13,16 @@ website:
         file: people.qmd
       - text: "Research"
         file: research.qmd
+      - text: "Molecular Protocols"
+        file: molecularprotocols.qmd
+        
+  sidebar:
+    - title: "Molecular Protocols"
+      style: "docked"
+      background: light
+      contents:
+        - molecularprotocols.qmd
+
 
 format:
   html:
