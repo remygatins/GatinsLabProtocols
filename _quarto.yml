@@ -18,10 +18,12 @@ website:
         
   sidebar:
     - title: "Molecular Protocols"
-      style: "docked"
+      style: "floating"
       background: light
       contents:
         - molecularprotocols.qmd
+        - illuminalibraryprep.qmd
+        - dnaextraction.qmd
 
 
 format:
