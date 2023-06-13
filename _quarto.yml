@@ -9,6 +9,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: "People"
+        file: people.qmd
+      - text: "Research"
+        file: research.qmd
 
 format:
   html:
