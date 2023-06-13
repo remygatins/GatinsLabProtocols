@@ -1,1 +1,1 @@
-Sitemap: https://remygatins.github.io/GatinsLab/sitemap.xml
+Sitemap: https://github.com/remygatins/GatinsLab/sitemap.xml
