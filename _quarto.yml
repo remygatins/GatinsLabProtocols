@@ -22,8 +22,8 @@ website:
       background: light
       contents:
         - molecularprotocols.qmd
-        - illuminalibraryprep.qmd
-        - dnaextraction.qmd
+        - molec_illuminalibraryprep.qmd
+        - molec_dnaextraction.qmd
 
 
 format:
