@@ -17,6 +17,7 @@ website:
         file: research.qmd
       - text: "Molecular Protocols"
         file: molecularprotocols.qmd
+    right:
       - icon: github
         href: https://github.com/remygatins
       - icon: twitter 
