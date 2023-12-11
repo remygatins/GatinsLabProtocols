@@ -42,10 +42,9 @@ For optimal fragmentation results, **elute DNA in Elution Buffer (10 mM Tris-HCl
 | KAPA Frag Enzyme*    | 10 µL   | 3.4 µL    |
 |----------------------|---------|-----------|
 |**Total Volume**      |**50 µL**|**16.7 µL**|
-  - ***OPTIONAL**: The KAPA Frag Buffer and Enzyme may be pre-mixed and kept on ice prior to reaction setup, and dispensed as a single solution*.
+***OPTIONAL**: The KAPA Frag Buffer and Enzyme may be pre-mixed and kept on ice prior to reaction setup, and dispensed as a single solution*.
 
 - [ ] 1.4 Vortex gently and spin down briefly. Return the plate/tue to ice and proceed immediately to the next step.
-
 - [ ] 1.5 Incubate in a thermocycler, pre-cooled to 4°C and programmed as outlined below. A heated lid is not required for this step. If used, set the temperature of the heated lid to ≤50°C.
 
 | Step | Temp | Time |
@@ -53,7 +52,7 @@ For optimal fragmentation results, **elute DNA in Elution Buffer (10 mM Tris-HCl
 | Pre-cool block  |  4°C  | N/A  |
 |Fragmentation| 37°C| 7:45* |
 |HOLD| 4°C| ∞ |
-- Fragmentation time was previously optimized for 500bp fragments starting from the optimization table below
+Fragmentation time was previously optimized for 500bp fragments starting from the optimization table below
 
 | Mode Fragment Length | Incubation time at 37°C | Optimization range |
 |-----------|--------|-----------|
