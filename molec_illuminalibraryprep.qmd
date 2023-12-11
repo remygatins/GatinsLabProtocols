@@ -1,2 +1,245 @@
 
 # Illumina Library Prep
+## KAPA HyperPlus kit
+Kit KR 1145
+
+https://rochesequencingstore.com/wp-content/uploads/2017/10/KAPA-HyperPlus-Kit_KR1145-%E2%80%93-v5.19.pdf
+
+
+Steps:
+  1. [Fragmentation](#1-fragmentation)
+  2. [End Repair and A-tailing](#2-end-repair-and-a-tailing)
+  3. [Adapter Ligation](#3-adapter-ligation)
+  4. [Post Ligation Cleanup](#4-post-ligation-cleanup)
+  5. [Library Amplification](#5-library-amplification)
+  6. [Size Selection](#6-size-selection)  
+    6a. [Uppercut](#uppercut)  
+    6b. [Lowercut](#lowercut)  
+  7. [Quality Check](#qc)  
+
+## 0. Prepare DNA
+
+Removal of EDTA from DNA samples prior to fragmentation is recommended to ensure consistent
+results. This may be achieved by means of a 3X bead based cleanup with KAPA cleanup beads. Please refer to the relevant Technical Data Sheet (KR1705 or KR1245) for a detailed DNA cleanup protocol. 
+
+For optimal fragmentation results, **elute DNA in Elution Buffer (10 mM Tris-HCl, pH 8.0 - 8.5)** after the cleanup.
+
+[KAPA cleanup bead protocol](https://rochesequencingstore.com/wp-content/uploads/2022/07/KAPA-Pure-Beads-Technical-Data-Sheet.pdf)
+
+
+## 1. Fragmentation
+
+- [ ] 1.1 Dilute 250 ng of dsDNA in Elution Buffer (10 mM Tris-HCl, pH 8.0 - 8.5) to reach a total volume of 11.7 µL (1/3 rx)
+    - only do this if samples do not contain EDTA. Otherwise see original protocol for instructions to clean DNA or use Conditioning Solution. 
+
+- [ ] 1.2 Mix by gentle vortexing or pipetting up and down
+- [ ] 1.3 Assemble the fragmentation reaction on ice by adding the following components in order:
+
+| Component            | Volume  | 1/3 Volume|
+|:---------------------|:--------|:----------|
+|250ng DNA             | 35 µL   | 11.7 µL   |
+|KAPA Frag Bufer(10X)* | 5 µL    | 1.6µL     |
+| KAPA Frag Enzyme*    | 10 µL   | 3.4 µL    |
+|----------------------|---------|-----------|
+|**Total Volume**      |**50 µL**|**16.7 µL**|
+  - ***OPTIONAL**: The KAPA Frag Buffer and Enzyme may be pre-mixed and kept on ice prior to reaction setup, and dispensed as a single solution*.
+
+- [ ] 1.4 Vortex gently and spin down briefly. Return the plate/tue to ice and proceed immediately to the next step.
+- [ ] 1.5 Incubate in a thermocycler, pre-cooled to 4°C and programmed as outlined below. A heated lid is not required for this step. If used, set the temperature of the heated lid to ≤50°C.
+
+| Step | Temp | Time |
+|-----------|--------|-----------|
+| Pre-cool block  |  4°C  | N/A  |
+|Fragmentation| 37°C| 7:45* |
+|HOLD| 4°C| ∞ |
+- Fragmentation time was previously optimized for 500bp fragments starting from the optimization table below
+
+| Mode Fragment Length | Incubation time at 37°C | Optimization range |
+|-----------|--------|-----------|
+| 600 bp  |  5 min  | 3- 10 min |
+|350 bp| 10 min| 5- 20 min|
+|200 bp| 20 min| 10- 25 min|
+|150 bp| 30 min| 20- 40 min|
+
+- [ ] **PREP**: get the End Repair & A-Tailing Buffer out of the freezer to begin melting for next step.
+  
+- [ ] 1.6 Transfer reactions to ice, and proceed immediately to End Repair and A-tailing (step 2).
+
+## 2. End Repair and A-tailing
+
+- [ ] 2.1 In the same plate/tube(s) in which enzymatic fragmentation was performed, assemble each End Repair and A-tailing reaction as follows:
+
+| Component | Volume | 1/3 Volume|
+|-----------|--------|-----------|
+|Fragmented, double-stranded DNA  | 50 µL  | 16.7 µL   |
+|End Repair & A-Tailing Buffer*| 7 µL | 2.4 µL |
+| HyperPlus ERAT Enzyme Mix* | 3 µL| 1 µL|
+|--------------------|------|-------|
+|**Total Volume**|**60 µL**| **20 µL**|
+
+- [ ] 2.2 Vortex gently and spin down briefly. Return the reaction plate/tube(s) to ice. Proceed immediately to the next step.
+    
+- [ ] 2.3 Incubate in a thermocycler programmed as outlined below. A heated lid is required for this step. If possible, set the temperature of the heated lid to ~85°C (instead of the usual 105°C).
+
+| Step | Temp | Time |
+|-----------|--------|-----------|
+| End repair and A-tailing |  65°C  | 30 min  |
+|HOLD| 4°C| ∞ |
+
+- [ ] 2.4 Proceed immediately to Adapter Ligation (step 3).
+
+
+## 3. Adapter Ligation
+
+- [ ] 3.1 Dilute adapter stocks to the appropriate concentration, as outlined in Table 4 (p. 5).
+![Table4_ Adapter_Concentrations](https://github.com/remygatins/BlackSeaBass_WGS/assets/26288352/dde35de4-3d8d-4567-9232-4b0f5b5045e0)
+
+- [ ] 3.2 In the same plate/tube(s) in which end repair andA-tailing was performed, assemble each adapter ligation reaction as follows:
+
+| Component | Volume | 1/3 Volume|Notes|
+|-----------|--------|-----------|-----|
+|End repair and A-tailing reaction product | 60 µL  | 20 µL   ||
+| Adapter stock [6 µM] | 5 µL | 5 µL ||
+| PCR grade water* | 5 µL| - µL|Already included in the adapter stock|
+| Ligation Buffer* | 30 µL| 10 µL||
+|DNA Ligase* | 10 µL| 3.3 µL||
+|--------------------|------|------|------|
+|**Total Volume**|**110 µL**| **38.3 µL**||
+
+- **OPTIONAL**: *The water, buffer and ligase enzyme should preferably be premixed and added in a single pipetting step. Premixes are stable for ≤24 hrs at room temperature, for ≤3 days at 2°C to 8°C, and for ≤4 weeks at -15°C to -25°C.
+
+- [ ] 3.3 Mix thoroughly and centrifuge briefly.
+      
+- [ ] 3.4 Incubate at 20°C for 30 min.
+
+- [ ] 3.5 Proceed immediately to Post-ligation Cleanup (step 4).
+
+## 4. Post Ligation Cleanup
+
+**IMPORTANT**- Kapa beads should be at RT and well mixed
+
+- [ ] 4.1 In the same plate/tube(s), perform a 0.8X beadbased cleanup by combining the following:
+
+| Component | Volume | 1/3 Volume|Notes|
+|-----------|--------|-----------|-----|
+|Adapter ligation reaction product | 110 µL  | 38.3 µL   ||
+| KAPA cleanup beads (0.8X) | 88 µL | 30.64 µL ||
+|--------------------|------|------|------|
+|**Total Volume**|**198 µL**| **68.9 µL**||
+
+- [ ] 4.2 Mix thoroughly by vortexing and/or pipetting up and down multiple times.
+
+- [ ] 4.3 Incubate the plate/tube(s) at room temperature for 15 min or less to bind DNA to the beads.
+
+- [ ] 4.4 Place the plate/tube(s) on a magnet to capture the beads. Incubate until the liquid is clear.
+
+- [ ] 4.5 Carefully remove and discard the supernatant.
+
+- [ ] 4.6 Keeping the plate/tube(s) on the magnet, add 100 µL of 80% ethanol.
+
+- [ ] 4.7 Incubate the plate/tube(s) on the magnet at room temperature for ≥30 sec.
+
+- [ ] 4.8 Carefully remove and discard the ethanol.
+
+- [ ] 4.9 Keeping the plate/tube(s) on the magnet, add 100 µL of 80% ethanol.
+
+- [ ] 4.10 Incubate the plate/tube(s) on the magnet at room temperature for ≥30 sec.
+
+- [ ] 4.11 Carefully remove and discard the ethanol. Try to remove all residual ethanol without disturbing the beads.
+
+- [ ] 4.12 Dry the beads at room temperature for 3 – 5 min, or until all of the ethanol has evaporated.
+      **Caution:** over drying the beads may result in reduced yield.
+
+- [ ] 4.13 Remove the plate/tube(s) from the magnet.
+
+- [ ] 4.14 Resuspend the beads in 25 µL of elution buffer (10 mM Tris-HCl, pH 8.0 – 8.5) previously warmed to 37°C
+
+- [ ] 4.15 Incubate the plate/tube(s) at room temperature for 5 min to elute DNA off the beads.
+
+- [ ] 4.16 Place the plate/tube(s) on a magnet to capture the beads. Incubate until the liquid is clear.
+
+- [ ] 4.17 Transfer 20 µL of supernatant  to a new plate/tube(s) to proceed with Library Amplification (step 5)
+
+## 5. Library Amplification
+
+The KAPA Library Amplification Primer Mix (10X) is designed to eliminate or delay primer depletion during library amplification reactions performed with KAPA HiFi HotStart ReadyMix. The primer mix is suitable for the amplification of all Illumina libraries flanked by the P5 and P7 flow cell sequences. Primers are supplied at a 10X concentration of 20 μM each, and have been formulated as described below. User-supplied primer mixes may be used in combination with incomplete or custom adapters. Please contact Technical Support at sequencing.roche.com/support for guidelines on the formulation of user-supplied library amplification primers.
+
+• To achieve the highest amplification efficiency and avoid primer depletion, it is critical to use an optimal concentration of high-quality primers. Primers should be used at a final concentration of 0.5 – 4 μM each. For libraries constructed from ≥100 ng input DNA, a final concentration of at least 2 μM of each primer is recommended.
+
+• Library amplification primers should be HPLC-purified and modified to include a phosphorothioate bond at the 3'-terminal of each primer (to prevent degradation by the strong proofreading activity of KAPA HiFi HotStart). Always store and dilute primers in a buffered solution (e.g., 10mM Tris-HCl, pH8.0–8.5), and limit the number of freeze-thaw cycles. To achieve the latter, store primers at 2°C to 8°C for short-term use, or as single-use aliquots at -15°C to -25°C.
+
+- [ ] 5.1 Assemble each library amplification reaction as follows:
+
+| Component | Volume | 1/3 Volume|Notes|
+|-----------|--------|-----------|-----|
+|KAPA HiFi HotStart ReadyMix (2X)  | 25 µL  | 8.3 µL   ||
+| Library Amplification Primer Mix (10X)* | 5 µL | 1.7 µL | if using custon Primers i5/i7 they should be at [20µM]|
+| Adapter-ligated library | 20 µL | 6.7 µL ||
+|--------------------|------|------|------|
+|**Total Volume**|**50 µL**| **16.7 µL**||
+
+- [ ] 5.2 Mix thoroughly and centrifuge briefly.
+- [ ] 5.3 Amplify using the following cycling protocol:
+
+| Step | Temp | Time |Cycles|
+|-----------|--------|-----------|--------|
+|Initial Denaturation  |  98°C  | 45 sec |1|
+|Denaturation| 98°C| 15 sec ||
+|Annealing| 60°C| 30 sec |8X|
+|Extension| 72°C| 30 sec ||
+|Final Extension| 72°C| 1 min |1|
+|HOLD| 4°C| ∞ |1|
+
+- [ ] 5.4 Proceed directly to Post-amplification Cleanup (step 6).
+
+## 6. Size Selection
+**IMPORTANT- Only do this the first time and check your library. Otherwise we will skip and go directly to the size selection step.**
+
+- [ ] 6.1 In the same plate/tube(s), perform a 1X beadbased cleanup by combining the following:
+
+| Component | Volume | 1/3 Volume|Notes|
+|-----------|--------|-----------|-----|
+|Library amplification reaction product | 50 µL  | 16.7 µL   ||
+| KAPA cleanup beads (1X) | 50 µL | 16.7 µL ||
+|--------------------|------|------|------|
+|**Total Volume**|**100 µL**| **33.4 µL**||
+
+- [ ] 6.2 Mix thoroughly by vortexing and/or pipetting up and down multiple times.
+
+- [ ] 6.3 Incubate the plate/tube(s) at room temperature for 15 min or less to bind DNA to the beads.
+
+- [ ] 6.4 Place the plate/tube(s) on a magnet to capture the beads. Incubate until the liquid is clear.
+
+- [ ] 6.5 Carefully remove and discard the supernatant.
+
+- [ ] 6.6 Keeping the plate/tube(s) on the magnet, add 100 µL of 80% ethanol.
+
+- [ ] 6.7 Incubate the plate/tube(s) on the magnet at room temperature for ≥30 sec.
+
+- [ ] 6.8 Carefully remove and discard the ethanol.
+
+- [ ] 6.9 Keeping the plate/tube(s) on the magnet, add 100 µL of 80% ethanol.
+
+- [ ] 6.10 Incubate the plate/tube(s) on the magnet at room temperature for ≥30 sec.
+
+- [ ] 6.11 Carefully remove and discard the ethanol. Try to remove all residual ethanol without disturbing the beads.
+
+- [ ] 6.12 Dry the beads at room temperature for 3 – 5 min, or until all of the ethanol has evaporated.
+      **Caution: over drying the beads may result in reduced yield.**
+
+- [ ] 6.13 Remove the plate/tube(s) from the magnet.
+
+- [ ] 6.14 Resuspend the beads in 25 µL of elution buffer (10 mM Tris-HCl, pH 8.0 – 8.5) previously warmed to 37°C
+
+- [ ] 6.15 Incubate the plate/tube(s) at room temperature for 5 min to elute DNA off the beads.
+
+- [ ] 6.16 Place the plate/tube(s) on a magnet to capture the beads. Incubate until the liquid is clear.
+
+- [ ] 6.17 Transfer clear supernatant to a new plate/tube(s) and proceed with size selection (step 7)
+
+## 7. Size Selection
+
+
+### 7.1 Uppercut
+### 7.2 Lowercut
+
