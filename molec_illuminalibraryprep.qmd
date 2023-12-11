@@ -3,12 +3,12 @@
 ## KAPA HyperPlus kit
 Kit KR 1145
 
-https://rochesequencingstore.com/wp-content/uploads/2017/10/KAPA-HyperPlus-Kit_KR1145-%E2%80%93-v5.19.pdf
+(Manual)[https://rochesequencingstore.com/wp-content/uploads/2017/10/KAPA-HyperPlus-Kit_KR1145-%E2%80%93-v5.19.pdf]
 
 
 Steps:
-  1. [Fragmentation](#1-fragmentation)  
-  2. [End Repair and A-tailing](#2-end-repair-and-a-tailing)  
+  1. [Fragmentation](#1-fragmentation).  
+  2. [End Repair and A-tailing](#2-end-repair-and-a-tailing).   
   3. [Adapter Ligation](#3-adapter-ligation)  
   4. [Post Ligation Cleanup](#4-post-ligation-cleanup)  
   5. [Library Amplification](#5-library-amplification)  
