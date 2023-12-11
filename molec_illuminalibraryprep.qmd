@@ -3,12 +3,11 @@
 ## KAPA HyperPlus kit
 Kit KR 1145
 
-(Manual)[https://rochesequencingstore.com/wp-content/uploads/2017/10/KAPA-HyperPlus-Kit_KR1145-%E2%80%93-v5.19.pdf]
-
+![Manual](https://rochesequencingstore.com/wp-content/uploads/2017/10/KAPA-HyperPlus-Kit_KR1145-%E2%80%93-v5.19.pdf)
 
 Steps:
-  1. [Fragmentation](#1-fragmentation).  
-  2. [End Repair and A-tailing](#2-end-repair-and-a-tailing).   
+  1. [Fragmentation](#1-fragmentation).   
+  2. [End Repair and A-tailing](#2-end-repair-and-a-tailing).     
   3. [Adapter Ligation](#3-adapter-ligation)  
   4. [Post Ligation Cleanup](#4-post-ligation-cleanup)  
   5. [Library Amplification](#5-library-amplification)  
@@ -106,7 +105,7 @@ Fragmentation time was previously optimized for 500bp fragments starting from th
 |--------------------|------|------|------|
 |**Total Volume**|**110 µL**| **38.3 µL**||
 
-- **OPTIONAL**: *The water, buffer and ligase enzyme should preferably be premixed and added in a single pipetting step. Premixes are stable for ≤24 hrs at room temperature, for ≤3 days at 2°C to 8°C, and for ≤4 weeks at -15°C to -25°C.
+**OPTIONAL**: *The water, buffer and ligase enzyme should preferably be premixed and added in a single pipetting step. Premixes are stable for ≤24 hrs at room temperature, for ≤3 days at 2°C to 8°C, and for ≤4 weeks at -15°C to -25°C.
 
 - [ ] 3.3 Mix thoroughly and centrifuge briefly.
       
