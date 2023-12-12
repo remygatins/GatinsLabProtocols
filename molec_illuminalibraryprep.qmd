@@ -86,6 +86,8 @@ Fragmentation time was previously optimized for 500bp fragments starting from th
 | End repair and A-tailing |  65°C  | 30 min  |
 |HOLD| 4°C| ∞ |
 
+- [ ] **PREP**: Thaw reagents of the adapter ligation and pre-make the master mix.
+
 - [ ] 2.4 Proceed immediately to Adapter Ligation (step 3).
 
 
@@ -108,6 +110,8 @@ Fragmentation time was previously optimized for 500bp fragments starting from th
 
 **OPTIONAL**: *The water, buffer and ligase enzyme should preferably be premixed and added in a single pipetting step. Premixes are stable for ≤24 hrs at room temperature, for ≤3 days at 2°C to 8°C, and for ≤4 weeks at -15°C to -25°C.
 
+- [ ] **PREP**: Acclimate Kapa beads to RT and make 80% ethanol for the bead cleanup
+
 - [ ] 3.3 Mix thoroughly and centrifuge briefly.
       
 - [ ] 3.4 Incubate at 20°C for 30 min.
@@ -116,7 +120,7 @@ Fragmentation time was previously optimized for 500bp fragments starting from th
 
 ## 4. Post Ligation Cleanup
 
-**IMPORTANT**- Kapa beads should be at RT and well mixed
+**IMPORTANT**- Kapa beads should be at RT and well mixed using the vortexer
 
 - [ ] 4.1 In the same plate/tube(s), perform a 0.8X beadbased cleanup by combining the following:
 
