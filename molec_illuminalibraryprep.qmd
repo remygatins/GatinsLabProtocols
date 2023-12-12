@@ -11,7 +11,7 @@ Steps:
   3. [Adapter Ligation](#3-adapter-ligation)  
   4. [Post Ligation Cleanup](#4-post-ligation-cleanup)  
   5. [Library Amplification](#5-library-amplification) 
-  6. [Post-ligation Cleanup](#6-post-ligation-cleanup)
+  6. [Post-ligation Cleanup](#6-post-ligation-cleanup)  
   7. [Size Selection](#7-size-selection)    
     7a. [Uppercut](#7a-uppercut)    
     7b. [Lowercut](#7b-lowercut)    
