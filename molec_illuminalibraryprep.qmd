@@ -13,8 +13,8 @@ Steps:
   5. [Library Amplification](#5-library-amplification) 
   6. [Post-ligation Cleanup](#6-post-ligation-cleanup)
   7. [Size Selection](#7-size-selection)    
-    7a. [Uppercut](#uppercut)    
-    7b. [Lowercut](#lowercut)    
+    7a. [Uppercut](#7a-uppercut)    
+    7b. [Lowercut](#7b-lowercut)    
   8. [Quality Check](#qc)    
 
 ## 0. Prepare DNA
@@ -240,7 +240,7 @@ The KAPA Library Amplification Primer Mix (10X) is designed to eliminate or dela
 ## 7. Size Selection
 
 
-### 7.1 Uppercut
+### 7.a Uppercut
 
 We are first going to remove any large fragments (>600 bp)
 
@@ -263,7 +263,7 @@ We are first going to remove any large fragments (>600 bp)
 
 - [ ] 7.1.5 Carefully remove and **KEEP THE SUPERNATANT and discard the beads**
 
-### 7.2 Lowercut
+### 7.b Lowercut
 
 - [ ] 7.2.1 In the same plate/tube(s), perform a 0.76X beadbased cleanup by combining the following:
 
