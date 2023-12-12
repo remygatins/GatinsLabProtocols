@@ -10,11 +10,12 @@ Steps:
   2. [End Repair and A-tailing](#2-end-repair-and-a-tailing).     
   3. [Adapter Ligation](#3-adapter-ligation)  
   4. [Post Ligation Cleanup](#4-post-ligation-cleanup)  
-  5. [Library Amplification](#5-library-amplification)  
-  6. [Size Selection](#6-size-selection)    
-    6a. [Uppercut](#uppercut)    
-    6b. [Lowercut](#lowercut)    
-  7. [Quality Check](#qc)    
+  5. [Library Amplification](#5-library-amplification) 
+  6. [Post-ligation Cleanup](#6-post-ligation-cleanup)
+  7. [Size Selection](#7-size-selection)    
+    7a. [Uppercut](#uppercut)    
+    7b. [Lowercut](#lowercut)    
+  8. [Quality Check](#qc)    
 
 ## 0. Prepare DNA
 
@@ -191,7 +192,7 @@ The KAPA Library Amplification Primer Mix (10X) is designed to eliminate or dela
 
 - [ ] 5.4 Proceed directly to Post-amplification Cleanup (step 6).
 
-## 6. Size Selection
+## 6. Post-ligation Cleanup
 **IMPORTANT- Only do this the first time and check your library. Otherwise we will skip and go directly to the size selection step.**
 
 - [ ] 6.1 In the same plate/tube(s), perform a 1X beadbased cleanup by combining the following:
