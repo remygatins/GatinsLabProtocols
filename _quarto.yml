@@ -11,10 +11,6 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - text: "People"
-        file: people.qmd
-      - text: "Research"
-        file: research.qmd
       - text: "Molecular Protocols"
         file: molecularprotocols.qmd
     right:
@@ -27,6 +23,8 @@ website:
     - title: "Molecular Protocols"
       style: "floating"
       background: light
+      collapse-level: 1
+    - section: "Molecular Protocols"
       contents:
         - molecularprotocols.qmd
         - molec_illuminalibraryprep.qmd
