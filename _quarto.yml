@@ -29,6 +29,10 @@ website:
         - molecularprotocols.qmd
         - molec_illuminalibraryprep.qmd
         - molec_dnaextraction.qmd
+    - section: "General Protocols"
+      contents:
+        - protocol_stableisotope.qmd
+
 
 
 format:
