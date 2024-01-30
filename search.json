@@ -1,5 +1,76 @@
 [
   {
+    "objectID": "molecularprotocols.html",
+    "href": "molecularprotocols.html",
+    "title": "Molecular Protocols",
+    "section": "",
+    "text": "Molecular Protocols\nUnder construction",
+    "crumbs": [
+      "Home",
+      "Molecular Protocols"
+    ]
+  },
+  {
+    "objectID": "people.html#annabell-hughes",
+    "href": "people.html#annabell-hughes",
+    "title": "People",
+    "section": "Annabell Hughes",
+    "text": "Annabell Hughes"
+  },
+  {
+    "objectID": "people.html#future-students",
+    "href": "people.html#future-students",
+    "title": "People",
+    "section": "Future students",
+    "text": "Future students"
+  },
+  {
+    "objectID": "people.html#postdocs",
+    "href": "people.html#postdocs",
+    "title": "People",
+    "section": "Postdocs",
+    "text": "Postdocs"
+  },
+  {
+    "objectID": "research.html#hybridization",
+    "href": "research.html#hybridization",
+    "title": "Research",
+    "section": "Hybridization",
+    "text": "Hybridization"
+  },
+  {
+    "objectID": "research.html#range-expansions",
+    "href": "research.html#range-expansions",
+    "title": "Research",
+    "section": "Range Expansions",
+    "text": "Range Expansions"
+  },
+  {
+    "objectID": "molec_dnaextraction.html",
+    "href": "molec_dnaextraction.html",
+    "title": "Qiagen DNeasy extraction",
+    "section": "",
+    "text": "Qiagen DNeasy extraction",
+    "crumbs": [
+      "Home",
+      "Qiagen DNeasy extraction"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gatins Lab",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nTesting"
+  },
+  {
+    "objectID": "protocol_stableisotope.html",
+    "href": "protocol_stableisotope.html",
+    "title": "Stable Isotope Protocol",
+    "section": "",
+    "text": "Stable Isotope Protocol\nin construction"
+  },
+  {
     "objectID": "molec_illuminalibraryprep.html",
     "href": "molec_illuminalibraryprep.html",
     "title": "Illumina Library Prep",
@@ -110,81 +181,10 @@
     ]
   },
   {
-    "objectID": "research.html#hybridization",
-    "href": "research.html#hybridization",
-    "title": "Research",
-    "section": "Hybridization",
-    "text": "Hybridization"
-  },
-  {
-    "objectID": "research.html#range-expansions",
-    "href": "research.html#range-expansions",
-    "title": "Research",
-    "section": "Range Expansions",
-    "text": "Range Expansions"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gatins Lab",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nTesting"
-  },
-  {
-    "objectID": "protocol_stableisotope.html",
-    "href": "protocol_stableisotope.html",
-    "title": "Stable Isotope Protocol",
-    "section": "",
-    "text": "Stable Isotope Protocol\nin construction"
-  },
-  {
-    "objectID": "people.html#annabell-hughes",
-    "href": "people.html#annabell-hughes",
-    "title": "People",
-    "section": "Annabell Hughes",
-    "text": "Annabell Hughes"
-  },
-  {
-    "objectID": "people.html#future-students",
-    "href": "people.html#future-students",
-    "title": "People",
-    "section": "Future students",
-    "text": "Future students"
-  },
-  {
-    "objectID": "people.html#postdocs",
-    "href": "people.html#postdocs",
-    "title": "People",
-    "section": "Postdocs",
-    "text": "Postdocs"
-  },
-  {
-    "objectID": "molecularprotocols.html",
-    "href": "molecularprotocols.html",
-    "title": "Molecular Protocols",
-    "section": "",
-    "text": "Molecular Protocols\nUnder construction",
-    "crumbs": [
-      "Home",
-      "Molecular Protocols"
-    ]
-  },
-  {
-    "objectID": "molec_dnaextraction.html",
-    "href": "molec_dnaextraction.html",
-    "title": "Qiagen DNeasy extraction",
-    "section": "",
-    "text": "Qiagen DNeasy extraction",
-    "crumbs": [
-      "Home",
-      "Qiagen DNeasy extraction"
-    ]
   }
 ]
