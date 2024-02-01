@@ -1,12 +1,18 @@
 [
   {
+    "objectID": "molec_DNA_beadcleanup.html",
+    "href": "molec_DNA_beadcleanup.html",
+    "title": "DNA bead cleanup",
+    "section": "",
+    "text": "DNA bead cleanup"
+  },
+  {
     "objectID": "molecularprotocols.html",
     "href": "molecularprotocols.html",
     "title": "Molecular Protocols",
     "section": "",
     "text": "Molecular Protocols\nUnder construction",
     "crumbs": [
-      "Molecular Protocols",
       "Molecular Protocols"
     ]
   },
@@ -61,6 +67,16 @@
     "crumbs": [
       "Molecular Protocols",
       "Qiagen DNeasy extraction"
+    ]
+  },
+  {
+    "objectID": "generalprotocols.html",
+    "href": "generalprotocols.html",
+    "title": "General Protocols",
+    "section": "",
+    "text": "General Protocols\nHere is where all General Lab Protocols will reside. Under Construction",
+    "crumbs": [
+      "General Protocols"
     ]
   },
   {
