@@ -11,6 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - people.qmd
       - text: "Molecular Protocols"
         file: molecularprotocols.qmd
       - text: "General Protocols"
@@ -27,14 +28,16 @@ website:
       background: light
       collapse-level: 1
       contents:
-         - molecularprotocols.qmd
+        - molecularprotocols.qmd
         - molec_illuminalibraryprep.qmd
         - molec_dnaextraction.qmd
+        - molec_DNA_beadcleanup.qmd
+        -
             
     - title: "General Protocols"
       contents: 
-          - generalprotocols.qmd
-          - protocol_stableisotope.qmd
+        - generalprotocols.qmd
+        - protocol_stableisotope.qmd
 
 
 
