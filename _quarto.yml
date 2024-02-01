@@ -29,7 +29,7 @@ website:
       collapse-level: 1
       contents:
         - section: "Molecular Protocols"
-          content:
+          contents:
             - molecularprotocols.qmd
             - molec_illuminalibraryprep.qmd
             - molec_dnaextraction.qmd
