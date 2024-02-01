@@ -28,15 +28,19 @@ website:
       background: light
       collapse-level: 1
       contents:
-        - molecularprotocols.qmd
-        - molec_illuminalibraryprep.qmd
-        - molec_dnaextraction.qmd
-        - molec_DNA_beadcleanup.qmd
+        - section: "Molecular Protocols"
+          content:
+            - molecularprotocols.qmd
+            - molec_illuminalibraryprep.qmd
+            - molec_dnaextraction.qmd
+            - molec_DNA_beadcleanup.qmd
             
     - title: "General Protocols"
-      contents: 
-        - generalprotocols.qmd
-        - protocol_stableisotope.qmd
+    contents:
+      - section: "General Protocols"
+        contents: 
+          - generalprotocols.qmd
+          - protocol_stableisotope.qmd
 
 
 
