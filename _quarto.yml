@@ -36,11 +36,11 @@ website:
             - molec_DNA_beadcleanup.qmd
             
     - title: "General Protocols"
-    contents:
-      - section: "General Protocols"
-        contents: 
-          - generalprotocols.qmd
-          - protocol_stableisotope.qmd
+      contents:
+        - section: "General Protocols"
+          contents: 
+            - generalprotocols.qmd
+            - protocol_stableisotope.qmd
 
 
 
