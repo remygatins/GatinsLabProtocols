@@ -3,7 +3,3 @@ title: "About"
 ---
 
 For more information about the Gatins Lab, visit <https://www.remygatins.com/>.
-
-```{r}
-1 + 1
-```
