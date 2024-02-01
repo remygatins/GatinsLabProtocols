@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "molec_DNA_beadcleanup.html",
-    "href": "molec_DNA_beadcleanup.html",
-    "title": "DNA bead cleanup",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "DNA bead cleanup"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "molecularprotocols.html",
@@ -223,10 +223,14 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "molec_DNA_beadcleanup.html",
+    "href": "molec_DNA_beadcleanup.html",
+    "title": "DNA bead cleanup",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "DNA bead cleanup",
+    "crumbs": [
+      "Molecular Protocols",
+      "DNA bead cleanup"
+    ]
   }
 ]
