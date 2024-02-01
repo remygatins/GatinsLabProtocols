@@ -26,16 +26,13 @@ website:
       style: "floating"
       background: light
       collapse-level: 1
-      contents:
-        - section: "Molecular Protocols"
-          contents:
-            - molecularprotocols.qmd
-            - molec_illuminalibraryprep.qmd
-            - molec_dnaextraction.qmd
+        contents:
+          - molecularprotocols.qmd
+          - molec_illuminalibraryprep.qmd
+          - molec_dnaextraction.qmd
+            
     - title: "General Protocols"
       contents: 
-        - section: "General Protocols"
-        contents:
           - generalprotocols.qmd
           - protocol_stableisotope.qmd
 
