@@ -2,12 +2,8 @@
 title: "Gatins Lab"
 ---
 ![](https://lh6.googleusercontent.com/96lM3CcoeqgqAOzLnYoEwvZXAm2Q-UB_g4tMyPkQFKydSQn7z7QttqAwREjQaIqy5gWN8-jj24rlm-VwfdDUYi4h_zuERsUUmBEnIJv_ZrZltl5bmiv91FQl6ASEmr_6kw=w1280)
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
-
-Testing
