@@ -13,6 +13,8 @@ website:
       - about.qmd
       - text: "Molecular Protocols"
         file: molecularprotocols.qmd
+      - text: "General Protocols"
+        file: generalprotocols.qmd
     right:
       - icon: github
         href: https://github.com/remygatins
@@ -30,9 +32,10 @@ website:
             - molecularprotocols.qmd
             - molec_illuminalibraryprep.qmd
             - molec_dnaextraction.qmd
-        - section: "General Protocols"
-          contents:
-            - protocol_stableisotope.qmd
+    - title: "General Protocols"
+      contents:
+        - generalprotocols.qmd
+        - protocol_stableisotope.qmd
 
 
 
