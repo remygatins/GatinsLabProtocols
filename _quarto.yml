@@ -14,10 +14,10 @@ website:
 #      - people.qmd
       - text: "Welcome"
         file: welcome.qmd
-      - text: "General Protocols"
+      - text: "Lab Protocols"
         file: generalprotocols.qmd
-      - text: "Molecular Protocols"
-        file: molecularprotocols.qmd
+      - text: "Field Protocols"
+        file: fieldprotocols.qmd
 
     right:
       - icon: github
@@ -36,9 +36,8 @@ website:
             - welcome.qmd
             - welcome_gettingstarted.qmd
             - protocol_stableisotope.qmd
-
             
-    - title: "General Protocols"
+    - title: "Lab Protocols"
       style: "floating"
       background: light
       collapse-level: 1
@@ -49,25 +48,28 @@ website:
             - protocol_stableisotope.qmd
         - section: "Equipment"
           contents:
-            - general_autoclave.qmd
-    
-    - title: "Molecular Protocols"
-      style: "floating"
-      background: light
-      collapse-level: 1
-      contents:
+            - general_equip_autoclave.qmd
+            - general_equip_tapestation.qmd
+            - general_equip_qubit.qmd
         - section: "Molecular Protocols"
           contents:
             - molecularprotocols.qmd
             - molec_illuminalibraryprep.qmd
             - molec_dnaextraction.qmd
             - molec_DNA_beadcleanup.qmd
-        - section: "Molecular Equipment"
+    
+    - title: "Field Protocols"
+      style: "floating"
+      background: light
+      collapse-level: 1
+      contents:
+        - section: "Permits"
+          contents:
+            - fieldprotocols.qmd
+
+        - section: "Diving"
           contents: 
-            - molec_tapestation.qmd
-            - molec_qubit.qmd
-
-
+            - field_diving_general.qmd
 
 format:
   html:
