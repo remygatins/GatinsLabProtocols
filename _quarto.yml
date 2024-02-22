@@ -33,7 +33,7 @@ website:
       contents:
         - section: "General Protocols"
           contents: 
-#            - generalprotocols.qmd
+            - generalprotocols.qmd
             - protocol_stableisotope.qmd
         - section: "Molecular Protocols"
           contents:
