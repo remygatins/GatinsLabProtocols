@@ -26,7 +26,19 @@ website:
         href: https://twitter.com/remygatins?lang=en
         
   sidebar:
-    - title: "Molecular Protocols"
+    - title: "Welcome"
+      style: "floating"
+      background: light
+      collapse-level: 1
+      contents:
+        - section: "Welcome"
+          contents: 
+            - welcome.qmd
+            - welcome_gettingstarted.qmd
+            - protocol_stableisotope.qmd
+
+            
+    - title: "General Protocols"
       style: "floating"
       background: light
       collapse-level: 1
@@ -35,19 +47,25 @@ website:
           contents: 
             - generalprotocols.qmd
             - protocol_stableisotope.qmd
+        - section: "Equipment"
+          contents:
+            - general_autoclave.qmd
+    
+    - title: "Molecular Protocols"
+      style: "floating"
+      background: light
+      collapse-level: 1
+      contents:
         - section: "Molecular Protocols"
           contents:
-#            - molecularprotocols.qmd
+            - molecularprotocols.qmd
             - molec_illuminalibraryprep.qmd
             - molec_dnaextraction.qmd
             - molec_DNA_beadcleanup.qmd
-            
-#    - title: "General Protocols"
-#      contents:
-#        - section: "General Protocols"
-#          contents: 
-#            - generalprotocols.qmd
-#            - protocol_stableisotope.qmd
+        - section: "Molecular Equipment"
+          contents: 
+            - molec_tapestation.qmd
+            - molec_qubit.qmd
 
 
 
