@@ -7,15 +7,17 @@ website:
   navbar:
     background: primary
     search: true
-    left:
-//      - href: index.qmd
-//        text: Home
-      - about.qmd
-      - people.qmd
-      - text: "General Protocols"
-        file: generalprotocols.qmd
-      - text: "Molecular Protocols"
-        file: molecularprotocols.qmd
+#    left:
+#      - href: index.qmd
+#        text: Home
+#      - about.qmd
+#      - people.qmd
+#      - text: "Welcome"
+#        file: generalprotocols.qmd
+#      - text: "General Protocols"
+#        file: generalprotocols.qmd
+#      - text: "Molecular Protocols"
+#        file: molecularprotocols.qmd
 
     right:
       - icon: github
@@ -29,19 +31,23 @@ website:
       background: light
       collapse-level: 1
       contents:
+        - section: "General Protocols"
+          contents: 
+#            - generalprotocols.qmd
+            - protocol_stableisotope.qmd
         - section: "Molecular Protocols"
           contents:
-            - molecularprotocols.qmd
+#            - molecularprotocols.qmd
             - molec_illuminalibraryprep.qmd
             - molec_dnaextraction.qmd
             - molec_DNA_beadcleanup.qmd
             
-    - title: "General Protocols"
-      contents:
-        - section: "General Protocols"
-          contents: 
-            - generalprotocols.qmd
-            - protocol_stableisotope.qmd
+#    - title: "General Protocols"
+#      contents:
+#        - section: "General Protocols"
+#          contents: 
+#            - generalprotocols.qmd
+#            - protocol_stableisotope.qmd
 
 
 
