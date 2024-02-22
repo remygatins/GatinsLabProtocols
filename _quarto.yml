@@ -7,9 +7,9 @@ website:
   navbar:
     background: primary
     search: true
-#    left:
-#      - href: index.qmd
-#        text: Home
+    left:
+      - href: index.qmd
+        text: Home
 #      - about.qmd
 #      - people.qmd
 #      - text: "Welcome"
