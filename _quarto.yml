@@ -8,14 +8,15 @@ website:
     background: primary
     search: true
     left:
-      - href: index.qmd
-        text: Home
+//      - href: index.qmd
+//        text: Home
       - about.qmd
       - people.qmd
-      - text: "Molecular Protocols"
-        file: molecularprotocols.qmd
       - text: "General Protocols"
         file: generalprotocols.qmd
+      - text: "Molecular Protocols"
+        file: molecularprotocols.qmd
+
     right:
       - icon: github
         href: https://github.com/remygatins
