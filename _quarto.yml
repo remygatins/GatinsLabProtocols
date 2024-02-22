@@ -12,12 +12,12 @@ website:
         text: Home
 #      - about.qmd
 #      - people.qmd
-#      - text: "Welcome"
-#        file: generalprotocols.qmd
-#      - text: "General Protocols"
-#        file: generalprotocols.qmd
-#      - text: "Molecular Protocols"
-#        file: molecularprotocols.qmd
+      - text: "Welcome"
+        file: welcome.qmd
+      - text: "General Protocols"
+        file: generalprotocols.qmd
+      - text: "Molecular Protocols"
+        file: molecularprotocols.qmd
 
     right:
       - icon: github
