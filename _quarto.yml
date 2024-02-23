@@ -15,9 +15,11 @@ website:
       - text: "Welcome"
         file: welcome.qmd
       - text: "Lab Protocols"
-        file: generalprotocols.qmd
+        file: lab_generalprotocols.qmd
       - text: "Field Protocols"
         file: fieldprotocols.qmd
+      - text: "Professional Development"
+        file: prof_development.qmd
 
     right:
       - icon: github
@@ -35,7 +37,6 @@ website:
           contents: 
             - welcome.qmd
             - welcome_gettingstarted.qmd
-            - protocol_stableisotope.qmd
             
     - title: "Lab Protocols"
       style: "floating"
@@ -44,19 +45,18 @@ website:
       contents:
         - section: "General Protocols"
           contents: 
-            - generalprotocols.qmd
-            - protocol_stableisotope.qmd
+            - lab_generalprotocols.qmd
+            - lab_gen_stableisotope.qmd
         - section: "Equipment"
           contents:
-            - general_equip_autoclave.qmd
-            - general_equip_tapestation.qmd
-            - general_equip_qubit.qmd
+            - lab_equip_autoclave.qmd
+            - lab_equip_tapestation.qmd
+            - lab_equip_qubit.qmd
         - section: "Molecular Protocols"
           contents:
-            - molecularprotocols.qmd
-            - molec_illuminalibraryprep.qmd
-            - molec_dnaextraction.qmd
-            - molec_DNA_beadcleanup.qmd
+            - lab_molec_illuminalibraryprep.qmd
+            - lab_molec_dnaextraction.qmd
+            - lab_molec_DNA_beadcleanup.qmd
     
     - title: "Field Protocols"
       style: "floating"
@@ -66,10 +66,22 @@ website:
         - section: "Permits"
           contents:
             - fieldprotocols.qmd
-
+        - section: "Permits"
+          contents:
+            - field_permits_US.qmd
         - section: "Diving"
           contents: 
             - field_diving_general.qmd
+
+    - title: "Professional Development"
+      style: "floating"
+      background: light
+      collapse-level: 1
+      contents:
+        - section: "Professional Development"
+          contents:
+            - prof_development.qmd
+
 
 format:
   html:
