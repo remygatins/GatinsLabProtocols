@@ -55,36 +55,11 @@
     "text": "Professional Development"
   },
   {
-    "objectID": "molecularprotocols.html",
-    "href": "molecularprotocols.html",
-    "title": "Molecular Protocols",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gatins Lab",
     "section": "",
-    "text": "Molecular Protocols\nUnder construction"
-  },
-  {
-    "objectID": "welcome.html",
-    "href": "welcome.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Welcome",
-    "crumbs": [
-      "Welcome",
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "For more information about the Gatins Lab, visit https://www.remygatins.com/."
-  },
-  {
-    "objectID": "molec_dnaextraction.html",
-    "href": "molec_dnaextraction.html",
-    "title": "Qiagen DNeasy extraction",
-    "section": "",
-    "text": "Qiagen DNeasy extraction"
+    "text": "format: html: backgroundcolor: blue\n&lt;src=“https://lh6.googleusercontent.com/96lM3CcoeqgqAOzLnYoEwvZXAm2Q-UB_g4tMyPkQFKydSQn7z7QttqAwREjQaIqy5gWN8-jj24rlm-VwfdDUYi4h_zuERsUUmBEnIJv_ZrZltl5bmiv91FQl6ASEmr_6kw=w1280”&gt;\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "research.html#hybridization",
@@ -101,39 +76,84 @@
     "text": "Range Expansions"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gatins Lab",
-    "section": "",
-    "text": "format: html: backgroundcolor: blue\n&lt;src=“https://lh6.googleusercontent.com/96lM3CcoeqgqAOzLnYoEwvZXAm2Q-UB_g4tMyPkQFKydSQn7z7QttqAwREjQaIqy5gWN8-jj24rlm-VwfdDUYi4h_zuERsUUmBEnIJv_ZrZltl5bmiv91FQl6ASEmr_6kw=w1280”&gt;\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "molec_DNA_beadcleanup.html",
-    "href": "molec_DNA_beadcleanup.html",
+    "objectID": "lab_molec_DNA_beadcleanup.html",
+    "href": "lab_molec_DNA_beadcleanup.html",
     "title": "3x Bead Cleanup for Genomic DNA",
     "section": "",
-    "text": "KS8001 KAPA cleanup bead protocol\n\n\n\n\nTake beads out of refrigerator and allow them to come to room temperature before beginning. Vortex well.\nPrepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.\nPrepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).\n\n\n\n\n\nCombine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\nIncubate tubes/plate for 15 minutes to allow beads to bind to DNA.\nPlace tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\nDiscard supernatant.\nOn magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume.\nIncubate for &gt;30 seconds, then remove and discard supernatant.\nAdd another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\nDry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\nRemove plate from magnet.\nResuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL.\nAllow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\nPlace tubes/plate back on magnet.\nTransfer your desired final sample volume to a final labeled set of tubes/plate.\nQuantify!"
+    "text": "KS8001 KAPA cleanup bead protocol\n\n\n\n\nTake beads out of refrigerator and allow them to come to room temperature before beginning. Vortex well.\nPrepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.\nPrepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).\n\n\n\n\n\nCombine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\nIncubate tubes/plate for 15 minutes to allow beads to bind to DNA.\nPlace tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\nDiscard supernatant.\nOn magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume.\nIncubate for &gt;30 seconds, then remove and discard supernatant.\nAdd another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\nDry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\nRemove plate from magnet.\nResuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL.\nAllow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\nPlace tubes/plate back on magnet.\nTransfer your desired final sample volume to a final labeled set of tubes/plate.\nQuantify!",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "3x Bead Cleanup for Genomic DNA"
+    ]
   },
   {
-    "objectID": "molec_DNA_beadcleanup.html#kapa-pure-beads",
-    "href": "molec_DNA_beadcleanup.html#kapa-pure-beads",
+    "objectID": "lab_molec_DNA_beadcleanup.html#kapa-pure-beads",
+    "href": "lab_molec_DNA_beadcleanup.html#kapa-pure-beads",
     "title": "3x Bead Cleanup for Genomic DNA",
     "section": "",
-    "text": "KS8001 KAPA cleanup bead protocol"
+    "text": "KS8001 KAPA cleanup bead protocol",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "3x Bead Cleanup for Genomic DNA"
+    ]
   },
   {
-    "objectID": "molec_DNA_beadcleanup.html#preparation",
-    "href": "molec_DNA_beadcleanup.html#preparation",
+    "objectID": "lab_molec_DNA_beadcleanup.html#preparation",
+    "href": "lab_molec_DNA_beadcleanup.html#preparation",
     "title": "3x Bead Cleanup for Genomic DNA",
     "section": "",
-    "text": "Take beads out of refrigerator and allow them to come to room temperature before beginning. Vortex well.\nPrepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.\nPrepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block)."
+    "text": "Take beads out of refrigerator and allow them to come to room temperature before beginning. Vortex well.\nPrepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.\nPrepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "3x Bead Cleanup for Genomic DNA"
+    ]
   },
   {
-    "objectID": "molec_DNA_beadcleanup.html#protocol",
-    "href": "molec_DNA_beadcleanup.html#protocol",
+    "objectID": "lab_molec_DNA_beadcleanup.html#protocol",
+    "href": "lab_molec_DNA_beadcleanup.html#protocol",
     "title": "3x Bead Cleanup for Genomic DNA",
     "section": "",
-    "text": "Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\nIncubate tubes/plate for 15 minutes to allow beads to bind to DNA.\nPlace tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\nDiscard supernatant.\nOn magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume.\nIncubate for &gt;30 seconds, then remove and discard supernatant.\nAdd another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\nDry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\nRemove plate from magnet.\nResuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL.\nAllow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\nPlace tubes/plate back on magnet.\nTransfer your desired final sample volume to a final labeled set of tubes/plate.\nQuantify!"
+    "text": "Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\nIncubate tubes/plate for 15 minutes to allow beads to bind to DNA.\nPlace tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\nDiscard supernatant.\nOn magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume.\nIncubate for &gt;30 seconds, then remove and discard supernatant.\nAdd another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\nDry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\nRemove plate from magnet.\nResuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL.\nAllow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\nPlace tubes/plate back on magnet.\nTransfer your desired final sample volume to a final labeled set of tubes/plate.\nQuantify!",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "3x Bead Cleanup for Genomic DNA"
+    ]
+  },
+  {
+    "objectID": "molec_dnaextraction.html",
+    "href": "molec_dnaextraction.html",
+    "title": "Qiagen DNeasy extraction",
+    "section": "",
+    "text": "Qiagen DNeasy extraction"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "For more information about the Gatins Lab, visit https://www.remygatins.com/."
+  },
+  {
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome",
+    "crumbs": [
+      "Welcome",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "molecularprotocols.html",
+    "href": "molecularprotocols.html",
+    "title": "Molecular Protocols",
+    "section": "",
+    "text": "Molecular Protocols\nUnder construction"
   },
   {
     "objectID": "molec_illuminalibraryprep.html",
