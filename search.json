@@ -117,6 +117,17 @@
     "text": "For more information about the Gatins Lab, visit https://www.remygatins.com/."
   },
   {
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome",
+    "crumbs": [
+      "Welcome",
+      "Welcome"
+    ]
+  },
+  {
     "objectID": "molecularprotocols.html",
     "href": "molecularprotocols.html",
     "title": "Molecular Protocols",
