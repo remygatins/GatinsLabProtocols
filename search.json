@@ -54,6 +54,66 @@
     "text": "Postdocs"
   },
   {
+    "objectID": "prof_devemolpment.html",
+    "href": "prof_devemolpment.html",
+    "title": "Professional Development",
+    "section": "",
+    "text": "Professional Development"
+  },
+  {
+    "objectID": "molecularprotocols.html",
+    "href": "molecularprotocols.html",
+    "title": "Molecular Protocols",
+    "section": "",
+    "text": "Molecular Protocols\nUnder construction"
+  },
+  {
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome",
+    "crumbs": [
+      "Welcome",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "For more information about the Gatins Lab, visit https://www.remygatins.com/."
+  },
+  {
+    "objectID": "molec_dnaextraction.html",
+    "href": "molec_dnaextraction.html",
+    "title": "Qiagen DNeasy extraction",
+    "section": "",
+    "text": "Qiagen DNeasy extraction"
+  },
+  {
+    "objectID": "research.html#hybridization",
+    "href": "research.html#hybridization",
+    "title": "Research",
+    "section": "Hybridization",
+    "text": "Hybridization"
+  },
+  {
+    "objectID": "research.html#range-expansions",
+    "href": "research.html#range-expansions",
+    "title": "Research",
+    "section": "Range Expansions",
+    "text": "Range Expansions"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gatins Lab",
+    "section": "",
+    "text": "format: html: backgroundcolor: blue\n&lt;src=“https://lh6.googleusercontent.com/96lM3CcoeqgqAOzLnYoEwvZXAm2Q-UB_g4tMyPkQFKydSQn7z7QttqAwREjQaIqy5gWN8-jj24rlm-VwfdDUYi4h_zuERsUUmBEnIJv_ZrZltl5bmiv91FQl6ASEmr_6kw=w1280”&gt;\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
     "objectID": "molec_DNA_beadcleanup.html",
     "href": "molec_DNA_beadcleanup.html",
     "title": "3x Bead Cleanup for Genomic DNA",
@@ -80,59 +140,6 @@
     "title": "3x Bead Cleanup for Genomic DNA",
     "section": "",
     "text": "Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\nIncubate tubes/plate for 15 minutes to allow beads to bind to DNA.\nPlace tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\nDiscard supernatant.\nOn magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume.\nIncubate for &gt;30 seconds, then remove and discard supernatant.\nAdd another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\nDry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\nRemove plate from magnet.\nResuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL.\nAllow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\nPlace tubes/plate back on magnet.\nTransfer your desired final sample volume to a final labeled set of tubes/plate.\nQuantify!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gatins Lab",
-    "section": "",
-    "text": "format: html: backgroundcolor: blue\n&lt;src=“https://lh6.googleusercontent.com/96lM3CcoeqgqAOzLnYoEwvZXAm2Q-UB_g4tMyPkQFKydSQn7z7QttqAwREjQaIqy5gWN8-jj24rlm-VwfdDUYi4h_zuERsUUmBEnIJv_ZrZltl5bmiv91FQl6ASEmr_6kw=w1280”&gt;\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "research.html#hybridization",
-    "href": "research.html#hybridization",
-    "title": "Research",
-    "section": "Hybridization",
-    "text": "Hybridization"
-  },
-  {
-    "objectID": "research.html#range-expansions",
-    "href": "research.html#range-expansions",
-    "title": "Research",
-    "section": "Range Expansions",
-    "text": "Range Expansions"
-  },
-  {
-    "objectID": "molec_dnaextraction.html",
-    "href": "molec_dnaextraction.html",
-    "title": "Qiagen DNeasy extraction",
-    "section": "",
-    "text": "Qiagen DNeasy extraction"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "For more information about the Gatins Lab, visit https://www.remygatins.com/."
-  },
-  {
-    "objectID": "welcome.html",
-    "href": "welcome.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Welcome",
-    "crumbs": [
-      "Welcome",
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "molecularprotocols.html",
-    "href": "molecularprotocols.html",
-    "title": "Molecular Protocols",
-    "section": "",
-    "text": "Molecular Protocols\nUnder construction"
   },
   {
     "objectID": "molec_illuminalibraryprep.html",
