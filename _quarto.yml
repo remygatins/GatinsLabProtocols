@@ -63,7 +63,7 @@ website:
       background: light
       collapse-level: 1
       contents:
-        - section: "Permits"
+        - section: "Fieldwork general"
           contents:
             - fieldprotocols.qmd
         - section: "Permits"
