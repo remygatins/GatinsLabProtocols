@@ -9,11 +9,11 @@ website:
     search: true
     left:
       - href: index.qmd
-        text: Home
+        text: Welcome
 #      - about.qmd
 #      - people.qmd
-      - text: "Welcome"
-        file: welcome.qmd
+#      - text: "Welcome"
+#        file: welcome.qmd
       - text: "Lab Protocols"
         file: lab_generalprotocols.qmd
       - text: "Field Protocols"
@@ -35,7 +35,8 @@ website:
       contents:
         - section: "Welcome"
           contents: 
-            - welcome.qmd
+            - index.qmd
+#           - welcome.qmd
             - welcome_gettingstarted.qmd
             
     - title: "Lab Protocols"
