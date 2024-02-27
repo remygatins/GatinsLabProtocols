@@ -71,7 +71,11 @@
     "href": "index.html",
     "title": "Gatins Lab",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Welcome",
+      "Gatins Lab"
+    ]
   },
   {
     "objectID": "research.html#hybridization",
@@ -171,11 +175,7 @@
     "href": "welcome.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome",
-    "crumbs": [
-      "Welcome",
-      "Welcome"
-    ]
+    "text": "Welcome"
   },
   {
     "objectID": "molecularprotocols.html",
