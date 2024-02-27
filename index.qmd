@@ -1,6 +1,9 @@
+# Welcome
 
 ![](pictures/Gatins_Lab_logo_dark_small.png){fig-align="center" width="600"}
 
+
+---------------------------------------------------------------------------------
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
