@@ -29,7 +29,7 @@ website:
         
   sidebar:
     - title: "Welcome"
-      style: "floating"
+      style: "docked"
       background: light
       collapse-level: 1
       contents:
