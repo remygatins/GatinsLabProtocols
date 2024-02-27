@@ -2,7 +2,9 @@
 title: "Gatins Lab"
 ---
 
-<img width="300" alt="" src=pictures/Gatins_Lab_logo_dark_small.png>
+<img width="600" src=pictures/Gatins_Lab_logo_dark_small.png>
+
+![](pictures/Gatins_Lab_logo_dark_small.png){fig-align="center" width="600"}
 
 This is a Quarto website.
 
