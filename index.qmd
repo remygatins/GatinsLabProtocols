@@ -1,8 +1,3 @@
----
-title: "Gatins Lab"
----
-
-<img width="600" src=pictures/Gatins_Lab_logo_dark_small.png>
 
 ![](pictures/Gatins_Lab_logo_dark_small.png){fig-align="center" width="600"}
 
