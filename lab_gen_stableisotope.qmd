@@ -41,19 +41,19 @@
 - Once muffin wells in a tray are full, cover the whole tray with a clean piece of aluminum foil to prevent dust / rust from getting in samples
 
 
-![](muscle_tray.jpg)
+![](pictures/muscle_tray.jpg)
 
 
 3. **Allow to dry in a drying oven at 60ºC for a minimum of 48 hours.** (in Grabowski lab)
 
-<img width="300" alt="" src=muscle.png>
+<img width="300" alt="" src="pictures/muscle.png">
 
 -	Check that samples are dry by weighing a couple of samples on a microbalance (3 digits is fine given sample weights are < 1.1mg) about an hour apart
 -	Clean forceps between samples as above (rinse with DI and wipe with clean kimwipe)
 
 4. **Grind each tissue sample with a mortar and pestle**
 
-<img width="403" alt="" src=pictures/grind_muscle.png>
+<img width="403" alt="" src="pictures/grind_muscle.png">
 
 - CLEAN mortar and pestle, forceps and other instruments (including spatulas) between each sample (rinse with DI and 70% ethanol and wipe with clean kimwipe)
 - Transfer the sample with a clean spatula
@@ -66,11 +66,11 @@
 - Place a 4x6mm tin capsule on the scale and tare (zero) the scale. The microbalance we use does not tare as fast as the Lotterhos Lab scale; be patient. Also recommended to stay still and keep your hands off the counter while it tares. 
 
 
-<img width="300" alt="" src="tin.png">
+<img width="300" alt="" src="pictures/tin.png">
 
 - Transfer the sample from the micro-centrifuge
 
-<img width="300" alt="" src="ground_sample.png">
+<img width="300" alt="" src="pictures/ground_sample.png">
 
 
 - Using a small metal spatula, transfer 0.8 - 1.2 mg (range specified by BU, see note below) of ground animal tissue from the micro-centrifuge tube into the tin capsule and record weight on data sheet.
@@ -95,7 +95,7 @@ Tutorial on how to fold the tin capsules:
 
 8. **Put both the cell plates and trays of micro-centrifuge tubes containing remaining tissue back in a closed desiccation chamber until you are ready to send them to be processed.**
 
-![](dessication_chamber.png)
+![](pictures/dessication_chamber.png)
 
 - Label the plate with:
   1.	PI first/last name 
