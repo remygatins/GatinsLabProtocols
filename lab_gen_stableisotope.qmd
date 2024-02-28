@@ -1,5 +1,7 @@
 # Stable Isotope Protocol
 
+[Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_gen_stableisotope.qmd)
+
 ## Materials
 
 - [x] Microbalance (Lotterhos Lab)
