@@ -28,7 +28,6 @@ website:
         href: https://twitter.com/remygatins?lang=en
         
   sidebar:
-#      logo: pictures/Gatins_Lab_logo_dark_small.png
     - title: "Welcome"
       style: "docked"
       background: light
