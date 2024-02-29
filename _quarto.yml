@@ -61,7 +61,6 @@ website:
             - lab_molec_DNA_beadcleanup.qmd
     
     - title: "Field Protocols"
-      logo: pictures/Gatins_Lab_logo_dark_small.png
       style: "floating"
       background: light
       collapse-level: 1
