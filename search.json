@@ -73,29 +73,66 @@
     "text": "Professional Development"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
+    "objectID": "field_permits_US.html",
+    "href": "field_permits_US.html",
+    "title": "US Field Permits",
     "section": "",
-    "text": "Welcome\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "text": "under construction",
     "crumbs": [
-      "Welcome",
-      "Welcome"
+      "Field Protocols",
+      "Permits",
+      "US Field Permits"
     ]
   },
   {
-    "objectID": "research.html#hybridization",
-    "href": "research.html#hybridization",
-    "title": "Research",
-    "section": "Hybridization",
-    "text": "Hybridization"
+    "objectID": "field_permits_US.html#florida",
+    "href": "field_permits_US.html#florida",
+    "title": "US Field Permits",
+    "section": "",
+    "text": "under construction",
+    "crumbs": [
+      "Field Protocols",
+      "Permits",
+      "US Field Permits"
+    ]
   },
   {
-    "objectID": "research.html#range-expansions",
-    "href": "research.html#range-expansions",
-    "title": "Research",
-    "section": "Range Expansions",
-    "text": "Range Expansions"
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "For more information about the Gatins Lab, visit https://www.remygatins.com/."
+  },
+  {
+    "objectID": "lab_equip_qubit.html",
+    "href": "lab_equip_qubit.html",
+    "title": "Qubit",
+    "section": "",
+    "text": "Qubit",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Qubit"
+    ]
+  },
+  {
+    "objectID": "lab_equip_tapestation.html",
+    "href": "lab_equip_tapestation.html",
+    "title": "Tapestation",
+    "section": "",
+    "text": "Tapestation",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Tapestation"
+    ]
   },
   {
     "objectID": "lab_molec_DNA_beadcleanup.html",
@@ -146,42 +183,29 @@
     ]
   },
   {
-    "objectID": "lab_equip_tapestation.html",
-    "href": "lab_equip_tapestation.html",
-    "title": "Tapestation",
-    "section": "",
-    "text": "Tapestation",
-    "crumbs": [
-      "Lab Protocols",
-      "Equipment",
-      "Tapestation"
-    ]
+    "objectID": "research.html#hybridization",
+    "href": "research.html#hybridization",
+    "title": "Research",
+    "section": "Hybridization",
+    "text": "Hybridization"
   },
   {
-    "objectID": "lab_equip_qubit.html",
-    "href": "lab_equip_qubit.html",
-    "title": "Qubit",
-    "section": "",
-    "text": "Qubit",
-    "crumbs": [
-      "Lab Protocols",
-      "Equipment",
-      "Qubit"
-    ]
+    "objectID": "research.html#range-expansions",
+    "href": "research.html#range-expansions",
+    "title": "Research",
+    "section": "Range Expansions",
+    "text": "Range Expansions"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "For more information about the Gatins Lab, visit https://www.remygatins.com/."
-  },
-  {
-    "objectID": "welcome.html",
-    "href": "welcome.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome"
+    "text": "Welcome\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Welcome",
+      "Welcome"
+    ]
   },
   {
     "objectID": "molecularprotocols.html",
