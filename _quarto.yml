@@ -28,7 +28,7 @@ website:
         href: https://twitter.com/remygatins?lang=en
         
   sidebar:
-      logo: pictures/
+      logo: pictures/Gatins_Lab_logo_dark_small.png
       title: "Welcome"
       style: "docked"
       background: light
@@ -61,6 +61,7 @@ website:
             - lab_molec_DNA_beadcleanup.qmd
     
     - title: "Field Protocols"
+      logo: pictures/Gatins_Lab_logo_dark_small.png
       style: "floating"
       background: light
       collapse-level: 1
