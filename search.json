@@ -287,13 +287,37 @@
   {
     "objectID": "lab_equip_qubit.html",
     "href": "lab_equip_qubit.html",
-    "title": "Qubit",
+    "title": "QubitFlex Fluorometer",
     "section": "",
-    "text": "Qubit\nEdit this page",
+    "text": "Edit this page\nUse this protocol to quantify DNA using the 1x dsDNA protocol on the QubitFlex.\n\n\n\nLay out enough tubes for each sample + standards (one full column for each standard). For example, if you are running 8 samples with standards, you will prepare 24 tubes. Note: I have found that it is difficult to open these tubes once they are snapped shut completely. Either work quickly and leave the tubes open as you prepare your samples to Qubit or close them gently without snapping all the way.\nCalculate how much working solution to add to reagent reservoir (200uL * # samples including standards).\nThaw, vortex and spin samples.\n\n\n\n\n\nAdd working solution to reagent reservoir provided either with P1000 or serological pipette if volume is larger than 4000uL or so. Cover with foil if you are not pipetting immediately.\nPipette 10uL of each standard into their respective columns. As long as you do this step first, you do not need to switch pipette tips.\nAdd 190uL of working solution to each column of standards with a multichannel pipette.\nAdd 190-199uL of working solution to all sample tubes. As long as you do this before pipetting your DNA samples, you do not need to switch pipette tips.\nAdd in your samples (1-10uL), back-pipetting each time to ensure thorough mixing. Note: I have found that 2uL of sample gives me the most consistent readings.\nClose the tubes tightly. Vortex and spin and check for bubbles. Note: Some bubbles may get trapped in the lid of the tubes. This shouldn’t interfere with your readings as long as the DNA was back-pipetted into the working solution.\nLet the samples sit at room temperature for 2 minutes.\nRead standards and run samples!",
     "crumbs": [
       "Lab Protocols",
       "Equipment",
-      "Qubit"
+      "QubitFlex Fluorometer"
+    ]
+  },
+  {
+    "objectID": "lab_equip_qubit.html#preparation",
+    "href": "lab_equip_qubit.html#preparation",
+    "title": "QubitFlex Fluorometer",
+    "section": "",
+    "text": "Lay out enough tubes for each sample + standards (one full column for each standard). For example, if you are running 8 samples with standards, you will prepare 24 tubes. Note: I have found that it is difficult to open these tubes once they are snapped shut completely. Either work quickly and leave the tubes open as you prepare your samples to Qubit or close them gently without snapping all the way.\nCalculate how much working solution to add to reagent reservoir (200uL * # samples including standards).\nThaw, vortex and spin samples.",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "QubitFlex Fluorometer"
+    ]
+  },
+  {
+    "objectID": "lab_equip_qubit.html#protocol",
+    "href": "lab_equip_qubit.html#protocol",
+    "title": "QubitFlex Fluorometer",
+    "section": "",
+    "text": "Add working solution to reagent reservoir provided either with P1000 or serological pipette if volume is larger than 4000uL or so. Cover with foil if you are not pipetting immediately.\nPipette 10uL of each standard into their respective columns. As long as you do this step first, you do not need to switch pipette tips.\nAdd 190uL of working solution to each column of standards with a multichannel pipette.\nAdd 190-199uL of working solution to all sample tubes. As long as you do this before pipetting your DNA samples, you do not need to switch pipette tips.\nAdd in your samples (1-10uL), back-pipetting each time to ensure thorough mixing. Note: I have found that 2uL of sample gives me the most consistent readings.\nClose the tubes tightly. Vortex and spin and check for bubbles. Note: Some bubbles may get trapped in the lid of the tubes. This shouldn’t interfere with your readings as long as the DNA was back-pipetted into the working solution.\nLet the samples sit at room temperature for 2 minutes.\nRead standards and run samples!",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "QubitFlex Fluorometer"
     ]
   },
   {
