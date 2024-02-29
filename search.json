@@ -351,7 +351,11 @@
     "href": "welcome_onboarding.html",
     "title": "Onboarding",
     "section": "",
-    "text": "Onboarding\n[ ] Fill out the Intake form for the MSC [ ]"
+    "text": "Onboarding\n[ ] Fill out the Intake form for the MSC [ ]",
+    "crumbs": [
+      "Welcome",
+      "Onboarding"
+    ]
   },
   {
     "objectID": "lab_generalprotocols.html",
