@@ -1,1 +1,5 @@
 # Qubit
+
+[Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_equip_qubit.qmd)
+
+
