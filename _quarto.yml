@@ -37,7 +37,7 @@ website:
           contents: 
             - index.qmd
 #           - welcome.qmd
-            - welcome_gettingstarted.qmd
+            - welcome_onboarding.qmd
             
     - title: "Lab Protocols"
       style: "floating"
