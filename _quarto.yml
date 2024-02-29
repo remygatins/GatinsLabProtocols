@@ -28,7 +28,8 @@ website:
         href: https://twitter.com/remygatins?lang=en
         
   sidebar:
-    - title: "Welcome"
+      logo: pictures/
+      title: "Welcome"
       style: "docked"
       background: light
       collapse-level: 1
