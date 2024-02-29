@@ -41,7 +41,7 @@ website:
             - welcome_onboarding.qmd
             
     - title: "Lab Protocols"
-      logo: pictures/Gatins_Lab_logo_white.png
+      logo: pictures/Gatins_Lab_logo_white_small.png
       style: "floating"
       background: light
       collapse-level: 1
