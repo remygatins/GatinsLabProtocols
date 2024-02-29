@@ -29,6 +29,7 @@ website:
         
   sidebar:
     - title: "Welcome"
+      logo: pictures/Gatins_Lab_logo_dark_small.png
       style: "docked"
       background: light
       collapse-level: 1
