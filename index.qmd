@@ -1,4 +1,4 @@
-![](pictures/Gatins_Lab_logo_dark_small.png){fig-align="center" width="600"}
+![](pictures/Gatins_Lab_logo_dark.png){fig-align="center" width="600"}
 
 # Welcome
 
