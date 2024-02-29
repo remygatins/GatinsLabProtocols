@@ -273,15 +273,14 @@
     ]
   },
   {
-    "objectID": "lab_equip_tapestation.html",
-    "href": "lab_equip_tapestation.html",
-    "title": "Tapestation",
+    "objectID": "prof_development.html",
+    "href": "prof_development.html",
+    "title": "Professional Development",
     "section": "",
-    "text": "Tapestation",
+    "text": "Professional Development",
     "crumbs": [
-      "Lab Protocols",
-      "Equipment",
-      "Tapestation"
+      "Professional Development",
+      "Professional Development"
     ]
   },
   {
@@ -318,6 +317,18 @@
       "Lab Protocols",
       "Equipment",
       "QubitFlex Fluorometer"
+    ]
+  },
+  {
+    "objectID": "lab_equip_tapestation.html",
+    "href": "lab_equip_tapestation.html",
+    "title": "Tapestation",
+    "section": "",
+    "text": "Tapestation",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Tapestation"
     ]
   },
   {
