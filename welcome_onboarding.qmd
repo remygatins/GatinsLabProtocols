@@ -7,6 +7,7 @@
     - A shared lab resources folder
     - The Gatins Lab calendar
 - [ ] Create a GitHub account (if you don't have one already) and ask me to add you as a collaborator to this protocols page
+- [ ] Add your contact information to the [Gatins Lab Contact information sheet](https://docs.google.com/spreadsheets/d/1F0nNCh9XOA6ftbaqpWzlNunnv5DYv7lUeQRbHXoanlk/edit#gid=0) 
 
 ## General MSC requirements
 *Navigate to the [Gatins Lab Onboarding Docs](https://drive.google.com/drive/u/0/folders/1RO_sHPwa3eDx0-oPS0HqBablwW_Gx5R4) to find all the documents listed below*  
