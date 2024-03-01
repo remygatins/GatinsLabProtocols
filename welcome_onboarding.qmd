@@ -1,8 +1,8 @@
 # Onboarding
 
 ## General access to lab resources
-- [ ] Ask me to add you to our Lab Slack Channel
-- [ ] Share your email with me to to gain access to our Google Drive. This will give you editing access to:
+- [ ] Ask Dr. Gatins to add you to our Lab Slack Channel
+- [ ] Share your email with Dr. Gatins to gain access to our Google Drive. This will give you editing access to:
     - the lab webpage, where you can add yourself to the People page
     - A shared lab resources folder
     - The Gatins Lab calendar
@@ -11,6 +11,23 @@
 ## General MSC requirements
 *Navigate to our lab Onboarding Docs to find all the documents listed below*
 - [ ] Fill out the [Intake form](https://docs.google.com/forms/d/e/1FAIpQLSeRMAg-o4vpdjGcVK-HBbFxNBGn3mARwnBbX9F4UOrTeDf9nQ/viewform) for the MSC
-- [ ] Read the **Lab Safety Plan** and electronically sign the [**Lab Safety Agreement**](https://drive.google.com/drive/u/0/folders/1RO_sHPwa3eDx0-oPS0HqBablwW_Gx5R4) and [**Lab Access Waiver**](https://drive.google.com/drive/u/0/folders/1RO_sHPwa3eDx0-oPS0HqBablwW_Gx5R4), these forms should be sent to Ryan Hill (r.hill@northeastern.edu).
+- [ ] Read the **Lab Safety Plan** and electronically sign the [**Lab Safety Agreement**](https://drive.google.com/drive/u/0/folders/1RO_sHPwa3eDx0-oPS0HqBablwW_Gx5R4) and [**Lab Access Waiver**](https://drive.google.com/drive/u/0/folders/1RO_sHPwa3eDx0-oPS0HqBablwW_Gx5R4), these forms should be sent to [Ryan Hill](r.hill@northeastern.edu) and please CC Dr. Gatins as well.
+
+## Molecular lab
+- [ ] Ask Dr. Gatins to add you to the Gatins Lab group on SciSchield (BioRaft)
+
+Complete the following trainings on SciSchield:
+- [ ] Laboratory Safety Program Orientation
+- [ ] Fundamentals of Laboratory Safety
+- [ ] Hazardous Waste Training
+- [ ] Biosafety Training
+- [ ] Cryogenic Liquids
+- [ ] Regulated Medical Waste
+- [ ] any other training specific to your work
+
+Contact [Rosie](r.falco@northeastern.edu) from the *Ocean Genome Legacy Center* to schedule the following trainings:   
+- [ ] Shared Equipment Training
+- [ ] Autoclave
+- [ ] Cryogeneics (Liquid Nitrogen)
 
 
