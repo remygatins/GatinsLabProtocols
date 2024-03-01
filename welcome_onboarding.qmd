@@ -9,9 +9,9 @@
 - [ ] Create a GitHub account (if you don't have one already) and ask me to add you as a collaborator to this protocols page
 
 ## General MSC requirements
-*Navigate to our lab Onboarding Docs to find all the documents listed below*
+*Navigate to the [Gatins Lab Onboarding Docs](https://drive.google.com/drive/u/0/folders/1RO_sHPwa3eDx0-oPS0HqBablwW_Gx5R4) to find all the documents listed below*
 - [ ] Fill out the [Intake form](https://docs.google.com/forms/d/e/1FAIpQLSeRMAg-o4vpdjGcVK-HBbFxNBGn3mARwnBbX9F4UOrTeDf9nQ/viewform) for the MSC
-- [ ] Read the **Lab Safety Plan** and electronically sign the [**Lab Safety Agreement**](https://drive.google.com/drive/u/0/folders/1RO_sHPwa3eDx0-oPS0HqBablwW_Gx5R4) and [**Lab Access Waiver**](https://drive.google.com/drive/u/0/folders/1RO_sHPwa3eDx0-oPS0HqBablwW_Gx5R4), these forms should be sent to [Ryan Hill](r.hill@northeastern.edu) and please CC Dr. Gatins as well.
+- [ ] Read the **Lab Safety Plan** and electronically sign the **Lab Safety Agreement** and **Lab Access Waiver**, these forms should be sent to [Ryan Hill](r.hill@northeastern.edu), and CC Dr. Gatins as well.
 
 ## Molecular lab
 - [ ] Ask Dr. Gatins to add you to the Gatins Lab group on SciSchield (BioRaft)
