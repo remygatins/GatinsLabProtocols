@@ -19,17 +19,18 @@
 
 Complete the following trainings on SciSchield:  
 
-- [ ] Laboratory Safety Program Orientation
-- [ ] Fundamentals of Laboratory Safety
-- [ ] Hazardous Waste Training
-- [ ] Biosafety Training
-- [ ] Cryogenic Liquids
-- [ ] Regulated Medical Waste
-- [ ] any other training specific to your work
+    - [ ] Laboratory Safety Program Orientation
+    - [ ] Fundamentals of Laboratory Safety
+    - [ ] Hazardous Waste Training
+    - [ ] Biosafety Training
+    - [ ] Cryogenic Liquids
+    - [ ] Regulated Medical Waste
+    - [ ] any other training specific to your work
 
-Contact [Rosie](mailto:r.falco@northeastern.edu) from the *Ocean Genome Legacy Center* to schedule the following trainings:     
-- [ ] Shared Equipment Training
-- [ ] Autoclave
-- [ ] Cryogeneics (Liquid Nitrogen)
+Contact [Rosie](mailto:r.falco@northeastern.edu) from the **Ocean Genome Legacy Center** to schedule the following trainings:  
+
+    - [ ] Shared Equipment Training
+    - [ ] Autoclave
+    - [ ] Cryogeneics (Liquid Nitrogen)
 
 
