@@ -14,7 +14,7 @@ There are a few different types of SALs, but we will be submitting a [Scientific
 ** *Will continue updating after we hear back about our application! - Annabel 03/14/2024*
 
 # Florida Keys National Marine Sanctuary Permitting
-Permitting in the Florida Keys is very tricky! There are [designated marine zones](https://floridakeys.noaa.gov/fknms_map/welcome.html) but to conduct any activity in waters along the keys requires a [NOAA National Marine Sanctuaries Permit Application](https://sanctuaries.noaa.gov/management/permits/). 
+Permitting in the Florida Keys is very tricky! There are [designated marine zones](https://floridakeys.noaa.gov/fknms_map/welcome.html) but to conduct any species collections in waters along the keys even outside of these zones requires a [NOAA National Marine Sanctuaries Permit Application](https://sanctuaries.noaa.gov/management/permits/). 
 
 For questions regarding FKNMS permits, contact **Dr. Harrison Albert**:
 
