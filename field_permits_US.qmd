@@ -24,8 +24,8 @@ For questions regarding FKNMS permits, contact **Dr. Harrison Albert**:
 
 It seemed like the permit application could be filled out with **Throughout sanctuary** checked in **Section C - Project Information Proposed location of activities:**, but after email correspondence with Dr. Harrison Albert, it seems like we may need to be more specific. Email thread copied below:
 
-+++
-Hello,
+
+> Hello,
 
 I am a first year PhD student at Northeastern University advised by Dr. Remy Gatins (CC’d here). We are planning fieldwork for July and are trying to gather information about collection sites and required permitting. 
 
@@ -37,10 +37,9 @@ Thank you in advance for your help! Looking forward to hearing from you.
 
 Cheers,
 Annabel
-+++
 
-+++
-Hello Annabel, 
+
+> Hello Annabel, 
 
 Thank you for your patience while I reviewed your FKNMS permitting email inquiry. 
 
@@ -51,6 +50,5 @@ Please let me know once you obtain the SAL, or if FWC is able to provide you wit
 All the best, 
 
 Dr. Harrison
-+++
 
 ** *Will continue updating after we hear back about our application! - Annabel 03/14/2024*
