@@ -6,11 +6,11 @@ As we plan to collect *Holacanthus* in Florida in July 2024, I have been keeping
 
 **Smithsonian Marine Station**
 
-  - Contact(s): **Dr. Valerie Paul** (Head Scientist, *paul@si.edu*), **Scott Jones** (Station Manager, *JonesMS@si.edu*), **Zach Foltz** (DSO, *FoltzZ@si.edu*)
+  - **Contact(s):** **Dr. Valerie Paul** (Head Scientist, *paul@si.edu*), **Scott Jones** (Station Manager, *JonesMS@si.edu*), **Zach Foltz** (DSO, *FoltzZ@si.edu*)
 
   - Station fees:
 
-<img width="300" alt="" src="pictures/smsfeespic.png">
+<img width="500" alt="" src="pictures/smsfeespic.png">
 
 First, I inquired with Zach Foltz about *Holacanthus* in the area as I read online that he has a strong interest in reef fish monitoring:
 
@@ -82,7 +82,7 @@ Following up this conversation, I emailed Dr. Valerie Paul about station availab
 
 # Site 2: Jupiter, FL
 
-  - Contact(s): Jupiter Dive Center
+  - **Contact(s):** Jupiter Dive Center
     - Phone: 561-745-7807
 
 When I called the dive shop, they gave me the following tips:
@@ -92,11 +92,27 @@ When I called the dive shop, they gave me the following tips:
 - **Recommended sites:
   - Blue Heron Bridge
   - Kados Bridge
-  - Dubois Park (likely to find along the rocks)
+  - Dubois Park (likely to find along the rocks)**
 
 - [ ] *TO DO: Call these sites to find out about snorkeling versus scuba and spearing regulations within parks*
 
 # Site 3: Miami, FL
 # Site 4: Tavernier, FL (Key Largo)
+
+  - **Contact(s):** Conch Republic Divers
+    - Phone: 305-852-1655
+    - Spoke to Christian - he used to collect queens for scientific collections so he said he has great site suggestions for us.
+
+  - Fees: To be taken privately on their smaller boat set up for spearing, it would be ~$900 for a half day. *Note: They only allow spearing via scuba, no snorkeling*
+
+- [ ] *TO DO: Call back with specific dates in mind and ask about site specifics and get a solid quote for boat rental (ex. if we go with other people it will likely be less expensive)
+
 # Site 5: Layton, FL (Long Key)
+
+  - **Contact(s):** Keys Marine Laboratory
+    - Phone: 305-664-9101
+    - As of my phone call on March 4, 2024 they had availability for 2 visitors for all of July open. When ready to reserve, fill out the [KML Preliminary Reservation Request form](https://www.fio.usf.edu/forms/kml-preliminary-reservation-request/). 
+
+  - Fees: There is a price calculator on the [KML Rates, Forms, and Information](https://www.fio.usf.edu/keys-marine-lab/kml-booking-information/forms-and-information/) page.
+
 # Site 6: Key West, FL
