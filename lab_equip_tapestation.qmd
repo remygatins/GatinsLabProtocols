@@ -23,3 +23,5 @@ ___________________________________________
 <img width="300" alt="" src="pictures/Tapestation_genomic.png">
 
 <img width="300" alt="" src="pictures/Tapestation_genomic_example.png">
+
+*images from the Genomic Research Center of the University of Rochester Medical Center
