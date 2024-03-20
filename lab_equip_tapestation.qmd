@@ -4,24 +4,24 @@ ___________________________________________
 # Interpretation of results
 
 ## Tapestation Assays
-<img width="600" alt="" src="pictures/Tapestation_Assays.png">
+<img width="800" alt="" src="pictures/Tapestation_Assays.png">
 
 ## D1000
-<img width="700" alt="" src="pictures/Tapestation_D1000.png">
+<img width="800" alt="" src="pictures/Tapestation_D1000.png">
 
 <img width="800" alt="" src="pictures/Tapestation_D1000_example.png">
 
 ## D5000
 <img width="900" alt="" src="pictures/Tapestation_D5000.png">
 
-<img width="300" alt="" src="pictures/Tapestation_D5000_example.png">
+<img width="800" alt="" src="pictures/Tapestation_D5000_example.png">
 
 ## Unexpected Peaks
-<img width="300" alt="" src="pictures/Tapestation_unexpected_peaks.png">
+<img width="800" alt="" src="pictures/Tapestation_unexpected_peaks.png">
 
 ## Genomic DNA
-<img width="300" alt="" src="pictures/Tapestation_genomic.png">
+<img width="800" alt="" src="pictures/Tapestation_genomic.png">
 
-<img width="300" alt="" src="pictures/Tapestation_genomic_example.png">
+<img width="800" alt="" src="pictures/Tapestation_genomic_example.png">
 
 *images from the Genomic Research Center of the University of Rochester Medical Center
