@@ -4,15 +4,15 @@ ___________________________________________
 # Interpretation of results
 
 ## Tapestation Assays
-<img width="300" alt="" src="pictures/Tapestation_Assays.png">
+<img width="600" alt="" src="pictures/Tapestation_Assays.png">
 
 ## D1000
-<img width="300" alt="" src="pictures/Tapestation_D1000.png">
+<img width="700" alt="" src="pictures/Tapestation_D1000.png">
 
-<img width="300" alt="" src="pictures/Tapestation_D1000_example.png">
+<img width="800" alt="" src="pictures/Tapestation_D1000_example.png">
 
 ## D5000
-<img width="300" alt="" src="pictures/Tapestation_D5000.png">
+<img width="900" alt="" src="pictures/Tapestation_D5000.png">
 
 <img width="300" alt="" src="pictures/Tapestation_D5000_example.png">
 
