@@ -316,11 +316,59 @@
     ]
   },
   {
-    "objectID": "lab_equip_tapestation.html",
-    "href": "lab_equip_tapestation.html",
+    "objectID": "lab_equip_tapestation.html#tapestation-assays",
+    "href": "lab_equip_tapestation.html#tapestation-assays",
     "title": "Tapestation",
-    "section": "",
-    "text": "Tapestation\n\n\nInterpretation of results",
+    "section": "Tapestation Assays",
+    "text": "Tapestation Assays",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Tapestation"
+    ]
+  },
+  {
+    "objectID": "lab_equip_tapestation.html#d1000",
+    "href": "lab_equip_tapestation.html#d1000",
+    "title": "Tapestation",
+    "section": "D1000",
+    "text": "D1000",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Tapestation"
+    ]
+  },
+  {
+    "objectID": "lab_equip_tapestation.html#d5000",
+    "href": "lab_equip_tapestation.html#d5000",
+    "title": "Tapestation",
+    "section": "D5000",
+    "text": "D5000",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Tapestation"
+    ]
+  },
+  {
+    "objectID": "lab_equip_tapestation.html#unexpected-peaks",
+    "href": "lab_equip_tapestation.html#unexpected-peaks",
+    "title": "Tapestation",
+    "section": "Unexpected Peaks",
+    "text": "Unexpected Peaks",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Tapestation"
+    ]
+  },
+  {
+    "objectID": "lab_equip_tapestation.html#genomic-dna",
+    "href": "lab_equip_tapestation.html#genomic-dna",
+    "title": "Tapestation",
+    "section": "Genomic DNA",
+    "text": "Genomic DNA",
     "crumbs": [
       "Lab Protocols",
       "Equipment",
