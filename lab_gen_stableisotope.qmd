@@ -20,7 +20,7 @@
 
 
 ## Protocol 
-- [ ] [Stabel Isotope protocol_BU.docx](https://github.com/remygatins/BlackSeaBass_WGS/files/12051505/Stabel.Isotope.protocol_BU.docx)
+- [ ] [Stable Isotope protocol_BU.docx](https://github.com/remygatins/BlackSeaBass_WGS/files/12051505/Stabel.Isotope.protocol_BU.docx)
 - [ ] [Stable Istope Protocol_NAU.docx](https://github.com/remygatins/BlackSeaBass_WGS/files/12051525/Stable.Istope.Protocol_1-16-22.1.docx)
 
 1.	**Clean lab bench, instruments and muffin trays.**
