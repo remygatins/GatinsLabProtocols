@@ -6,7 +6,7 @@ format:
 jupyter: python3
 ---
 
-```{python}
+#```{python}
 tubes = int(input("How many samples?"))
 og_dna = 1 / float(input("Are you doing full reaction (1) or 1/3 (3)?"))
 extra = int(input("How many extra samples worth of components do you want?"))
@@ -15,5 +15,5 @@ frag_buffer = (5*og_dna) * (tubes + extra)
 frag_enzyme = (10*og_dna) * (tubes + extra)
 print("Frag buffer:", frag_buffer)
 print("Frag enzyme:", frag_enzyme)
-```
+#```
 
