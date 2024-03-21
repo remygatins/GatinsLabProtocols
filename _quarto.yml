@@ -57,9 +57,11 @@ website:
             - lab_equip_qubit.qmd
         - section: "Molecular Protocols"
           contents:
-            - lab_molec_illuminalibraryprep.qmd
             - lab_molec_dnaextraction.qmd
             - lab_molec_DNA_beadcleanup.qmd
+            - lab_molec_illuminalibraryprep.qmd
+            - lab_molec_adapter_concentration.qmd
+            
     
     - title: "Field Protocols"
       logo: pictures/Gatins_Lab_logo_dark_simple.png
