@@ -74,7 +74,7 @@ Fragmentation time was previously optimized for 500bp fragments starting from th
 | Component | Volume | 1/3 Volume|
 |-----------|--------|-----------|
 |Fragmented, double-stranded DNA  | 50 µL  | 16.7 µL   |
-|End Repair & A-Tailing Buffer*| 7 µL | 2.4 µL |
+|End Repair & A-Tailing Buffer*| 7 µL | 2.43 µL |
 | HyperPlus ERAT Enzyme Mix* | 3 µL| 1 µL|
 |--------------------|------|-------|
 |**Total Volume**|**60 µL**| **20 µL**|
@@ -99,6 +99,8 @@ Fragmentation time was previously optimized for 500bp fragments starting from th
 
 - [ ] 3.1 Dilute adapter stocks to the appropriate concentration, as outlined in Table 4 (p. 5) of the manual.
 <img width="600" alt="center" src="pictures/KapaHyperplus_Table4_Adapters.png">
+
+We added 250ng of DNA so we want an Adapter:insert molar ratio of 40:1. Since we are using 1/3 reaction volumes we combined the water and adapter stock volume to add 5 µL and calculated that we need a concentration of [6 µM]. For a more detailed explanation on this see the [Adapter Concentration Calculations]() page. 
 
 - [ ] 3.2 In the same plate/tube(s) in which end repair andA-tailing was performed, assemble each adapter ligation reaction as follows:
 
