@@ -254,7 +254,7 @@ The KAPA Library Amplification Primer Mix (10X) is designed to eliminate or dela
 - [ ] 6.17 Transfer clear supernatant to a new plate/tube(s) and proceed with size selection (step 7)
 
 ## 7. Size Selection
-
+*The original protocol calls for a size selection using 0.7X and 0.9X size selection (~ 250bp - 400bp). We have tested  
 
 ### 7.a Uppercut
 
