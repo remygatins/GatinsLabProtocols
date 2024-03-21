@@ -285,10 +285,10 @@ We are first going to remove any large fragments (>600 bp)
 
 | Component | Volume | 1/3 Volume|Notes|
 |-----------|--------|-----------|-----|
-|Library amplification reaction product | 50 µL  | 16.7 µL   ||
-| KAPA cleanup beads (**0.72X**) | 36 µL | 12.02 µL ||
+|Uppercut supernatant (Amplification product) | 50 µL  | 46.8 µL   ||
+| KAPA cleanup beads (**0.72X**) | 36 µL | 33.7 µL ||
 |--------------------|------|------|------|
-|**Total Volume**|**86 µL**| **28.72 µL**||
+|**Total Volume**|**86 µL**| ** 80.5 µL**||
 
 - [ ] 7.2.2 Mix thoroughly by vortexing and/or pipetting up and down multiple times.
 
