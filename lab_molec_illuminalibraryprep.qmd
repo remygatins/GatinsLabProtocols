@@ -96,7 +96,7 @@ Fragmentation time was previously optimized for 500bp fragments starting from th
 ## 3. Adapter Ligation
 
 - [ ] 3.1 Dilute adapter stocks to the appropriate concentration, as outlined in Table 4 (p. 5).
-![Table4_ Adapter_Concentrations](https://github.com/remygatins/BlackSeaBass_WGS/assets/26288352/dde35de4-3d8d-4567-9232-4b0f5b5045e0)
+<img width="500" alt="" src="pictures/KapaHyperplus_Table4_Adapters.png">
 
 - [ ] 3.2 In the same plate/tube(s) in which end repair andA-tailing was performed, assemble each adapter ligation reaction as follows:
 
