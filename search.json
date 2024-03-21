@@ -104,216 +104,11 @@
     ]
   },
   {
-    "objectID": "welcome.html",
-    "href": "welcome.html",
-    "title": "Welcome",
+    "objectID": "lab_molec_adapter_concentration.html",
+    "href": "lab_molec_adapter_concentration.html",
+    "title": "Calculating Adapter Concentrations for DNA Libraries",
     "section": "",
-    "text": "Welcome"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Principal Investigator"
-  },
-  {
-    "objectID": "people.html#remy-gatins-ph.d",
-    "href": "people.html#remy-gatins-ph.d",
-    "title": "People",
-    "section": "",
-    "text": "Principal Investigator"
-  },
-  {
-    "objectID": "people.html#annabel-hughes",
-    "href": "people.html#annabel-hughes",
-    "title": "People",
-    "section": "Annabel Hughes",
-    "text": "Annabel Hughes\nPhD Student"
-  },
-  {
-    "objectID": "people.html#lee-fenuccio",
-    "href": "people.html#lee-fenuccio",
-    "title": "People",
-    "section": "Lee Fenuccio",
-    "text": "Lee Fenuccio\nCo-op Student"
-  },
-  {
-    "objectID": "people.html#future-students",
-    "href": "people.html#future-students",
-    "title": "People",
-    "section": "Future students",
-    "text": "Future students"
-  },
-  {
-    "objectID": "people.html#postdocs",
-    "href": "people.html#postdocs",
-    "title": "People",
-    "section": "Postdocs",
-    "text": "Postdocs"
-  },
-  {
-    "objectID": "field_diving_general.html",
-    "href": "field_diving_general.html",
-    "title": "Diving General Info",
-    "section": "",
-    "text": "Diving General Info",
-    "crumbs": [
-      "Field Protocols",
-      "Diving",
-      "Diving General Info"
-    ]
-  },
-  {
-    "objectID": "lab_equip_autoclave.html",
-    "href": "lab_equip_autoclave.html",
-    "title": "Autoclave (OGL)",
-    "section": "",
-    "text": "Edit this page\nThe protocol for using the autoclave in OGL.\n\n\n\nAn autoclave chamber is used to sterilize laboratory equipment, including liquids, by subjecting them to steam created at a high temperature and pressure. Autoclaving should be performed on the following items:\n\nContainers used while working with microorganisms\nGlassware used to store food for experimental organisms\nBiohazard waste containers\nPipette tip boxes\n\n\n\n\n\nReview or take the autoclave training on the Northeastern Environmental Health and Safety website.\nIt is mandatory to scheudle a 20 minute in-person training with Rosie Falco Poulin (r.falco@northeastern.edu) at the MSC to follow up on the online course.\nAlways unscrew jars or vials as the high pressure may cause them to explode if tightened.\n\n\n\n\n\nFill out autoclave sign up in binder\nMake sure all knobs are at zero\nLoad samples onto metal sheet inside the autoclave\nReset red arm to zero (top gauge). This arm keeps track of temperature maximum during the run\nTurn ON autoclave with green switch\nTurn bottom knob to fill water - wait until water reaches the front of the groove (might already have water in it)\nSwitch knob to sterilize\nSeal the door by turning clockwise (not too tight)\nLook on the chart:\n\nDetermine what you are autoclaving (wrapped vs unwrapped)\nSet temperature to the desired setting\nExample: Unwrapped = 3850 model, cold start, 32 min, 134 degrees\n\nSet timer (NOTE: Setting timer starts the run)\nCome back 52 minutes later (32 in autoclave + 20 to depressurize) - If the red gauge reads lower than your desired temperature, it didn’t get hot enough (due to too much water or too much glassware). Run it again, if needed, for slightly longer (~40 mins) and make sure it reaches the appropriate temperature (indicated by red arm)",
-    "crumbs": [
-      "Lab Protocols",
-      "Equipment",
-      "Autoclave (OGL)"
-    ]
-  },
-  {
-    "objectID": "lab_equip_autoclave.html#overview",
-    "href": "lab_equip_autoclave.html#overview",
-    "title": "Autoclave (OGL)",
-    "section": "",
-    "text": "An autoclave chamber is used to sterilize laboratory equipment, including liquids, by subjecting them to steam created at a high temperature and pressure. Autoclaving should be performed on the following items:\n\nContainers used while working with microorganisms\nGlassware used to store food for experimental organisms\nBiohazard waste containers\nPipette tip boxes",
-    "crumbs": [
-      "Lab Protocols",
-      "Equipment",
-      "Autoclave (OGL)"
-    ]
-  },
-  {
-    "objectID": "lab_equip_autoclave.html#tips-before-starting",
-    "href": "lab_equip_autoclave.html#tips-before-starting",
-    "title": "Autoclave (OGL)",
-    "section": "",
-    "text": "Review or take the autoclave training on the Northeastern Environmental Health and Safety website.\nIt is mandatory to scheudle a 20 minute in-person training with Rosie Falco Poulin (r.falco@northeastern.edu) at the MSC to follow up on the online course.\nAlways unscrew jars or vials as the high pressure may cause them to explode if tightened.",
-    "crumbs": [
-      "Lab Protocols",
-      "Equipment",
-      "Autoclave (OGL)"
-    ]
-  },
-  {
-    "objectID": "lab_equip_autoclave.html#protocol",
-    "href": "lab_equip_autoclave.html#protocol",
-    "title": "Autoclave (OGL)",
-    "section": "",
-    "text": "Fill out autoclave sign up in binder\nMake sure all knobs are at zero\nLoad samples onto metal sheet inside the autoclave\nReset red arm to zero (top gauge). This arm keeps track of temperature maximum during the run\nTurn ON autoclave with green switch\nTurn bottom knob to fill water - wait until water reaches the front of the groove (might already have water in it)\nSwitch knob to sterilize\nSeal the door by turning clockwise (not too tight)\nLook on the chart:\n\nDetermine what you are autoclaving (wrapped vs unwrapped)\nSet temperature to the desired setting\nExample: Unwrapped = 3850 model, cold start, 32 min, 134 degrees\n\nSet timer (NOTE: Setting timer starts the run)\nCome back 52 minutes later (32 in autoclave + 20 to depressurize) - If the red gauge reads lower than your desired temperature, it didn’t get hot enough (due to too much water or too much glassware). Run it again, if needed, for slightly longer (~40 mins) and make sure it reaches the appropriate temperature (indicated by red arm)",
-    "crumbs": [
-      "Lab Protocols",
-      "Equipment",
-      "Autoclave (OGL)"
-    ]
-  },
-  {
-    "objectID": "welcome_onboarding.html",
-    "href": "welcome_onboarding.html",
-    "title": "Onboarding",
-    "section": "",
-    "text": "Ask Dr. Gatins to add you to our Lab Slack Channel\nShare your email with Dr. Gatins to gain access to our Google Drive. This will give you editing access to:\n\nthe lab webpage, where you can add yourself to the People page\nA shared lab resources folder\nThe Gatins Lab calendar\n\nCreate a GitHub account (if you don’t have one already) and ask me to add you as a collaborator to this protocols page\nAdd your contact information to the Gatins Lab Contact information sheet\n\n\n\n\nNavigate to the Gatins Lab Onboarding Docs to find all the documents listed below\n\nFill out the Intake form for the MSC\nRead the Lab Safety Plan and electronically sign the Lab Safety Agreement and Lab Access Waiver, these forms should be sent to Ryan Hill, and CC Dr. Gatins as well.\n\n\n\n\n\nAsk Dr. Gatins to add you to the Gatins Lab group on SciSchield (BioRaft)\n\nComplete the following trainings on SciSchield:\n\nLaboratory Safety Program Orientation\nFundamentals of Laboratory Safety\nHazardous Waste Training\nBiosafety Training\nCryogenic Liquids\nRegulated Medical Waste\nany other training specific to your work\n\nContact Rosie from the Ocean Genome Legacy Center to schedule the following trainings:\n\nShared Equipment Training\nAutoclave\nCryogeneics (Liquid Nitrogen)",
-    "crumbs": [
-      "Welcome",
-      "Onboarding"
-    ]
-  },
-  {
-    "objectID": "welcome_onboarding.html#general-access-to-lab-resources",
-    "href": "welcome_onboarding.html#general-access-to-lab-resources",
-    "title": "Onboarding",
-    "section": "",
-    "text": "Ask Dr. Gatins to add you to our Lab Slack Channel\nShare your email with Dr. Gatins to gain access to our Google Drive. This will give you editing access to:\n\nthe lab webpage, where you can add yourself to the People page\nA shared lab resources folder\nThe Gatins Lab calendar\n\nCreate a GitHub account (if you don’t have one already) and ask me to add you as a collaborator to this protocols page\nAdd your contact information to the Gatins Lab Contact information sheet",
-    "crumbs": [
-      "Welcome",
-      "Onboarding"
-    ]
-  },
-  {
-    "objectID": "welcome_onboarding.html#general-msc-requirements",
-    "href": "welcome_onboarding.html#general-msc-requirements",
-    "title": "Onboarding",
-    "section": "",
-    "text": "Navigate to the Gatins Lab Onboarding Docs to find all the documents listed below\n\nFill out the Intake form for the MSC\nRead the Lab Safety Plan and electronically sign the Lab Safety Agreement and Lab Access Waiver, these forms should be sent to Ryan Hill, and CC Dr. Gatins as well.",
-    "crumbs": [
-      "Welcome",
-      "Onboarding"
-    ]
-  },
-  {
-    "objectID": "welcome_onboarding.html#molecular-lab",
-    "href": "welcome_onboarding.html#molecular-lab",
-    "title": "Onboarding",
-    "section": "",
-    "text": "Ask Dr. Gatins to add you to the Gatins Lab group on SciSchield (BioRaft)\n\nComplete the following trainings on SciSchield:\n\nLaboratory Safety Program Orientation\nFundamentals of Laboratory Safety\nHazardous Waste Training\nBiosafety Training\nCryogenic Liquids\nRegulated Medical Waste\nany other training specific to your work\n\nContact Rosie from the Ocean Genome Legacy Center to schedule the following trainings:\n\nShared Equipment Training\nAutoclave\nCryogeneics (Liquid Nitrogen)",
-    "crumbs": [
-      "Welcome",
-      "Onboarding"
-    ]
-  },
-  {
-    "objectID": "prof_development.html",
-    "href": "prof_development.html",
-    "title": "Professional Development",
-    "section": "",
-    "text": "Professional Development",
-    "crumbs": [
-      "Professional Development",
-      "Professional Development"
-    ]
-  },
-  {
-    "objectID": "lab_molec_DNA_beadcleanup.html",
-    "href": "lab_molec_DNA_beadcleanup.html",
-    "title": "3x Bead Cleanup for Genomic DNA",
-    "section": "",
-    "text": "KS8001 KAPA cleanup bead protocol\nEdit this page\n\n\n\n\nTake beads out of refrigerator and allow them to come to room temperature before beginning. Vortex well.\nPrepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.\nPrepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).\n\n\n\n\n\nCombine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\nIncubate tubes/plate for 15 minutes to allow beads to bind to DNA.\nPlace tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\nDiscard supernatant.\nOn magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume.\nIncubate for &gt;30 seconds, then remove and discard supernatant.\nAdd another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\nDry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\nRemove plate from magnet.\nResuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL.\nAllow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\nPlace tubes/plate back on magnet.\nTransfer your desired final sample volume to a final labeled set of tubes/plate.\nQuantify!",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "3x Bead Cleanup for Genomic DNA"
-    ]
-  },
-  {
-    "objectID": "lab_molec_DNA_beadcleanup.html#kapa-pure-beads",
-    "href": "lab_molec_DNA_beadcleanup.html#kapa-pure-beads",
-    "title": "3x Bead Cleanup for Genomic DNA",
-    "section": "",
-    "text": "KS8001 KAPA cleanup bead protocol\nEdit this page",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "3x Bead Cleanup for Genomic DNA"
-    ]
-  },
-  {
-    "objectID": "lab_molec_DNA_beadcleanup.html#preparation",
-    "href": "lab_molec_DNA_beadcleanup.html#preparation",
-    "title": "3x Bead Cleanup for Genomic DNA",
-    "section": "",
-    "text": "Take beads out of refrigerator and allow them to come to room temperature before beginning. Vortex well.\nPrepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.\nPrepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "3x Bead Cleanup for Genomic DNA"
-    ]
-  },
-  {
-    "objectID": "lab_molec_DNA_beadcleanup.html#protocol",
-    "href": "lab_molec_DNA_beadcleanup.html#protocol",
-    "title": "3x Bead Cleanup for Genomic DNA",
-    "section": "",
-    "text": "Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\nIncubate tubes/plate for 15 minutes to allow beads to bind to DNA.\nPlace tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\nDiscard supernatant.\nOn magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume.\nIncubate for &gt;30 seconds, then remove and discard supernatant.\nAdd another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\nDry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\nRemove plate from magnet.\nResuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL.\nAllow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\nPlace tubes/plate back on magnet.\nTransfer your desired final sample volume to a final labeled set of tubes/plate.\nQuantify!",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "3x Bead Cleanup for Genomic DNA"
-    ]
+    "text": "Calculating Adapter Concentrations for DNA Libraries"
   },
   {
     "objectID": "lab_equip_tapestation.html#tapestation-assays",
@@ -374,6 +169,218 @@
       "Equipment",
       "Tapestation"
     ]
+  },
+  {
+    "objectID": "lab_molec_DNA_beadcleanup.html",
+    "href": "lab_molec_DNA_beadcleanup.html",
+    "title": "3x Bead Cleanup for Genomic DNA",
+    "section": "",
+    "text": "KS8001 KAPA cleanup bead protocol\nEdit this page\n\n\n\n\nTake beads out of refrigerator and allow them to come to room temperature before beginning. Vortex well.\nPrepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.\nPrepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).\n\n\n\n\n\nCombine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\nIncubate tubes/plate for 15 minutes to allow beads to bind to DNA.\nPlace tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\nDiscard supernatant.\nOn magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume.\nIncubate for &gt;30 seconds, then remove and discard supernatant.\nAdd another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\nDry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\nRemove plate from magnet.\nResuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL.\nAllow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\nPlace tubes/plate back on magnet.\nTransfer your desired final sample volume to a final labeled set of tubes/plate.\nQuantify!",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "3x Bead Cleanup for Genomic DNA"
+    ]
+  },
+  {
+    "objectID": "lab_molec_DNA_beadcleanup.html#kapa-pure-beads",
+    "href": "lab_molec_DNA_beadcleanup.html#kapa-pure-beads",
+    "title": "3x Bead Cleanup for Genomic DNA",
+    "section": "",
+    "text": "KS8001 KAPA cleanup bead protocol\nEdit this page",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "3x Bead Cleanup for Genomic DNA"
+    ]
+  },
+  {
+    "objectID": "lab_molec_DNA_beadcleanup.html#preparation",
+    "href": "lab_molec_DNA_beadcleanup.html#preparation",
+    "title": "3x Bead Cleanup for Genomic DNA",
+    "section": "",
+    "text": "Take beads out of refrigerator and allow them to come to room temperature before beginning. Vortex well.\nPrepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.\nPrepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "3x Bead Cleanup for Genomic DNA"
+    ]
+  },
+  {
+    "objectID": "lab_molec_DNA_beadcleanup.html#protocol",
+    "href": "lab_molec_DNA_beadcleanup.html#protocol",
+    "title": "3x Bead Cleanup for Genomic DNA",
+    "section": "",
+    "text": "Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\nIncubate tubes/plate for 15 minutes to allow beads to bind to DNA.\nPlace tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\nDiscard supernatant.\nOn magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume.\nIncubate for &gt;30 seconds, then remove and discard supernatant.\nAdd another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\nDry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\nRemove plate from magnet.\nResuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL.\nAllow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\nPlace tubes/plate back on magnet.\nTransfer your desired final sample volume to a final labeled set of tubes/plate.\nQuantify!",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "3x Bead Cleanup for Genomic DNA"
+    ]
+  },
+  {
+    "objectID": "prof_development.html",
+    "href": "prof_development.html",
+    "title": "Professional Development",
+    "section": "",
+    "text": "Professional Development",
+    "crumbs": [
+      "Professional Development",
+      "Professional Development"
+    ]
+  },
+  {
+    "objectID": "welcome_onboarding.html",
+    "href": "welcome_onboarding.html",
+    "title": "Onboarding",
+    "section": "",
+    "text": "Ask Dr. Gatins to add you to our Lab Slack Channel\nShare your email with Dr. Gatins to gain access to our Google Drive. This will give you editing access to:\n\nthe lab webpage, where you can add yourself to the People page\nA shared lab resources folder\nThe Gatins Lab calendar\n\nCreate a GitHub account (if you don’t have one already) and ask me to add you as a collaborator to this protocols page\nAdd your contact information to the Gatins Lab Contact information sheet\n\n\n\n\nNavigate to the Gatins Lab Onboarding Docs to find all the documents listed below\n\nFill out the Intake form for the MSC\nRead the Lab Safety Plan and electronically sign the Lab Safety Agreement and Lab Access Waiver, these forms should be sent to Ryan Hill, and CC Dr. Gatins as well.\n\n\n\n\n\nAsk Dr. Gatins to add you to the Gatins Lab group on SciSchield (BioRaft)\n\nComplete the following trainings on SciSchield:\n\nLaboratory Safety Program Orientation\nFundamentals of Laboratory Safety\nHazardous Waste Training\nBiosafety Training\nCryogenic Liquids\nRegulated Medical Waste\nany other training specific to your work\n\nContact Rosie from the Ocean Genome Legacy Center to schedule the following trainings:\n\nShared Equipment Training\nAutoclave\nCryogeneics (Liquid Nitrogen)",
+    "crumbs": [
+      "Welcome",
+      "Onboarding"
+    ]
+  },
+  {
+    "objectID": "welcome_onboarding.html#general-access-to-lab-resources",
+    "href": "welcome_onboarding.html#general-access-to-lab-resources",
+    "title": "Onboarding",
+    "section": "",
+    "text": "Ask Dr. Gatins to add you to our Lab Slack Channel\nShare your email with Dr. Gatins to gain access to our Google Drive. This will give you editing access to:\n\nthe lab webpage, where you can add yourself to the People page\nA shared lab resources folder\nThe Gatins Lab calendar\n\nCreate a GitHub account (if you don’t have one already) and ask me to add you as a collaborator to this protocols page\nAdd your contact information to the Gatins Lab Contact information sheet",
+    "crumbs": [
+      "Welcome",
+      "Onboarding"
+    ]
+  },
+  {
+    "objectID": "welcome_onboarding.html#general-msc-requirements",
+    "href": "welcome_onboarding.html#general-msc-requirements",
+    "title": "Onboarding",
+    "section": "",
+    "text": "Navigate to the Gatins Lab Onboarding Docs to find all the documents listed below\n\nFill out the Intake form for the MSC\nRead the Lab Safety Plan and electronically sign the Lab Safety Agreement and Lab Access Waiver, these forms should be sent to Ryan Hill, and CC Dr. Gatins as well.",
+    "crumbs": [
+      "Welcome",
+      "Onboarding"
+    ]
+  },
+  {
+    "objectID": "welcome_onboarding.html#molecular-lab",
+    "href": "welcome_onboarding.html#molecular-lab",
+    "title": "Onboarding",
+    "section": "",
+    "text": "Ask Dr. Gatins to add you to the Gatins Lab group on SciSchield (BioRaft)\n\nComplete the following trainings on SciSchield:\n\nLaboratory Safety Program Orientation\nFundamentals of Laboratory Safety\nHazardous Waste Training\nBiosafety Training\nCryogenic Liquids\nRegulated Medical Waste\nany other training specific to your work\n\nContact Rosie from the Ocean Genome Legacy Center to schedule the following trainings:\n\nShared Equipment Training\nAutoclave\nCryogeneics (Liquid Nitrogen)",
+    "crumbs": [
+      "Welcome",
+      "Onboarding"
+    ]
+  },
+  {
+    "objectID": "lab_equip_autoclave.html",
+    "href": "lab_equip_autoclave.html",
+    "title": "Autoclave (OGL)",
+    "section": "",
+    "text": "Edit this page\nThe protocol for using the autoclave in OGL.\n\n\n\nAn autoclave chamber is used to sterilize laboratory equipment, including liquids, by subjecting them to steam created at a high temperature and pressure. Autoclaving should be performed on the following items:\n\nContainers used while working with microorganisms\nGlassware used to store food for experimental organisms\nBiohazard waste containers\nPipette tip boxes\n\n\n\n\n\nReview or take the autoclave training on the Northeastern Environmental Health and Safety website.\nIt is mandatory to scheudle a 20 minute in-person training with Rosie Falco Poulin (r.falco@northeastern.edu) at the MSC to follow up on the online course.\nAlways unscrew jars or vials as the high pressure may cause them to explode if tightened.\n\n\n\n\n\nFill out autoclave sign up in binder\nMake sure all knobs are at zero\nLoad samples onto metal sheet inside the autoclave\nReset red arm to zero (top gauge). This arm keeps track of temperature maximum during the run\nTurn ON autoclave with green switch\nTurn bottom knob to fill water - wait until water reaches the front of the groove (might already have water in it)\nSwitch knob to sterilize\nSeal the door by turning clockwise (not too tight)\nLook on the chart:\n\nDetermine what you are autoclaving (wrapped vs unwrapped)\nSet temperature to the desired setting\nExample: Unwrapped = 3850 model, cold start, 32 min, 134 degrees\n\nSet timer (NOTE: Setting timer starts the run)\nCome back 52 minutes later (32 in autoclave + 20 to depressurize) - If the red gauge reads lower than your desired temperature, it didn’t get hot enough (due to too much water or too much glassware). Run it again, if needed, for slightly longer (~40 mins) and make sure it reaches the appropriate temperature (indicated by red arm)",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Autoclave (OGL)"
+    ]
+  },
+  {
+    "objectID": "lab_equip_autoclave.html#overview",
+    "href": "lab_equip_autoclave.html#overview",
+    "title": "Autoclave (OGL)",
+    "section": "",
+    "text": "An autoclave chamber is used to sterilize laboratory equipment, including liquids, by subjecting them to steam created at a high temperature and pressure. Autoclaving should be performed on the following items:\n\nContainers used while working with microorganisms\nGlassware used to store food for experimental organisms\nBiohazard waste containers\nPipette tip boxes",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Autoclave (OGL)"
+    ]
+  },
+  {
+    "objectID": "lab_equip_autoclave.html#tips-before-starting",
+    "href": "lab_equip_autoclave.html#tips-before-starting",
+    "title": "Autoclave (OGL)",
+    "section": "",
+    "text": "Review or take the autoclave training on the Northeastern Environmental Health and Safety website.\nIt is mandatory to scheudle a 20 minute in-person training with Rosie Falco Poulin (r.falco@northeastern.edu) at the MSC to follow up on the online course.\nAlways unscrew jars or vials as the high pressure may cause them to explode if tightened.",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Autoclave (OGL)"
+    ]
+  },
+  {
+    "objectID": "lab_equip_autoclave.html#protocol",
+    "href": "lab_equip_autoclave.html#protocol",
+    "title": "Autoclave (OGL)",
+    "section": "",
+    "text": "Fill out autoclave sign up in binder\nMake sure all knobs are at zero\nLoad samples onto metal sheet inside the autoclave\nReset red arm to zero (top gauge). This arm keeps track of temperature maximum during the run\nTurn ON autoclave with green switch\nTurn bottom knob to fill water - wait until water reaches the front of the groove (might already have water in it)\nSwitch knob to sterilize\nSeal the door by turning clockwise (not too tight)\nLook on the chart:\n\nDetermine what you are autoclaving (wrapped vs unwrapped)\nSet temperature to the desired setting\nExample: Unwrapped = 3850 model, cold start, 32 min, 134 degrees\n\nSet timer (NOTE: Setting timer starts the run)\nCome back 52 minutes later (32 in autoclave + 20 to depressurize) - If the red gauge reads lower than your desired temperature, it didn’t get hot enough (due to too much water or too much glassware). Run it again, if needed, for slightly longer (~40 mins) and make sure it reaches the appropriate temperature (indicated by red arm)",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Autoclave (OGL)"
+    ]
+  },
+  {
+    "objectID": "field_diving_general.html",
+    "href": "field_diving_general.html",
+    "title": "Diving General Info",
+    "section": "",
+    "text": "Diving General Info",
+    "crumbs": [
+      "Field Protocols",
+      "Diving",
+      "Diving General Info"
+    ]
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator"
+  },
+  {
+    "objectID": "people.html#remy-gatins-ph.d",
+    "href": "people.html#remy-gatins-ph.d",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator"
+  },
+  {
+    "objectID": "people.html#annabel-hughes",
+    "href": "people.html#annabel-hughes",
+    "title": "People",
+    "section": "Annabel Hughes",
+    "text": "Annabel Hughes\nPhD Student"
+  },
+  {
+    "objectID": "people.html#lee-fenuccio",
+    "href": "people.html#lee-fenuccio",
+    "title": "People",
+    "section": "Lee Fenuccio",
+    "text": "Lee Fenuccio\nCo-op Student"
+  },
+  {
+    "objectID": "people.html#future-students",
+    "href": "people.html#future-students",
+    "title": "People",
+    "section": "Future students",
+    "text": "Future students"
+  },
+  {
+    "objectID": "people.html#postdocs",
+    "href": "people.html#postdocs",
+    "title": "People",
+    "section": "Postdocs",
+    "text": "Postdocs"
+  },
+  {
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome"
   },
   {
     "objectID": "lab_gen_stableisotope.html",
