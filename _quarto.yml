@@ -61,6 +61,7 @@ website:
             - lab_molec_DNA_beadcleanup.qmd
             - lab_molec_illuminalibraryprep.qmd
             - lab_molec_adapter_concentration.qmd
+            - lee_test_coding.qmd
             
     
     - title: "Field Protocols"
