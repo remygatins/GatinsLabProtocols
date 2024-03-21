@@ -128,6 +128,10 @@ We added 250ng of DNA so we want an Adapter:insert molar ratio of 40:1. Since we
 
 **IMPORTANT**- Kapa beads should be at RT and well mixed using the vortexer
 
+- [ ] **PREP**: Thaw KAPA HiFi HotStart ReadyMix (2X) of the next step.
+
+- [ ] **PREP**: Warm elution buffer to 37°C
+
 - [ ] 4.1 In the same plate/tube(s), perform a 0.8X beadbased cleanup by combining the following:
 
 | Component | Volume | 1/3 Volume|Notes|
@@ -158,7 +162,7 @@ We added 250ng of DNA so we want an Adapter:insert molar ratio of 40:1. Since we
 - [ ] 4.11 Carefully remove and discard the ethanol. Try to remove all residual ethanol without disturbing the beads.
 
 - [ ] 4.12 Dry the beads at room temperature for 3 – 5 min, or until all of the ethanol has evaporated.
-      **Caution:** over drying the beads may result in reduced yield.
+      **Caution: over drying the beads may result in reduced yield.**
 
 - [ ] 4.13 Remove the plate/tube(s) from the magnet.
 
