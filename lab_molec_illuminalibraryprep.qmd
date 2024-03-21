@@ -79,6 +79,8 @@ Fragmentation time was previously optimized for 500bp fragments starting from th
 |--------------------|------|-------|
 |**Total Volume**|**60 µL**| **20 µL**|
 
+***OPTIONAL**: Pre-mix End Repair & A-Tailing Buffer and HyperPlus ERAT Enzyme Mix* and keep on ice prior to reaction setup, and dispense as a single solution.
+
 - [ ] 2.2 Vortex gently and spin down briefly. Return the reaction plate/tube(s) to ice. Proceed immediately to the next step.
     
 - [ ] 2.3 Incubate in a thermocycler programmed as outlined below. A heated lid is required for this step. If possible, set the temperature of the heated lid to ~85°C (instead of the usual 105°C).
