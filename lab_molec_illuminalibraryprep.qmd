@@ -96,7 +96,7 @@ Fragmentation time was previously optimized for 500bp fragments starting from th
 ## 3. Adapter Ligation
 
 - [ ] 3.1 Dilute adapter stocks to the appropriate concentration, as outlined in Table 4 (p. 5) of the manual.
-<img width="500" alt="" src="pictures/KapaHyperplus_Table4_Adapters.png">
+<img width="600" alt="center" src="pictures/KapaHyperplus_Table4_Adapters.png">
 
 - [ ] 3.2 In the same plate/tube(s) in which end repair andA-tailing was performed, assemble each adapter ligation reaction as follows:
 
