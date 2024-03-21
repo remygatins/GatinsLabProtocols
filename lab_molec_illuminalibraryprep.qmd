@@ -3,6 +3,8 @@
 ## KAPA HyperPlus kit
 Kit KR 1145
 
+[Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_molec_illuminalibraryprep.qmd)
+
 ![Manual](https://rochesequencingstore.com/wp-content/uploads/2017/10/KAPA-HyperPlus-Kit_KR1145-%E2%80%93-v5.19.pdf)
 
 Steps:
@@ -38,11 +40,13 @@ For optimal fragmentation results, **elute DNA in Elution Buffer (10 mM Tris-HCl
 | Component            | Volume  | 1/3 Volume|
 |:---------------------|:--------|:----------|
 |250ng DNA             | 35 µL   | 11.7 µL   |
-|KAPA Frag Bufer(10X)* | 5 µL    | 1.6µL     |
+|KAPA Frag Buffer(10X)* | 5 µL    | 1.6µL     |
 | KAPA Frag Enzyme*    | 10 µL   | 3.4 µL    |
 |----------------------|---------|-----------|
 |**Total Volume**      |**50 µL**|**16.7 µL**|
 ***OPTIONAL**: The KAPA Frag Buffer and Enzyme may be pre-mixed and kept on ice prior to reaction setup, and dispensed as a single solution*.
+
+- [ ] **PREP**: get the End Repair & A-Tailing Buffer out of the freezer to begin melting for next step.
 
 - [ ] 1.4 Vortex gently and spin down briefly. Return the plate/tue to ice and proceed immediately to the next step.
 - [ ] 1.5 Incubate in a thermocycler, pre-cooled to 4°C and programmed as outlined below. A heated lid is not required for this step. If used, set the temperature of the heated lid to ≤50°C.
@@ -60,8 +64,6 @@ Fragmentation time was previously optimized for 500bp fragments starting from th
 |350 bp| 10 min| 5- 20 min|
 |200 bp| 20 min| 10- 25 min|
 |150 bp| 30 min| 20- 40 min|
-
-- [ ] **PREP**: get the End Repair & A-Tailing Buffer out of the freezer to begin melting for next step.
 
 - [ ] 1.6 Transfer reactions to ice, and proceed immediately to End Repair and A-tailing (step 2).
 
