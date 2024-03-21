@@ -258,7 +258,7 @@ The KAPA Library Amplification Primer Mix (10X) is designed to eliminate or dela
 
 ### 7.a Uppercut
 
-We are first going to remove any fragments larger than > 600 bp
+*We are first going to remove any fragments larger than > 600 bp*
 
 - [ ] 7.1.1 First, add 13.3 µL of molecular H2O to increase the final volume after the PCR from 16.7 µL to 30 µL. 
 
@@ -281,7 +281,7 @@ We are first going to remove any fragments larger than > 600 bp
 
 ### 7.b Lowercut
 
-We are now going to retain fragments > ~300 bp
+*We are now going to retain fragments > ~300 bp*
 
 - [ ] 7.2.1 In the same plate/tube(s), perform a **0.72X** beadbased cleanup by combining the following:
 
