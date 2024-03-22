@@ -6,9 +6,9 @@ KS8001
 [Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_molec_DNA_beadcleanup.qmd)
 
 ## Preparation:
-- [ ]   1. Take beads out of refrigerator and allow them to come to room temperature before beginning (~30 min) . Vortex well.
-- [ ]   2. Prepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you'll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.
-- [ ]   3. Prepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).
+- [ ] 1. Take beads out of refrigerator and allow them to come to room temperature before beginning (~30 min) . Vortex well.
+- [ ] 2. Prepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you'll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.
+- [ ] 3. Prepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).
 
 ## Protocol:
 - [ ] 1. Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.
