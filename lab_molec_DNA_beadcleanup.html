@@ -127,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./lab_molec_dnaextraction.html">Molecular Protocols</a></li><li class="breadcrumb-item"><a href="./lab_molec_DNA_beadcleanup.html">3x Bead Cleanup for Genomic DNA</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./lab_molec_dnaextraction.html">Molecular Protocols</a></li><li class="breadcrumb-item"><a href="./lab_molec_DNA_beadcleanup.html">DNA Bead Cleanup</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -214,7 +214,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./lab_molec_DNA_beadcleanup.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">3x Bead Cleanup for Genomic DNA</span></a>
+ <span class="menu-text">DNA Bead Cleanup</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -241,9 +241,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#x-bead-cleanup-for-genomic-dna" id="toc-x-bead-cleanup-for-genomic-dna" class="nav-link active" data-scroll-target="#x-bead-cleanup-for-genomic-dna">3x Bead Cleanup for Genomic DNA</a>
+  <li><a href="#dna-bead-cleanup" id="toc-dna-bead-cleanup" class="nav-link active" data-scroll-target="#dna-bead-cleanup">DNA Bead Cleanup</a>
   <ul class="collapse">
-  <li><a href="#kapa-pure-beads" id="toc-kapa-pure-beads" class="nav-link" data-scroll-target="#kapa-pure-beads">KAPA Pure Beads</a></li>
+  <li><a href="#kapa-pure-beads-3x-bead-cleanup-for-genomic-dna" id="toc-kapa-pure-beads-3x-bead-cleanup-for-genomic-dna" class="nav-link" data-scroll-target="#kapa-pure-beads-3x-bead-cleanup-for-genomic-dna">KAPA Pure Beads 3x Bead Cleanup for Genomic DNA</a></li>
   <li><a href="#preparation" id="toc-preparation" class="nav-link" data-scroll-target="#preparation">Preparation:</a></li>
   <li><a href="#protocol" id="toc-protocol" class="nav-link" data-scroll-target="#protocol">Protocol:</a></li>
   </ul></li>
@@ -256,39 +256,24 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="x-bead-cleanup-for-genomic-dna" class="level1">
-<h1>3x Bead Cleanup for Genomic DNA</h1>
-<section id="kapa-pure-beads" class="level2">
-<h2 class="anchored" data-anchor-id="kapa-pure-beads">KAPA Pure Beads</h2>
+<section id="dna-bead-cleanup" class="level1">
+<h1>DNA Bead Cleanup</h1>
+<section id="kapa-pure-beads-3x-bead-cleanup-for-genomic-dna" class="level2">
+<h2 class="anchored" data-anchor-id="kapa-pure-beads-3x-bead-cleanup-for-genomic-dna">KAPA Pure Beads 3x Bead Cleanup for Genomic DNA</h2>
 <p>KS8001 <a href="https://rochesequencingstore.com/wp-content/uploads/2022/07/KAPA-Pure-Beads-Technical-Data-Sheet.pdf">KAPA cleanup bead protocol</a></p>
 <p><a href="https://github.com/remygatins/GatinsLab/edit/main/lab_molec_DNA_beadcleanup.qmd">Edit this page</a></p>
 </section>
 <section id="preparation" class="level2">
 <h2 class="anchored" data-anchor-id="preparation">Preparation:</h2>
 <ol type="1">
-<li>Take beads out of refrigerator and allow them to come to room temperature before beginning. Vortex well.</li>
+<li>Take beads out of refrigerator and allow them to come to room temperature before beginning (~30 min) . Vortex well.</li>
 <li>Prepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.</li>
 <li>Prepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).</li>
 </ol>
 </section>
 <section id="protocol" class="level2">
 <h2 class="anchored" data-anchor-id="protocol">Protocol:</h2>
-<ol type="1">
-<li>Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.</li>
-<li>Incubate tubes/plate for 15 minutes to allow beads to bind to DNA.</li>
-<li>Place tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.</li>
-<li>Discard supernatant.</li>
-<li>On magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume.</li>
-<li>Incubate for &gt;30 seconds, then remove and discard supernatant.</li>
-<li>Add another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.</li>
-<li>Dry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).</li>
-<li>Remove plate from magnet.</li>
-<li>Resuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL.</li>
-<li>Allow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).</li>
-<li>Place tubes/plate back on magnet.</li>
-<li>Transfer your desired final sample volume to a final labeled set of tubes/plate.</li>
-<li>Quantify!</li>
-</ol>
+<p>[ ] 1. Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin. [ ] 2. Incubate tubes/plate for 15 minutes to allow beads to bind to DNA. [ ] 3. Place tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins. [ ] 4. Discard supernatant. [ ] 5. On magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume to 200uL. [ ] 6. Incubate for &gt;30 seconds, then remove and discard supernatant. [ ] 7. Add another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant. [ ] 8. Dry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads). [ ] 9. Remove plate from magnet. [ ] 10. Resuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL. This is because you will lose some of the volume during the final elution step. [ ] 11. Allow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield). [ ] 12. Place tubes/plate back on magnet. [ ] 13. Transfer your desired final sample volume to a final labeled set of tubes/plate. [ ] 14. Quantify!</p>
 
 
 </section>
