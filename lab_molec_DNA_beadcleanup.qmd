@@ -1,28 +1,28 @@
-# 3x Bead Cleanup for Genomic DNA
-## KAPA Pure Beads
+# DNA Bead Cleanup
+## KAPA Pure Beads 3x Bead Cleanup for Genomic DNA
 KS8001
 [KAPA cleanup bead protocol](https://rochesequencingstore.com/wp-content/uploads/2022/07/KAPA-Pure-Beads-Technical-Data-Sheet.pdf)
 
 [Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_molec_DNA_beadcleanup.qmd)
 
 ## Preparation:
-  1. Take beads out of refrigerator and allow them to come to room temperature before beginning. Vortex well.
+  1. Take beads out of refrigerator and allow them to come to room temperature before beginning (~30 min) . Vortex well.
   2. Prepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you'll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.
   3. Prepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).
 
 ## Protocol:
-  1. Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.
-  2. Incubate tubes/plate for 15 minutes to allow beads to bind to DNA.
-  3. Place tubes/plate on magnet and incubate until liquid is clear.
+ [ ] 1. Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.
+ [ ] 2. Incubate tubes/plate for 15 minutes to allow beads to bind to DNA.
+ [ ] 3. Place tubes/plate on magnet and incubate until liquid is clear.
     ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.
-  4. Discard supernatant.
-  5. On magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume.
-  6. Incubate for >30 seconds, then remove and discard supernatant.
-  7. Add another 100uL of ethanol, incubate for >30 more seconds and discard the supernatant.
-  8. Dry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).
-  9. Remove plate from magnet.
-  10. Resuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL.
-  11. Allow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).
-  12. Place tubes/plate back on magnet.
-  13. Transfer your desired final sample volume to a final labeled set of tubes/plate. 
-  14. Quantify!
+ [ ] 4. Discard supernatant.
+ [ ] 5. On magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume to 200uL.
+ [ ] 6. Incubate for >30 seconds, then remove and discard supernatant.
+ [ ] 7. Add another 100uL of ethanol, incubate for >30 more seconds and discard the supernatant.
+ [ ] 8. Dry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).
+ [ ] 9. Remove plate from magnet.
+ [ ] 10. Resuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL. This is because you will lose some of the volume during the final elution step. 
+ [ ] 11. Allow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).
+ [ ] 12. Place tubes/plate back on magnet.
+ [ ] 13. Transfer your desired final sample volume to a final labeled set of tubes/plate. 
+ [ ] 14. Quantify!
