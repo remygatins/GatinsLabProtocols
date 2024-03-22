@@ -42,7 +42,18 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome\n\n\n\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Welcome",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#gatins-lab-protocols-website",
+    "href": "index.html#gatins-lab-protocols-website",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
     "crumbs": [
       "Welcome",
       "Welcome"
