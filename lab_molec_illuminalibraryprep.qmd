@@ -7,18 +7,6 @@ Kit KR 1145
 
 ![Manual](https://rochesequencingstore.com/wp-content/uploads/2017/10/KAPA-HyperPlus-Kit_KR1145-%E2%80%93-v5.19.pdf)
 
-Steps:
-  1. [Fragmentation](#1.-fragmentation).   
-  2. [End Repair and A-tailing](#2-end-repair-and-a-tailing).     
-  3. [Adapter Ligation](#3-adapter-ligation)  
-  4. [Post Ligation Cleanup](#4-post-ligation-cleanup)  
-  5. [Library Amplification](#5-library-amplification)   
-  6. [Post-ligation Cleanup](#6-post-ligation-cleanup)  
-  7. [Size Selection](#7-size-selection)    
-    7a. [Uppercut](#7a-uppercut)    
-    7b. [Lowercut](#7b-lowercut)    
-  8. [Quality Check](#qc)    
-
 ## 0. Prepare DNA
 
 Removal of EDTA from DNA samples prior to fragmentation is recommended to ensure consistent
