@@ -276,9 +276,9 @@ The KAPA Library Amplification Primer Mix (10X) is designed to eliminate or dela
 | Component | Volume | 1/3 Volume|Notes|
 |-----------|--------|-----------|-----|
 | Uppercut supernatant (Amplification product) | 50 µL  | 46.8 µL   ||
-| KAPA cleanup beads (**0.72X**) | 36 µL | 33.7 µL | use 21.6 µL calculated from prior volume of 30 µL|
+| KAPA cleanup beads (**0.72X**) | 36 µL | 21.6 µL ||
 |--------------------|------|------|------|
-|**Total Volume**|**86 µL**| **80.5 µL**||
+|**Total Volume**|**86 µL**| **68.4 µL**||
 
 - [ ] 7.b.2 Mix thoroughly by vortexing and/or pipetting up and down multiple times.
 
