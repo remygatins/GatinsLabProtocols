@@ -42,7 +42,7 @@ For optimal fragmentation results, **elute DNA in Elution Buffer (10 mM Tris-HCl
 | Step | Temp | Time |
 |-----------|--------|-----------|
 | Pre-cool block  |  4°C  | N/A  |
-|Fragmentation| 37°C| 7:45* |
+|Fragmentation| 37°C| 7:00* |
 |HOLD| 4°C| ∞ |
 Fragmentation time was previously optimized for 500bp fragments starting from the optimization table below
 
@@ -108,7 +108,7 @@ We added 250ng of DNA so we want an Adapter:insert molar ratio of 40:1. Since we
 
 - [ ] 3.3 Mix thoroughly and centrifuge briefly.
       
-- [ ] 3.4 Incubate at 20°C for 30 min.
+- [ ] 3.4 Incubate at 20°C for 15 min.
 
 - [ ] 3.5 Proceed immediately to Post-ligation Cleanup (step 4).
 
