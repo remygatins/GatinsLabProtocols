@@ -14,7 +14,7 @@ There are a few different types of SALs, but we will be submitting a [Scientific
 ** *Will continue updating after we hear back about our application! - Annabel 03/14/2024*
 
 ### Florida Keys National Marine Sanctuary Permitting
-Permitting in the Florida Keys is very tricky! There are [designated marine zones](https://floridakeys.noaa.gov/fknms_map/welcome.html) but to conduct any species collections in waters along the keys even outside of these zones requires a [NOAA National Marine Sanctuaries Permit Application](https://sanctuaries.noaa.gov/management/permits/). 
+Permitting in the Florida Keys is very tricky! There are [designated marine zones](https://floridakeys.noaa.gov/fknms_map/welcome.html) and to conduct any species collections in waters along the keys in these zones requires a [NOAA National Marine Sanctuaries Permit Application](https://sanctuaries.noaa.gov/management/permits/). 
 
 For questions regarding FKNMS permits, contact **Dr. Harrison Albert**:
 
@@ -53,4 +53,11 @@ It seemed like the permit application could be filled out with **Throughout sanc
 >
 >Dr. Harrison
 
-** *Will continue updating after we hear back about our application! - Annabel 03/14/2024*
+To collect fish samples along the Keys outside of these special zones, no FKNMS permit is necessary. These permits seem to be especially important for any work disturbing the seafloor such as coral coring, for example, but to just spear some fish we should be good! See this email from Kyle Phillips, a scientist at the Keys Marine Laboratory in Layton, FL:
+
+>You should only need a FKNMS permit if you wish to collect specimens within special areas such as SPAs, ERs, or ROAs that're within the sanctuary. My initial thoughts are that this won't be necessary, we can hopefully find these fish at patch reefs outside of these special areas (still within the sanctuary), so it's likely you'll just need the SAL from FWC.
+> ...
+>Just to clarify the sanctuary stuff, all sites that we would take you to are within the FKNMS. It's just that with fish collections, you'd only need a FKNMS permit if you were disturbing the seafloor or collecting in a 'special area' like a ROA, ER, etc (which we shouldn't need to do). We'll be good though, just wanted to clear that up a bit.
+
+
+** *Will continue updating after we hear back about our application! - Annabel 05/31/2024*
