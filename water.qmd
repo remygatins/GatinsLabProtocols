@@ -1,0 +1,7 @@
+# Types of Water
+
+- **Distilled water**: water that has been evaporated and condensed to increase purity
+- *Deionized (DI) water*: water that has ions removed using ion exchange (e..g., osmosis)
+- *MilliQ water*: is DI water but with higher purity. Water has been deionised/demineralised and gone through filtration. MilliQ water can replace DI water but not the other way around. This is usually used for autovclave, water baths, buffers, etc
+- *Nuclease free water*- Distilled water free of DNAse and RNAse. used for PCR, sequencing, and buffers
+- *Molecular grade water*: Ultrapure water (basically a combination of Milli-Q and Nuclease free). Used for sensitice processes e.g., PCR, qPCR, RT-PCR, etc
