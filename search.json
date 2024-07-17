@@ -465,49 +465,49 @@
   {
     "objectID": "low_te_buffer.html",
     "href": "low_te_buffer.html",
-    "title": "Protocol for making 20x Low TE Buffer",
+    "title": "Gatins lab",
     "section": "",
-    "text": "Edit this page\n\n\n-[x] Tris base -[x] EDTA (Ethylenediamine Tetraacetic Acid, Disodium Salt Dihydrate) -[x] HCL -[X] DI water -[x] stir bar\n\n\n\n-[x] magnetic stir plate -[x] pH meter\n\n\n\n\n-Measure out 800 ml deionized water into a graduated cylinder. -Tranfer to large (1000 ml) erlenmeyer flask\n-Add 24.22g Tris Base -Add 0.584g EDTA\n-Add magnetic stir bar -Mix for 5 mins at 300 rpm on magnetic stir plate\n-Set up magnetic stir plate and pH meter in fume hood -calibrate pH meter if it hasn’t been calibrated recently -Use 2-3 pH standards, find directions for calibration elsewhere, might be a good thing to add -Keep pH meter in a liquid always! Do not let probe dry out!\n-Keep mixture mixing on magnetic stir plate at 300rpm -Put the pH meter’s probe into mixture -Slowly add quantities of HCl, checking pH as you go, until pH is 8.0 -As pH lowers, more HCl will be required to continue to lower it since pH is a log scale -Last time it took (XXX) amount of HCl\n-Bring volume to 1L with DI water\n-Tranfer mixture into a long-term autoclave-safe storage container\n-Autoclave for 50 min with cap tightened to a single turn -Store",
+    "text": "#20x Low TE Buffer Edit this page",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
-      "Protocol for making 20x Low TE Buffer"
+      "Materials"
     ]
   },
   {
     "objectID": "low_te_buffer.html#materials",
     "href": "low_te_buffer.html#materials",
-    "title": "Protocol for making 20x Low TE Buffer",
-    "section": "",
-    "text": "-[x] Tris base -[x] EDTA (Ethylenediamine Tetraacetic Acid, Disodium Salt Dihydrate) -[x] HCL -[X] DI water -[x] stir bar",
+    "title": "Gatins lab",
+    "section": "Materials",
+    "text": "Materials\n\nTris base\nEDTA (Ethylenediamine Tetraacetic Acid, Disodium Salt Dihydrate)\nHCL\nDI water\nstir bar",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
-      "Protocol for making 20x Low TE Buffer"
+      "Materials"
     ]
   },
   {
     "objectID": "low_te_buffer.html#equipment",
     "href": "low_te_buffer.html#equipment",
-    "title": "Protocol for making 20x Low TE Buffer",
-    "section": "",
-    "text": "-[x] magnetic stir plate -[x] pH meter",
+    "title": "Gatins lab",
+    "section": "Equipment",
+    "text": "Equipment\n\nmagnetic stir plate\npH meter",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
-      "Protocol for making 20x Low TE Buffer"
+      "Materials"
     ]
   },
   {
     "objectID": "low_te_buffer.html#protocol",
     "href": "low_te_buffer.html#protocol",
-    "title": "Protocol for making 20x Low TE Buffer",
-    "section": "",
-    "text": "-Measure out 800 ml deionized water into a graduated cylinder. -Tranfer to large (1000 ml) erlenmeyer flask\n-Add 24.22g Tris Base -Add 0.584g EDTA\n-Add magnetic stir bar -Mix for 5 mins at 300 rpm on magnetic stir plate\n-Set up magnetic stir plate and pH meter in fume hood -calibrate pH meter if it hasn’t been calibrated recently -Use 2-3 pH standards, find directions for calibration elsewhere, might be a good thing to add -Keep pH meter in a liquid always! Do not let probe dry out!\n-Keep mixture mixing on magnetic stir plate at 300rpm -Put the pH meter’s probe into mixture -Slowly add quantities of HCl, checking pH as you go, until pH is 8.0 -As pH lowers, more HCl will be required to continue to lower it since pH is a log scale -Last time it took (XXX) amount of HCl\n-Bring volume to 1L with DI water\n-Tranfer mixture into a long-term autoclave-safe storage container\n-Autoclave for 50 min with cap tightened to a single turn -Store",
+    "title": "Gatins lab",
+    "section": "Protocol",
+    "text": "Protocol\n\n\n\n\nMeasure out 800 ml deionized water into a graduated cylinder.\nTranfer to large (1000 ml) erlenmeyer flask\n\n\n\n\n\nAdd 24.22g Tris Base\nAdd 0.584g EDTA\n\n\n\n\n\nAdd magnetic stir bar\nMix for 5 mins at 300 rpm on magnetic stir plate\n\n\n\n\n\nSet up magnetic stir plate and pH meter in fume hood\nCalibrate pH meter if it hasn’t been calibrated recently\n\nUse 2-3 pH standards, find directions for calibration elsewhere, might be a good thing to add\nKeep pH meter in a liquid always! Do not let probe dry out!\n\n\n\n\n\n\nKeep mixture mixing on magnetic stir plate at 300rpm\nPut the pH meter’s probe into mixture\nSlowly add quantities of HCl, checking pH as you go, until pH is 8.0\n\nAs pH lowers, more HCl will be required to continue to lower it since pH is a log scale\nLast time it took 10.5mL amount of HCl, I recommend doing 1000 uL increment amounts to start and then do less as you get closer to 8.0\nDo not go under pH 8.0 :( idk how to bring it back up\n\n\n\n\n\n\nBring volume to 1L with DI water\n\n\n\n\n\nTranfer mixture into a long-term autoclave-safe storage container\n\n\n\n\n\nAutoclave for 50 min with cap tightened to a single turn\nStore",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
-      "Protocol for making 20x Low TE Buffer"
+      "Materials"
     ]
   },
   {
