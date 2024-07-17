@@ -1,0 +1,12 @@
+# Protocol for making low TE buffer
+
+
+**20x TE (dry reagents, Tris Base):**
+1. measure out 800 ml deionized water in a graduated cylinder
+2. combine DI water with 24.22g Tris Base and 0.584g EDTA in 1000 ml erlenmeyer flask
+4. add magnetic stir bar
+5. mix for 5 mins at 300 rpm with no heat
+6. adjust pH to 8 in fume hood using HCl (adding small quantaties at a time)
+7. bring volume to 1 L with DI water
+8. transfer mixture long term storage container
+9. autoclave 
