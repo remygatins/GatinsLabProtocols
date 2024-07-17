@@ -49,6 +49,7 @@ website:
         - section: "General Protocols"
           contents: 
             - lab_generalprotocols.qmd
+            - water.qmd
             - lab_gen_stableisotope.qmd
         - section: "Equipment"
           contents:
