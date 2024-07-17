@@ -465,13 +465,49 @@
   {
     "objectID": "low_te_buffer.html",
     "href": "low_te_buffer.html",
-    "title": "Protocol for making low TE buffer",
+    "title": "Protocol for making 20x Low TE Buffer",
     "section": "",
-    "text": "Protocol for making low TE buffer\n20x TE (dry reagents, Tris Base): 1. measure out 800 ml deionized water in a graduated cylinder 2. combine DI water with 24.22g Tris Base and 0.584g EDTA in 1000 ml erlenmeyer flask 4. add magnetic stir bar 5. mix for 5 mins at 300 rpm with no heat 6. adjust pH to 8 in fume hood using HCl (adding small quantaties at a time) 7. bring volume to 1 L with DI water 8. transfer mixture long term storage container 9. autoclave",
+    "text": "Edit this page\n\n\n-[x] Tris base -[x] EDTA (Ethylenediamine Tetraacetic Acid, Disodium Salt Dihydrate) -[x] HCL -[X] DI water -[x] stir bar\n\n\n\n-[x] magnetic stir plate -[x] pH meter\n\n\n\n\n-Measure out 800 ml deionized water into a graduated cylinder. -Tranfer to large (1000 ml) erlenmeyer flask\n-Add 24.22g Tris Base -Add 0.584g EDTA\n-Add magnetic stir bar -Mix for 5 mins at 300 rpm on magnetic stir plate\n-Set up magnetic stir plate and pH meter in fume hood -calibrate pH meter if it hasn’t been calibrated recently -Use 2-3 pH standards, find directions for calibration elsewhere, might be a good thing to add -Keep pH meter in a liquid always! Do not let probe dry out!\n-Keep mixture mixing on magnetic stir plate at 300rpm -Put the pH meter’s probe into mixture -Slowly add quantities of HCl, checking pH as you go, until pH is 8.0 -As pH lowers, more HCl will be required to continue to lower it since pH is a log scale -Last time it took (XXX) amount of HCl\n-Bring volume to 1L with DI water\n-Tranfer mixture into a long-term autoclave-safe storage container\n-Autoclave for 50 min with cap tightened to a single turn -Store",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
-      "Protocol for making low TE buffer"
+      "Protocol for making 20x Low TE Buffer"
+    ]
+  },
+  {
+    "objectID": "low_te_buffer.html#materials",
+    "href": "low_te_buffer.html#materials",
+    "title": "Protocol for making 20x Low TE Buffer",
+    "section": "",
+    "text": "-[x] Tris base -[x] EDTA (Ethylenediamine Tetraacetic Acid, Disodium Salt Dihydrate) -[x] HCL -[X] DI water -[x] stir bar",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Protocol for making 20x Low TE Buffer"
+    ]
+  },
+  {
+    "objectID": "low_te_buffer.html#equipment",
+    "href": "low_te_buffer.html#equipment",
+    "title": "Protocol for making 20x Low TE Buffer",
+    "section": "",
+    "text": "-[x] magnetic stir plate -[x] pH meter",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Protocol for making 20x Low TE Buffer"
+    ]
+  },
+  {
+    "objectID": "low_te_buffer.html#protocol",
+    "href": "low_te_buffer.html#protocol",
+    "title": "Protocol for making 20x Low TE Buffer",
+    "section": "",
+    "text": "-Measure out 800 ml deionized water into a graduated cylinder. -Tranfer to large (1000 ml) erlenmeyer flask\n-Add 24.22g Tris Base -Add 0.584g EDTA\n-Add magnetic stir bar -Mix for 5 mins at 300 rpm on magnetic stir plate\n-Set up magnetic stir plate and pH meter in fume hood -calibrate pH meter if it hasn’t been calibrated recently -Use 2-3 pH standards, find directions for calibration elsewhere, might be a good thing to add -Keep pH meter in a liquid always! Do not let probe dry out!\n-Keep mixture mixing on magnetic stir plate at 300rpm -Put the pH meter’s probe into mixture -Slowly add quantities of HCl, checking pH as you go, until pH is 8.0 -As pH lowers, more HCl will be required to continue to lower it since pH is a log scale -Last time it took (XXX) amount of HCl\n-Bring volume to 1L with DI water\n-Tranfer mixture into a long-term autoclave-safe storage container\n-Autoclave for 50 min with cap tightened to a single turn -Store",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Protocol for making 20x Low TE Buffer"
     ]
   },
   {
