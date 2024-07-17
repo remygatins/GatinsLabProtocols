@@ -247,11 +247,16 @@
     ]
   },
   {
-    "objectID": "lee_test_code.html",
-    "href": "lee_test_code.html",
-    "title": "Gatins lab",
+    "objectID": "water.html",
+    "href": "water.html",
+    "title": "Types of Water",
     "section": "",
-    "text": "tubes = int(input(“How many samples?”)) og_dna = 1 / float(input(“Are you doing full reaction (1) or 1/3 (3)?”)) extra = int(input(“How many extra samples worth of components do you want?”))\nfrag_buffer = (5og_dna)  (tubes + extra) frag_enzyme = (10og_dna)  (tubes + extra) print(“Frag buffer:”, frag_buffer) print(“Frag enzyme:”, frag_enzyme)"
+    "text": "Types of Water\n\nDistilled water: water that has been evaporated and condensed to increase purity\nDeionized (DI) water: water that has ions removed using ion exchange (e..g., osmosis)\nMilliQ water: is DI water but with higher purity. Water has been deionised/demineralised and gone through filtration. MilliQ water can replace DI water but not the other way around. This is usually used for autovclave, water baths, buffers, etc\nNuclease free water- Distilled water free of DNAse and RNAse. used for PCR, sequencing, and buffers\nMolecular grade water: Ultrapure water (basically a combination of Milli-Q and Nuclease free). Used for sensitice processes e.g., PCR, qPCR, RT-PCR, etc",
+    "crumbs": [
+      "Lab Protocols",
+      "General Protocols",
+      "Types of Water"
+    ]
   },
   {
     "objectID": "lab_molec_DNA_beadcleanup.html",
@@ -300,6 +305,13 @@
       "Molecular Protocols",
       "DNA Bead Cleanup"
     ]
+  },
+  {
+    "objectID": "lee_test_code.html",
+    "href": "lee_test_code.html",
+    "title": "Gatins lab",
+    "section": "",
+    "text": "tubes = int(input(“How many samples?”)) og_dna = 1 / float(input(“Are you doing full reaction (1) or 1/3 (3)?”)) extra = int(input(“How many extra samples worth of components do you want?”))\nfrag_buffer = (5og_dna)  (tubes + extra) frag_enzyme = (10og_dna)  (tubes + extra) print(“Frag buffer:”, frag_buffer) print(“Frag enzyme:”, frag_enzyme)"
   },
   {
     "objectID": "research.html#hybridization",
