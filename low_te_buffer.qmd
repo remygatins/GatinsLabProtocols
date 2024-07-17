@@ -1,16 +1,16 @@
-#20x Low TE Buffer
+# 20x Low TE Buffer
 [Edit this page](https://github.com/remygatins/GatinsLab/edit/main/low_te_buffer.qmd)
 
 ## Materials
-- [x] Tris base
-- [x] EDTA (Ethylenediamine Tetraacetic Acid, Disodium Salt Dihydrate)
-- [x] HCL
-- [X] DI water
-- [x] stir bar
+- [ ] Tris base
+- [ ] EDTA (Ethylenediamine Tetraacetic Acid, Disodium Salt Dihydrate)
+- [ ] HCL
+- [ ] DI water
+- [ ] stir bar
 
 ## Equipment
-- [x] magnetic stir plate
-- [x] pH meter
+- [ ] magnetic stir plate
+- [ ] pH meter
 
 
 ## Protocol
