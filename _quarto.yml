@@ -62,6 +62,7 @@ website:
             - lab_molec_DNA_beadcleanup.qmd
             - lab_molec_illuminalibraryprep.qmd
             - lab_molec_adapter_concentration.qmd
+            - gel_electrophoresis.qmd
             - low_te_buffer.qmd
             
     
