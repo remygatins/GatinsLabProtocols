@@ -265,6 +265,13 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#protocol-beginning" id="toc-protocol-beginning" class="nav-link" data-scroll-target="#protocol-beginning">Protocol Beginning</a></li>
   </ul></li>
+  <li><a href="#troubleshooting" id="toc-troubleshooting" class="nav-link" data-scroll-target="#troubleshooting"><strong>Troubleshooting</strong></a>
+  <ul class="collapse">
+  <li><a href="#agarose-percentages" id="toc-agarose-percentages" class="nav-link" data-scroll-target="#agarose-percentages">Agarose Percentages</a></li>
+  <li><a href="#wavy-sample-or-ladder-bands" id="toc-wavy-sample-or-ladder-bands" class="nav-link" data-scroll-target="#wavy-sample-or-ladder-bands">Wavy Sample or Ladder Bands</a></li>
+  <li><a href="#e1-error-on-voltage-machine" id="toc-e1-error-on-voltage-machine" class="nav-link" data-scroll-target="#e1-error-on-voltage-machine">E1 Error on Voltage Machine</a></li>
+  <li><a href="#streaky-samples" id="toc-streaky-samples" class="nav-link" data-scroll-target="#streaky-samples">Streaky Samples</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 </nav>
@@ -369,7 +376,7 @@ GelRed Info
 <ol start="6" type="1">
 <li><p>Pour the gel.</p>
 <ol type="a">
-<li>Place gel tray in empty gel rig (dry, no TAE). Flip its orientation so it in confined (SEE IMAGE BELOW). Wet sides of tray before placing in rig so it will be easier to take out later.</li>
+<li>Place gel tray in empty gel rig (dry, no TAE). Flip its orientation so it in confined (SEE IMAGE BELOW). Wet the red rubber gaskets of tray before placing in rig so it will be easier to take out later. <img width="329" alt="Screen Shot 2023-03-27 at 10 13 46 AM" src="https://user-images.githubusercontent.com/122108419/227965749-c42c0fae-27ca-400f-b826-46acb3d169e2.png"></li>
 <li>Pour gel slowly to avoid bubbles.
 <ol type="i">
 <li>If bubbles form, you can pop them using a pipette tip.</li>
@@ -543,6 +550,54 @@ Important Power Supply Safety Notes
 <li><p>Rinse gel tray and let dry on drying rack above the sink in the gel room.</p></li>
 <li><p>Interpret your gel.</p></li>
 </ol>
+<ul>
+<li><p>First, ensure your ladder ran cleanly. You want to see relatively straight and separated lines. Some will have higher feedback when imaging.</p></li>
+<li><p>Use the ladder to determine the size in basepairs of your DNA samples.</p></li>
+</ul>
+<p><strong>Thermo Fisher GeneRuler 1 kb Ladder, XXX kbp</strong> (ladder we have in the lab)</p>
+<p>(LADDER IMAGE HERE)</p>
+<ul>
+<li>(FIX THIS) As shown in the image above, the ladder has 15 distinct bands representing strands of 75 bp at the lowest band to 20,000 bp at the topmost band. In practice, however, lines representing 3,000-20,000 bp tend to be squished together. What matters most for genomic DNA to be sent for sequencing is ensuring your DNA strands are long enough (&gt; 3,000 bp) to indicate a successful extraction.</li>
+</ul>
+<p><strong>Example Gel</strong></p>
+<p>(Example gel image here)</p>
+<p>2% agarose gel with ladders in the rightmost and leftmost wells, a blank in the second well from the right, and three oyster genomic DNA samples in the remaining wells.</p>
+<ul>
+<li><p>Both ladders ran nicely. The bands are mostly spaced out with minimal streaking.</p>
+<ul>
+<li><strong>Note</strong> the clustered bands in the ladders for 3,000-20,000 bp</li>
+</ul></li>
+<li><p>The second well, a blank, contains nothing beyond loading dye. As there was no sample running there, the image shows no DNA present, which is as it should be.</p></li>
+<li><p>Samples 1 and 2 ran properly- each has a clear distinct line placing them between 3,000-20,000 bp in length (appropriate for genomic DNA). These samples appear to be in a good state for sequencing.</p></li>
+<li><p>Sample 3, on the other hand, is streaky, indicating that the DNA likely degraded during the electrophoresis process. There is one bright band up near the top in the 3,000-20,000 bp range, which is good, but this sample probably isn’t in the best shape for sequencing.</p></li>
+</ul>
+</section>
+</section>
+<section id="troubleshooting" class="level2">
+<h2 class="anchored" data-anchor-id="troubleshooting"><strong>Troubleshooting</strong></h2>
+<section id="agarose-percentages" class="level3">
+<h3 class="anchored" data-anchor-id="agarose-percentages">Agarose Percentages</h3>
+<p><a href="https://northeastern.zoom.us/j/92075400920?pwd=NjRRdHd6emlyVlRLcXlOejRyb1NlUT09">What happens if I make the wrong percent agarose gel?</a></p>
+</section>
+<section id="wavy-sample-or-ladder-bands" class="level3">
+<h3 class="anchored" data-anchor-id="wavy-sample-or-ladder-bands">Wavy Sample or Ladder Bands</h3>
+<ul>
+<li><p>When removing the combs from a set gel, remove very gently and pull them straight up and out to keep pieces of gel from getting loosened and knocked into the well.</p></li>
+<li><p>Make sure not to touch the sides of the wells with the pipette tip when adding samples in.</p></li>
+</ul>
+</section>
+<section id="e1-error-on-voltage-machine" class="level3">
+<h3 class="anchored" data-anchor-id="e1-error-on-voltage-machine">E1 Error on Voltage Machine</h3>
+<ul>
+<li><p>The voltage machine may give an “E1” error and will not begin running. When this happens, check that there is enough TAE buffer in the rig such that the ends of the electrodes are submerged. Add more 1X TAE if not.</p></li>
+<li><p>Also check that electrodes are tightened on each side. The red one on rig 2 tends to get a bit loose.</p></li>
+</ul>
+</section>
+<section id="streaky-samples" class="level3">
+<h3 class="anchored" data-anchor-id="streaky-samples">Streaky Samples</h3>
+<ul>
+<li>Your sample may have degraded. Be careful not to leave DNA samples in the fridge for more than 4 or 5 days and try not to thaw and refreeze samples too many times.</li>
+</ul>
 
 
 </section>
