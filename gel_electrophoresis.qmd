@@ -110,7 +110,7 @@ GelRed is light sentsitive, dont keep it out for long! It is also bubbly and ten
 10. Fill rig with enough 1X TAE Buffer to just cover the entire gel.
     a.	The rig doesn’t need to be filled all the way to the line, just enough to cover the gel.
 
-11. Create ladder and DNA sample mixtures to load.
+11. Create ladder and DNA dye/sample solutions to load.
 	a. Thaw DNA, ladder, and TriTrack loading dye. Keep on ice once thawed.
 	b. Cut a piece of parafilm and tape to blue tray, waxy side up. Label where samples will go.
 
@@ -118,15 +118,108 @@ GelRed is light sentsitive, dont keep it out for long! It is also bubbly and ten
 ## Loading DNA into gel wells
 Right before taking your 3ul of DNA, make sure to vortex the sample to ensure DNA is evenly dispersed throughout the tube. Forgetting to vortex can result in gels where no band is visible, or super streaky, as DNA may be stuck on the bottom of the sample well rather than suspended in the buffer.
 :::	
+
 	c. Create ladder following table below. Vortex and centrifuge ladder before using. 
 	    i. (LADDER TABLE HERE)
 	    ii. Pipette 1ul ladder, 1ul TriTrack loading dye, and 4ul DI H20 per 2 ladders onto parafilm. 
 	    iii. Pipette up and down to mix.
-	d. Create DNA sample mixtures following table below.  
+	d. Create DNA dye/sample solutions following table below.  
 	    i. (DNA TABLE HERE)
 	    ii. Pipette 1uL loading dye onto parafilm for each sample. 
 	    iii. Using **filtered tips** pipette DNA up and down when pipetting out. Pipette the 3 uL DNA onto parafilm.
 	    iv. Pipette DNA and loading dye up and down on parafilm to mix. 
+
+12. Load Gel
+	a. Pipette 3 ul of the dye/sample solution into the proper well of the gel.
+	b. Repeat for each sample. Change your pipette tip for each sample.
+	c. Keep track of which samples are where! 
+
+::: {.callout-important}
+## Pipetting into gel wells
+When pipetting into gel wells, be careful not to break the agarose or stick the pipette tip too far into the well so that the sample ejects into the agarose. Position your pipette tip just inside the well and check for dye in the correct well after you pipette it. Check to see if the agarose around the well breaks. Take a note if the agarose breaks around a well.
+:::	
+
+13. Run the gel.
+    a. Put the gel box cover into place.
+        i. Make sure the wires are plugged in correctly (wire colors match plug colors).
+        ii. Turn on the power supply and set timer. For a 1% gel, set it for 130V for 30 minutes. For a 2% gel, we found that 90V for 35 minutes works better.
+    b. Check for bubbles rising at cathode (black plug) side to ensure the rig is working. If you do not see bubbles rising, the gel is not running.    
+    c. When the gel is done running, turn the off power. 
+        i. Never open the rig when the power is on.
+
+:::{.callout-important}
+## Important Power Supply Safety Notes
+
+- The power supply can output 300 V at maximum. Never run a protocol that maxes out the voltage.
+
+- You can safely run up to 4 small gels or 2 medium gels at most simultaneously on the power supply. Do not run more gels than the machine can handle, or it may break the machine.
+
+- Never connect/disconnect cords from the power supply's power jacks while the blue indicator light is on or when the screen says "Running."
+
+- Make sure area around the power supply is dry and clean
+
+- Wait 5 seconds after ending a run before handling the cords/output leads/gel rig.
+
+- For proper ventilation, leave at least 10 cm of space behind the instrument, and at least 5 cm of space on each side.
+
+- Information based on Appendix D of the [safety manual](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2FMAN0019502_PowerEaseTouch120WPowerSupply_UG.pdf)
+:::
+
+14. Visualize the gel.
+    a. Turn the power supply off.
+  
+    b. Remove the cover from the gel box.
+    
+    c. Carefully remove the tray and gel.
+        i. Try to drip excess buffer back into the rig, scraping the bottom of the tray on the edge of the box.
+   
+    d. The gel doc (for visualizing the gel) is in OGL, in the room you walk through right before the autoclave room. The gel doc is a large grey machine on the benchtop next to a black computer. Open the gel doc tray and wipe it clean using MilliQ water and KimWipes.
+        i. A small volume of water (<10ml) is sufficient. 
+	
+    e. Slide the gel onto the gel doc tray. You can also keep the gel in its plastic tray and put the whole thing on the gel doc. 
+        i. Do so slowly to avoid creating bubbles under the gel.
+        ii. If you’re unsure if your gel has run long enough, you can leave gel in tray and visualize it. You can then return the gel to the rig and run it for longer if necessary.
+	
+    f. Close the tray.
+    
+    g. Open “Image Lab” application on the OGL laptop connected to the gel doc.
+    
+    i. Check that the cord labeled “Gel doc” is plugged into the computer.
+    
+    h. Select New Protocol.
+    
+    i. Under “Application”, select Nucleic Acid Gels and then GelRed.
+        i. The default setting is to optimize for most intense bands which prevents the gel from being over exposed but may make very faint samples undetectable.
+        ii. If necessary, under “Image Exposure” you can select exposure to optimize for faintest bands or set a manual exposure time.
+        iii. If you are running a gel with samples of highly variable concentrations, it may be useful to run protocols with each optimization option.
+	
+    j. Select “Position Gel” (yellow button on the left side of the window).
+        i. The program will ask you to check that the filter is set to Filter 1.
+        ii. Check that the arm on the upper right side of the gel doc is in the center position labeled Filter 1.
+	
+    k. Open door on the front of the gel doc and position your gel. 
+        i. You can zoom in and out under image window on the computer screen.
+        ii. You can enable grid lines by checking the box in the bottom corner of the screen.
+	
+    l.	Close door and select “Run Protocol” (green button on the left side of the window).
+    
+    m.	Wait for the gel image to load.
+    
+    n.	Save image or change protocol and run again.
+    
+    i.	To save as .jpg image:
+        i. Select File>Export>Export for Publication>Select Export.
+        ii. Change file type to .jpg.
+        iii. Name file and save in appropriate folder. We have a Lotterhos folder on the OGL laptop.
+        
+15. Always clean the gel doc tray after use. You can use MilliQ water from the squirt bottle near the gel doc and a Kimwipe to clean the tray of any remaining gel or TAE. Make sure the tray is dry before you leave.
+
+16. Dispose of the gel in mayo jar. Be sure to label mayo jar with GelRed and Bromophenol blue.
+
+17. Rinse gel tray and let dry on drying rack above the sink in the gel room.
+
+18. Interpret your gel.
+        
 
 
 
