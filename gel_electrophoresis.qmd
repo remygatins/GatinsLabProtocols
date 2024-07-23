@@ -59,10 +59,8 @@ You can make either a 1% or 2% agarose gel. We have been using 2% gels because t
 	b. **For a 2% agarose gel (what we usually use):**
 		i. Small gel: 1.2g agarose + 60 mL 1X TAE Buffer
 		ii. Medium gel: 2g agarose + 100 mL 1X TAE Buffer
-
-    c. Weigh agarose using a plastic small weigh boat. Pour into Erlenmeyer flask. Measure 1X TAE using an 100mL graduated cyliner. Pour into Erlenmeyer flask and swirl gently.
-
-    d. Use the magnetic stirring plate (put a stir bar inside the Erlenmeyer flask) to mix. Turn the RPM into the 500s until all the clumps are gone. Remove the stir bar using the magnetic pull from another stir bar. Sterilize before putting back.
+	c. Weigh agarose using a plastic small weigh boat. Pour into Erlenmeyer flask. Measure 1X TAE using an 100mL graduated cyliner. Pour into Erlenmeyer flask and swirl gently.
+	d. Use the magnetic stirring plate (put a stir bar inside the Erlenmeyer flask) to mix. Turn the RPM into the 500s until all the clumps are gone. Remove the stir bar using the magnetic pull from another stir bar. Sterilize before putting back.
 
 3. Melt the gel.
     a.	Microwave the flask with agarose mixture for ~30 seconds. 
@@ -76,13 +74,13 @@ You can make either a 1% or 2% agarose gel. We have been using 2% gels because t
 
 5. Add GelRed:
 	a. Small gel: 6ul.
-	b. **Medium gel: 10 uL**
+	b. Medium gel: 10 uL
 		i. GelRed can be found in the drawer labeled “Gatins GelRed” in the shared wet lab/gel room. 
 	c. Gently swirl until the stain is dissolved (you should not be able to see any red stain in the gel).
 
 :::{.callout-tip}
 ## GelRed Info
-GelRed is light sentsitive, dont keep it out for long! It is also bubbly and tends to form a bubble on top. Pop it with a seperate pipette tip before pipetting to ensure it doesn't get all over the pipette.
+GelRed is light sentsitive, dont keep it out for long! It tends to form a bubble on top. Pop it with a seperate pipette tip before pipetting to ensure it doesn't get all over the pipette.
 :::
 
 6. Pour the gel. 
@@ -109,15 +107,14 @@ GelRed is light sentsitive, dont keep it out for long! It is also bubbly and ten
 10. Fill rig with enough 1X TAE Buffer to just cover the entire gel.
 	a. The rig doesn’t need to be filled all the way to the line, just enough to cover the gel.
 
-11. Create ladder and DNA dye/sample solutions to load.
-	a. Thaw DNA, ladder, and TriTrack loading dye. Keep on ice once thawed.
-	b. Cut a piece of parafilm and tape to blue tray, waxy side up. Label where samples will go.
-
 ::: {.callout-important}
 ## Loading DNA into gel wells
 Right before taking your 3ul of DNA, make sure to vortex the sample to ensure DNA is evenly dispersed throughout the tube. Forgetting to vortex can result in gels where no band is visible, or super streaky, as DNA may be stuck on the bottom of the sample well rather than suspended in the buffer.
 :::	
 
+11. Create ladder and DNA dye/sample solutions to load.
+	a. Thaw DNA, ladder, and TriTrack loading dye. Keep on ice once thawed.
+	b. Cut a piece of parafilm and tape to blue tray, waxy side up. Label where samples will go.
 	c. Create ladder following table below. Vortex and centrifuge ladder before using. 
 		i. (LADDER TABLE HERE)
 		ii. Pipette 1ul ladder, 1ul TriTrack loading dye, and 4ul DI H20 per 2 ladders onto parafilm. 
