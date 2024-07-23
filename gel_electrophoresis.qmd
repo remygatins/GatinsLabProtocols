@@ -1,6 +1,6 @@
 # Gel Electrophoresis
 
-[Edit this page](https://github.com/DrK-Lo/lotterhoslabprotocols/edit/main/molecprot_gelelectrophoresis.qmd)
+[Edit this page](https://github.com/remygatins/GatinsLab/blob/main/gel_electrophoresis.qmd)
 
 ## Protocol (adapted from Lotterhos Lab)
 
