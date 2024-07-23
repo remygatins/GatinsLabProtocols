@@ -84,7 +84,8 @@ GelRed is light sentsitive, dont keep it out for long! It tends to form a bubble
 :::
 
 6. Pour the gel. 
-	a. Place gel tray in empty gel rig (dry, no TAE). Flip its orientation so it in confined (SEE IMAGE BELOW). Wet sides of tray before placing in rig so it will be easier to take out later. 
+	a. Place gel tray in empty gel rig (dry, no TAE). Flip its orientation so it in confined (SEE IMAGE BELOW). Wet the red rubber gaskets of tray before placing in rig so it will be easier to take out later. 
+<img width="329" alt="Screen Shot 2023-03-27 at 10 13 46 AM" src="https://user-images.githubusercontent.com/122108419/227965749-c42c0fae-27ca-400f-b826-46acb3d169e2.png">
 	b. Pour gel slowly to avoid bubbles. 
 	   i. If bubbles form, you can pop them using a pipette tip. 
 	   ii. Make sure gel is poured evenly. 
@@ -215,6 +216,53 @@ When pipetting into gel wells, be careful not to break the agarose or stick the 
 17. Rinse gel tray and let dry on drying rack above the sink in the gel room.
 
 18. Interpret your gel.
+
+-   First, ensure your ladder ran cleanly. You want to see relatively straight and separated lines. Some will have higher feedback when imaging.
+
+-   Use the ladder to determine the size in basepairs of your DNA samples.
+
+**Thermo Fisher GeneRuler 1 kb Ladder, XXX kbp** (ladder we have in the lab)
+
+(LADDER IMAGE HERE)
+
+-   (FIX THIS) As shown in the image above, the ladder has 15 distinct bands representing strands of 75 bp at the lowest band to 20,000 bp at the topmost band. In practice, however, lines representing 3,000-20,000 bp tend to be squished together. What matters most for genomic DNA to be sent for sequencing is ensuring your DNA strands are long enough (> 3,000 bp) to indicate a successful extraction.
+
+**Example Gel**
+
+(Example gel image here)
+
+2% agarose gel with ladders in the rightmost and leftmost wells, a blank in the second well from the right, and three oyster genomic DNA samples in the remaining wells. 
+
+-   Both ladders ran nicely. The bands are mostly spaced out with minimal streaking.
+    
+    -   **Note** the clustered bands in the ladders for 3,000-20,000 bp
+
+-   The second well, a blank, contains nothing beyond loading dye. As there was no sample running there, the image shows no DNA present, which is as it should be.
+
+-   Samples 1 and 2 ran properly- each has a clear distinct line placing them between 3,000-20,000 bp in length (appropriate for genomic DNA). These samples appear to be in a good state for sequencing.
+
+-   Sample 3, on the other hand, is streaky, indicating that the DNA likely degraded during the electrophoresis process. There is one bright band up near the top in the 3,000-20,000 bp range, which is good, but this sample probably isn't in the best shape for sequencing.
+
+## **Troubleshooting**
+
+### Agarose Percentages
+
+[What happens if I make the wrong percent agarose gel?](https://northeastern.zoom.us/j/92075400920?pwd=NjRRdHd6emlyVlRLcXlOejRyb1NlUT09)
+
+### Wavy Sample or Ladder Bands
+
+- When removing the combs from a set gel, remove very gently and pull them straight up and out to keep pieces of gel from getting loosened and knocked into the well.
+
+- Make sure not to touch the sides of the wells with the pipette tip when adding samples in.
+
+### E1 Error on Voltage Machine
+- The voltage machine may give an "E1" error and will not begin running. When this happens, check that there is enough TAE buffer in the rig such that the ends of the electrodes are submerged. Add more 1X TAE if not. 
+
+- Also check that electrodes are tightened on each side. The red one on rig 2 tends to get a bit loose.
+
+### Streaky Samples
+
+- Your sample may have degraded. Be careful not to leave DNA samples in the fridge for more than 4 or 5 days and try not to thaw and refreeze samples too many times.
         
 
 
