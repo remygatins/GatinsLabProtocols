@@ -53,13 +53,12 @@ You can make either a 1% or 2% agarose gel. We have been using 2% gels because t
 1. Ensure you have correctly diluted 1X TAE Buffer. To make 1X from 50X TAE, pour 20mL 10X TAE in the large plastic graduated cyliner. Add 980mL MilliQ water until the mixture reaches the 1000mL mark. Pour and store in a 1L labelled glass bottle.
 
 2. Mix the gel components.  
-    a. For a 1% agarose gel:
-	i. Small gel: 0.60g agarose + 60 mL 1X TAE Buffer
-	ii. Medium gel: 1 g agarose + 100 mL 1X TAE Buffer
-	    
-    b. **For a 2% agarose gel (what we usually use):**
-	i. Small gel: 1.2g agarose + 60 mL 1X TAE Buffer
-	ii. Medium gel: 2g agarose + 100 mL 1X TAE Buffer
+	a. For a 1% agarose gel:
+		i. Small gel: 0.60g agarose + 60 mL 1X TAE Buffer
+		ii. Medium gel: 1 g agarose + 100 mL 1X TAE Buffer
+	b. **For a 2% agarose gel (what we usually use):**
+		i. Small gel: 1.2g agarose + 60 mL 1X TAE Buffer
+		ii. Medium gel: 2g agarose + 100 mL 1X TAE Buffer
 
     c. Weigh agarose using a plastic small weigh boat. Pour into Erlenmeyer flask. Measure 1X TAE using an 100mL graduated cyliner. Pour into Erlenmeyer flask and swirl gently.
 
@@ -76,10 +75,10 @@ You can make either a 1% or 2% agarose gel. We have been using 2% gels because t
     a.	Gently swirl while cooling. The solution should be cool enough to hold in the palm of your hand. This can take a couple minutes, please be patient. 
 
 5. Add GelRed:
-    a.	Small gel: 6ul.
-    **b.  Medium gel: 10 uL**
-        i. GelRed can be found in the drawer labeled “Gatins GelRed” in the shared wet lab/gel room. 
-    c.	Gently swirl until the stain is dissolved (you should not be able to see any red stain in the gel).
+	a. Small gel: 6ul.
+	b. **Medium gel: 10 uL**
+		i. GelRed can be found in the drawer labeled “Gatins GelRed” in the shared wet lab/gel room. 
+	c. Gently swirl until the stain is dissolved (you should not be able to see any red stain in the gel).
 
 :::{.callout-tip}
 ## GelRed Info
@@ -97,18 +96,18 @@ GelRed is light sentsitive, dont keep it out for long! It is also bubbly and ten
 	d. Rinse out the flask and hang on drying rack in Gatins lab.
 
 7. Let the gel set for ~40 minutes.
-    a.	The gel should be solid, cool to the touch, and opaque.
-    b.	Once gel is set, remove the tape and combs.
-        i. Remove combs slowly, pulling straight up. It might be easier to do this if the gel is in the buffer. 
+	a. The gel should be solid, cool to the touch, and opaque.
+	b. Once gel is set, remove the tape and combs.
+		i. Remove combs slowly, pulling straight up. It might be easier to do this if the gel is in the buffer. 
 
 8. Make sure that the power source is off, and the gel rig is unplugged from the power source before removing the top.
 
-9. Place the tray with your gel in the gel rig with wells on the side with the black plug 
-    a.	Samples will run from the black side toward red side.
-    b.	DNA “runs to red” (SEE IMAGE BELOW)
+9. Place the tray with your gel in the gel rig with wells on the side with the black plug
+	a. Samples will run from the black side toward red side.
+	b. DNA “runs to red” (SEE IMAGE BELOW)
 
 10. Fill rig with enough 1X TAE Buffer to just cover the entire gel.
-    a.	The rig doesn’t need to be filled all the way to the line, just enough to cover the gel.
+	a. The rig doesn’t need to be filled all the way to the line, just enough to cover the gel.
 
 11. Create ladder and DNA dye/sample solutions to load.
 	a. Thaw DNA, ladder, and TriTrack loading dye. Keep on ice once thawed.
@@ -120,14 +119,14 @@ Right before taking your 3ul of DNA, make sure to vortex the sample to ensure DN
 :::	
 
 	c. Create ladder following table below. Vortex and centrifuge ladder before using. 
-	    i. (LADDER TABLE HERE)
-	    ii. Pipette 1ul ladder, 1ul TriTrack loading dye, and 4ul DI H20 per 2 ladders onto parafilm. 
-	    iii. Pipette up and down to mix.
-	d. Create DNA dye/sample solutions following table below.  
-	    i. (DNA TABLE HERE)
-	    ii. Pipette 1uL loading dye onto parafilm for each sample. 
-	    iii. Using **filtered tips** pipette DNA up and down when pipetting out. Pipette the 3 uL DNA onto parafilm.
-	    iv. Pipette DNA and loading dye up and down on parafilm to mix. 
+		i. (LADDER TABLE HERE)
+		ii. Pipette 1ul ladder, 1ul TriTrack loading dye, and 4ul DI H20 per 2 ladders onto parafilm. 
+		iii. Pipette up and down to mix.
+	d. Create DNA dye/sample solutions following table below.
+		i. (DNA TABLE HERE)
+		ii. Pipette 1uL loading dye onto parafilm for each sample.
+		iii. Using **filtered tips** pipette DNA up and down when pipetting out. Pipette the 3 uL DNA onto parafilm.
+		iv. Pipette DNA and loading dye up and down on parafilm to mix. 
 
 12. Load Gel
 	a. Pipette 3 ul of the dye/sample solution into the proper well of the gel.
