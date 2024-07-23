@@ -1,0 +1,87 @@
+# Gel Electrophoresis
+
+[Edit this page](https://github.com/DrK-Lo/lotterhoslabprotocols/edit/main/molecprot_gelelectrophoresis.qmd)
+
+## Protocol (adapted from Lotterhos Lab)
+
+You can make either a 1% or 2% agarose gel. We have been using 2% gels because they tend to give better/clearer results.
+
+**Materials**
+
+- Agarose (chemical shelf)
+
+- 1X TAE (reagent shelf)
+
+- Scoop (near sink)
+
+- Erlenmeyer flask (glassware cabinet)
+
+- Stir bar (drawer under stir plate)
+
+- Gel rig and combs (gel room)
+
+- Weigh boat 
+
+- Parafilm
+
+- 1kb Plus ladder (-20 freezer)
+
+- TriTrack loading dye (-20 freezer)
+
+- DI water
+
+- MilliQ water (OGL)
+
+- P2.5 and P10 pipettes
+
+- Insulated box with ice
+
+**Equipment**
+
+- Magnetic stir plate (left of the -80 fridge)
+
+- Microwave (gel room)
+
+- Power supply- PowerEase™ Touch 120W Power Supply (115 VAC) or Hoefer PS300-B (in gel room)
+
+	- PowerEase™ Touch 120W Power Supply (115 VAC) [User Manual](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2FMAN0019502_PowerEaseTouch120WPowerSupply_UG.pdf)
+
+- Gel Doc for imaging (in OGL)
+
+### Protocol Beginning
+
+1. Ensure you have correctly diluted 1X TAE Buffer. To make 1X from 50X TAE, pour 20mL 10X TAE in the large plastic graduated cyliner. Add 980mL MilliQ water until the mixture reaches the 1000mL mark. Pour and store in a 1L labelled glass bottle.
+
+2. Mix the gel components.  
+    a. For a 1% agarose gel:
+	    i. Small gel: 0.60g agarose + 60 mL 1X TAE Buffer <span style="color:red"> add links to recipe </span> 
+	    ii. Medium gel: 1 g agarose + 100 mL 1X TAE Buffer
+	    
+    **b. For a 2% agarose gel (what we usually use):**
+      i. Small gel: 1.2g agarose + 60 mL 1X TAE Buffer 
+	    ii. Medium gel: 2g agarose + 100 mL 1X TAE Buffer
+
+c.	Weigh agarose using a plastic small weigh boat. Pour into Erlenmeyer flask. Measure 1X TAE using an 100mL graduated cyliner. Pour into Erlenmeyer flask and swirl gently. 
+
+d.	Use the magnetic stirring plate (put a stir bar inside the Erlenmeyer flask) to mix. Turn the RPM into the 500s until all the clumps are gone. Remove the stir bar using the magnetic pull from another stir bar. Sterilize before putting back.
+
+3. Melt the gel.
+    a.	Microwave the flask with agarose mixture for ~30 seconds. 
+        i. Always watch for boiling. If mixture begins to bubble, remove it immediately and carefully swirl until bubbles are gone.
+    b.	With hot mitt, remove the flask from microwave and gently swirl.
+        i. Be careful—it will be hot! Hold the flask away from you and gently swirl to avoid splashing.
+    c.	Return the flask to microwave and continue heating for another 30-40 seconds until mixture is clear and there are no agarose particles.
+
+4. Allow to cool.
+    a.	Gently swirl while cooling. The solution should be cool enough to hold in the palm of your hand. This can take a couple minutes, please be patient. 
+
+5. Add GelRed:
+    a.	Small gel: 6ul.
+    **b.  Medium gel: 10 uL**
+        i. GelRed can be found in the drawer labeled “Gatins GelRed” in the shared wet lab/gel room. 
+    c.	Gently swirl until the stain is dissolved (you should not be able to see any red stain in the gel).
+:::{.callout-tip}
+## GelRed Info
+GelRed is light sentsitive, dont keep it out for long! It is also bubbly and tends to form a bubble on top. Pop it with a seperate pipette tip before pipetting to ensure it doesn't get all over the pipette.
+:::
+    
