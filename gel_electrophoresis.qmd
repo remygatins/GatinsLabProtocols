@@ -85,7 +85,9 @@ GelRed is light sentsitive, dont keep it out for long! It tends to form a bubble
 
 6. Pour the gel. 
 	a. Place gel tray in empty gel rig (dry, no TAE). Flip its orientation so it in confined (SEE IMAGE BELOW). Wet the red rubber gaskets of tray before placing in rig so it will be easier to take out later. 
+
 <img width="329" alt="Screen Shot 2023-03-27 at 10 13 46 AM" src="https://user-images.githubusercontent.com/122108419/227965749-c42c0fae-27ca-400f-b826-46acb3d169e2.png">
+
 	b. Pour gel slowly to avoid bubbles. 
 	   i. If bubbles form, you can pop them using a pipette tip. 
 	   ii. Make sure gel is poured evenly. 
@@ -96,7 +98,7 @@ GelRed is light sentsitive, dont keep it out for long! It tends to form a bubble
 
 7. Let the gel set for ~40 minutes.
 	a. The gel should be solid, cool to the touch, and opaque.
-	b. Once gel is set, remove the tape and combs.
+	b. Once gel is set, remove the combs.
 		i. Remove combs slowly, pulling straight up. It might be easier to do this if the gel is in the buffer. 
 
 8. Make sure that the power source is off, and the gel rig is unplugged from the power source before removing the top.
