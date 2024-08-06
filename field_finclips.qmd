@@ -7,7 +7,7 @@
 - [ ] Forceps
 - [ ] Scissors
 
-## Methods
+## Protocol
 - 1. Fill screw top vials with 95% ethanol.
 - 2. Sterilize tools by spraying with ethanol and wiping.
 - 3. Cut **(SIZE)** of fin and put in screw top vial.
