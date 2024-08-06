@@ -1,4 +1,15 @@
 # Fin Clips Protocol
 
 ## Materials
+- [ ] Screw top vials
+- [ ] 95% ethanol
+- [ ] Forceps
+- [ ] Scissors
+
+## Methods
+- 1. Fill screw top vials with 95% ethanol.
+- 2. Sterilize tools by spraying with ethanol and wiping.
+- 3. Cut **(SIZE)** of fin and put in screw top vial.
+- 4. Label vial and sterilize tools.
+- 5. Store vials **(STORAGE)**
 
