@@ -75,6 +75,7 @@ website:
         - section: "Fieldwork general"
           contents:
             - fieldprotocols.qmd
+            - field_finclips.qmd
         - section: "Permits"
           contents:
             - field_permits_US.qmd
