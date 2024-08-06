@@ -105,7 +105,9 @@ GelRed is light sentsitive, dont keep it out for long! It tends to form a bubble
 
 9. Place the tray with your gel in the gel rig with wells on the side with the black plug
 	a. Samples will run from the black side toward red side.
-	b. DNA “runs to red” (SEE IMAGE BELOW)
+	b. DNA “runs to red” 
+	<img width="299" alt="Screen Shot 2023-03-24 at 1 37 35 PM" src="https://user-images.githubusercontent.com/122108419/227599823-a24f1a01-58bb-4c51-b04f-c04bc3ba4ee3.png">
+   
 
 10. Fill rig with enough 1X TAE Buffer to just cover the entire gel.
 	a. The rig doesn’t need to be filled all the way to the line, just enough to cover the gel.
@@ -119,12 +121,17 @@ Right before taking your 3ul of DNA, make sure to vortex the sample to ensure DN
 	a. Thaw DNA, ladder, and TriTrack loading dye. Keep on ice once thawed.
 	b. Cut a piece of parafilm and tape to blue tray, waxy side up. Label where samples will go.
 	c. Create ladder following table below. Vortex and centrifuge ladder before using. 
-		i. (LADDER TABLE HERE)
-		ii. Pipette 1ul ladder, 1ul TriTrack loading dye, and 4ul DI H20 per 2 ladders onto parafilm. 
+		i. 	| Ladder  | Loading Dye | DI H2O |
+			| ------- | ----------- | ------ |
+			|   1 uL  |    1 uL     |  4 uL  | 
+			*Makes enough for 2 ladders*
+		ii. Pipette the 1ul ladder, 1ul TriTrack loading dye, and 4ul DI H20 per 2 ladders onto parafilm. 
 		iii. Pipette up and down to mix.
 	d. Create DNA dye/sample solutions following table below.
-		i. (DNA TABLE HERE)
-		ii. Pipette 1uL loading dye onto parafilm for each sample.
+		i. 	|     DNA     | Loading Dye |
+			| ----------- | ----------- |
+			|    3 uL     |    1 uL     |
+		ii. Pipette the 1uL loading dye onto parafilm for each sample.
 		iii. Using **filtered tips** pipette DNA up and down when pipetting out. Pipette the 3 uL DNA onto parafilm.
 		iv. Pipette DNA and loading dye up and down on parafilm to mix. 
 
@@ -142,7 +149,8 @@ When pipetting into gel wells, be careful not to break the agarose or stick the 
     a. Put the gel box cover into place.
         i. Make sure the wires are plugged in correctly (wire colors match plug colors).
         ii. Turn on the power supply and set timer. For a 1% gel, set it for 130V for 30 minutes. For a 2% gel, we found that 90V for 35 minutes works better.
-    b. Check for bubbles rising at cathode (black plug) side to ensure the rig is working. If you do not see bubbles rising, the gel is not running.    
+    b. Check for bubbles rising at cathode (black plug) side to ensure the rig is working. If you do not see bubbles rising, the gel is not running. 
+	![](/img/Gel_bubbles.MOV)https://user-images.githubusercontent.com/122108419/227600188-434bad92-3efc-433a-9fe5-2f391d6d55d0.MOV
     c. When the gel is done running, turn the off power. 
         i. Never open the rig when the power is on.
 
