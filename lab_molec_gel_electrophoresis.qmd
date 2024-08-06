@@ -134,6 +134,7 @@ Right before taking your 3ul of DNA, make sure to vortex the sample to ensure DN
 		ii. Pipette the 1uL loading dye onto parafilm for each sample.
 		iii. Using **filtered tips** pipette DNA up and down when pipetting out. Pipette the 3 uL DNA onto parafilm.
 		iv. Pipette DNA and loading dye up and down on parafilm to mix. 
+	<img width="300" alt="" src="pictures/pipette_parafilm.png">
 
 12. Load Gel
 	a. Pipette 3 ul of the dye/sample solution into the proper well of the gel.
