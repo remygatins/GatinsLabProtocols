@@ -1,4 +1,5 @@
 # Fin Clips Protocol
+[Edit this page](https://github.com/remygatins/GatinsLab/edit/main/field_finclips.qmd)
 
 ## Materials
 - [ ] Screw top vials
