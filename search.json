@@ -240,11 +240,53 @@
     ]
   },
   {
-    "objectID": "lee_test_code.html",
-    "href": "lee_test_code.html",
-    "title": "Gatins lab",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
     "section": "",
-    "text": "tubes = int(input(“How many samples?”)) og_dna = 1 / float(input(“Are you doing full reaction (1) or 1/3 (3)?”)) extra = int(input(“How many extra samples worth of components do you want?”))\nfrag_buffer = (5og_dna)  (tubes + extra) frag_enzyme = (10og_dna)  (tubes + extra) print(“Frag buffer:”, frag_buffer) print(“Frag enzyme:”, frag_enzyme)"
+    "text": "Principal Investigator"
+  },
+  {
+    "objectID": "people.html#remy-gatins-ph.d",
+    "href": "people.html#remy-gatins-ph.d",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator"
+  },
+  {
+    "objectID": "people.html#annabel-hughes",
+    "href": "people.html#annabel-hughes",
+    "title": "People",
+    "section": "Annabel Hughes",
+    "text": "Annabel Hughes\nPhD Student"
+  },
+  {
+    "objectID": "people.html#lee-fenuccio",
+    "href": "people.html#lee-fenuccio",
+    "title": "People",
+    "section": "Lee Fenuccio",
+    "text": "Lee Fenuccio\nCo-op Student"
+  },
+  {
+    "objectID": "people.html#future-students",
+    "href": "people.html#future-students",
+    "title": "People",
+    "section": "Future students",
+    "text": "Future students"
+  },
+  {
+    "objectID": "people.html#postdocs",
+    "href": "people.html#postdocs",
+    "title": "People",
+    "section": "Postdocs",
+    "text": "Postdocs"
+  },
+  {
+    "objectID": "field_gen_fieldprotocols.html",
+    "href": "field_gen_fieldprotocols.html",
+    "title": "Field Protocols",
+    "section": "",
+    "text": "Field Protocols"
   },
   {
     "objectID": "lab_molec_illuminalibraryprep.html",
@@ -365,55 +407,6 @@
       "Molecular Protocols",
       "Illumina Library Prep"
     ]
-  },
-  {
-    "objectID": "field_gen_fieldprotocols.html",
-    "href": "field_gen_fieldprotocols.html",
-    "title": "Field Protocols",
-    "section": "",
-    "text": "Field Protocols"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Principal Investigator"
-  },
-  {
-    "objectID": "people.html#remy-gatins-ph.d",
-    "href": "people.html#remy-gatins-ph.d",
-    "title": "People",
-    "section": "",
-    "text": "Principal Investigator"
-  },
-  {
-    "objectID": "people.html#annabel-hughes",
-    "href": "people.html#annabel-hughes",
-    "title": "People",
-    "section": "Annabel Hughes",
-    "text": "Annabel Hughes\nPhD Student"
-  },
-  {
-    "objectID": "people.html#lee-fenuccio",
-    "href": "people.html#lee-fenuccio",
-    "title": "People",
-    "section": "Lee Fenuccio",
-    "text": "Lee Fenuccio\nCo-op Student"
-  },
-  {
-    "objectID": "people.html#future-students",
-    "href": "people.html#future-students",
-    "title": "People",
-    "section": "Future students",
-    "text": "Future students"
-  },
-  {
-    "objectID": "people.html#postdocs",
-    "href": "people.html#postdocs",
-    "title": "People",
-    "section": "Postdocs",
-    "text": "Postdocs"
   },
   {
     "objectID": "lab_equip_qubit.html",
