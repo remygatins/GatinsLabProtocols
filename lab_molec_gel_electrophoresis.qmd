@@ -1,6 +1,6 @@
 # Gel Electrophoresis
 
-[Edit this page](https://github.com/remygatins/GatinsLab/blob/main/gel_electrophoresis.qmd)
+[Edit this page](https://github.com/remygatins/GatinsLab/blob/main/lab_molec_gel_electrophoresis.qmd)
 
 ## Protocol (adapted from Lotterhos Lab)
 
@@ -239,7 +239,7 @@ When pipetting into gel wells, be careful not to break the agarose or stick the 
 
 **Example Gel**
 
-![](/pictures/ExampleGel.png)
+<img width="300" alt="" src="pictures/ExampleGel.png">
 
 2% agarose gel with ladders in the rightmost and leftmost wells, a blank in the second well from the right, and three oyster genomic DNA samples in the remaining wells. 
 *This is using a different ladder than the one we have.*
