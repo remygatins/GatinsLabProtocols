@@ -151,7 +151,6 @@ When pipetting into gel wells, be careful not to break the agarose or stick the 
         i. Make sure the wires are plugged in correctly (wire colors match plug colors).
         ii. Turn on the power supply and set timer. For a 1% gel, set it for 130V for 30 minutes. For a 2% gel, we found that 90V for 35 minutes works better.
     b. Check for bubbles rising at cathode (black plug) side to ensure the rig is working. If you do not see bubbles rising, the gel is not running. 
-	![](/img/Gel_bubbles.MOV)https://user-images.githubusercontent.com/122108419/227600188-434bad92-3efc-433a-9fe5-2f391d6d55d0.MOV
     c. When the gel is done running, turn the off power. 
         i. Never open the rig when the power is on.
 
@@ -232,15 +231,15 @@ When pipetting into gel wells, be careful not to break the agarose or stick the 
 
 -   Use the ladder to determine the size in basepairs of your DNA samples.
 
-**Thermo Fisher GeneRuler 1 kb Ladder, XXX kbp** (ladder we have in the lab)
+**Thermo Fisher GeneRuler 1 kb Ladder, 250-10,000 kbp** (ladder we have in the lab)
 
-(LADDER IMAGE HERE)
+<img width="300" alt="" src="pictures/generuler_1kb.png">
 
--   (FIX THIS) As shown in the image above, the ladder has 15 distinct bands representing strands of 75 bp at the lowest band to 20,000 bp at the topmost band. In practice, however, lines representing 3,000-20,000 bp tend to be squished together. What matters most for genomic DNA to be sent for sequencing is ensuring your DNA strands are long enough (> 3,000 bp) to indicate a successful extraction.
+-   As shown in the image above, the ladder has 14 distinct bands representing strands of 250 bp at the lowest band to 10,000 bp at the topmost band. What matters most for genomic DNA to be sent for sequencing is ensuring your DNA strands are long enough (> 3,000 bp) to indicate a successful extraction.
 
 **Example Gel**
 
-(Example gel image here)
+![](/img/ExampleGel.png)
 
 2% agarose gel with ladders in the rightmost and leftmost wells, a blank in the second well from the right, and three oyster genomic DNA samples in the remaining wells. 
 
