@@ -85,6 +85,7 @@ website:
           contents:
             - fieldprotocols.qmd
             - field_finclips.qmd
+            - field_eDNA_sampling.qmd
         - section: "Permits"
           contents:
             - field_permits_US.qmd
