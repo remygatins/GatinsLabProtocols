@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Gatins lab"
+  title: "Gatins lab Protocols"
   navbar:
     background: primary
     search: true
