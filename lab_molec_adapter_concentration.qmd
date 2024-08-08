@@ -1,6 +1,0 @@
-# Adapter Concentrations 
-
-## Calculate your adapter concentrations for DNA Libraries
-
-
-
