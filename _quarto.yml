@@ -66,8 +66,6 @@ website:
                 - lab_molec_eDNA_filtration.qmd
                 - lab_molec_eDNA_extraction.qmd
                 - lab_molec_eDNA_qpcr.qmd
-            - fieldprotocols.qmd
-            - field_finclips.qmd
             - lab_molec_dnaextraction.qmd
             - lab_molec_DNA_beadcleanup.qmd
             - lab_molec_illuminalibraryprep.qmd
