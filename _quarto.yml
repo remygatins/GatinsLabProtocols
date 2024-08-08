@@ -60,10 +60,12 @@ website:
         - section: "Molecular Protocols"
           contents:
             - lab_molec_etoh.qmd
-            - lab_molec_eDNA.qmd
             - section: "eDNA Protocols"
               contents:
-                - lab_molec_eDNA.qmd
+                - field_eDNA_sampling.qmd
+                - lab_molec_eDNA_filtration.qmd
+                - lab_molec_eDNA_extraction.qmd
+                - lab_molec_eDNA_qpcr.qmd
             - fieldprotocols.qmd
             - field_finclips.qmd
             - lab_molec_dnaextraction.qmd
