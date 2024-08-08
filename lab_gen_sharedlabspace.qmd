@@ -1,6 +1,6 @@
 # NUMSC - Shared Lab Space
 
-[Edit this page](https://github.com/DrK-Lo/lotterhoslabprotocols/edit/main/general_shared_equipment.qmd)
+[Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_gen_sharedlabspace.qmd)
 
 ------------------------------------------------------------------------
 
