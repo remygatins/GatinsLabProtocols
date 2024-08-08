@@ -60,10 +60,10 @@ website:
         - section: "Molecular Protocols"
           contents:
             - lab_molec_etoh.qmd
+            - lab_molec_eDNA.qmd
             - lab_molec_dnaextraction.qmd
             - lab_molec_DNA_beadcleanup.qmd
             - lab_molec_illuminalibraryprep.qmd
-            - lab_molec_adapter_concentration.qmd
             - lab_molec_gel_electrophoresis.qmd
             - lab_molec_low_te_buffer.qmd
             
