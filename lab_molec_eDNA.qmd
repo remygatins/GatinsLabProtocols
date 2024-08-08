@@ -1,6 +1,6 @@
 # eDNA Protocols
 
-[Edit this Page](https://github.com/remygatins/GatinsLab/blob/main/lab_molec_eDNA)
+[Edit this Page](https://github.com/remygatins/GatinsLab/blob/main/lab_molec_eDNA.qmd)
 
 ## Sections: 
   - 
