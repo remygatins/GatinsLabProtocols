@@ -1,10 +1,10 @@
 # Types of Ethanol
 
-[Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_molec_etoh)
+[Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_molec_etoh.qmd)
 
 Protocols for understanding different types of ethanol and when to use them.
 
-Protocol taken and adapted from Lotterhos Lab: https://drk-lo.github.io/lotterhoslabprotocols/molecprot_etoh.html
+Protocol taken and adapted from Lotterhos Lab: <https://drk-lo.github.io/lotterhoslabprotocols/molecprot_etoh.html>
 
 ------------------------------------------------------------------------
 
