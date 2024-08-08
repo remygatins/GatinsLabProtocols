@@ -61,6 +61,11 @@ website:
           contents:
             - lab_molec_etoh.qmd
             - lab_molec_eDNA.qmd
+            - section: "eDNA Protocols"
+              contents:
+                - lab_molec_eDNA.qmd
+            - fieldprotocols.qmd
+            - field_finclips.qmd
             - lab_molec_dnaextraction.qmd
             - lab_molec_DNA_beadcleanup.qmd
             - lab_molec_illuminalibraryprep.qmd
@@ -94,6 +99,7 @@ website:
         - section: "Professional Development"
           contents:
             - prof_development.qmd
+            - prof_dev_job_boards.qmd
 
 
 format:
