@@ -1,9 +1,7 @@
-# eDNA Protocols
+# eDNA Filter Extraction
 
-[Edit this Page](https://github.com/remygatins/GatinsLab/blob/main/lab_molec_eDNA.qmd)
+[Edit this Page](https://github.com/remygatins/GatinsLab/blob/main/lab_molec_eDNA_extraction.qmd)
 
-## Sections: 
-  - 
 
 ## filter DNA extraction (using Qiagen blood and tissue kit):
 
