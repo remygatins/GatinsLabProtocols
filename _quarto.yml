@@ -49,6 +49,7 @@ website:
         - section: "General Protocols"
           contents: 
             - lab_generalprotocols.qmd
+            - lab_gen_sharedlabspace.qmd
             - lab_gen_water.qmd
             - lab_gen_stableisotope.qmd
         - section: "Equipment"
@@ -58,6 +59,7 @@ website:
             - lab_equip_qubit.qmd
         - section: "Molecular Protocols"
           contents:
+            - lab_molec_etoh.qmd
             - lab_molec_dnaextraction.qmd
             - lab_molec_DNA_beadcleanup.qmd
             - lab_molec_illuminalibraryprep.qmd
