@@ -10,9 +10,12 @@
 **Need:**
 
 - [ ] sterile sissors and forcepts
-- [ ] ethanol lamp with 100% ethanol; dip in 70% ethanol
+- [ ] ethanol lamp with 100% ethanol
+- [ ] 50 ml tube with 70% ethanol
 - [ ] 1.5 ml tubes
 - [ ] ice container
+- [ ] Buffer ATL
+- [ ] Proteinase K
 
 **Steps:**
 
@@ -24,6 +27,7 @@
 - 6. clean instruments between each filter by soaking in 70% ethanol then running through a ethanol lamp with 100% ethanol within it
 - 7. cut rim off of filters then into 3 strips
 
+PHOTO
 
 - 8. seal tubes
 - 9. vortex for 15 sec
