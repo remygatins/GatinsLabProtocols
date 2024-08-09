@@ -52,8 +52,8 @@ Calibrate frequently for best results.
 
 ## Storage
 
-Short-Term Storage (up to one week)-
+**Short-Term Storage (up to one week)**-
 Soak the electrode in the pH electrode storage solution. Cover the fill hole.
 
-Long term storage (1+ week)-
+**Long term storage (1+ week)**-
 Rinse off any salt buildups with distilled water and remove any membrane/junction deposits. Fill the chamber with filling solution and securely cover the fill hole. Fill storage bottle with pH electrode storage solution and insert the electrode into the sotrage bottle. 
