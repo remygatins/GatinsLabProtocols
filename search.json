@@ -288,15 +288,42 @@
     "text": "Range Expansions"
   },
   {
-    "objectID": "lab_gen_water.html",
-    "href": "lab_gen_water.html",
-    "title": "Types of Water",
+    "objectID": "lab_molec_eDNA_qpcr.html",
+    "href": "lab_molec_eDNA_qpcr.html",
+    "title": "eDNA qPCR Protocol",
     "section": "",
-    "text": "Types of Water\n\nDistilled water: water that has been evaporated and condensed to increase purity\nDeionized (DI) water: water that has ions removed using ion exchange (e..g., osmosis)\nMilliQ water: is DI water but with higher purity. Water has been deionised/demineralised and gone through filtration. MilliQ water can replace DI water but not the other way around. This is usually used for autovclave, water baths, buffers, etc\nNuclease free water- Distilled water free of DNAse and RNAse. used for PCR, sequencing, and buffers\nMolecular grade water: Ultrapure water (basically a combination of Milli-Q and Nuclease free). Used for sensitice processes e.g., PCR, qPCR, RT-PCR, etc",
+    "text": "eDNA qPCR Protocol",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "eDNA Protocols",
+      "eDNA qPCR Protocol"
+    ]
+  },
+  {
+    "objectID": "prof_devemolpment.html",
+    "href": "prof_devemolpment.html",
+    "title": "Professional Development",
+    "section": "",
+    "text": "Professional Development"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "For more information about the Gatins Lab, visit https://www.remygatins.com/."
+  },
+  {
+    "objectID": "lab_gen_sharedlabspace.html",
+    "href": "lab_gen_sharedlabspace.html",
+    "title": "NUMSC - Shared Lab Space",
+    "section": "",
+    "text": "NUMSC - Shared Lab Space\nEdit this page\n\nIntroductory information on the shared lab space @ NU Marine Science Center\nhttps://numsc-corefacility.github.io/sharedLabSpace/\nUse Log https://docs.google.com/spreadsheets/d/1M0RQYTqQwLS7puzn443S4CVAufBNgKyocfamQ179edU/edit?gid=722153022#gid=722153022",
     "crumbs": [
       "Lab Protocols",
       "General Protocols",
-      "Types of Water"
+      "NUMSC - Shared Lab Space"
     ]
   },
   {
@@ -336,30 +363,16 @@
     ]
   },
   {
-    "objectID": "lab_gen_sharedlabspace.html",
-    "href": "lab_gen_sharedlabspace.html",
-    "title": "NUMSC - Shared Lab Space",
+    "objectID": "lab_gen_water.html",
+    "href": "lab_gen_water.html",
+    "title": "Types of Water",
     "section": "",
-    "text": "NUMSC - Shared Lab Space\nEdit this page\n\nIntroductory information on the shared lab space @ NU Marine Science Center\nhttps://numsc-corefacility.github.io/sharedLabSpace/\nUse Log https://docs.google.com/spreadsheets/d/1M0RQYTqQwLS7puzn443S4CVAufBNgKyocfamQ179edU/edit?gid=722153022#gid=722153022",
+    "text": "Types of Water\n\nDistilled water: water that has been evaporated and condensed to increase purity\nDeionized (DI) water: water that has ions removed using ion exchange (e..g., osmosis)\nMilliQ water: is DI water but with higher purity. Water has been deionised/demineralised and gone through filtration. MilliQ water can replace DI water but not the other way around. This is usually used for autovclave, water baths, buffers, etc\nNuclease free water- Distilled water free of DNAse and RNAse. used for PCR, sequencing, and buffers\nMolecular grade water: Ultrapure water (basically a combination of Milli-Q and Nuclease free). Used for sensitice processes e.g., PCR, qPCR, RT-PCR, etc",
     "crumbs": [
       "Lab Protocols",
       "General Protocols",
-      "NUMSC - Shared Lab Space"
+      "Types of Water"
     ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "For more information about the Gatins Lab, visit https://www.remygatins.com/."
-  },
-  {
-    "objectID": "prof_devemolpment.html",
-    "href": "prof_devemolpment.html",
-    "title": "Professional Development",
-    "section": "",
-    "text": "Professional Development"
   },
   {
     "objectID": "field_permits_US.html",
