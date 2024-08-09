@@ -29,7 +29,7 @@
 4.
 - Set up magnetic stir plate and pH meter in fume hood
 - Calibrate pH meter if it hasn't been calibrated recently
-  - Use 2-3 pH standards, find directions for calibration elsewhere, might be a good thing to add
+  - Use 2-3 pH standards. Directions [here](https://remygatins.github.io/GatinsLabProtocols/lab_equip_ph_meter.html)
   - **Keep pH meter in a liquid always! Do not let probe dry out!**
 
 5. 
