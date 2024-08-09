@@ -8,3 +8,8 @@ ThermoFisher provides a good video for calibration:
 
 
 ## Calibration
+::: {.callout-important}
+## Don't break the electrode
+Be sure electrode is ALWAYS in liquid. Dont let it dry out!
+:::	
+
