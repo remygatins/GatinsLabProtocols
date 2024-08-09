@@ -1,4 +1,5 @@
 # pH Meter
+[Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_equip_ph_meter.qmd)
 
 Our pH meter is the [Thermo Scientific Orion Lab Star PH111 pH/mV bench meter](https://www.thermofisher.com/order/catalog/product/LSTAR1110). 
 
