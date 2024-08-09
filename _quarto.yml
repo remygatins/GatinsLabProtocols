@@ -55,6 +55,7 @@ website:
             - lab_gen_stableisotope.qmd
         - section: "Equipment"
           contents:
+            - lab_equip_80_freezer.qmd
             - lab_equip_autoclave.qmd
             - lab_equip_tapestation.qmd
             - lab_equip_qubit.qmd
