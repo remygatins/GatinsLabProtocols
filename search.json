@@ -64,7 +64,7 @@
     "href": "lab_equip_ph_meter.html",
     "title": "pH Meter",
     "section": "",
-    "text": "Our pH meter is the Thermo Scientific Orion Lab Star PH111 pH/mV bench meter.\nThermoFisher provides a good video for calibration: \n\n\n\n\n\n\n\n\nDon’t break the electrode\n\n\n\nBe sure electrode is ALWAYS in liquid. Dont let it dry out!",
+    "text": "Our pH meter is the Thermo Scientific Orion Lab Star PH111 pH/mV bench meter.\nThermoFisher provides a good video for calibration: \n\n\n\n\n\n\n\n\nDon’t break the electrode\n\n\n\nBe sure electrode is ALWAYS in liquid. Dont let it dry out!\n\n\nCalibrate frequently for best results.\nMaterials - pH meter - pH 4.01, 7.00, and 10.01 buffers - electrode filling solution (3M KCl) - DI water - waste container\n\nRemove storage bottle from electrode.\nRinse electrode with distilled water to remove any salt precipitate. Blot gently with kimwipe to remove excess water.\nEnsure electrode is filled enough. If not, refill with filling solution (3M KCl) into fill hole.\nPress the “Cal” key to start the calibration.\nRinse the pH electrode with with buffer and then place into the ph buffer.\n\n\nBuffers can be done in any order.\nEnsure buffers are the same temperature as the sample to be measured.\n\n\nWait for the pH value to stabilize.\n\n\nWhen the reading is stable, the checkmark icon is shown, and the reading is solid.\n\n\nOnce the reading is stable, accept or edit the displayed pH buffer value. Press the “Enter” key to accept.\nRepeat steps 5-7 for the next calibration buffers.\nTo save and end the calibration, press the “Cal” key.\nThe meter will display the calculated slope value and then proceed to the main measure mode.\n\n\n\n\n\nCalibrate before measuring.\nRinse electrode with distilled water. Blot gently with kimwipe to remove excess water.\nPlace the electrode into the sample, submerging the measurement sensor and reference junction.\nAllow time for the reading to stabilize.\n\n\nThe meter displays the stopwatch icon while the reading is stabilizing.\nThe meter displays the checkmark icon when the reading is stable.\n\n\nNote the displayed measurements.\nRemove electrode from sample.\nRepeat steps 2-6 for all samples.\n\n\n\n\nShort-Term Storage (up to one week)- Soak the electrode in the pH electrode storage solution. Cover the fill hole.\nLong term storage (1+ week)- Rinse off any salt buildups with distilled water and remove any membrane/junction deposits. Fill the chamber with filling solution and securely cover the fill hole. Fill storage bottle with pH electrode storage solution and insert the electrode into the sotrage bottle.",
     "crumbs": [
       "Lab Protocols",
       "Equipment",
@@ -76,7 +76,31 @@
     "href": "lab_equip_ph_meter.html#calibration",
     "title": "pH Meter",
     "section": "",
-    "text": "Don’t break the electrode\n\n\n\nBe sure electrode is ALWAYS in liquid. Dont let it dry out!",
+    "text": "Don’t break the electrode\n\n\n\nBe sure electrode is ALWAYS in liquid. Dont let it dry out!\n\n\nCalibrate frequently for best results.\nMaterials - pH meter - pH 4.01, 7.00, and 10.01 buffers - electrode filling solution (3M KCl) - DI water - waste container\n\nRemove storage bottle from electrode.\nRinse electrode with distilled water to remove any salt precipitate. Blot gently with kimwipe to remove excess water.\nEnsure electrode is filled enough. If not, refill with filling solution (3M KCl) into fill hole.\nPress the “Cal” key to start the calibration.\nRinse the pH electrode with with buffer and then place into the ph buffer.\n\n\nBuffers can be done in any order.\nEnsure buffers are the same temperature as the sample to be measured.\n\n\nWait for the pH value to stabilize.\n\n\nWhen the reading is stable, the checkmark icon is shown, and the reading is solid.\n\n\nOnce the reading is stable, accept or edit the displayed pH buffer value. Press the “Enter” key to accept.\nRepeat steps 5-7 for the next calibration buffers.\nTo save and end the calibration, press the “Cal” key.\nThe meter will display the calculated slope value and then proceed to the main measure mode.",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "pH Meter"
+    ]
+  },
+  {
+    "objectID": "lab_equip_ph_meter.html#measure-ph",
+    "href": "lab_equip_ph_meter.html#measure-ph",
+    "title": "pH Meter",
+    "section": "",
+    "text": "Calibrate before measuring.\nRinse electrode with distilled water. Blot gently with kimwipe to remove excess water.\nPlace the electrode into the sample, submerging the measurement sensor and reference junction.\nAllow time for the reading to stabilize.\n\n\nThe meter displays the stopwatch icon while the reading is stabilizing.\nThe meter displays the checkmark icon when the reading is stable.\n\n\nNote the displayed measurements.\nRemove electrode from sample.\nRepeat steps 2-6 for all samples.",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "pH Meter"
+    ]
+  },
+  {
+    "objectID": "lab_equip_ph_meter.html#storage",
+    "href": "lab_equip_ph_meter.html#storage",
+    "title": "pH Meter",
+    "section": "",
+    "text": "Short-Term Storage (up to one week)- Soak the electrode in the pH electrode storage solution. Cover the fill hole.\nLong term storage (1+ week)- Rinse off any salt buildups with distilled water and remove any membrane/junction deposits. Fill the chamber with filling solution and securely cover the fill hole. Fill storage bottle with pH electrode storage solution and insert the electrode into the sotrage bottle.",
     "crumbs": [
       "Lab Protocols",
       "Equipment",
