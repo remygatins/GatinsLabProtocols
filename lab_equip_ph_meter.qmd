@@ -29,10 +29,10 @@ Calibrate frequently for best results.
 3. Ensure electrode is filled enough. If not, refill with filling solution (3M KCl) into fill hole.
 4. Press the "Cal" key to start the calibration.
 5. Rinse the pH electrode with with buffer and then place into the ph buffer.
-  a. Buffers can be done in any order.
-  b. Ensure buffers are the same temperature as the sample to be measured.
+    a. Buffers can be done in any order.
+    b. Ensure buffers are the same temperature as the sample to be measured.
 6. Wait for the pH value to stabilize.
-  a. When the reading is stable, the checkmark icon is shown, and the reading is solid. 
+    a. When the reading is stable, the checkmark icon is shown, and the reading is solid. 
 7. Once the reading is stable, accept or edit the displayed pH buffer value. Press the "Enter" key to accept.
 8. Repeat steps 5-7 for the next calibration buffers. 
 9. To save and end the calibration, press the "Cal" key. 
@@ -44,8 +44,8 @@ Calibrate frequently for best results.
 2. Rinse electrode with distilled water. Blot gently with kimwipe to remove excess water.
 3. Place the electrode into the sample, submerging the measurement sensor and reference junction.
 4. Allow time for the reading to stabilize.
-  a. The meter displays the stopwatch icon while the reading is stabilizing.
-  b. The meter displays the checkmark icon when the reading is stable.
+    a. The meter displays the stopwatch icon while the reading is stabilizing.
+    b. The meter displays the checkmark icon when the reading is stable.
 5. Note the displayed measurements.
 6. Remove electrode from sample.
 7. Repeat steps 2-6 for all samples.
