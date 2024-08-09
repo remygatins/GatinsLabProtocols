@@ -39,6 +39,7 @@ website:
             - index.qmd
 #           - welcome.qmd
             - welcome_onboarding.qmd
+            - welcome_google_drive.qmd
             
     - title: "Lab Protocols"
       logo: pictures/Gatins_Lab_logo_dark_simple.png
