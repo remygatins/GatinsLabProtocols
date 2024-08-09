@@ -805,7 +805,11 @@
     "href": "welcome_google_drive.html",
     "title": "Google Drive",
     "section": "",
-    "text": "Google Drive\nWe have a shared Gatins Lab Resources google drive folder. Ask Dr. Gatins for access.\nGatins Lab Resources Google Drive"
+    "text": "Google Drive\nWe have a shared Gatins Lab Resources google drive folder. Ask Dr. Gatins for access.\nGatins Lab Resources Google Drive",
+    "crumbs": [
+      "Welcome",
+      "Google Drive"
+    ]
   },
   {
     "objectID": "lab_molec_low_te_buffer.html",
