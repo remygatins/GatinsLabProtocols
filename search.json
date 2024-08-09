@@ -801,7 +801,7 @@
     "href": "field_eDNA_sampling.html",
     "title": "eDNA Field Sampling",
     "section": "",
-    "text": "Need: - cooler with ice - sterilized bottles - sterilized stoppers - water collection device (with both ropes attached) - field box: - gloves - pencils - bag for trash/dirty gloves - bag for dirty stoppers - ? wet wipes or alcohol wipes - BSB data sheet printed on water proof paper",
+    "text": "Need:\n\ncooler with ice\nsterilized nalgene bottles\nsterilized stoppers\nwater collection device (+ both ropes)\nfield box:\n\ngloves\npencils and pens\nbag of extra sterile stoppers\nbag for trash/dirty gloves\nbag for dirty stoppers\nwet wipes, alcohol wipes, or hand sanitizer\n\nBSB data sheet printed on water proof paper\n\nSteps:\n\n\n\n\nbring bottles on ice back to the lab\nfilter water same day then store in -20 C freezer",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
@@ -814,7 +814,20 @@
     "href": "field_eDNA_sampling.html#sampling-edna-from-water-on-boat",
     "title": "eDNA Field Sampling",
     "section": "",
-    "text": "Need: - cooler with ice - sterilized bottles - sterilized stoppers - water collection device (with both ropes attached) - field box: - gloves - pencils - bag for trash/dirty gloves - bag for dirty stoppers - ? wet wipes or alcohol wipes - BSB data sheet printed on water proof paper",
+    "text": "Need:\n\ncooler with ice\nsterilized nalgene bottles\nsterilized stoppers\nwater collection device (+ both ropes)\nfield box:\n\ngloves\npencils and pens\nbag of extra sterile stoppers\nbag for trash/dirty gloves\nbag for dirty stoppers\nwet wipes, alcohol wipes, or hand sanitizer\n\nBSB data sheet printed on water proof paper\n\nSteps:",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "eDNA Protocols",
+      "eDNA Field Sampling"
+    ]
+  },
+  {
+    "objectID": "field_eDNA_sampling.html#next-steps",
+    "href": "field_eDNA_sampling.html#next-steps",
+    "title": "eDNA Field Sampling",
+    "section": "",
+    "text": "bring bottles on ice back to the lab\nfilter water same day then store in -20 C freezer",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
