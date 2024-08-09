@@ -8,12 +8,14 @@
 ### Filter Lysing:
 
 **Need:**
+
 - [ ] sterile sissors and forcepts
 - [ ] ethanol lamp with 100% ethanol; dip in 70% ethanol
 - [ ] 1.5 ml tubes
 - [ ] ice container
 
 **Steps:**
+
 - 1. preheat thermomixer to 56 °C
 - 2. clean area with 10% bleach, water, then 70% ethanol
 - 3. prep ice container
@@ -32,6 +34,7 @@
 ### DNA Extraction:
 
 **Need:**
+
 - [ ] Buffer AL
 - [ ] 100% ethanol
 - [ ] DNeasy spin columns
@@ -42,6 +45,7 @@
 - [ ] warmed 1X low TE buffer
 
 **Steps:**
+
 - 1. prep and clean bench with 10% bleach, water, then 70% ethanol
 - 2. label spin-column tubes
 - 3. add 400 μl Buffer AL, then vortex
@@ -72,6 +76,7 @@
 - 28. store in fridge for a few days or freeze at -20 or -80 if not using immediately 
 
 ### Possible Next Step:
+
 - Qubit
 - need to dilute DNA? -> dilute with low TE
 - PCR then gel or qPCR
