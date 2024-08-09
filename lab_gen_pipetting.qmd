@@ -2,7 +2,7 @@
 
 Adapted from Lotterhos Lab pipetting protocol.
 
-[Edit this page]()
+[Edit this page](https://github.com/remygatins/GatinsLabProtocols/blob/main/lab_gen_pipetting.qmd)
 
 ## Pipettes in the Lab
 
