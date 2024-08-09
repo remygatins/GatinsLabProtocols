@@ -13,3 +13,45 @@ ThermoFisher provides a good video for calibration:
 Be sure electrode is ALWAYS in liquid. Dont let it dry out!
 :::	
 
+Calibrate frequently for best results. 
+
+**Materials**
+- pH meter
+- pH 4.01, 7.00, and 10.01 buffers
+- electrode filling solution (3M KCl)
+- DI water
+- waste container
+
+1. Remove storage bottle from electrode.
+2. Rinse electrode with distilled water to remove any salt precipitate. Blot gently with kimwipe to remove excess water.
+3. Ensure electrode is filled enough. If not, refill with filling solution (3M KCl) into fill hole.
+4. Press the "Cal" key to start the calibration.
+5. Rinse the pH electrode with with buffer and then place into the ph buffer.
+  a. Buffers can be done in any order.
+  b. Ensure buffers are the same temperature as the sample to be measured.
+6. Wait for the pH value to stabilize.
+  a. When the reading is stable, the checkmark icon is shown, and the reading is solid. 
+7. Once the reading is stable, accept or edit the displayed pH buffer value. Press the "Enter" key to accept.
+8. Repeat steps 5-7 for the next calibration buffers. 
+9. To save and end the calibration, press the "Cal" key. 
+10. The meter will display the calculated slope value and then proceed to the main measure mode. 
+
+## Measure pH
+
+1. Calibrate before measuring.
+2. Rinse electrode with distilled water. Blot gently with kimwipe to remove excess water.
+3. Place the electrode into the sample, submerging the measurement sensor and reference junction.
+4. Allow time for the reading to stabilize.
+  a. The meter displays the stopwatch icon while the reading is stabilizing.
+  b. The meter displays the checkmark icon when the reading is stable.
+5. Note the displayed measurements.
+6. Remove electrode from sample.
+7. Repeat steps 2-6 for all samples.
+
+## Storage
+
+Short-Term Storage (up to one week)-
+Soak the electrode in the pH electrode storage solution. Cover the fill hole.
+
+Long term storage (1+ week)-
+Rinse off any salt buildups with distilled water and remove any membrane/junction deposits. Fill the chamber with filling solution and securely cover the fill hole. Fill storage bottle with pH electrode storage solution and insert the electrode into the sotrage bottle. 
