@@ -3,14 +3,23 @@
 ## Sampling eDNA from water on boat
 
 **Need:**
-- cooler with ice
-- sterilized bottles
-- sterilized stoppers
-- water collection device (with both ropes attached)
-- field box:
-  - gloves
-  - pencils
-  - bag for trash/dirty gloves
-  - bag for dirty stoppers
-  - ? wet wipes or alcohol wipes
-- BSB data sheet printed on water proof paper
+
+- [ ] cooler with ice
+- [ ] sterilized nalgene bottles
+- [ ] sterilized stoppers
+- [ ] water collection device (+ both ropes)
+- [ ] field box:
+  - [ ] gloves
+  - [ ] pencils and pens
+  - [ ] bag of extra sterile stoppers
+  - [ ] bag for trash/dirty gloves
+  - [ ] bag for dirty stoppers
+  - [ ] wet wipes, alcohol wipes, or hand sanitizer
+- [ ] BSB data sheet printed on water proof paper
+
+**Steps:**
+
+## Next Steps:
+
+- bring bottles on ice back to the lab
+- filter water same day then store in -20 C freezer
