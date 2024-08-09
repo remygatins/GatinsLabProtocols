@@ -51,6 +51,7 @@ website:
           contents: 
             - lab_generalprotocols.qmd
             - lab_gen_sharedlabspace.qmd
+            - lab_gen_pipetting.qmd
             - lab_gen_water.qmd
             - lab_gen_stableisotope.qmd
         - section: "Equipment"
