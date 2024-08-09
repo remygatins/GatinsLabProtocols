@@ -3,73 +3,73 @@
 [Edit this Page](https://github.com/remygatins/GatinsLab/blob/main/lab_molec_eDNA_extraction.qmd)
 
 
-## filter DNA extraction (using Qiagen blood and tissue kit):
+## DNA extraction from filters (using Qiagen blood and tissue kit):
 
 ### Filter Lysing:
 
 **Need:**
-- sterile sissors and forcepts
-  - ethanol lamp with 100% ethanol; dip in 70% ethanol
-- 1.5 ml tubes
-- ice container
+[ ] sterile sissors and forcepts
+[ ] ethanol lamp with 100% ethanol; dip in 70% ethanol
+[ ] 1.5 ml tubes
+[ ] ice container
 
 **Steps:**
-  1. preheat thermomixer to 56 °C
-  2. clean area with 10% bleach, water, then 70% ethanol
-  3. prep ice container
-  4. label 1.5 ml tubes
-  5. add 360 µl of Buffer ATL & 40 µl of Proteinase K into 1.5 ml tubes
-  6. clean instruments between each filter by soaking in 70% ethanol then running through a ethanol lamp with 100% ethanol within it
-  7. cut rim off of filters then into 3 strips
+1. preheat thermomixer to 56 °C
+2. clean area with 10% bleach, water, then 70% ethanol
+3. prep ice container
+4. label 1.5 ml tubes
+5. add 360 µl of Buffer ATL & 40 µl of Proteinase K into 1.5 ml tubes
+6. clean instruments between each filter by soaking in 70% ethanol then running through a ethanol lamp with 100% ethanol within it
+7. cut rim off of filters then into 3 strips
 
 <img width="196" alt="Screenshot 2024-07-16 at 9 13 28 AM" src="https://github.com/user-attachments/assets/7b747c90-082d-4e7a-9294-30f2747ce480">
 
-  8. seal tubes
-  9. vortex for 15 sec
-  10. store all samples on ice until ready
-  11. Place samples on thermo-mixer set at 56 °C at 600 rpm (check after 2 mins to make sure everything is sealed)
-  12. incubate for 12–14 h for filters and 24 hours for tissues
+8. seal tubes
+9. vortex for 15 sec
+10. store all samples on ice until ready
+11. Place samples on thermo-mixer set at 56 °C at 600 rpm (check after 2 mins to make sure everything is sealed)
+12. incubate for 12–14 h for filters and 24 hours for tissues
 
-### extraction:
+### Extraction:
 
 **Need:**
-- Buffer AL
-- 100% ethanol
-- DNeasy spin columns
-- collection tubes
-- Buffer AW1
-- Buffer AW2
-- 1.5 or 2 ml microcentrifuge tubes
-- warmed 1X low TE buffer
+[ ] Buffer AL
+[ ] 100% ethanol
+[ ] DNeasy spin columns
+[ ] collection tubes
+[ ] Buffer AW1
+[ ] Buffer AW2
+[ ] 1.5 or 2 ml microcentrifuge tubes
+[ ] warmed 1X low TE buffer
 
 **Steps:**
-  1. prep and clean bench with 10% bleach, water, then 70% ethanol
-  2. label spin-column tubes
-  3. add 400 μl Buffer AL, then vortex
-  4. add 400 μl Ethanol (100% molecular grade), then vortex
-  5. pipet half of solution to DNeasy Mini spin column placed in a 2 ml collection tube
-  6. centrifuge for 1 min at ≥ 6000 x g (8000 rpm)
-  7. discard the flow-through & collection tube
-  8. tranfer spin column to a new collection tube
-  9. pipet the rest of the solution from the initial tubes into the spin column
-  10. centrifuge for 1 min at ≥ 6000 x g (8000 rpm)
-  11. discard the flow-through & collection tube
-  12. tranfer spin column to a new collection tube
-  13. add 500 μl Buffer AW1
-  14. centrifuge for 1 min at ≥6000 x g (8000 rpm)
-  15. discard the flow-through & collection tube
-  16. tranfer spin column to a new collection tube
-  17. add 500 μl Buffer AW2
-  18. centrifuge for 3 min at 20,000 x g (14,000 rpm)
-  19. make sure spin column membrane are dry after this step; spin again for 1 min if not
-  20. discard the flow-through & collection tube
-  21. tranfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube
-  22. add 50 μl of warm low TE (warm in thermomixer, 37 C)
-  23. incubate for 1 min at room temperature (15–25°C)
-  24. centrifuge for 1 min at ≥6000 x g (8000 rpm)
-  25. add another 50 μl warm low TE
-  26. incubate for 10 min at room temperature (15–25°C)
-  27. centrifuge for 1 min at ≥6000 x g (8000 rpm)
-  28. store in fridge for a few days or freeze at -20 or -80 if not using immediately 
+1. prep and clean bench with 10% bleach, water, then 70% ethanol
+2. label spin-column tubes
+3. add 400 μl Buffer AL, then vortex
+4. add 400 μl Ethanol (100% molecular grade), then vortex
+5. pipet half of solution to DNeasy Mini spin column placed in a 2 ml collection tube
+6. centrifuge for 1 min at ≥ 6000 x g (8000 rpm)
+7. discard the flow-through & collection tube
+8. tranfer spin column to a new collection tube
+9. pipet the rest of the solution from the initial tubes into the spin column
+10. centrifuge for 1 min at ≥ 6000 x g (8000 rpm)
+11. discard the flow-through & collection tube
+12. tranfer spin column to a new collection tube
+13. add 500 μl Buffer AW1
+14. centrifuge for 1 min at ≥6000 x g (8000 rpm)
+15. discard the flow-through & collection tube
+16. tranfer spin column to a new collection tube
+17. add 500 μl Buffer AW2
+18. centrifuge for 3 min at 20,000 x g (14,000 rpm)
+19. make sure spin column membrane are dry after this step; spin again for 1 min if not
+20. discard the flow-through & collection tube
+21. tranfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube
+22. add 50 μl of warm low TE (warm in thermomixer, 37 C)
+23. incubate for 1 min at room temperature (15–25°C)
+24. centrifuge for 1 min at ≥6000 x g (8000 rpm)
+25. add another 50 μl warm low TE
+26. incubate for 10 min at room temperature (15–25°C)
+27. centrifuge for 1 min at ≥6000 x g (8000 rpm)
+28. store in fridge for a few days or freeze at -20 or -80 if not using immediately 
 
 dilute DNA to 1 ng/µl after extraction? (if yes, dilute with low TE)
