@@ -3,7 +3,7 @@
 ## Sampling eDNA from water on boat
 
 **Need:**
-
+ 
 - [ ] cooler with ice
 - [ ] sterilized nalgene bottles
 - [ ] sterilized stoppers
