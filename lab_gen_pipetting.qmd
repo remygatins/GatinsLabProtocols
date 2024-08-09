@@ -26,11 +26,24 @@ Adapted from Lotterhos Lab pipetting protocol.
 
 - P100 (10-100 uL)
 
-- P300 (30-300 uL)
+- p1200 (120-1200 uL)
 
-**Electric**
+**Electronic Single Channels**
 
-- 
+- P20 (1-20 uL)
+
+- P100 (5-100 uL)
+
+- P1000 (50-1000 uL)
+
+**Electronic Multi Channels**
+
+- P10 (0.5-10 uL)
+
+- P100 (5-100 uL)
+
+- P1200 (50-1200 uL)
+
 
 ## Filtered vs. Non-Filtered Pipette Tips
 
