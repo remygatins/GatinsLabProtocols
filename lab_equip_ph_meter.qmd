@@ -18,12 +18,13 @@ Be sure electrode is ALWAYS in liquid. Dont let it dry out!
 Calibrate frequently for best results. 
 
 **Materials**
-- pH meter
-- pH 4.01, 7.00, and 10.01 buffers
-- electrode filling solution (3M KCl)
-- DI water
-- waste container
+- [ ] pH meter
+- [ ] pH 4.01, 7.00, and 10.01 buffers
+- [ ] Electrode filling solution (3M KCl)
+- [ ] DI water
+- [ ] Waste container
 
+**Protocol**
 1. Remove storage bottle from electrode.
 2. Rinse electrode with distilled water to remove any salt precipitate. Blot gently with kimwipe to remove excess water.
 3. Ensure electrode is filled enough. If not, refill with filling solution (3M KCl) into fill hole.
