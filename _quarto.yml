@@ -57,6 +57,7 @@ website:
             - lab_equip_autoclave.qmd
             - lab_equip_tapestation.qmd
             - lab_equip_qubit.qmd
+            - lab_equip_ph_meter.qmd
         - section: "Molecular Protocols"
           contents:
             - lab_molec_etoh.qmd
