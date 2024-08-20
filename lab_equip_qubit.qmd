@@ -1,6 +1,6 @@
 # QubitFlex Fluorometer
 
-[Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_equip_qubit.qmd)
+[Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_equip_qubit.qmd)
 
 Use this protocol to quantify DNA using the 1x dsDNA protocol on the QubitFlex.
 
