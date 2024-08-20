@@ -5,7 +5,8 @@
 Use this protocol to quantify DNA using the 1x dsDNA protocol on the QubitFlex.
 
 ## Preparation:
-- [ ] 1. Lay out enough tubes for each sample + standards (one full column for each standard). For example, if you are running 8 samples with standards, you will prepare 24 tubes. **Note: I have found that it is difficult to open these tubes once they are snapped shut completely. Either work quickly and leave the tubes open as you prepare your samples to Qubit or close them gently without snapping all the way.**
+- [ ] 1. Lay out enough tubes for each sample + standards (one full column for each standard). For example, if you are running 8 samples with standards, you will prepare 24 tubes. 
+      **Note: I have found that it is difficult to open these tubes once they are snapped shut completely. Either work quickly and leave the tubes open as you prepare your samples to Qubit or close them gently without snapping all the way.**
 - [ ] 2. Calculate how much working solution to add to reagent reservoir (200uL * # samples including standards). 
 - [ ] 3. Thaw, vortex and spin samples.
 
@@ -14,7 +15,9 @@ Use this protocol to quantify DNA using the 1x dsDNA protocol on the QubitFlex.
 - [ ] 2. Pipette 10uL of each standard into their respective columns. As long as you do this step first, you do not need to switch pipette tips.
 - [ ] 3. Add 190uL of working solution to each column of standards with a multichannel pipette.
 - [ ] 4. Add 190-199uL of working solution to all sample tubes. As long as you do this before pipetting your DNA samples, you do not need to switch pipette tips.
-- [ ] 5. Add in your samples (1-10uL), back-pipetting each time to ensure thorough mixing. **Note: I have found that 2uL of sample gives me the most consistent readings.**
-- [ ] 6. Close the tubes tightly. Vortex and spin and check for bubbles. **Note: Some bubbles may get trapped in the lid of the tubes. This shouldn't interfere with your readings as long as the DNA was back-pipetted into the working solution.**
+- [ ] 5. Add in your samples (1-10uL), back-pipetting each time to ensure thorough mixing. 
+        **Note: I have found that 2uL of sample gives me the most consistent readings.**
+- [ ] 6. Close the tubes tightly. Vortex and spin and check for bubbles. 
+        **Note: Some bubbles may get trapped in the lid of the tubes. This shouldn't interfere with your readings as long as the DNA was back-pipetted into the working solution.**
 - [ ] 7. Let the samples sit at room temperature for 2 minutes.
 - [ ] 8. Read standards and run samples!
