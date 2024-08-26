@@ -1,12 +1,10 @@
 # NUMSC - Shared Lab Space
 
-[Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_gen_sharedlabspace.qmd)
+[Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_gen_sharedlabspace.qmd)
 
 ------------------------------------------------------------------------
 
-Introductory information on the shared lab space \@ NU Marine Science Center
+[Introductory information on the shared lab space \@ NU Marine Science Center](https://numsc-corefacility.github.io/sharedLabSpace/)
 
-<https://numsc-corefacility.github.io/sharedLabSpace/>
 
-Use Log
-<https://docs.google.com/spreadsheets/d/1M0RQYTqQwLS7puzn443S4CVAufBNgKyocfamQ179edU/edit?gid=722153022#gid=722153022>
+[Shared Lab Equipment Use Log](https://docs.google.com/spreadsheets/d/1M0RQYTqQwLS7puzn443S4CVAufBNgKyocfamQ179edU/edit?gid=722153022#gid=722153022)
