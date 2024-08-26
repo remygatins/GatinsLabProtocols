@@ -1,4 +1,5 @@
 # Types of Water
+[Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_gen_water.qmd)
 
 - **Distilled water**: water that has been evaporated and condensed to increase purity
 - **Deionized (DI) water**: water that has ions removed using ion exchange (e..g., osmosis)
