@@ -2,7 +2,7 @@
 
 [Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_equip_autoclave.qmd)
 
-The protocol for using the autoclave in OGL.
+The protocol for using the autoclave in OGL. [Adapted from Lotterhos Lab protocols.](https://drk-lo.github.io/lotterhoslabprotocols/general_autoclave.html)
 
 ------------------------------------------------------------------------
 
