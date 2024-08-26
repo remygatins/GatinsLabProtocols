@@ -1,6 +1,6 @@
 # Pipetting
 
-Adapted from Lotterhos Lab pipetting protocol.
+Adapted from [Lotterhos Lab pipetting protocol](https://drk-lo.github.io/lotterhoslabprotocols/molecprot_pipettesandpipettingtips.html).
 
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/blob/main/lab_gen_pipetting.qmd)
 
