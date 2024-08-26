@@ -1,4 +1,5 @@
 # Onboarding
+[Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/welcome_onboarding.qmd)
 
 ## General access to lab resources
 - [ ] Ask Dr. Gatins to add you to our Lab Slack Channel
