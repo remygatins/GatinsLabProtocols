@@ -1,3 +1,7 @@
 # -80C Freezer
 
-See -80 Freezer Database
+[Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_equip_80_freezer.qmd)
+
+
+
+[-80C Freezer Database](https://docs.google.com/spreadsheets/d/1A_5X403WKix3_2ExyA4KuSsd1mhb68AhzCNNQmD8gNo/edit?gid=326844608#gid=326844608)
