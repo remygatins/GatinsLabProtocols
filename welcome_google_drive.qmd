@@ -1,4 +1,5 @@
 # Google Drive
+[Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/welcome_google_drive.qmd)
 
 We have a shared Gatins Lab Resources google drive folder. Ask Dr. Gatins for access.
 
