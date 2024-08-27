@@ -1,6 +1,8 @@
 # Low TE Buffer
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_molec_low_te_buffer.qmd)
 
+- Low TE buffer has 10 times less EDTA than regular TE buffer. This prevents EDTA from interfering with any future interactions.
+
 ## Materials
 - [ ] Tris base
 - [ ] EDTA (Ethylenediamine Tetraacetic Acid, Disodium Salt Dihydrate)
