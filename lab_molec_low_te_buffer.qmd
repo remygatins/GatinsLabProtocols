@@ -22,8 +22,8 @@
 
 | Concentration | Tris Base |   EDTA   |       Final Molarity     |
 | ------------- | --------- | ----     | ------------------------ |
-|    20x low    |  24.22g   |  0.584g  |   2mM Tris and 2mM EDTA  |
-|    10X low    |  12.11g   |  0.292g  |   1mM Tris and 1mM EDTA  |
+|    20x low    |  24.22g   |  0.584g  |   0.2M Tris and 2mM EDTA  |
+|    10X low    |  12.11g   |  0.292g  |   0.1M Tris and 1mM EDTA  |
 |    1X low     |  1.211g   |  29.2mg  | 10mM Tris and 0.1mM EDTA |
 
 
