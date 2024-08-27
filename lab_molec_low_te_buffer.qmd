@@ -1,5 +1,6 @@
 # 20x Low TE Buffer
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_molec_low_te_buffer.qmd)
+Will make concentration of 10mM Tris-HCl, 0.1mM EDTA for 1X
 
 ## Materials
 - [ ] Tris base
@@ -14,38 +15,34 @@
 
 
 ## Protocol
-1.
-- Measure out 800 ml deionized water into a graduated cylinder.
-- Tranfer to large (1000 ml) erlenmeyer flask
+- [ ] 1. Add 800 ml deionized water to large erlenmeyer flask
 
-2. 
-- Add 24.22g Tris Base 
-- Add 0.584g EDTA
+- [ ] 2. Add appropriate amount of Tris Base and EDTA to create desired concentration
+| Concentration | Tris Base |   EDTA   |       Final Molarity     |
+| ------------- | --------- | ----     | ------------------------ |
+|    20x low    |  24.22g   |  0.584g  |   2mM Tris and 2mM EDTA  |
+|    10X low    |  12.11g   |  0.292g  |   1mM Tris and 1mM EDTA  |
+|    1X low     |  1.211g   |  29.2mg  | 10mM Tris and 0.1mM EDTA |
 
-3. 
-- Add magnetic stir bar
-- Mix for 5 mins at 300 rpm on magnetic stir plate
 
-4.
-- Set up magnetic stir plate and pH meter in fume hood
-- Calibrate pH meter if it hasn't been calibrated recently
+- [ ] 3. Add magnetic stir bar, mix for 5 mins at 300 rpm on magnetic stir plate
+
+- [ ] 4. Set up stir plate and pH meter in fume hood and calibrate if needed.
+  - Calibrate pH meter if it hasn't been calibrated recently
   - Use 2-3 pH standards. Directions [here](https://remygatins.github.io/GatinsLabProtocols/lab_equip_ph_meter.html)
   - **Keep pH meter in a liquid always! Do not let probe dry out!**
 
-5. 
-- Keep mixture mixing on magnetic stir plate at 300rpm
-- Put the pH meter's probe into mixture
-- Slowly add quantities of HCl, checking pH as you go, until pH is 8.0
-  - As pH lowers, more HCl will be required to continue to lower it since pH is a log scale
-  - Last time it took 10.5mL amount of HCl, I recommend doing 1000 uL increment amounts to start and then do less as you get closer to 8.0
-  - **Do not go under pH 8.0** :( idk how to bring it back up
+- [ ] 5. Keep mixture mixing and slowly add HCl until pH is 8.0.
+  - Keep mixture mixing on magnetic stir plate at 300rpm
+  - Put the pH meter's probe into mixture
+  - Slowly add quantities of HCl, checking pH as you go, until pH is 8.0
+    - As pH lowers, more HCl will be required to continue to lower it since pH is a log scale
+    - Last time it took 10.5mL amount of HCl, I recommend doing 1000 uL increment amounts to start and then do less as you get closer to 8.0
+    - If you go over, adjust back down with NaOH
 
-6. 
-- Bring volume to 1L with DI water
+- [ ] 6. Bring volume to 1L with DI water
 
-7.
-- Tranfer mixture into a long-term autoclave-safe storage container
+- [ ] 7. Tranfer mixture into a long-term autoclave-safe storage container
 
-8.
-- Autoclave for 50 min with cap tightened to a single turn
-- Store
+- [ ] 8. Sterilize by autoclaving for 50 min with cap tightened to a single turn. Store.
+
