@@ -1,4 +1,5 @@
 # Tapestation
+[Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_equip_tapestation.qmd)
 
 ___________________________________________
 # Interpretation of results
