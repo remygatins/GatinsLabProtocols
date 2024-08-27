@@ -45,4 +45,10 @@
 
 - [ ] 8. Sterilize by autoclaving for 50 min with cap tightened to a single turn. Store.
 
+## Diluting
+
+- Double check pH is 8.0 before and after diluting
+- Make 1X from 20X: 
+  - Combine 1 part 20X to 19 parts DI water (ex. 50uL 20X TE + 950uL DI H20)
+
 
