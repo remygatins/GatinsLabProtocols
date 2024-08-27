@@ -13,7 +13,7 @@
 - 1. Fill screw top vials with 95% ethanol.
 - 2. Prepare tubes, one with DI H2O and one with 70% ethanol. 
 - 3. Sterilize tools by rinsing in DI water, then 70% ethanol, then wiping with Kimwipe. 
-- 3. Cut **(SIZE)** of fin and put in screw top vial.
+- 3. Cut ~1cm of fin and plsce in screw top vial.
 - 4. Label vial and sterilize tools.
-- 5. Store vials in -20 freezer. 
+- 5. Store vials in -20 freezer, or -80 for long term storage. 
 
