@@ -17,6 +17,7 @@
 - [ ] 1. Add 800 ml deionized water to large erlenmeyer flask
 
 - [ ] 2. Add appropriate amount of Tris Base and EDTA to create desired concentration
+
 | Concentration | Tris Base |   EDTA   |       Final Molarity     |
 | ------------- | --------- | ----     | ------------------------ |
 |    20x low    |  24.22g   |  0.584g  |   2mM Tris and 2mM EDTA  |
