@@ -250,6 +250,496 @@
     "text": "Professional Development"
   },
   {
+    "objectID": "field_finclips.html",
+    "href": "field_finclips.html",
+    "title": "Fin Clips Protocol",
+    "section": "",
+    "text": "Edit this page\n\n\n\nScrew top vials\n95% ethanol\n70% Ethanol\nDI Water\nForceps\nScissors\n\n\n\n\n\n\nFill screw top vials with 95% ethanol.\n\n\nPrepare tubes, one with DI H2O and one with 70% ethanol.\n\n\nSterilize tools by rinsing in DI water, then 70% ethanol, then wiping with Kimwipe.\n\n\nCut ~1cm of fin and plsce in screw top vial.\n\n\nLabel vial and sterilize tools.\n\n\nStore vials in -20 freezer, or -80 for long term storage.",
+    "crumbs": [
+      "Field Protocols",
+      "Fieldwork general",
+      "Fin Clips Protocol"
+    ]
+  },
+  {
+    "objectID": "field_finclips.html#materials",
+    "href": "field_finclips.html#materials",
+    "title": "Fin Clips Protocol",
+    "section": "",
+    "text": "Screw top vials\n95% ethanol\n70% Ethanol\nDI Water\nForceps\nScissors",
+    "crumbs": [
+      "Field Protocols",
+      "Fieldwork general",
+      "Fin Clips Protocol"
+    ]
+  },
+  {
+    "objectID": "field_finclips.html#protocol",
+    "href": "field_finclips.html#protocol",
+    "title": "Fin Clips Protocol",
+    "section": "",
+    "text": "Fill screw top vials with 95% ethanol.\n\n\nPrepare tubes, one with DI H2O and one with 70% ethanol.\n\n\nSterilize tools by rinsing in DI water, then 70% ethanol, then wiping with Kimwipe.\n\n\nCut ~1cm of fin and plsce in screw top vial.\n\n\nLabel vial and sterilize tools.\n\n\nStore vials in -20 freezer, or -80 for long term storage.",
+    "crumbs": [
+      "Field Protocols",
+      "Fieldwork general",
+      "Fin Clips Protocol"
+    ]
+  },
+  {
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome"
+  },
+  {
+    "objectID": "lab_gen_pipetting.html",
+    "href": "lab_gen_pipetting.html",
+    "title": "Pipetting",
+    "section": "",
+    "text": "Adapted from Lotterhos Lab pipetting protocol.\nEdit this page\n\n\nSingle channels:\n\nP2.5 (.1-2.5 uL)\nP10 (.5-10 uL)\nP20 (2-20 uL)\nP100 (10-100 uL)\nP200 (20-200 uL)\nP1000 (100-1000 uL)\n\nMultichannels:\n\nP10 (.5-10 uL)\nP100 (10-100 uL)\np1200 (120-1200 uL)\n\nElectronic Single Channels\n\nP20 (1-20 uL)\nP100 (5-100 uL)\nP1000 (50-1000 uL)\n\nElectronic Multi Channels\n\nP10 (0.5-10 uL)\nP100 (5-100 uL)\nP1200 (50-1200 uL)\n\n\n\n\n\nAll pipettes in the lab have both filtered and non-filtered compatible tips.\nFiltered tips help prevent whatever you’re pipetting from getting into the pipette through aspiration. Therefore, it is best to use filtered tips when working with different samples to prevent cross contamination from any sample that has gotten into the pipette (ex. when pipetting different DNA samples for a DNA extraction)\nUnfiltered tips are appropriate to use when pipetting solutions, dyes, and buffers, i.e. things less likely to cause significant contamination to other pipetted materials. (Ex. loading dye, gel ladders, extraction buffers, etc.)\nSpray a kimwipe with ethanol and wipe down pipettes before and after use to remove any potential remaining sample.\n\n\n\n\nDrawing up liquid. Check the amount on the pipette is correct. When pipetting, be sure only to push down on the plunger to the first stop and slowly release to pick up the liquid until your thumb comes completely off the plunger. If you go past the first stop, you will draw up more liquid than the amount you set on the pipette and/or create bubbles. If you push down and then release quickly to draw up liquid, it can cause aspiration and contaminate the pipette if you aren’t using filtered tips. If you are using filtered tips, aspiration can cause liquid to land on the filter, so the pipette tip will hold less liquid than you specified. When drawing up liquid, you may choose to pipette up and down 3 times to pre-wet the pipette tip. Ensure to only go to the first stop for each of the 3 times.\nCheck the pipette tip has the correct amount. Look at the pipette tip, or all the pipette tips if using the multichannel. Does it have the amount of liquid that you expect? Are there air bubbles (other than a tiny bubble that often forms at the very apex of the tip)? If so, push out the liquid and restart.\nPushing out liquid. Slowly push down on the plunger past the first stop until you reach the final stopping point for the plunger. Keep your thumb on the plunger until the tip of the pipette is completely removed from the solution. Drawing up your thumb before the tip is removed will suck up some of the solution.\nCheck the pipette tip is empty. After you push the liquid out, check the pipette tip again and make sure it is empty. Dispose of the tip in a EHS-labeled waste jar. If there is any liquid in the tip that didn’t get pushed out or beads of liquid on the inside of the tip, proceed to the next step.\nSolution is stuck in the pipette tip. If there is any liquid in the tip that didn’t get pushed out, carefully take the tip off. When you put the tip back on the pipette, some of the liquid may get pushed out, so carefully put the tip back on over the well where the solution needs to go. Then push down to the second stop and push the rest of the liquid out.",
+    "crumbs": [
+      "Lab Protocols",
+      "General Protocols",
+      "Pipetting"
+    ]
+  },
+  {
+    "objectID": "lab_gen_pipetting.html#pipettes-in-the-lab",
+    "href": "lab_gen_pipetting.html#pipettes-in-the-lab",
+    "title": "Pipetting",
+    "section": "",
+    "text": "Single channels:\n\nP2.5 (.1-2.5 uL)\nP10 (.5-10 uL)\nP20 (2-20 uL)\nP100 (10-100 uL)\nP200 (20-200 uL)\nP1000 (100-1000 uL)\n\nMultichannels:\n\nP10 (.5-10 uL)\nP100 (10-100 uL)\np1200 (120-1200 uL)\n\nElectronic Single Channels\n\nP20 (1-20 uL)\nP100 (5-100 uL)\nP1000 (50-1000 uL)\n\nElectronic Multi Channels\n\nP10 (0.5-10 uL)\nP100 (5-100 uL)\nP1200 (50-1200 uL)",
+    "crumbs": [
+      "Lab Protocols",
+      "General Protocols",
+      "Pipetting"
+    ]
+  },
+  {
+    "objectID": "lab_gen_pipetting.html#filtered-vs.-non-filtered-pipette-tips",
+    "href": "lab_gen_pipetting.html#filtered-vs.-non-filtered-pipette-tips",
+    "title": "Pipetting",
+    "section": "",
+    "text": "All pipettes in the lab have both filtered and non-filtered compatible tips.\nFiltered tips help prevent whatever you’re pipetting from getting into the pipette through aspiration. Therefore, it is best to use filtered tips when working with different samples to prevent cross contamination from any sample that has gotten into the pipette (ex. when pipetting different DNA samples for a DNA extraction)\nUnfiltered tips are appropriate to use when pipetting solutions, dyes, and buffers, i.e. things less likely to cause significant contamination to other pipetted materials. (Ex. loading dye, gel ladders, extraction buffers, etc.)\nSpray a kimwipe with ethanol and wipe down pipettes before and after use to remove any potential remaining sample.",
+    "crumbs": [
+      "Lab Protocols",
+      "General Protocols",
+      "Pipetting"
+    ]
+  },
+  {
+    "objectID": "lab_gen_pipetting.html#pointers-for-pipetting",
+    "href": "lab_gen_pipetting.html#pointers-for-pipetting",
+    "title": "Pipetting",
+    "section": "",
+    "text": "Drawing up liquid. Check the amount on the pipette is correct. When pipetting, be sure only to push down on the plunger to the first stop and slowly release to pick up the liquid until your thumb comes completely off the plunger. If you go past the first stop, you will draw up more liquid than the amount you set on the pipette and/or create bubbles. If you push down and then release quickly to draw up liquid, it can cause aspiration and contaminate the pipette if you aren’t using filtered tips. If you are using filtered tips, aspiration can cause liquid to land on the filter, so the pipette tip will hold less liquid than you specified. When drawing up liquid, you may choose to pipette up and down 3 times to pre-wet the pipette tip. Ensure to only go to the first stop for each of the 3 times.\nCheck the pipette tip has the correct amount. Look at the pipette tip, or all the pipette tips if using the multichannel. Does it have the amount of liquid that you expect? Are there air bubbles (other than a tiny bubble that often forms at the very apex of the tip)? If so, push out the liquid and restart.\nPushing out liquid. Slowly push down on the plunger past the first stop until you reach the final stopping point for the plunger. Keep your thumb on the plunger until the tip of the pipette is completely removed from the solution. Drawing up your thumb before the tip is removed will suck up some of the solution.\nCheck the pipette tip is empty. After you push the liquid out, check the pipette tip again and make sure it is empty. Dispose of the tip in a EHS-labeled waste jar. If there is any liquid in the tip that didn’t get pushed out or beads of liquid on the inside of the tip, proceed to the next step.\nSolution is stuck in the pipette tip. If there is any liquid in the tip that didn’t get pushed out, carefully take the tip off. When you put the tip back on the pipette, some of the liquid may get pushed out, so carefully put the tip back on over the well where the solution needs to go. Then push down to the second stop and push the rest of the liquid out.",
+    "crumbs": [
+      "Lab Protocols",
+      "General Protocols",
+      "Pipetting"
+    ]
+  },
+  {
+    "objectID": "field_permits_US.html",
+    "href": "field_permits_US.html",
+    "title": "US Field Permits",
+    "section": "",
+    "text": "Edit this page\n\n\nFor questions regarding which permits are appropriate for your specific activities, contact the Florida Fish and Wildlife Conservation Commission Marine Fisheries Management department at 850-487-0554.\n\n\nRecreational fishing (via pole or spear) is quite simple in Florida. Here is the page for Recreational Saltwater Licenses & Permits and here is the page with specific information regarding spearing.\n\n\n\nA Special Activity License (SAL) is required if collection plans exceed marine fisheries regulations. In order to collect Holacanthus, a SAL is required because families of ornamental reef fish such as angelfish are on the prohibited species harvest list (see Spearing page for details).\nThere are a few different types of SALs, but we will be submitting a Scientific Research SAL.\n** Will continue updating after we hear back about our application! - Annabel 03/14/2024\n\n\n\nPermitting in the Florida Keys is very tricky! There are designated marine zones and to conduct any species collections in waters along the keys in these zones requires a NOAA National Marine Sanctuaries Permit Application.\nFor questions regarding FKNMS permits, contact Dr. Harrison Albert:\n\nEmail: harrison.albert@noaa.gov\nPhone: 786-243-6037\n\nIt seemed like the permit application could be filled out with Throughout sanctuary checked in Section C - Project Information Proposed location of activities:, but after email correspondence with Dr. Harrison Albert, it seems like we may need to be more specific. Email thread copied below:\nMarch 4, 2024\n\nHello,\nI am a first year PhD student at Northeastern University advised by Dr. Remy Gatins (CC’d here). We are planning fieldwork for July and are trying to gather information about collection sites and required permitting.\nOur plan is to collect Holacanthus angelfish for my research focused on the origins of divergence between the two species in the Tropical Western Atlantic: H. ciliaris and H. bermudensis. Ideally we will collect 10-15 individuals (of each species if possible) via scuba by spearing from three different locations along the Florida Keys. Currently we are planning to collect from Tavernier with Conch Republic Divers, Layton with the Keys Marine Laboratory, and Key West with Finz Dive Center. If our collections take place at sites outside of special sanctuary zones, how do you recommend we complete the NOAA National Marine Sanctuaries permit application?\nApologies for the lack of detail regarding specific collection site information. Please let me know if we should designate specific sampling zones/coordinates in order to move forward.\nThank you in advance for your help! Looking forward to hearing from you.\nCheers, Annabel\n\nMarch 12, 2024\n\nHello Annabel,\nThank you for your patience while I reviewed your FKNMS permitting email inquiry.\nUnfortunately, this request is a bit complicated. At this time, I am not able to provide you with ONMS permit guidance until you are able to provide the FKNMS permits office with a SAL. Once / if you are able to obtain a SAL, I will also need to know the specific locations you are requesting to collect from (i.e., 4 GPS points that connect to create a polygon), especially if the collections will take place in Key Largo or Looe Key Existing Management Areas (which I would try to avoid conducting in for ease of permitting).\nPlease let me know once you obtain the SAL, or if FWC is able to provide you with information / guidance on whether this would be possible & issued in your requested timeline and we can proceed from there to apply for the ONMS permit.\nAll the best,\nDr. Harrison\n\nTo collect fish samples along the Keys outside of these special zones, no FKNMS permit is necessary. These permits seem to be especially important for any work disturbing the seafloor such as coral coring, for example, but to just spear some fish we should be good! See this email from Kyle Phillips, a scientist at the Keys Marine Laboratory in Layton, FL:\n\nYou should only need a FKNMS permit if you wish to collect specimens within special areas such as SPAs, ERs, or ROAs that’re within the sanctuary. My initial thoughts are that this won’t be necessary, we can hopefully find these fish at patch reefs outside of these special areas (still within the sanctuary), so it’s likely you’ll just need the SAL from FWC. … Just to clarify the sanctuary stuff, all sites that we would take you to are within the FKNMS. It’s just that with fish collections, you’d only need a FKNMS permit if you were disturbing the seafloor or collecting in a ‘special area’ like a ROA, ER, etc (which we shouldn’t need to do). We’ll be good though, just wanted to clear that up a bit.\n\n** Will continue updating after we hear back about our application! - Annabel 05/31/2024",
+    "crumbs": [
+      "Field Protocols",
+      "Permits",
+      "US Field Permits"
+    ]
+  },
+  {
+    "objectID": "field_permits_US.html#florida",
+    "href": "field_permits_US.html#florida",
+    "title": "US Field Permits",
+    "section": "",
+    "text": "For questions regarding which permits are appropriate for your specific activities, contact the Florida Fish and Wildlife Conservation Commission Marine Fisheries Management department at 850-487-0554.\n\n\nRecreational fishing (via pole or spear) is quite simple in Florida. Here is the page for Recreational Saltwater Licenses & Permits and here is the page with specific information regarding spearing.\n\n\n\nA Special Activity License (SAL) is required if collection plans exceed marine fisheries regulations. In order to collect Holacanthus, a SAL is required because families of ornamental reef fish such as angelfish are on the prohibited species harvest list (see Spearing page for details).\nThere are a few different types of SALs, but we will be submitting a Scientific Research SAL.\n** Will continue updating after we hear back about our application! - Annabel 03/14/2024\n\n\n\nPermitting in the Florida Keys is very tricky! There are designated marine zones and to conduct any species collections in waters along the keys in these zones requires a NOAA National Marine Sanctuaries Permit Application.\nFor questions regarding FKNMS permits, contact Dr. Harrison Albert:\n\nEmail: harrison.albert@noaa.gov\nPhone: 786-243-6037\n\nIt seemed like the permit application could be filled out with Throughout sanctuary checked in Section C - Project Information Proposed location of activities:, but after email correspondence with Dr. Harrison Albert, it seems like we may need to be more specific. Email thread copied below:\nMarch 4, 2024\n\nHello,\nI am a first year PhD student at Northeastern University advised by Dr. Remy Gatins (CC’d here). We are planning fieldwork for July and are trying to gather information about collection sites and required permitting.\nOur plan is to collect Holacanthus angelfish for my research focused on the origins of divergence between the two species in the Tropical Western Atlantic: H. ciliaris and H. bermudensis. Ideally we will collect 10-15 individuals (of each species if possible) via scuba by spearing from three different locations along the Florida Keys. Currently we are planning to collect from Tavernier with Conch Republic Divers, Layton with the Keys Marine Laboratory, and Key West with Finz Dive Center. If our collections take place at sites outside of special sanctuary zones, how do you recommend we complete the NOAA National Marine Sanctuaries permit application?\nApologies for the lack of detail regarding specific collection site information. Please let me know if we should designate specific sampling zones/coordinates in order to move forward.\nThank you in advance for your help! Looking forward to hearing from you.\nCheers, Annabel\n\nMarch 12, 2024\n\nHello Annabel,\nThank you for your patience while I reviewed your FKNMS permitting email inquiry.\nUnfortunately, this request is a bit complicated. At this time, I am not able to provide you with ONMS permit guidance until you are able to provide the FKNMS permits office with a SAL. Once / if you are able to obtain a SAL, I will also need to know the specific locations you are requesting to collect from (i.e., 4 GPS points that connect to create a polygon), especially if the collections will take place in Key Largo or Looe Key Existing Management Areas (which I would try to avoid conducting in for ease of permitting).\nPlease let me know once you obtain the SAL, or if FWC is able to provide you with information / guidance on whether this would be possible & issued in your requested timeline and we can proceed from there to apply for the ONMS permit.\nAll the best,\nDr. Harrison\n\nTo collect fish samples along the Keys outside of these special zones, no FKNMS permit is necessary. These permits seem to be especially important for any work disturbing the seafloor such as coral coring, for example, but to just spear some fish we should be good! See this email from Kyle Phillips, a scientist at the Keys Marine Laboratory in Layton, FL:\n\nYou should only need a FKNMS permit if you wish to collect specimens within special areas such as SPAs, ERs, or ROAs that’re within the sanctuary. My initial thoughts are that this won’t be necessary, we can hopefully find these fish at patch reefs outside of these special areas (still within the sanctuary), so it’s likely you’ll just need the SAL from FWC. … Just to clarify the sanctuary stuff, all sites that we would take you to are within the FKNMS. It’s just that with fish collections, you’d only need a FKNMS permit if you were disturbing the seafloor or collecting in a ‘special area’ like a ROA, ER, etc (which we shouldn’t need to do). We’ll be good though, just wanted to clear that up a bit.\n\n** Will continue updating after we hear back about our application! - Annabel 05/31/2024",
+    "crumbs": [
+      "Field Protocols",
+      "Permits",
+      "US Field Permits"
+    ]
+  },
+  {
+    "objectID": "lab_molec_low_te_buffer.html",
+    "href": "lab_molec_low_te_buffer.html",
+    "title": "Low TE Buffer",
+    "section": "",
+    "text": "Edit this page\n\nLow TE buffer has 10 times less EDTA than regular TE buffer. This prevents EDTA from interfering with any future interactions.\n\n\n\n\nTris base\nEDTA (Ethylenediamine Tetraacetic Acid, Disodium Salt Dihydrate)\nHCL\nDI water\nstir bar\n\n\n\n\n\nmagnetic stir plate\npH meter\n\n\n\n\n\n1. Add 800 ml deionized water to large erlenmeyer flask\n2. Add appropriate amount of Tris Base and EDTA to create desired concentration\n\n\n\n\nConcentration\nTris Base\nEDTA\nFinal Molarity\n\n\n\n\n20x low\n24.22g\n0.584g\n0.2M Tris and 2mM EDTA\n\n\n10X low\n12.11g\n0.292g\n0.1M Tris and 1mM EDTA\n\n\n1X low\n1.211g\n29.2mg\n10mM Tris and 0.1mM EDTA\n\n\n\n\n3. Add magnetic stir bar, mix for 5 mins at 300 rpm on magnetic stir plate\n4. Set up stir plate and pH meter in fume hood and calibrate if needed.\n\nCalibrate pH meter if it hasn’t been calibrated recently\nUse 2-3 pH standards. Directions here\nKeep pH meter in a liquid always! Do not let probe dry out!\n\n5. Keep mixture mixing and slowly add HCl until pH is 8.0.\n\nKeep mixture mixing on magnetic stir plate at 300rpm\nPut the pH meter’s probe into mixture\nSlowly add quantities of HCl, checking pH as you go, until pH is 8.0\n\nAs pH lowers, more HCl will be required to continue to lower it since pH is a log scale\nLast time it took 10.5mL amount of HCl, I recommend doing 1000 uL increment amounts to start and then do less as you get closer to 8.0\nIf you go over, adjust back down with NaOH\n\n\n6. Bring volume to 1L with DI water\n7. Tranfer mixture into a long-term autoclave-safe storage container\n8. Sterilize by autoclaving for 50 min with cap tightened to a single turn. Store.\n\n\n\n\n\nDouble check pH is 8.0 before and after diluting\nMake 1X from 20X:\n\nCombine 1 part 20X to 19 parts DI water (ex. 50uL 20X TE + 950uL DI H20)",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Low TE Buffer"
+    ]
+  },
+  {
+    "objectID": "lab_molec_low_te_buffer.html#materials",
+    "href": "lab_molec_low_te_buffer.html#materials",
+    "title": "Low TE Buffer",
+    "section": "",
+    "text": "Tris base\nEDTA (Ethylenediamine Tetraacetic Acid, Disodium Salt Dihydrate)\nHCL\nDI water\nstir bar",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Low TE Buffer"
+    ]
+  },
+  {
+    "objectID": "lab_molec_low_te_buffer.html#equipment",
+    "href": "lab_molec_low_te_buffer.html#equipment",
+    "title": "Low TE Buffer",
+    "section": "",
+    "text": "magnetic stir plate\npH meter",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Low TE Buffer"
+    ]
+  },
+  {
+    "objectID": "lab_molec_low_te_buffer.html#protocol",
+    "href": "lab_molec_low_te_buffer.html#protocol",
+    "title": "Low TE Buffer",
+    "section": "",
+    "text": "1. Add 800 ml deionized water to large erlenmeyer flask\n2. Add appropriate amount of Tris Base and EDTA to create desired concentration\n\n\n\n\nConcentration\nTris Base\nEDTA\nFinal Molarity\n\n\n\n\n20x low\n24.22g\n0.584g\n0.2M Tris and 2mM EDTA\n\n\n10X low\n12.11g\n0.292g\n0.1M Tris and 1mM EDTA\n\n\n1X low\n1.211g\n29.2mg\n10mM Tris and 0.1mM EDTA\n\n\n\n\n3. Add magnetic stir bar, mix for 5 mins at 300 rpm on magnetic stir plate\n4. Set up stir plate and pH meter in fume hood and calibrate if needed.\n\nCalibrate pH meter if it hasn’t been calibrated recently\nUse 2-3 pH standards. Directions here\nKeep pH meter in a liquid always! Do not let probe dry out!\n\n5. Keep mixture mixing and slowly add HCl until pH is 8.0.\n\nKeep mixture mixing on magnetic stir plate at 300rpm\nPut the pH meter’s probe into mixture\nSlowly add quantities of HCl, checking pH as you go, until pH is 8.0\n\nAs pH lowers, more HCl will be required to continue to lower it since pH is a log scale\nLast time it took 10.5mL amount of HCl, I recommend doing 1000 uL increment amounts to start and then do less as you get closer to 8.0\nIf you go over, adjust back down with NaOH\n\n\n6. Bring volume to 1L with DI water\n7. Tranfer mixture into a long-term autoclave-safe storage container\n8. Sterilize by autoclaving for 50 min with cap tightened to a single turn. Store.",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Low TE Buffer"
+    ]
+  },
+  {
+    "objectID": "lab_molec_low_te_buffer.html#diluting",
+    "href": "lab_molec_low_te_buffer.html#diluting",
+    "title": "Low TE Buffer",
+    "section": "",
+    "text": "Double check pH is 8.0 before and after diluting\nMake 1X from 20X:\n\nCombine 1 part 20X to 19 parts DI water (ex. 50uL 20X TE + 950uL DI H20)",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Low TE Buffer"
+    ]
+  },
+  {
+    "objectID": "lab_equip_autoclave.html",
+    "href": "lab_equip_autoclave.html",
+    "title": "Autoclave (OGL)",
+    "section": "",
+    "text": "Edit this page\nThe protocol for using the autoclave in OGL. Adapted from Lotterhos Lab protocols.\n\n\n\nAn autoclave chamber is used to sterilize laboratory equipment, including liquids, by subjecting them to steam created at a high temperature and pressure. Autoclaving should be performed on the following items:\n\nContainers used while working with microorganisms\nGlassware used to store food for experimental organisms\nBiohazard waste containers\nPipette tip boxes\n\n\n\n\n\nReview or take the autoclave training on the Northeastern Environmental Health and Safety website.\nIt is mandatory to scheudle a 20 minute in-person training with Rosie Falco Poulin (r.falco@northeastern.edu) at the MSC to follow up on the online course.\nAlways unscrew jars or vials as the high pressure may cause them to explode if tightened.\n\n\n\n\n\nFill out autoclave sign up in binder\nMake sure all knobs are at zero\nLoad samples onto metal sheet inside the autoclave\nReset red arm to zero (top gauge). This arm keeps track of temperature maximum during the run\nTurn ON autoclave with green switch\nTurn bottom knob to fill water - wait until water reaches the front of the groove (might already have water in it)\nSwitch knob to sterilize\nSeal the door by turning clockwise (not too tight)\nLook on the chart:\n\nDetermine what you are autoclaving (wrapped vs unwrapped)\nSet temperature to the desired setting\nExample: Unwrapped = 3850 model, cold start, 32 min, 134 degrees\n\nSet timer (NOTE: Setting timer starts the run)\nCome back 52 minutes later (32 in autoclave + 20 to depressurize) - If the red gauge reads lower than your desired temperature, it didn’t get hot enough (due to too much water or too much glassware). Run it again, if needed, for slightly longer (~40 mins) and make sure it reaches the appropriate temperature (indicated by red arm)",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Autoclave (OGL)"
+    ]
+  },
+  {
+    "objectID": "lab_equip_autoclave.html#overview",
+    "href": "lab_equip_autoclave.html#overview",
+    "title": "Autoclave (OGL)",
+    "section": "",
+    "text": "An autoclave chamber is used to sterilize laboratory equipment, including liquids, by subjecting them to steam created at a high temperature and pressure. Autoclaving should be performed on the following items:\n\nContainers used while working with microorganisms\nGlassware used to store food for experimental organisms\nBiohazard waste containers\nPipette tip boxes",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Autoclave (OGL)"
+    ]
+  },
+  {
+    "objectID": "lab_equip_autoclave.html#tips-before-starting",
+    "href": "lab_equip_autoclave.html#tips-before-starting",
+    "title": "Autoclave (OGL)",
+    "section": "",
+    "text": "Review or take the autoclave training on the Northeastern Environmental Health and Safety website.\nIt is mandatory to scheudle a 20 minute in-person training with Rosie Falco Poulin (r.falco@northeastern.edu) at the MSC to follow up on the online course.\nAlways unscrew jars or vials as the high pressure may cause them to explode if tightened.",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Autoclave (OGL)"
+    ]
+  },
+  {
+    "objectID": "lab_equip_autoclave.html#protocol",
+    "href": "lab_equip_autoclave.html#protocol",
+    "title": "Autoclave (OGL)",
+    "section": "",
+    "text": "Fill out autoclave sign up in binder\nMake sure all knobs are at zero\nLoad samples onto metal sheet inside the autoclave\nReset red arm to zero (top gauge). This arm keeps track of temperature maximum during the run\nTurn ON autoclave with green switch\nTurn bottom knob to fill water - wait until water reaches the front of the groove (might already have water in it)\nSwitch knob to sterilize\nSeal the door by turning clockwise (not too tight)\nLook on the chart:\n\nDetermine what you are autoclaving (wrapped vs unwrapped)\nSet temperature to the desired setting\nExample: Unwrapped = 3850 model, cold start, 32 min, 134 degrees\n\nSet timer (NOTE: Setting timer starts the run)\nCome back 52 minutes later (32 in autoclave + 20 to depressurize) - If the red gauge reads lower than your desired temperature, it didn’t get hot enough (due to too much water or too much glassware). Run it again, if needed, for slightly longer (~40 mins) and make sure it reaches the appropriate temperature (indicated by red arm)",
+    "crumbs": [
+      "Lab Protocols",
+      "Equipment",
+      "Autoclave (OGL)"
+    ]
+  },
+  {
+    "objectID": "research.html#hybridization",
+    "href": "research.html#hybridization",
+    "title": "Research",
+    "section": "Hybridization",
+    "text": "Hybridization"
+  },
+  {
+    "objectID": "research.html#range-expansions",
+    "href": "research.html#range-expansions",
+    "title": "Research",
+    "section": "Range Expansions",
+    "text": "Range Expansions"
+  },
+  {
+    "objectID": "lab_molec_eDNA_qpcr.html",
+    "href": "lab_molec_eDNA_qpcr.html",
+    "title": "eDNA qPCR Protocol",
+    "section": "",
+    "text": "eDNA qPCR Protocol\nEdit this page\nPage in progress",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "eDNA Protocols",
+      "eDNA qPCR Protocol"
+    ]
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator"
+  },
+  {
+    "objectID": "people.html#remy-gatins-ph.d",
+    "href": "people.html#remy-gatins-ph.d",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator"
+  },
+  {
+    "objectID": "people.html#annabel-hughes",
+    "href": "people.html#annabel-hughes",
+    "title": "People",
+    "section": "Annabel Hughes",
+    "text": "Annabel Hughes\nPhD Student"
+  },
+  {
+    "objectID": "people.html#lee-fenuccio",
+    "href": "people.html#lee-fenuccio",
+    "title": "People",
+    "section": "Lee Fenuccio",
+    "text": "Lee Fenuccio\nCo-op Student"
+  },
+  {
+    "objectID": "people.html#future-students",
+    "href": "people.html#future-students",
+    "title": "People",
+    "section": "Future students",
+    "text": "Future students"
+  },
+  {
+    "objectID": "people.html#postdocs",
+    "href": "people.html#postdocs",
+    "title": "People",
+    "section": "Postdocs",
+    "text": "Postdocs"
+  },
+  {
+    "objectID": "lab_gen_water.html",
+    "href": "lab_gen_water.html",
+    "title": "Types of Water",
+    "section": "",
+    "text": "Types of Water\nEdit this page\n\nDistilled water: water that has been evaporated and condensed to increase purity\nDeionized (DI) water: water that has ions removed using ion exchange (e..g., osmosis)\nMilliQ water: is DI water but with higher purity. Water has been deionised/demineralised and gone through filtration. MilliQ water can replace DI water but not the other way around. This is usually used for autovclave, water baths, buffers, etc\nNuclease free water- Distilled water free of DNAse and RNAse. used for PCR, sequencing, and buffers\nMolecular grade water: Ultrapure water (basically a combination of Milli-Q and Nuclease free). Used for sensitice processes e.g., PCR, qPCR, RT-PCR, etc",
+    "crumbs": [
+      "Lab Protocols",
+      "General Protocols",
+      "Types of Water"
+    ]
+  },
+  {
+    "objectID": "lab_molec_dnaextraction.html",
+    "href": "lab_molec_dnaextraction.html",
+    "title": "Qiagen DNeasy extraction",
+    "section": "",
+    "text": "Qiagen DNeasy extraction",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Qiagen DNeasy extraction"
+    ]
+  },
+  {
+    "objectID": "lab_molec_eDNA_extraction.html",
+    "href": "lab_molec_eDNA_extraction.html",
+    "title": "eDNA Filter Extraction",
+    "section": "",
+    "text": "Edit this Page\n\n\n\n\nNeed:\n\nsterile sissors and forcepts\nethanol lamp with 100% ethanol\n50 ml tube with 70% ethanol\n1.5 ml tubes\nice container\nBuffer ATL\nProteinase K\n\nSteps:\n\n\npreheat thermomixer to 56 °C\n\n\nclean area with 10% bleach, water, then 70% ethanol\n\n\nprep ice container\n\n\nlabel 1.5 ml tubes\n\n\nadd 360 µl of Buffer ATL & 40 µl of Proteinase K into 1.5 ml tubes\n\n\nclean instruments between each filter by soaking in 70% ethanol then running through a ethanol lamp with 100% ethanol within it\n\n\ncut rim off of filters then into 3 strips\n\n\nPHOTO\n\n\nseal tubes\n\n\nvortex for 15 sec\n\n\nstore all samples on ice until ready\n\n\nPlace samples on thermo-mixer set at 56 °C at 600 rpm (check after 2 mins to make sure everything is sealed)\n\n\nincubate for 12–14 h for filters and 24 hours for tissue\n\n\n\n\n\nNeed:\n\nBuffer AL\n100% ethanol\nDNeasy spin columns\ncollection tubes\nBuffer AW1\nBuffer AW2\n1.5 or 2 ml microcentrifuge tubes\nwarmed 1X low TE buffer\n\nSteps:\n\n\nprep and clean bench with 10% bleach, water, then 70% ethanol\n\n\nlabel spin-column tubes\n\n\nadd 400 μl Buffer AL, then vortex\n\n\nadd 400 μl Ethanol (100% molecular grade), then vortex\n\n\npipet half of solution to DNeasy Mini spin column placed in a 2 ml collection tube\n\n\ncentrifuge for 1 min at ≥ 6000 x g (8000 rpm)\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new collection tube\n\n\npipet the rest of the solution from the initial tubes into the spin column\n\n\ncentrifuge for 1 min at ≥ 6000 x g (8000 rpm)\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new collection tube\n\n\nadd 500 μl Buffer AW1\n\n\ncentrifuge for 1 min at ≥6000 x g (8000 rpm)\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new collection tube\n\n\nadd 500 μl Buffer AW2\n\n\ncentrifuge for 3 min at 20,000 x g (14,000 rpm)\n\n\nmake sure spin column membrane are dry after this step; spin again for 1 min if not\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube\n\n\nadd 50 μl of warm low TE (warm in thermomixer, 37 C)\n\n\nincubate for 1 min at room temperature (15–25°C)\n\n\ncentrifuge for 1 min at ≥6000 x g (8000 rpm)\n\n\nadd another 50 μl warm low TE\n\n\nincubate for 10 min at room temperature (15–25°C)\n\n\ncentrifuge for 1 min at ≥6000 x g (8000 rpm)\n\n\nstore in fridge for a few days or freeze at -20 or -80 if not using immediately\n\n\n\n\n\n\nQubit\nneed to dilute DNA? -&gt; dilute with low TE\nPCR then gel or qPCR",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "eDNA Protocols",
+      "eDNA Filter Extraction"
+    ]
+  },
+  {
+    "objectID": "lab_molec_eDNA_extraction.html#dna-extraction-from-filters-using-qiagen-blood-and-tissue-kit",
+    "href": "lab_molec_eDNA_extraction.html#dna-extraction-from-filters-using-qiagen-blood-and-tissue-kit",
+    "title": "eDNA Filter Extraction",
+    "section": "",
+    "text": "Need:\n\nsterile sissors and forcepts\nethanol lamp with 100% ethanol\n50 ml tube with 70% ethanol\n1.5 ml tubes\nice container\nBuffer ATL\nProteinase K\n\nSteps:\n\n\npreheat thermomixer to 56 °C\n\n\nclean area with 10% bleach, water, then 70% ethanol\n\n\nprep ice container\n\n\nlabel 1.5 ml tubes\n\n\nadd 360 µl of Buffer ATL & 40 µl of Proteinase K into 1.5 ml tubes\n\n\nclean instruments between each filter by soaking in 70% ethanol then running through a ethanol lamp with 100% ethanol within it\n\n\ncut rim off of filters then into 3 strips\n\n\nPHOTO\n\n\nseal tubes\n\n\nvortex for 15 sec\n\n\nstore all samples on ice until ready\n\n\nPlace samples on thermo-mixer set at 56 °C at 600 rpm (check after 2 mins to make sure everything is sealed)\n\n\nincubate for 12–14 h for filters and 24 hours for tissue\n\n\n\n\n\nNeed:\n\nBuffer AL\n100% ethanol\nDNeasy spin columns\ncollection tubes\nBuffer AW1\nBuffer AW2\n1.5 or 2 ml microcentrifuge tubes\nwarmed 1X low TE buffer\n\nSteps:\n\n\nprep and clean bench with 10% bleach, water, then 70% ethanol\n\n\nlabel spin-column tubes\n\n\nadd 400 μl Buffer AL, then vortex\n\n\nadd 400 μl Ethanol (100% molecular grade), then vortex\n\n\npipet half of solution to DNeasy Mini spin column placed in a 2 ml collection tube\n\n\ncentrifuge for 1 min at ≥ 6000 x g (8000 rpm)\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new collection tube\n\n\npipet the rest of the solution from the initial tubes into the spin column\n\n\ncentrifuge for 1 min at ≥ 6000 x g (8000 rpm)\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new collection tube\n\n\nadd 500 μl Buffer AW1\n\n\ncentrifuge for 1 min at ≥6000 x g (8000 rpm)\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new collection tube\n\n\nadd 500 μl Buffer AW2\n\n\ncentrifuge for 3 min at 20,000 x g (14,000 rpm)\n\n\nmake sure spin column membrane are dry after this step; spin again for 1 min if not\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube\n\n\nadd 50 μl of warm low TE (warm in thermomixer, 37 C)\n\n\nincubate for 1 min at room temperature (15–25°C)\n\n\ncentrifuge for 1 min at ≥6000 x g (8000 rpm)\n\n\nadd another 50 μl warm low TE\n\n\nincubate for 10 min at room temperature (15–25°C)\n\n\ncentrifuge for 1 min at ≥6000 x g (8000 rpm)\n\n\nstore in fridge for a few days or freeze at -20 or -80 if not using immediately\n\n\n\n\n\n\nQubit\nneed to dilute DNA? -&gt; dilute with low TE\nPCR then gel or qPCR",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "eDNA Protocols",
+      "eDNA Filter Extraction"
+    ]
+  },
+  {
+    "objectID": "lab_molec_gel_electrophoresis.html",
+    "href": "lab_molec_gel_electrophoresis.html",
+    "title": "Gel Electrophoresis",
+    "section": "",
+    "text": "Edit this page Protocol adapted from Lotterhos lab protocol\n\n\nYou can make either a 1% or 2% agarose gel. We have been using 2% gels because they tend to give better/clearer results.\nMaterials\n\nAgarose (chemical shelf)\n1X TAE (reagent shelf)\nScoop (near sink)\nErlenmeyer flask (glassware cabinet)\nStir bar (drawer under stir plate)\nGel rig and combs (gel room)\nWeigh boat\nParafilm\n1kb Plus ladder (-20 freezer)\nTriTrack loading dye (-20 freezer)\nDI water\nMilliQ water (OGL)\nP2.5 and P10 pipettes\nInsulated box with ice\n\nEquipment\n\nMagnetic stir plate (left of the -80 fridge)\nMicrowave (gel room)\nPower supply- PowerEase™ Touch 120W Power Supply (115 VAC) or Hoefer PS300-B (in gel room)\n\nPowerEase™ Touch 120W Power Supply (115 VAC) User Manual\n\nGel Doc for imaging (in OGL)\n\n\n\n\nEnsure you have correctly diluted 1X TAE Buffer. To make 1X from 50X TAE, pour 20mL 10X TAE in the large plastic graduated cyliner. Add 980mL MilliQ water until the mixture reaches the 1000mL mark. Pour and store in a 1L labelled glass bottle.\nMix the gel components.\n\nFor a 1% agarose gel:\n\nSmall gel: 0.60g agarose + 60 mL 1X TAE Buffer\nMedium gel: 1 g agarose + 100 mL 1X TAE Buffer\n\nFor a 2% agarose gel (what we usually use):\n\nSmall gel: 1.2g agarose + 60 mL 1X TAE Buffer\nMedium gel: 2g agarose + 100 mL 1X TAE Buffer\n\nWeigh agarose using a plastic small weigh boat. Pour into Erlenmeyer flask. Measure 1X TAE using an 100mL graduated cyliner. Pour into Erlenmeyer flask and swirl gently.\nUse the magnetic stirring plate (put a stir bar inside the Erlenmeyer flask) to mix. Turn the RPM into the 500s until all the clumps are gone. Remove the stir bar using the magnetic pull from another stir bar. Sterilize before putting back.\n\nMelt the gel.\n\nMicrowave the flask with agarose mixture for ~30 seconds.\n\nAlways watch for boiling. If mixture begins to bubble, remove it immediately and carefully swirl until bubbles are gone.\n\nWith hot mitt, remove the flask from microwave and gently swirl.\n\nBe careful—it will be hot! Hold the flask away from you and gently swirl to avoid splashing.\n\nReturn the flask to microwave and continue heating for another 30-40 seconds until mixture is clear and there are no agarose particles.\n\nAllow to cool.\n\nGently swirl while cooling. The solution should be cool enough to hold in the palm of your hand. This can take a couple minutes, please be patient.\n\nAdd GelRed:\n\nSmall gel: 6ul.\nMedium gel: 10 uL\n\nGelRed can be found in the drawer labeled “Gatins GelRed” in the shared wet lab/gel room.\n\nGently swirl until the stain is dissolved (you should not be able to see any red stain in the gel).\n\n\n\n\n\n\n\n\nGelRed Info\n\n\n\nGelRed is light sentsitive, dont keep it out for long! It tends to form a bubble on top. Pop it with a seperate pipette tip before pipetting to ensure it doesn’t get all over the pipette.\n\n\n\nPour the gel.\n\nPlace gel tray in empty gel rig (dry, no TAE). Flip its orientation so it in confined (SEE IMAGE BELOW). Wet the red rubber gaskets of tray before placing in rig so it will be easier to take out later.\n\n\n\nb. Pour gel slowly to avoid bubbles. \n   i. If bubbles form, you can pop them using a pipette tip. \n   ii. Make sure gel is poured evenly. \nc. Add casting combs into the slots. \n   i. Allow enough room between combs for DNA to run down.\n   ii. There are 2 pairs of combs for each size gel; one will create wider wells than the other. You can use either set of combs. \nd. Rinse out the flask and hang on drying rack in Gatins lab.\n\nLet the gel set for ~40 minutes.\n\nThe gel should be solid, cool to the touch, and opaque.\nOnce gel is set, remove the combs.\n\nRemove combs slowly, pulling straight up. It might be easier to do this if the gel is in the buffer.\n\n\nMake sure that the power source is off, and the gel rig is unplugged from the power source before removing the top.\nPlace the tray with your gel in the gel rig with wells on the side with the black plug\n\nSamples will run from the black side toward red side.\nDNA “runs to red” \n\nFill rig with enough 1X TAE Buffer to just cover the entire gel.\n\nThe rig doesn’t need to be filled all the way to the line, just enough to cover the gel.\n\n\n\n\n\n\n\n\nLoading DNA into gel wells\n\n\n\nRight before taking your 3ul of DNA, make sure to vortex the sample to ensure DNA is evenly dispersed throughout the tube. Forgetting to vortex can result in gels where no band is visible, or super streaky, as DNA may be stuck on the bottom of the sample well rather than suspended in the buffer.\n\n\n\nCreate ladder and DNA dye/sample solutions to load.\n\nThaw DNA, ladder, and TriTrack loading dye. Keep on ice once thawed.\nCut a piece of parafilm and tape to blue tray, waxy side up. Label where samples will go.\nCreate ladder following table below. Vortex and centrifuge ladder before using.\n\n\n\n\nLadder\nLoading Dye\nDI H2O\n\n\n\n\n1 uL\n1 uL\n4 uL\n\n\n\nMakes enough for 2 ladders\nPipette the 1ul ladder, 1ul TriTrack loading dye, and 4ul DI H20 per 2 ladders onto parafilm.\nPipette up and down to mix.\n\nCreate DNA dye/sample solutions following table below.\n\n\n\n\nDNA\nLoading Dye\n\n\n\n\n3 uL\n1 uL\n\n\n\nPipette the 1uL loading dye onto parafilm for each sample.\nUsing filtered tips pipette DNA up and down when pipetting out. Pipette the 3 uL DNA onto parafilm.\nPipette DNA and loading dye up and down on parafilm to mix. \n\n\nLoad Gel\n\nPipette 3 ul of the dye/sample solution into the proper well of the gel.\nRepeat for each sample. Change your pipette tip for each sample.\nKeep track of which samples are where!\n\n\n\n\n\n\n\n\nPipetting into gel wells\n\n\n\nWhen pipetting into gel wells, be careful not to break the agarose or stick the pipette tip too far into the well so that the sample ejects into the agarose. Position your pipette tip just inside the well and check for dye in the correct well after you pipette it. Check to see if the agarose around the well breaks. Take a note if the agarose breaks around a well.\n\n\n\nRun the gel.\n\nPut the gel box cover into place.\n\nMake sure the wires are plugged in correctly (wire colors match plug colors).\nTurn on the power supply and set timer. For a 1% gel, set it for 130V for 30 minutes. For a 2% gel, we found that 90V for 35 minutes works better.\n\nCheck for bubbles rising at cathode (black plug) side to ensure the rig is working. If you do not see bubbles rising, the gel is not running.\nWhen the gel is done running, turn the off power.\n\nNever open the rig when the power is on.\n\n\n\n\n\n\n\n\n\nImportant Power Supply Safety Notes\n\n\n\n\nThe power supply can output 300 V at maximum. Never run a protocol that maxes out the voltage.\nYou can safely run up to 4 small gels or 2 medium gels at most simultaneously on the power supply. Do not run more gels than the machine can handle, or it may break the machine.\nNever connect/disconnect cords from the power supply’s power jacks while the blue indicator light is on or when the screen says “Running.”\nMake sure area around the power supply is dry and clean\nWait 5 seconds after ending a run before handling the cords/output leads/gel rig.\nFor proper ventilation, leave at least 10 cm of space behind the instrument, and at least 5 cm of space on each side.\nInformation based on Appendix D of the safety manual\n\n\n\n\nVisualize the gel.\n\nTurn the power supply off.\nRemove the cover from the gel box.\nCarefully remove the tray and gel.\n\nTry to drip excess buffer back into the rig, scraping the bottom of the tray on the edge of the box.\n\nThe gel doc (for visualizing the gel) is in OGL, in the room you walk through right before the autoclave room. The gel doc is a large grey machine on the benchtop next to a black computer. Open the gel doc tray and wipe it clean using MilliQ water and KimWipes.\n\nA small volume of water (&lt;10ml) is sufficient.\n\nSlide the gel onto the gel doc tray. You can also keep the gel in its plastic tray and put the whole thing on the gel doc.\n\nDo so slowly to avoid creating bubbles under the gel.\nIf you’re unsure if your gel has run long enough, you can leave gel in tray and visualize it. You can then return the gel to the rig and run it for longer if necessary.\n\nClose the tray.\nOpen “Image Lab” application on the OGL laptop connected to the gel doc.\nCheck that the cord labeled “Gel doc” is plugged into the computer.\nSelect New Protocol.\nUnder “Application”, select Nucleic Acid Gels and then GelRed.\n\nThe default setting is to optimize for most intense bands which prevents the gel from being over exposed but may make very faint samples undetectable.\nIf necessary, under “Image Exposure” you can select exposure to optimize for faintest bands or set a manual exposure time.\nIf you are running a gel with samples of highly variable concentrations, it may be useful to run protocols with each optimization option.\n\nSelect “Position Gel” (yellow button on the left side of the window).\n\nThe program will ask you to check that the filter is set to Filter 1.\nCheck that the arm on the upper right side of the gel doc is in the center position labeled Filter 1.\n\nOpen door on the front of the gel doc and position your gel.\n\nYou can zoom in and out under image window on the computer screen.\nYou can enable grid lines by checking the box in the bottom corner of the screen.\n\nClose door and select “Run Protocol” (green button on the left side of the window).\nWait for the gel image to load.\nSave image or change protocol and run again.\nTo save as .jpg image:\n\nSelect File&gt;Export&gt;Export for Publication&gt;Select Export.\nChange file type to .jpg.\nName file and save in appropriate folder. We have a Lotterhos folder on the OGL laptop.\n\n\nAlways clean the gel doc tray after use. You can use MilliQ water from the squirt bottle near the gel doc and a Kimwipe to clean the tray of any remaining gel or TAE. Make sure the tray is dry before you leave.\nDispose of the gel in mayo jar. Be sure to label mayo jar with GelRed and Bromophenol blue.\nRinse gel tray and let dry on drying rack above the sink in the gel room.\nInterpret your gel.\n\n\nFirst, ensure your ladder ran cleanly. You want to see relatively straight and separated lines. Some will have higher feedback when imaging.\nUse the ladder to determine the size in basepairs of your DNA samples.\n\nThermo Fisher GeneRuler 1 kb Ladder, 250-10,000 kbp (ladder we have in the lab)\n\n\nAs shown in the image above, the ladder has 14 distinct bands representing strands of 250 bp at the lowest band to 10,000 bp at the topmost band. What matters most for genomic DNA to be sent for sequencing is ensuring your DNA strands are long enough (&gt; 3,000 bp) to indicate a successful extraction.\n\nExample Gel\n\n2% agarose gel with ladders in the rightmost and leftmost wells, a blank in the second well from the right, and three oyster genomic DNA samples in the remaining wells. This is using a different ladder than the one we have.\n\nBoth ladders ran nicely. The bands are mostly spaced out with minimal streaking.\n\nNote the clustered bands in the ladders for 3,000-20,000 bp\n\nThe second well, a blank, contains nothing beyond loading dye. As there was no sample running there, the image shows no DNA present, which is as it should be.\nSamples 1 and 2 ran properly- each has a clear distinct line placing them between 3,000-20,000 bp in length (appropriate for genomic DNA). These samples appear to be in a good state for sequencing.\nSample 3, on the other hand, is streaky, indicating that the DNA likely degraded during the electrophoresis process. There is one bright band up near the top in the 3,000-20,000 bp range, which is good, but this sample probably isn’t in the best shape for sequencing.\n\n\n\n\n\n\n\nWhat happens if I make the wrong percent agarose gel?\n\n\n\n\nWhen removing the combs from a set gel, remove very gently and pull them straight up and out to keep pieces of gel from getting loosened and knocked into the well.\nMake sure not to touch the sides of the wells with the pipette tip when adding samples in.\n\n\n\n\n\nThe voltage machine may give an “E1” error and will not begin running. When this happens, check that there is enough TAE buffer in the rig such that the ends of the electrodes are submerged. Add more 1X TAE if not.\nAlso check that electrodes are tightened on each side. The red one on rig 2 tends to get a bit loose.\n\n\n\n\n\nYour sample may have degraded. Be careful not to leave DNA samples in the fridge for more than 4 or 5 days and try not to thaw and refreeze samples too many times.",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Gel Electrophoresis"
+    ]
+  },
+  {
+    "objectID": "lab_molec_gel_electrophoresis.html#protocol",
+    "href": "lab_molec_gel_electrophoresis.html#protocol",
+    "title": "Gel Electrophoresis",
+    "section": "",
+    "text": "You can make either a 1% or 2% agarose gel. We have been using 2% gels because they tend to give better/clearer results.\nMaterials\n\nAgarose (chemical shelf)\n1X TAE (reagent shelf)\nScoop (near sink)\nErlenmeyer flask (glassware cabinet)\nStir bar (drawer under stir plate)\nGel rig and combs (gel room)\nWeigh boat\nParafilm\n1kb Plus ladder (-20 freezer)\nTriTrack loading dye (-20 freezer)\nDI water\nMilliQ water (OGL)\nP2.5 and P10 pipettes\nInsulated box with ice\n\nEquipment\n\nMagnetic stir plate (left of the -80 fridge)\nMicrowave (gel room)\nPower supply- PowerEase™ Touch 120W Power Supply (115 VAC) or Hoefer PS300-B (in gel room)\n\nPowerEase™ Touch 120W Power Supply (115 VAC) User Manual\n\nGel Doc for imaging (in OGL)\n\n\n\n\nEnsure you have correctly diluted 1X TAE Buffer. To make 1X from 50X TAE, pour 20mL 10X TAE in the large plastic graduated cyliner. Add 980mL MilliQ water until the mixture reaches the 1000mL mark. Pour and store in a 1L labelled glass bottle.\nMix the gel components.\n\nFor a 1% agarose gel:\n\nSmall gel: 0.60g agarose + 60 mL 1X TAE Buffer\nMedium gel: 1 g agarose + 100 mL 1X TAE Buffer\n\nFor a 2% agarose gel (what we usually use):\n\nSmall gel: 1.2g agarose + 60 mL 1X TAE Buffer\nMedium gel: 2g agarose + 100 mL 1X TAE Buffer\n\nWeigh agarose using a plastic small weigh boat. Pour into Erlenmeyer flask. Measure 1X TAE using an 100mL graduated cyliner. Pour into Erlenmeyer flask and swirl gently.\nUse the magnetic stirring plate (put a stir bar inside the Erlenmeyer flask) to mix. Turn the RPM into the 500s until all the clumps are gone. Remove the stir bar using the magnetic pull from another stir bar. Sterilize before putting back.\n\nMelt the gel.\n\nMicrowave the flask with agarose mixture for ~30 seconds.\n\nAlways watch for boiling. If mixture begins to bubble, remove it immediately and carefully swirl until bubbles are gone.\n\nWith hot mitt, remove the flask from microwave and gently swirl.\n\nBe careful—it will be hot! Hold the flask away from you and gently swirl to avoid splashing.\n\nReturn the flask to microwave and continue heating for another 30-40 seconds until mixture is clear and there are no agarose particles.\n\nAllow to cool.\n\nGently swirl while cooling. The solution should be cool enough to hold in the palm of your hand. This can take a couple minutes, please be patient.\n\nAdd GelRed:\n\nSmall gel: 6ul.\nMedium gel: 10 uL\n\nGelRed can be found in the drawer labeled “Gatins GelRed” in the shared wet lab/gel room.\n\nGently swirl until the stain is dissolved (you should not be able to see any red stain in the gel).\n\n\n\n\n\n\n\n\nGelRed Info\n\n\n\nGelRed is light sentsitive, dont keep it out for long! It tends to form a bubble on top. Pop it with a seperate pipette tip before pipetting to ensure it doesn’t get all over the pipette.\n\n\n\nPour the gel.\n\nPlace gel tray in empty gel rig (dry, no TAE). Flip its orientation so it in confined (SEE IMAGE BELOW). Wet the red rubber gaskets of tray before placing in rig so it will be easier to take out later.\n\n\n\nb. Pour gel slowly to avoid bubbles. \n   i. If bubbles form, you can pop them using a pipette tip. \n   ii. Make sure gel is poured evenly. \nc. Add casting combs into the slots. \n   i. Allow enough room between combs for DNA to run down.\n   ii. There are 2 pairs of combs for each size gel; one will create wider wells than the other. You can use either set of combs. \nd. Rinse out the flask and hang on drying rack in Gatins lab.\n\nLet the gel set for ~40 minutes.\n\nThe gel should be solid, cool to the touch, and opaque.\nOnce gel is set, remove the combs.\n\nRemove combs slowly, pulling straight up. It might be easier to do this if the gel is in the buffer.\n\n\nMake sure that the power source is off, and the gel rig is unplugged from the power source before removing the top.\nPlace the tray with your gel in the gel rig with wells on the side with the black plug\n\nSamples will run from the black side toward red side.\nDNA “runs to red” \n\nFill rig with enough 1X TAE Buffer to just cover the entire gel.\n\nThe rig doesn’t need to be filled all the way to the line, just enough to cover the gel.\n\n\n\n\n\n\n\n\nLoading DNA into gel wells\n\n\n\nRight before taking your 3ul of DNA, make sure to vortex the sample to ensure DNA is evenly dispersed throughout the tube. Forgetting to vortex can result in gels where no band is visible, or super streaky, as DNA may be stuck on the bottom of the sample well rather than suspended in the buffer.\n\n\n\nCreate ladder and DNA dye/sample solutions to load.\n\nThaw DNA, ladder, and TriTrack loading dye. Keep on ice once thawed.\nCut a piece of parafilm and tape to blue tray, waxy side up. Label where samples will go.\nCreate ladder following table below. Vortex and centrifuge ladder before using.\n\n\n\n\nLadder\nLoading Dye\nDI H2O\n\n\n\n\n1 uL\n1 uL\n4 uL\n\n\n\nMakes enough for 2 ladders\nPipette the 1ul ladder, 1ul TriTrack loading dye, and 4ul DI H20 per 2 ladders onto parafilm.\nPipette up and down to mix.\n\nCreate DNA dye/sample solutions following table below.\n\n\n\n\nDNA\nLoading Dye\n\n\n\n\n3 uL\n1 uL\n\n\n\nPipette the 1uL loading dye onto parafilm for each sample.\nUsing filtered tips pipette DNA up and down when pipetting out. Pipette the 3 uL DNA onto parafilm.\nPipette DNA and loading dye up and down on parafilm to mix. \n\n\nLoad Gel\n\nPipette 3 ul of the dye/sample solution into the proper well of the gel.\nRepeat for each sample. Change your pipette tip for each sample.\nKeep track of which samples are where!\n\n\n\n\n\n\n\n\nPipetting into gel wells\n\n\n\nWhen pipetting into gel wells, be careful not to break the agarose or stick the pipette tip too far into the well so that the sample ejects into the agarose. Position your pipette tip just inside the well and check for dye in the correct well after you pipette it. Check to see if the agarose around the well breaks. Take a note if the agarose breaks around a well.\n\n\n\nRun the gel.\n\nPut the gel box cover into place.\n\nMake sure the wires are plugged in correctly (wire colors match plug colors).\nTurn on the power supply and set timer. For a 1% gel, set it for 130V for 30 minutes. For a 2% gel, we found that 90V for 35 minutes works better.\n\nCheck for bubbles rising at cathode (black plug) side to ensure the rig is working. If you do not see bubbles rising, the gel is not running.\nWhen the gel is done running, turn the off power.\n\nNever open the rig when the power is on.\n\n\n\n\n\n\n\n\n\nImportant Power Supply Safety Notes\n\n\n\n\nThe power supply can output 300 V at maximum. Never run a protocol that maxes out the voltage.\nYou can safely run up to 4 small gels or 2 medium gels at most simultaneously on the power supply. Do not run more gels than the machine can handle, or it may break the machine.\nNever connect/disconnect cords from the power supply’s power jacks while the blue indicator light is on or when the screen says “Running.”\nMake sure area around the power supply is dry and clean\nWait 5 seconds after ending a run before handling the cords/output leads/gel rig.\nFor proper ventilation, leave at least 10 cm of space behind the instrument, and at least 5 cm of space on each side.\nInformation based on Appendix D of the safety manual\n\n\n\n\nVisualize the gel.\n\nTurn the power supply off.\nRemove the cover from the gel box.\nCarefully remove the tray and gel.\n\nTry to drip excess buffer back into the rig, scraping the bottom of the tray on the edge of the box.\n\nThe gel doc (for visualizing the gel) is in OGL, in the room you walk through right before the autoclave room. The gel doc is a large grey machine on the benchtop next to a black computer. Open the gel doc tray and wipe it clean using MilliQ water and KimWipes.\n\nA small volume of water (&lt;10ml) is sufficient.\n\nSlide the gel onto the gel doc tray. You can also keep the gel in its plastic tray and put the whole thing on the gel doc.\n\nDo so slowly to avoid creating bubbles under the gel.\nIf you’re unsure if your gel has run long enough, you can leave gel in tray and visualize it. You can then return the gel to the rig and run it for longer if necessary.\n\nClose the tray.\nOpen “Image Lab” application on the OGL laptop connected to the gel doc.\nCheck that the cord labeled “Gel doc” is plugged into the computer.\nSelect New Protocol.\nUnder “Application”, select Nucleic Acid Gels and then GelRed.\n\nThe default setting is to optimize for most intense bands which prevents the gel from being over exposed but may make very faint samples undetectable.\nIf necessary, under “Image Exposure” you can select exposure to optimize for faintest bands or set a manual exposure time.\nIf you are running a gel with samples of highly variable concentrations, it may be useful to run protocols with each optimization option.\n\nSelect “Position Gel” (yellow button on the left side of the window).\n\nThe program will ask you to check that the filter is set to Filter 1.\nCheck that the arm on the upper right side of the gel doc is in the center position labeled Filter 1.\n\nOpen door on the front of the gel doc and position your gel.\n\nYou can zoom in and out under image window on the computer screen.\nYou can enable grid lines by checking the box in the bottom corner of the screen.\n\nClose door and select “Run Protocol” (green button on the left side of the window).\nWait for the gel image to load.\nSave image or change protocol and run again.\nTo save as .jpg image:\n\nSelect File&gt;Export&gt;Export for Publication&gt;Select Export.\nChange file type to .jpg.\nName file and save in appropriate folder. We have a Lotterhos folder on the OGL laptop.\n\n\nAlways clean the gel doc tray after use. You can use MilliQ water from the squirt bottle near the gel doc and a Kimwipe to clean the tray of any remaining gel or TAE. Make sure the tray is dry before you leave.\nDispose of the gel in mayo jar. Be sure to label mayo jar with GelRed and Bromophenol blue.\nRinse gel tray and let dry on drying rack above the sink in the gel room.\nInterpret your gel.\n\n\nFirst, ensure your ladder ran cleanly. You want to see relatively straight and separated lines. Some will have higher feedback when imaging.\nUse the ladder to determine the size in basepairs of your DNA samples.\n\nThermo Fisher GeneRuler 1 kb Ladder, 250-10,000 kbp (ladder we have in the lab)\n\n\nAs shown in the image above, the ladder has 14 distinct bands representing strands of 250 bp at the lowest band to 10,000 bp at the topmost band. What matters most for genomic DNA to be sent for sequencing is ensuring your DNA strands are long enough (&gt; 3,000 bp) to indicate a successful extraction.\n\nExample Gel\n\n2% agarose gel with ladders in the rightmost and leftmost wells, a blank in the second well from the right, and three oyster genomic DNA samples in the remaining wells. This is using a different ladder than the one we have.\n\nBoth ladders ran nicely. The bands are mostly spaced out with minimal streaking.\n\nNote the clustered bands in the ladders for 3,000-20,000 bp\n\nThe second well, a blank, contains nothing beyond loading dye. As there was no sample running there, the image shows no DNA present, which is as it should be.\nSamples 1 and 2 ran properly- each has a clear distinct line placing them between 3,000-20,000 bp in length (appropriate for genomic DNA). These samples appear to be in a good state for sequencing.\nSample 3, on the other hand, is streaky, indicating that the DNA likely degraded during the electrophoresis process. There is one bright band up near the top in the 3,000-20,000 bp range, which is good, but this sample probably isn’t in the best shape for sequencing.",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Gel Electrophoresis"
+    ]
+  },
+  {
+    "objectID": "lab_molec_gel_electrophoresis.html#troubleshooting",
+    "href": "lab_molec_gel_electrophoresis.html#troubleshooting",
+    "title": "Gel Electrophoresis",
+    "section": "",
+    "text": "What happens if I make the wrong percent agarose gel?\n\n\n\n\nWhen removing the combs from a set gel, remove very gently and pull them straight up and out to keep pieces of gel from getting loosened and knocked into the well.\nMake sure not to touch the sides of the wells with the pipette tip when adding samples in.\n\n\n\n\n\nThe voltage machine may give an “E1” error and will not begin running. When this happens, check that there is enough TAE buffer in the rig such that the ends of the electrodes are submerged. Add more 1X TAE if not.\nAlso check that electrodes are tightened on each side. The red one on rig 2 tends to get a bit loose.\n\n\n\n\n\nYour sample may have degraded. Be careful not to leave DNA samples in the fridge for more than 4 or 5 days and try not to thaw and refreeze samples too many times.",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Gel Electrophoresis"
+    ]
+  },
+  {
+    "objectID": "lab_molec_DNA_beadcleanup.html",
+    "href": "lab_molec_DNA_beadcleanup.html",
+    "title": "DNA Bead Cleanup",
+    "section": "",
+    "text": "KS8001 KAPA cleanup bead protocol\nEdit this page\n\n\n\n\n1. Take beads out of refrigerator and allow them to come to room temperature before beginning (~30 min) . Vortex well.\n2. Prepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.\n3. Prepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).\n\n\n\n\n\n1. Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\n2. Incubate tubes/plate for 15 minutes to allow beads to bind to DNA.\n3. Place tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\n4. Discard supernatant.\n5. On magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume to 200uL.\n6. Incubate for &gt;30 seconds, then remove and discard supernatant.\n7. Add another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\n8. Dry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\n9. Remove plate from magnet.\n10. Resuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL. This is because you will lose some of the volume during the final elution step.\n11. Allow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\n12. Place tubes/plate back on magnet.\n13. Transfer your desired final sample volume to a final labeled set of tubes/plate.\n14. Quantify!",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "DNA Bead Cleanup"
+    ]
+  },
+  {
+    "objectID": "lab_molec_DNA_beadcleanup.html#kapa-pure-beads-3x-bead-cleanup-for-genomic-dna",
+    "href": "lab_molec_DNA_beadcleanup.html#kapa-pure-beads-3x-bead-cleanup-for-genomic-dna",
+    "title": "DNA Bead Cleanup",
+    "section": "",
+    "text": "KS8001 KAPA cleanup bead protocol\nEdit this page",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "DNA Bead Cleanup"
+    ]
+  },
+  {
+    "objectID": "lab_molec_DNA_beadcleanup.html#preparation",
+    "href": "lab_molec_DNA_beadcleanup.html#preparation",
+    "title": "DNA Bead Cleanup",
+    "section": "",
+    "text": "1. Take beads out of refrigerator and allow them to come to room temperature before beginning (~30 min) . Vortex well.\n2. Prepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.\n3. Prepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "DNA Bead Cleanup"
+    ]
+  },
+  {
+    "objectID": "lab_molec_DNA_beadcleanup.html#protocol",
+    "href": "lab_molec_DNA_beadcleanup.html#protocol",
+    "title": "DNA Bead Cleanup",
+    "section": "",
+    "text": "1. Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\n2. Incubate tubes/plate for 15 minutes to allow beads to bind to DNA.\n3. Place tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\n4. Discard supernatant.\n5. On magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume to 200uL.\n6. Incubate for &gt;30 seconds, then remove and discard supernatant.\n7. Add another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\n8. Dry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\n9. Remove plate from magnet.\n10. Resuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL. This is because you will lose some of the volume during the final elution step.\n11. Allow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\n12. Place tubes/plate back on magnet.\n13. Transfer your desired final sample volume to a final labeled set of tubes/plate.\n14. Quantify!",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "DNA Bead Cleanup"
+    ]
+  },
+  {
+    "objectID": "field_gen_fieldprotocols.html",
+    "href": "field_gen_fieldprotocols.html",
+    "title": "Field Protocols",
+    "section": "",
+    "text": "Field Protocols"
+  },
+  {
+    "objectID": "lab_generalprotocols.html",
+    "href": "lab_generalprotocols.html",
+    "title": "General Protocols",
+    "section": "",
+    "text": "General Protocols\nHere is where all General Lab Protocols will reside. Under Construction",
+    "crumbs": [
+      "Lab Protocols",
+      "General Protocols",
+      "General Protocols"
+    ]
+  },
+  {
+    "objectID": "welcome_google_drive.html",
+    "href": "welcome_google_drive.html",
+    "title": "Google Drive",
+    "section": "",
+    "text": "Google Drive\nEdit this page\nWe have a shared Gatins Lab Resources google drive folder. Ask Dr. Gatins for access.\nGatins Lab Resources Google Drive",
+    "crumbs": [
+      "Welcome",
+      "Google Drive"
+    ]
+  },
+  {
+    "objectID": "prof_dev_job_boards.html",
+    "href": "prof_dev_job_boards.html",
+    "title": "Job Boards",
+    "section": "",
+    "text": "Job Boards\nEdit this Page\nEco Evo Jobs 2024 Google Doc\nEarth Science jobs 2024 Google Doc\nECOLOG-L Listserv\nInternational Coral Reef Society Job Board",
+    "crumbs": [
+      "Professional Development",
+      "Job Boards"
+    ]
+  },
+  {
+    "objectID": "lab_gen_sharedlabspace.html",
+    "href": "lab_gen_sharedlabspace.html",
+    "title": "NUMSC - Shared Lab Space",
+    "section": "",
+    "text": "NUMSC - Shared Lab Space\nEdit this page\n\nIntroductory information on the shared lab space @ NU Marine Science Center\nShared Lab Equipment Use Log",
+    "crumbs": [
+      "Lab Protocols",
+      "General Protocols",
+      "NUMSC - Shared Lab Space"
+    ]
+  },
+  {
+    "objectID": "prof_development.html",
+    "href": "prof_development.html",
+    "title": "Professional Development",
+    "section": "",
+    "text": "Professional Development",
+    "crumbs": [
+      "Professional Development",
+      "Professional Development"
+    ]
+  },
+  {
     "objectID": "lab_molec_illuminalibraryprep.html",
     "href": "lab_molec_illuminalibraryprep.html",
     "title": "Illumina Library Prep",
@@ -377,496 +867,6 @@
       "Molecular Protocols",
       "Illumina WGS Library Prep",
       "Illumina Library Prep"
-    ]
-  },
-  {
-    "objectID": "prof_development.html",
-    "href": "prof_development.html",
-    "title": "Professional Development",
-    "section": "",
-    "text": "Professional Development",
-    "crumbs": [
-      "Professional Development",
-      "Professional Development"
-    ]
-  },
-  {
-    "objectID": "lab_gen_sharedlabspace.html",
-    "href": "lab_gen_sharedlabspace.html",
-    "title": "NUMSC - Shared Lab Space",
-    "section": "",
-    "text": "NUMSC - Shared Lab Space\nEdit this page\n\nIntroductory information on the shared lab space @ NU Marine Science Center\nShared Lab Equipment Use Log",
-    "crumbs": [
-      "Lab Protocols",
-      "General Protocols",
-      "NUMSC - Shared Lab Space"
-    ]
-  },
-  {
-    "objectID": "prof_dev_job_boards.html",
-    "href": "prof_dev_job_boards.html",
-    "title": "Job Boards",
-    "section": "",
-    "text": "Job Boards\nEdit this Page\nEco Evo Jobs 2024 Google Doc\nEarth Science jobs 2024 Google Doc\nECOLOG-L Listserv\nInternational Coral Reef Society Job Board",
-    "crumbs": [
-      "Professional Development",
-      "Job Boards"
-    ]
-  },
-  {
-    "objectID": "welcome_google_drive.html",
-    "href": "welcome_google_drive.html",
-    "title": "Google Drive",
-    "section": "",
-    "text": "Google Drive\nEdit this page\nWe have a shared Gatins Lab Resources google drive folder. Ask Dr. Gatins for access.\nGatins Lab Resources Google Drive",
-    "crumbs": [
-      "Welcome",
-      "Google Drive"
-    ]
-  },
-  {
-    "objectID": "lab_generalprotocols.html",
-    "href": "lab_generalprotocols.html",
-    "title": "General Protocols",
-    "section": "",
-    "text": "General Protocols\nHere is where all General Lab Protocols will reside. Under Construction",
-    "crumbs": [
-      "Lab Protocols",
-      "General Protocols",
-      "General Protocols"
-    ]
-  },
-  {
-    "objectID": "field_gen_fieldprotocols.html",
-    "href": "field_gen_fieldprotocols.html",
-    "title": "Field Protocols",
-    "section": "",
-    "text": "Field Protocols"
-  },
-  {
-    "objectID": "lab_molec_DNA_beadcleanup.html",
-    "href": "lab_molec_DNA_beadcleanup.html",
-    "title": "DNA Bead Cleanup",
-    "section": "",
-    "text": "KS8001 KAPA cleanup bead protocol\nEdit this page\n\n\n\n\n1. Take beads out of refrigerator and allow them to come to room temperature before beginning (~30 min) . Vortex well.\n2. Prepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.\n3. Prepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).\n\n\n\n\n\n1. Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\n2. Incubate tubes/plate for 15 minutes to allow beads to bind to DNA.\n3. Place tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\n4. Discard supernatant.\n5. On magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume to 200uL.\n6. Incubate for &gt;30 seconds, then remove and discard supernatant.\n7. Add another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\n8. Dry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\n9. Remove plate from magnet.\n10. Resuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL. This is because you will lose some of the volume during the final elution step.\n11. Allow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\n12. Place tubes/plate back on magnet.\n13. Transfer your desired final sample volume to a final labeled set of tubes/plate.\n14. Quantify!",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "DNA Bead Cleanup"
-    ]
-  },
-  {
-    "objectID": "lab_molec_DNA_beadcleanup.html#kapa-pure-beads-3x-bead-cleanup-for-genomic-dna",
-    "href": "lab_molec_DNA_beadcleanup.html#kapa-pure-beads-3x-bead-cleanup-for-genomic-dna",
-    "title": "DNA Bead Cleanup",
-    "section": "",
-    "text": "KS8001 KAPA cleanup bead protocol\nEdit this page",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "DNA Bead Cleanup"
-    ]
-  },
-  {
-    "objectID": "lab_molec_DNA_beadcleanup.html#preparation",
-    "href": "lab_molec_DNA_beadcleanup.html#preparation",
-    "title": "DNA Bead Cleanup",
-    "section": "",
-    "text": "1. Take beads out of refrigerator and allow them to come to room temperature before beginning (~30 min) . Vortex well.\n2. Prepare an aliquot of 80% ethanol using molecular grade ethanol and molecular grade H2O. Calculate how much you’ll need by multiplying 200uL by (your number of samples + 1). For example, if you are cleaning 8 DNA samples, you will need 200*9=1800uL of 80% ethanol.\n3. Prepare an aliquot of your chosen elution buffer to heat to 37C (either in strip tubes if heating in thermocycler or a 1.5-2mL tube if using a heat block).",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "DNA Bead Cleanup"
-    ]
-  },
-  {
-    "objectID": "lab_molec_DNA_beadcleanup.html#protocol",
-    "href": "lab_molec_DNA_beadcleanup.html#protocol",
-    "title": "DNA Bead Cleanup",
-    "section": "",
-    "text": "1. Combine a volume of your DNA sample with 3x that volume of beads (ex. 100uL DNA + 300uL beads). Mix thoroughly by pipetting up and down, then vortex and spin.\n2. Incubate tubes/plate for 15 minutes to allow beads to bind to DNA.\n3. Place tubes/plate on magnet and incubate until liquid is clear. ** Depending on the volume, this could take 5+ minutes. For example, 200uL of volume typically took about 15 mins.\n4. Discard supernatant.\n5. On magnet, add 100uL of 80% ethanol to each sample. If 100uL does not sufficiently cover the beads, increase this volume to 200uL.\n6. Incubate for &gt;30 seconds, then remove and discard supernatant.\n7. Add another 100uL of ethanol, incubate for &gt;30 more seconds and discard the supernatant.\n8. Dry beads by leaving them uncapped for 3-5 minutes until all ethanol has evaporated (be careful to not over-dry beads).\n9. Remove plate from magnet.\n10. Resuspend beads in elution buffer (heated to 37C) and vortex and spin. Choose your elution buffer volume by adding 5uL to your desired final volume. For example, if you want 50uL of clean genomic DNA, elute in 55uL. This is because you will lose some of the volume during the final elution step.\n11. Allow samples to incubate at room temperature with caps on for 5-10 minutes (I found that 10 minutes increased yield).\n12. Place tubes/plate back on magnet.\n13. Transfer your desired final sample volume to a final labeled set of tubes/plate.\n14. Quantify!",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "DNA Bead Cleanup"
-    ]
-  },
-  {
-    "objectID": "lab_molec_gel_electrophoresis.html",
-    "href": "lab_molec_gel_electrophoresis.html",
-    "title": "Gel Electrophoresis",
-    "section": "",
-    "text": "Edit this page Protocol adapted from Lotterhos lab protocol\n\n\nYou can make either a 1% or 2% agarose gel. We have been using 2% gels because they tend to give better/clearer results.\nMaterials\n\nAgarose (chemical shelf)\n1X TAE (reagent shelf)\nScoop (near sink)\nErlenmeyer flask (glassware cabinet)\nStir bar (drawer under stir plate)\nGel rig and combs (gel room)\nWeigh boat\nParafilm\n1kb Plus ladder (-20 freezer)\nTriTrack loading dye (-20 freezer)\nDI water\nMilliQ water (OGL)\nP2.5 and P10 pipettes\nInsulated box with ice\n\nEquipment\n\nMagnetic stir plate (left of the -80 fridge)\nMicrowave (gel room)\nPower supply- PowerEase™ Touch 120W Power Supply (115 VAC) or Hoefer PS300-B (in gel room)\n\nPowerEase™ Touch 120W Power Supply (115 VAC) User Manual\n\nGel Doc for imaging (in OGL)\n\n\n\n\nEnsure you have correctly diluted 1X TAE Buffer. To make 1X from 50X TAE, pour 20mL 10X TAE in the large plastic graduated cyliner. Add 980mL MilliQ water until the mixture reaches the 1000mL mark. Pour and store in a 1L labelled glass bottle.\nMix the gel components.\n\nFor a 1% agarose gel:\n\nSmall gel: 0.60g agarose + 60 mL 1X TAE Buffer\nMedium gel: 1 g agarose + 100 mL 1X TAE Buffer\n\nFor a 2% agarose gel (what we usually use):\n\nSmall gel: 1.2g agarose + 60 mL 1X TAE Buffer\nMedium gel: 2g agarose + 100 mL 1X TAE Buffer\n\nWeigh agarose using a plastic small weigh boat. Pour into Erlenmeyer flask. Measure 1X TAE using an 100mL graduated cyliner. Pour into Erlenmeyer flask and swirl gently.\nUse the magnetic stirring plate (put a stir bar inside the Erlenmeyer flask) to mix. Turn the RPM into the 500s until all the clumps are gone. Remove the stir bar using the magnetic pull from another stir bar. Sterilize before putting back.\n\nMelt the gel.\n\nMicrowave the flask with agarose mixture for ~30 seconds.\n\nAlways watch for boiling. If mixture begins to bubble, remove it immediately and carefully swirl until bubbles are gone.\n\nWith hot mitt, remove the flask from microwave and gently swirl.\n\nBe careful—it will be hot! Hold the flask away from you and gently swirl to avoid splashing.\n\nReturn the flask to microwave and continue heating for another 30-40 seconds until mixture is clear and there are no agarose particles.\n\nAllow to cool.\n\nGently swirl while cooling. The solution should be cool enough to hold in the palm of your hand. This can take a couple minutes, please be patient.\n\nAdd GelRed:\n\nSmall gel: 6ul.\nMedium gel: 10 uL\n\nGelRed can be found in the drawer labeled “Gatins GelRed” in the shared wet lab/gel room.\n\nGently swirl until the stain is dissolved (you should not be able to see any red stain in the gel).\n\n\n\n\n\n\n\n\nGelRed Info\n\n\n\nGelRed is light sentsitive, dont keep it out for long! It tends to form a bubble on top. Pop it with a seperate pipette tip before pipetting to ensure it doesn’t get all over the pipette.\n\n\n\nPour the gel.\n\nPlace gel tray in empty gel rig (dry, no TAE). Flip its orientation so it in confined (SEE IMAGE BELOW). Wet the red rubber gaskets of tray before placing in rig so it will be easier to take out later.\n\n\n\nb. Pour gel slowly to avoid bubbles. \n   i. If bubbles form, you can pop them using a pipette tip. \n   ii. Make sure gel is poured evenly. \nc. Add casting combs into the slots. \n   i. Allow enough room between combs for DNA to run down.\n   ii. There are 2 pairs of combs for each size gel; one will create wider wells than the other. You can use either set of combs. \nd. Rinse out the flask and hang on drying rack in Gatins lab.\n\nLet the gel set for ~40 minutes.\n\nThe gel should be solid, cool to the touch, and opaque.\nOnce gel is set, remove the combs.\n\nRemove combs slowly, pulling straight up. It might be easier to do this if the gel is in the buffer.\n\n\nMake sure that the power source is off, and the gel rig is unplugged from the power source before removing the top.\nPlace the tray with your gel in the gel rig with wells on the side with the black plug\n\nSamples will run from the black side toward red side.\nDNA “runs to red” \n\nFill rig with enough 1X TAE Buffer to just cover the entire gel.\n\nThe rig doesn’t need to be filled all the way to the line, just enough to cover the gel.\n\n\n\n\n\n\n\n\nLoading DNA into gel wells\n\n\n\nRight before taking your 3ul of DNA, make sure to vortex the sample to ensure DNA is evenly dispersed throughout the tube. Forgetting to vortex can result in gels where no band is visible, or super streaky, as DNA may be stuck on the bottom of the sample well rather than suspended in the buffer.\n\n\n\nCreate ladder and DNA dye/sample solutions to load.\n\nThaw DNA, ladder, and TriTrack loading dye. Keep on ice once thawed.\nCut a piece of parafilm and tape to blue tray, waxy side up. Label where samples will go.\nCreate ladder following table below. Vortex and centrifuge ladder before using.\n\n\n\n\nLadder\nLoading Dye\nDI H2O\n\n\n\n\n1 uL\n1 uL\n4 uL\n\n\n\nMakes enough for 2 ladders\nPipette the 1ul ladder, 1ul TriTrack loading dye, and 4ul DI H20 per 2 ladders onto parafilm.\nPipette up and down to mix.\n\nCreate DNA dye/sample solutions following table below.\n\n\n\n\nDNA\nLoading Dye\n\n\n\n\n3 uL\n1 uL\n\n\n\nPipette the 1uL loading dye onto parafilm for each sample.\nUsing filtered tips pipette DNA up and down when pipetting out. Pipette the 3 uL DNA onto parafilm.\nPipette DNA and loading dye up and down on parafilm to mix. \n\n\nLoad Gel\n\nPipette 3 ul of the dye/sample solution into the proper well of the gel.\nRepeat for each sample. Change your pipette tip for each sample.\nKeep track of which samples are where!\n\n\n\n\n\n\n\n\nPipetting into gel wells\n\n\n\nWhen pipetting into gel wells, be careful not to break the agarose or stick the pipette tip too far into the well so that the sample ejects into the agarose. Position your pipette tip just inside the well and check for dye in the correct well after you pipette it. Check to see if the agarose around the well breaks. Take a note if the agarose breaks around a well.\n\n\n\nRun the gel.\n\nPut the gel box cover into place.\n\nMake sure the wires are plugged in correctly (wire colors match plug colors).\nTurn on the power supply and set timer. For a 1% gel, set it for 130V for 30 minutes. For a 2% gel, we found that 90V for 35 minutes works better.\n\nCheck for bubbles rising at cathode (black plug) side to ensure the rig is working. If you do not see bubbles rising, the gel is not running.\nWhen the gel is done running, turn the off power.\n\nNever open the rig when the power is on.\n\n\n\n\n\n\n\n\n\nImportant Power Supply Safety Notes\n\n\n\n\nThe power supply can output 300 V at maximum. Never run a protocol that maxes out the voltage.\nYou can safely run up to 4 small gels or 2 medium gels at most simultaneously on the power supply. Do not run more gels than the machine can handle, or it may break the machine.\nNever connect/disconnect cords from the power supply’s power jacks while the blue indicator light is on or when the screen says “Running.”\nMake sure area around the power supply is dry and clean\nWait 5 seconds after ending a run before handling the cords/output leads/gel rig.\nFor proper ventilation, leave at least 10 cm of space behind the instrument, and at least 5 cm of space on each side.\nInformation based on Appendix D of the safety manual\n\n\n\n\nVisualize the gel.\n\nTurn the power supply off.\nRemove the cover from the gel box.\nCarefully remove the tray and gel.\n\nTry to drip excess buffer back into the rig, scraping the bottom of the tray on the edge of the box.\n\nThe gel doc (for visualizing the gel) is in OGL, in the room you walk through right before the autoclave room. The gel doc is a large grey machine on the benchtop next to a black computer. Open the gel doc tray and wipe it clean using MilliQ water and KimWipes.\n\nA small volume of water (&lt;10ml) is sufficient.\n\nSlide the gel onto the gel doc tray. You can also keep the gel in its plastic tray and put the whole thing on the gel doc.\n\nDo so slowly to avoid creating bubbles under the gel.\nIf you’re unsure if your gel has run long enough, you can leave gel in tray and visualize it. You can then return the gel to the rig and run it for longer if necessary.\n\nClose the tray.\nOpen “Image Lab” application on the OGL laptop connected to the gel doc.\nCheck that the cord labeled “Gel doc” is plugged into the computer.\nSelect New Protocol.\nUnder “Application”, select Nucleic Acid Gels and then GelRed.\n\nThe default setting is to optimize for most intense bands which prevents the gel from being over exposed but may make very faint samples undetectable.\nIf necessary, under “Image Exposure” you can select exposure to optimize for faintest bands or set a manual exposure time.\nIf you are running a gel with samples of highly variable concentrations, it may be useful to run protocols with each optimization option.\n\nSelect “Position Gel” (yellow button on the left side of the window).\n\nThe program will ask you to check that the filter is set to Filter 1.\nCheck that the arm on the upper right side of the gel doc is in the center position labeled Filter 1.\n\nOpen door on the front of the gel doc and position your gel.\n\nYou can zoom in and out under image window on the computer screen.\nYou can enable grid lines by checking the box in the bottom corner of the screen.\n\nClose door and select “Run Protocol” (green button on the left side of the window).\nWait for the gel image to load.\nSave image or change protocol and run again.\nTo save as .jpg image:\n\nSelect File&gt;Export&gt;Export for Publication&gt;Select Export.\nChange file type to .jpg.\nName file and save in appropriate folder. We have a Lotterhos folder on the OGL laptop.\n\n\nAlways clean the gel doc tray after use. You can use MilliQ water from the squirt bottle near the gel doc and a Kimwipe to clean the tray of any remaining gel or TAE. Make sure the tray is dry before you leave.\nDispose of the gel in mayo jar. Be sure to label mayo jar with GelRed and Bromophenol blue.\nRinse gel tray and let dry on drying rack above the sink in the gel room.\nInterpret your gel.\n\n\nFirst, ensure your ladder ran cleanly. You want to see relatively straight and separated lines. Some will have higher feedback when imaging.\nUse the ladder to determine the size in basepairs of your DNA samples.\n\nThermo Fisher GeneRuler 1 kb Ladder, 250-10,000 kbp (ladder we have in the lab)\n\n\nAs shown in the image above, the ladder has 14 distinct bands representing strands of 250 bp at the lowest band to 10,000 bp at the topmost band. What matters most for genomic DNA to be sent for sequencing is ensuring your DNA strands are long enough (&gt; 3,000 bp) to indicate a successful extraction.\n\nExample Gel\n\n2% agarose gel with ladders in the rightmost and leftmost wells, a blank in the second well from the right, and three oyster genomic DNA samples in the remaining wells. This is using a different ladder than the one we have.\n\nBoth ladders ran nicely. The bands are mostly spaced out with minimal streaking.\n\nNote the clustered bands in the ladders for 3,000-20,000 bp\n\nThe second well, a blank, contains nothing beyond loading dye. As there was no sample running there, the image shows no DNA present, which is as it should be.\nSamples 1 and 2 ran properly- each has a clear distinct line placing them between 3,000-20,000 bp in length (appropriate for genomic DNA). These samples appear to be in a good state for sequencing.\nSample 3, on the other hand, is streaky, indicating that the DNA likely degraded during the electrophoresis process. There is one bright band up near the top in the 3,000-20,000 bp range, which is good, but this sample probably isn’t in the best shape for sequencing.\n\n\n\n\n\n\n\nWhat happens if I make the wrong percent agarose gel?\n\n\n\n\nWhen removing the combs from a set gel, remove very gently and pull them straight up and out to keep pieces of gel from getting loosened and knocked into the well.\nMake sure not to touch the sides of the wells with the pipette tip when adding samples in.\n\n\n\n\n\nThe voltage machine may give an “E1” error and will not begin running. When this happens, check that there is enough TAE buffer in the rig such that the ends of the electrodes are submerged. Add more 1X TAE if not.\nAlso check that electrodes are tightened on each side. The red one on rig 2 tends to get a bit loose.\n\n\n\n\n\nYour sample may have degraded. Be careful not to leave DNA samples in the fridge for more than 4 or 5 days and try not to thaw and refreeze samples too many times.",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "Gel Electrophoresis"
-    ]
-  },
-  {
-    "objectID": "lab_molec_gel_electrophoresis.html#protocol",
-    "href": "lab_molec_gel_electrophoresis.html#protocol",
-    "title": "Gel Electrophoresis",
-    "section": "",
-    "text": "You can make either a 1% or 2% agarose gel. We have been using 2% gels because they tend to give better/clearer results.\nMaterials\n\nAgarose (chemical shelf)\n1X TAE (reagent shelf)\nScoop (near sink)\nErlenmeyer flask (glassware cabinet)\nStir bar (drawer under stir plate)\nGel rig and combs (gel room)\nWeigh boat\nParafilm\n1kb Plus ladder (-20 freezer)\nTriTrack loading dye (-20 freezer)\nDI water\nMilliQ water (OGL)\nP2.5 and P10 pipettes\nInsulated box with ice\n\nEquipment\n\nMagnetic stir plate (left of the -80 fridge)\nMicrowave (gel room)\nPower supply- PowerEase™ Touch 120W Power Supply (115 VAC) or Hoefer PS300-B (in gel room)\n\nPowerEase™ Touch 120W Power Supply (115 VAC) User Manual\n\nGel Doc for imaging (in OGL)\n\n\n\n\nEnsure you have correctly diluted 1X TAE Buffer. To make 1X from 50X TAE, pour 20mL 10X TAE in the large plastic graduated cyliner. Add 980mL MilliQ water until the mixture reaches the 1000mL mark. Pour and store in a 1L labelled glass bottle.\nMix the gel components.\n\nFor a 1% agarose gel:\n\nSmall gel: 0.60g agarose + 60 mL 1X TAE Buffer\nMedium gel: 1 g agarose + 100 mL 1X TAE Buffer\n\nFor a 2% agarose gel (what we usually use):\n\nSmall gel: 1.2g agarose + 60 mL 1X TAE Buffer\nMedium gel: 2g agarose + 100 mL 1X TAE Buffer\n\nWeigh agarose using a plastic small weigh boat. Pour into Erlenmeyer flask. Measure 1X TAE using an 100mL graduated cyliner. Pour into Erlenmeyer flask and swirl gently.\nUse the magnetic stirring plate (put a stir bar inside the Erlenmeyer flask) to mix. Turn the RPM into the 500s until all the clumps are gone. Remove the stir bar using the magnetic pull from another stir bar. Sterilize before putting back.\n\nMelt the gel.\n\nMicrowave the flask with agarose mixture for ~30 seconds.\n\nAlways watch for boiling. If mixture begins to bubble, remove it immediately and carefully swirl until bubbles are gone.\n\nWith hot mitt, remove the flask from microwave and gently swirl.\n\nBe careful—it will be hot! Hold the flask away from you and gently swirl to avoid splashing.\n\nReturn the flask to microwave and continue heating for another 30-40 seconds until mixture is clear and there are no agarose particles.\n\nAllow to cool.\n\nGently swirl while cooling. The solution should be cool enough to hold in the palm of your hand. This can take a couple minutes, please be patient.\n\nAdd GelRed:\n\nSmall gel: 6ul.\nMedium gel: 10 uL\n\nGelRed can be found in the drawer labeled “Gatins GelRed” in the shared wet lab/gel room.\n\nGently swirl until the stain is dissolved (you should not be able to see any red stain in the gel).\n\n\n\n\n\n\n\n\nGelRed Info\n\n\n\nGelRed is light sentsitive, dont keep it out for long! It tends to form a bubble on top. Pop it with a seperate pipette tip before pipetting to ensure it doesn’t get all over the pipette.\n\n\n\nPour the gel.\n\nPlace gel tray in empty gel rig (dry, no TAE). Flip its orientation so it in confined (SEE IMAGE BELOW). Wet the red rubber gaskets of tray before placing in rig so it will be easier to take out later.\n\n\n\nb. Pour gel slowly to avoid bubbles. \n   i. If bubbles form, you can pop them using a pipette tip. \n   ii. Make sure gel is poured evenly. \nc. Add casting combs into the slots. \n   i. Allow enough room between combs for DNA to run down.\n   ii. There are 2 pairs of combs for each size gel; one will create wider wells than the other. You can use either set of combs. \nd. Rinse out the flask and hang on drying rack in Gatins lab.\n\nLet the gel set for ~40 minutes.\n\nThe gel should be solid, cool to the touch, and opaque.\nOnce gel is set, remove the combs.\n\nRemove combs slowly, pulling straight up. It might be easier to do this if the gel is in the buffer.\n\n\nMake sure that the power source is off, and the gel rig is unplugged from the power source before removing the top.\nPlace the tray with your gel in the gel rig with wells on the side with the black plug\n\nSamples will run from the black side toward red side.\nDNA “runs to red” \n\nFill rig with enough 1X TAE Buffer to just cover the entire gel.\n\nThe rig doesn’t need to be filled all the way to the line, just enough to cover the gel.\n\n\n\n\n\n\n\n\nLoading DNA into gel wells\n\n\n\nRight before taking your 3ul of DNA, make sure to vortex the sample to ensure DNA is evenly dispersed throughout the tube. Forgetting to vortex can result in gels where no band is visible, or super streaky, as DNA may be stuck on the bottom of the sample well rather than suspended in the buffer.\n\n\n\nCreate ladder and DNA dye/sample solutions to load.\n\nThaw DNA, ladder, and TriTrack loading dye. Keep on ice once thawed.\nCut a piece of parafilm and tape to blue tray, waxy side up. Label where samples will go.\nCreate ladder following table below. Vortex and centrifuge ladder before using.\n\n\n\n\nLadder\nLoading Dye\nDI H2O\n\n\n\n\n1 uL\n1 uL\n4 uL\n\n\n\nMakes enough for 2 ladders\nPipette the 1ul ladder, 1ul TriTrack loading dye, and 4ul DI H20 per 2 ladders onto parafilm.\nPipette up and down to mix.\n\nCreate DNA dye/sample solutions following table below.\n\n\n\n\nDNA\nLoading Dye\n\n\n\n\n3 uL\n1 uL\n\n\n\nPipette the 1uL loading dye onto parafilm for each sample.\nUsing filtered tips pipette DNA up and down when pipetting out. Pipette the 3 uL DNA onto parafilm.\nPipette DNA and loading dye up and down on parafilm to mix. \n\n\nLoad Gel\n\nPipette 3 ul of the dye/sample solution into the proper well of the gel.\nRepeat for each sample. Change your pipette tip for each sample.\nKeep track of which samples are where!\n\n\n\n\n\n\n\n\nPipetting into gel wells\n\n\n\nWhen pipetting into gel wells, be careful not to break the agarose or stick the pipette tip too far into the well so that the sample ejects into the agarose. Position your pipette tip just inside the well and check for dye in the correct well after you pipette it. Check to see if the agarose around the well breaks. Take a note if the agarose breaks around a well.\n\n\n\nRun the gel.\n\nPut the gel box cover into place.\n\nMake sure the wires are plugged in correctly (wire colors match plug colors).\nTurn on the power supply and set timer. For a 1% gel, set it for 130V for 30 minutes. For a 2% gel, we found that 90V for 35 minutes works better.\n\nCheck for bubbles rising at cathode (black plug) side to ensure the rig is working. If you do not see bubbles rising, the gel is not running.\nWhen the gel is done running, turn the off power.\n\nNever open the rig when the power is on.\n\n\n\n\n\n\n\n\n\nImportant Power Supply Safety Notes\n\n\n\n\nThe power supply can output 300 V at maximum. Never run a protocol that maxes out the voltage.\nYou can safely run up to 4 small gels or 2 medium gels at most simultaneously on the power supply. Do not run more gels than the machine can handle, or it may break the machine.\nNever connect/disconnect cords from the power supply’s power jacks while the blue indicator light is on or when the screen says “Running.”\nMake sure area around the power supply is dry and clean\nWait 5 seconds after ending a run before handling the cords/output leads/gel rig.\nFor proper ventilation, leave at least 10 cm of space behind the instrument, and at least 5 cm of space on each side.\nInformation based on Appendix D of the safety manual\n\n\n\n\nVisualize the gel.\n\nTurn the power supply off.\nRemove the cover from the gel box.\nCarefully remove the tray and gel.\n\nTry to drip excess buffer back into the rig, scraping the bottom of the tray on the edge of the box.\n\nThe gel doc (for visualizing the gel) is in OGL, in the room you walk through right before the autoclave room. The gel doc is a large grey machine on the benchtop next to a black computer. Open the gel doc tray and wipe it clean using MilliQ water and KimWipes.\n\nA small volume of water (&lt;10ml) is sufficient.\n\nSlide the gel onto the gel doc tray. You can also keep the gel in its plastic tray and put the whole thing on the gel doc.\n\nDo so slowly to avoid creating bubbles under the gel.\nIf you’re unsure if your gel has run long enough, you can leave gel in tray and visualize it. You can then return the gel to the rig and run it for longer if necessary.\n\nClose the tray.\nOpen “Image Lab” application on the OGL laptop connected to the gel doc.\nCheck that the cord labeled “Gel doc” is plugged into the computer.\nSelect New Protocol.\nUnder “Application”, select Nucleic Acid Gels and then GelRed.\n\nThe default setting is to optimize for most intense bands which prevents the gel from being over exposed but may make very faint samples undetectable.\nIf necessary, under “Image Exposure” you can select exposure to optimize for faintest bands or set a manual exposure time.\nIf you are running a gel with samples of highly variable concentrations, it may be useful to run protocols with each optimization option.\n\nSelect “Position Gel” (yellow button on the left side of the window).\n\nThe program will ask you to check that the filter is set to Filter 1.\nCheck that the arm on the upper right side of the gel doc is in the center position labeled Filter 1.\n\nOpen door on the front of the gel doc and position your gel.\n\nYou can zoom in and out under image window on the computer screen.\nYou can enable grid lines by checking the box in the bottom corner of the screen.\n\nClose door and select “Run Protocol” (green button on the left side of the window).\nWait for the gel image to load.\nSave image or change protocol and run again.\nTo save as .jpg image:\n\nSelect File&gt;Export&gt;Export for Publication&gt;Select Export.\nChange file type to .jpg.\nName file and save in appropriate folder. We have a Lotterhos folder on the OGL laptop.\n\n\nAlways clean the gel doc tray after use. You can use MilliQ water from the squirt bottle near the gel doc and a Kimwipe to clean the tray of any remaining gel or TAE. Make sure the tray is dry before you leave.\nDispose of the gel in mayo jar. Be sure to label mayo jar with GelRed and Bromophenol blue.\nRinse gel tray and let dry on drying rack above the sink in the gel room.\nInterpret your gel.\n\n\nFirst, ensure your ladder ran cleanly. You want to see relatively straight and separated lines. Some will have higher feedback when imaging.\nUse the ladder to determine the size in basepairs of your DNA samples.\n\nThermo Fisher GeneRuler 1 kb Ladder, 250-10,000 kbp (ladder we have in the lab)\n\n\nAs shown in the image above, the ladder has 14 distinct bands representing strands of 250 bp at the lowest band to 10,000 bp at the topmost band. What matters most for genomic DNA to be sent for sequencing is ensuring your DNA strands are long enough (&gt; 3,000 bp) to indicate a successful extraction.\n\nExample Gel\n\n2% agarose gel with ladders in the rightmost and leftmost wells, a blank in the second well from the right, and three oyster genomic DNA samples in the remaining wells. This is using a different ladder than the one we have.\n\nBoth ladders ran nicely. The bands are mostly spaced out with minimal streaking.\n\nNote the clustered bands in the ladders for 3,000-20,000 bp\n\nThe second well, a blank, contains nothing beyond loading dye. As there was no sample running there, the image shows no DNA present, which is as it should be.\nSamples 1 and 2 ran properly- each has a clear distinct line placing them between 3,000-20,000 bp in length (appropriate for genomic DNA). These samples appear to be in a good state for sequencing.\nSample 3, on the other hand, is streaky, indicating that the DNA likely degraded during the electrophoresis process. There is one bright band up near the top in the 3,000-20,000 bp range, which is good, but this sample probably isn’t in the best shape for sequencing.",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "Gel Electrophoresis"
-    ]
-  },
-  {
-    "objectID": "lab_molec_gel_electrophoresis.html#troubleshooting",
-    "href": "lab_molec_gel_electrophoresis.html#troubleshooting",
-    "title": "Gel Electrophoresis",
-    "section": "",
-    "text": "What happens if I make the wrong percent agarose gel?\n\n\n\n\nWhen removing the combs from a set gel, remove very gently and pull them straight up and out to keep pieces of gel from getting loosened and knocked into the well.\nMake sure not to touch the sides of the wells with the pipette tip when adding samples in.\n\n\n\n\n\nThe voltage machine may give an “E1” error and will not begin running. When this happens, check that there is enough TAE buffer in the rig such that the ends of the electrodes are submerged. Add more 1X TAE if not.\nAlso check that electrodes are tightened on each side. The red one on rig 2 tends to get a bit loose.\n\n\n\n\n\nYour sample may have degraded. Be careful not to leave DNA samples in the fridge for more than 4 or 5 days and try not to thaw and refreeze samples too many times.",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "Gel Electrophoresis"
-    ]
-  },
-  {
-    "objectID": "lab_molec_eDNA_extraction.html",
-    "href": "lab_molec_eDNA_extraction.html",
-    "title": "eDNA Filter Extraction",
-    "section": "",
-    "text": "Edit this Page\n\n\n\n\nNeed:\n\nsterile sissors and forcepts\nethanol lamp with 100% ethanol\n50 ml tube with 70% ethanol\n1.5 ml tubes\nice container\nBuffer ATL\nProteinase K\n\nSteps:\n\n\npreheat thermomixer to 56 °C\n\n\nclean area with 10% bleach, water, then 70% ethanol\n\n\nprep ice container\n\n\nlabel 1.5 ml tubes\n\n\nadd 360 µl of Buffer ATL & 40 µl of Proteinase K into 1.5 ml tubes\n\n\nclean instruments between each filter by soaking in 70% ethanol then running through a ethanol lamp with 100% ethanol within it\n\n\ncut rim off of filters then into 3 strips\n\n\nPHOTO\n\n\nseal tubes\n\n\nvortex for 15 sec\n\n\nstore all samples on ice until ready\n\n\nPlace samples on thermo-mixer set at 56 °C at 600 rpm (check after 2 mins to make sure everything is sealed)\n\n\nincubate for 12–14 h for filters and 24 hours for tissue\n\n\n\n\n\nNeed:\n\nBuffer AL\n100% ethanol\nDNeasy spin columns\ncollection tubes\nBuffer AW1\nBuffer AW2\n1.5 or 2 ml microcentrifuge tubes\nwarmed 1X low TE buffer\n\nSteps:\n\n\nprep and clean bench with 10% bleach, water, then 70% ethanol\n\n\nlabel spin-column tubes\n\n\nadd 400 μl Buffer AL, then vortex\n\n\nadd 400 μl Ethanol (100% molecular grade), then vortex\n\n\npipet half of solution to DNeasy Mini spin column placed in a 2 ml collection tube\n\n\ncentrifuge for 1 min at ≥ 6000 x g (8000 rpm)\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new collection tube\n\n\npipet the rest of the solution from the initial tubes into the spin column\n\n\ncentrifuge for 1 min at ≥ 6000 x g (8000 rpm)\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new collection tube\n\n\nadd 500 μl Buffer AW1\n\n\ncentrifuge for 1 min at ≥6000 x g (8000 rpm)\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new collection tube\n\n\nadd 500 μl Buffer AW2\n\n\ncentrifuge for 3 min at 20,000 x g (14,000 rpm)\n\n\nmake sure spin column membrane are dry after this step; spin again for 1 min if not\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube\n\n\nadd 50 μl of warm low TE (warm in thermomixer, 37 C)\n\n\nincubate for 1 min at room temperature (15–25°C)\n\n\ncentrifuge for 1 min at ≥6000 x g (8000 rpm)\n\n\nadd another 50 μl warm low TE\n\n\nincubate for 10 min at room temperature (15–25°C)\n\n\ncentrifuge for 1 min at ≥6000 x g (8000 rpm)\n\n\nstore in fridge for a few days or freeze at -20 or -80 if not using immediately\n\n\n\n\n\n\nQubit\nneed to dilute DNA? -&gt; dilute with low TE\nPCR then gel or qPCR",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "eDNA Protocols",
-      "eDNA Filter Extraction"
-    ]
-  },
-  {
-    "objectID": "lab_molec_eDNA_extraction.html#dna-extraction-from-filters-using-qiagen-blood-and-tissue-kit",
-    "href": "lab_molec_eDNA_extraction.html#dna-extraction-from-filters-using-qiagen-blood-and-tissue-kit",
-    "title": "eDNA Filter Extraction",
-    "section": "",
-    "text": "Need:\n\nsterile sissors and forcepts\nethanol lamp with 100% ethanol\n50 ml tube with 70% ethanol\n1.5 ml tubes\nice container\nBuffer ATL\nProteinase K\n\nSteps:\n\n\npreheat thermomixer to 56 °C\n\n\nclean area with 10% bleach, water, then 70% ethanol\n\n\nprep ice container\n\n\nlabel 1.5 ml tubes\n\n\nadd 360 µl of Buffer ATL & 40 µl of Proteinase K into 1.5 ml tubes\n\n\nclean instruments between each filter by soaking in 70% ethanol then running through a ethanol lamp with 100% ethanol within it\n\n\ncut rim off of filters then into 3 strips\n\n\nPHOTO\n\n\nseal tubes\n\n\nvortex for 15 sec\n\n\nstore all samples on ice until ready\n\n\nPlace samples on thermo-mixer set at 56 °C at 600 rpm (check after 2 mins to make sure everything is sealed)\n\n\nincubate for 12–14 h for filters and 24 hours for tissue\n\n\n\n\n\nNeed:\n\nBuffer AL\n100% ethanol\nDNeasy spin columns\ncollection tubes\nBuffer AW1\nBuffer AW2\n1.5 or 2 ml microcentrifuge tubes\nwarmed 1X low TE buffer\n\nSteps:\n\n\nprep and clean bench with 10% bleach, water, then 70% ethanol\n\n\nlabel spin-column tubes\n\n\nadd 400 μl Buffer AL, then vortex\n\n\nadd 400 μl Ethanol (100% molecular grade), then vortex\n\n\npipet half of solution to DNeasy Mini spin column placed in a 2 ml collection tube\n\n\ncentrifuge for 1 min at ≥ 6000 x g (8000 rpm)\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new collection tube\n\n\npipet the rest of the solution from the initial tubes into the spin column\n\n\ncentrifuge for 1 min at ≥ 6000 x g (8000 rpm)\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new collection tube\n\n\nadd 500 μl Buffer AW1\n\n\ncentrifuge for 1 min at ≥6000 x g (8000 rpm)\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new collection tube\n\n\nadd 500 μl Buffer AW2\n\n\ncentrifuge for 3 min at 20,000 x g (14,000 rpm)\n\n\nmake sure spin column membrane are dry after this step; spin again for 1 min if not\n\n\ndiscard the flow-through & collection tube\n\n\ntranfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube\n\n\nadd 50 μl of warm low TE (warm in thermomixer, 37 C)\n\n\nincubate for 1 min at room temperature (15–25°C)\n\n\ncentrifuge for 1 min at ≥6000 x g (8000 rpm)\n\n\nadd another 50 μl warm low TE\n\n\nincubate for 10 min at room temperature (15–25°C)\n\n\ncentrifuge for 1 min at ≥6000 x g (8000 rpm)\n\n\nstore in fridge for a few days or freeze at -20 or -80 if not using immediately\n\n\n\n\n\n\nQubit\nneed to dilute DNA? -&gt; dilute with low TE\nPCR then gel or qPCR",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "eDNA Protocols",
-      "eDNA Filter Extraction"
-    ]
-  },
-  {
-    "objectID": "lab_molec_dnaextraction.html",
-    "href": "lab_molec_dnaextraction.html",
-    "title": "Qiagen DNeasy extraction",
-    "section": "",
-    "text": "Qiagen DNeasy extraction",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "Qiagen DNeasy extraction"
-    ]
-  },
-  {
-    "objectID": "lab_gen_water.html",
-    "href": "lab_gen_water.html",
-    "title": "Types of Water",
-    "section": "",
-    "text": "Types of Water\nEdit this page\n\nDistilled water: water that has been evaporated and condensed to increase purity\nDeionized (DI) water: water that has ions removed using ion exchange (e..g., osmosis)\nMilliQ water: is DI water but with higher purity. Water has been deionised/demineralised and gone through filtration. MilliQ water can replace DI water but not the other way around. This is usually used for autovclave, water baths, buffers, etc\nNuclease free water- Distilled water free of DNAse and RNAse. used for PCR, sequencing, and buffers\nMolecular grade water: Ultrapure water (basically a combination of Milli-Q and Nuclease free). Used for sensitice processes e.g., PCR, qPCR, RT-PCR, etc",
-    "crumbs": [
-      "Lab Protocols",
-      "General Protocols",
-      "Types of Water"
-    ]
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Principal Investigator"
-  },
-  {
-    "objectID": "people.html#remy-gatins-ph.d",
-    "href": "people.html#remy-gatins-ph.d",
-    "title": "People",
-    "section": "",
-    "text": "Principal Investigator"
-  },
-  {
-    "objectID": "people.html#annabel-hughes",
-    "href": "people.html#annabel-hughes",
-    "title": "People",
-    "section": "Annabel Hughes",
-    "text": "Annabel Hughes\nPhD Student"
-  },
-  {
-    "objectID": "people.html#lee-fenuccio",
-    "href": "people.html#lee-fenuccio",
-    "title": "People",
-    "section": "Lee Fenuccio",
-    "text": "Lee Fenuccio\nCo-op Student"
-  },
-  {
-    "objectID": "people.html#future-students",
-    "href": "people.html#future-students",
-    "title": "People",
-    "section": "Future students",
-    "text": "Future students"
-  },
-  {
-    "objectID": "people.html#postdocs",
-    "href": "people.html#postdocs",
-    "title": "People",
-    "section": "Postdocs",
-    "text": "Postdocs"
-  },
-  {
-    "objectID": "lab_molec_eDNA_qpcr.html",
-    "href": "lab_molec_eDNA_qpcr.html",
-    "title": "eDNA qPCR Protocol",
-    "section": "",
-    "text": "eDNA qPCR Protocol\nEdit this page\nPage in progress",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "eDNA Protocols",
-      "eDNA qPCR Protocol"
-    ]
-  },
-  {
-    "objectID": "research.html#hybridization",
-    "href": "research.html#hybridization",
-    "title": "Research",
-    "section": "Hybridization",
-    "text": "Hybridization"
-  },
-  {
-    "objectID": "research.html#range-expansions",
-    "href": "research.html#range-expansions",
-    "title": "Research",
-    "section": "Range Expansions",
-    "text": "Range Expansions"
-  },
-  {
-    "objectID": "lab_equip_autoclave.html",
-    "href": "lab_equip_autoclave.html",
-    "title": "Autoclave (OGL)",
-    "section": "",
-    "text": "Edit this page\nThe protocol for using the autoclave in OGL. Adapted from Lotterhos Lab protocols.\n\n\n\nAn autoclave chamber is used to sterilize laboratory equipment, including liquids, by subjecting them to steam created at a high temperature and pressure. Autoclaving should be performed on the following items:\n\nContainers used while working with microorganisms\nGlassware used to store food for experimental organisms\nBiohazard waste containers\nPipette tip boxes\n\n\n\n\n\nReview or take the autoclave training on the Northeastern Environmental Health and Safety website.\nIt is mandatory to scheudle a 20 minute in-person training with Rosie Falco Poulin (r.falco@northeastern.edu) at the MSC to follow up on the online course.\nAlways unscrew jars or vials as the high pressure may cause them to explode if tightened.\n\n\n\n\n\nFill out autoclave sign up in binder\nMake sure all knobs are at zero\nLoad samples onto metal sheet inside the autoclave\nReset red arm to zero (top gauge). This arm keeps track of temperature maximum during the run\nTurn ON autoclave with green switch\nTurn bottom knob to fill water - wait until water reaches the front of the groove (might already have water in it)\nSwitch knob to sterilize\nSeal the door by turning clockwise (not too tight)\nLook on the chart:\n\nDetermine what you are autoclaving (wrapped vs unwrapped)\nSet temperature to the desired setting\nExample: Unwrapped = 3850 model, cold start, 32 min, 134 degrees\n\nSet timer (NOTE: Setting timer starts the run)\nCome back 52 minutes later (32 in autoclave + 20 to depressurize) - If the red gauge reads lower than your desired temperature, it didn’t get hot enough (due to too much water or too much glassware). Run it again, if needed, for slightly longer (~40 mins) and make sure it reaches the appropriate temperature (indicated by red arm)",
-    "crumbs": [
-      "Lab Protocols",
-      "Equipment",
-      "Autoclave (OGL)"
-    ]
-  },
-  {
-    "objectID": "lab_equip_autoclave.html#overview",
-    "href": "lab_equip_autoclave.html#overview",
-    "title": "Autoclave (OGL)",
-    "section": "",
-    "text": "An autoclave chamber is used to sterilize laboratory equipment, including liquids, by subjecting them to steam created at a high temperature and pressure. Autoclaving should be performed on the following items:\n\nContainers used while working with microorganisms\nGlassware used to store food for experimental organisms\nBiohazard waste containers\nPipette tip boxes",
-    "crumbs": [
-      "Lab Protocols",
-      "Equipment",
-      "Autoclave (OGL)"
-    ]
-  },
-  {
-    "objectID": "lab_equip_autoclave.html#tips-before-starting",
-    "href": "lab_equip_autoclave.html#tips-before-starting",
-    "title": "Autoclave (OGL)",
-    "section": "",
-    "text": "Review or take the autoclave training on the Northeastern Environmental Health and Safety website.\nIt is mandatory to scheudle a 20 minute in-person training with Rosie Falco Poulin (r.falco@northeastern.edu) at the MSC to follow up on the online course.\nAlways unscrew jars or vials as the high pressure may cause them to explode if tightened.",
-    "crumbs": [
-      "Lab Protocols",
-      "Equipment",
-      "Autoclave (OGL)"
-    ]
-  },
-  {
-    "objectID": "lab_equip_autoclave.html#protocol",
-    "href": "lab_equip_autoclave.html#protocol",
-    "title": "Autoclave (OGL)",
-    "section": "",
-    "text": "Fill out autoclave sign up in binder\nMake sure all knobs are at zero\nLoad samples onto metal sheet inside the autoclave\nReset red arm to zero (top gauge). This arm keeps track of temperature maximum during the run\nTurn ON autoclave with green switch\nTurn bottom knob to fill water - wait until water reaches the front of the groove (might already have water in it)\nSwitch knob to sterilize\nSeal the door by turning clockwise (not too tight)\nLook on the chart:\n\nDetermine what you are autoclaving (wrapped vs unwrapped)\nSet temperature to the desired setting\nExample: Unwrapped = 3850 model, cold start, 32 min, 134 degrees\n\nSet timer (NOTE: Setting timer starts the run)\nCome back 52 minutes later (32 in autoclave + 20 to depressurize) - If the red gauge reads lower than your desired temperature, it didn’t get hot enough (due to too much water or too much glassware). Run it again, if needed, for slightly longer (~40 mins) and make sure it reaches the appropriate temperature (indicated by red arm)",
-    "crumbs": [
-      "Lab Protocols",
-      "Equipment",
-      "Autoclave (OGL)"
-    ]
-  },
-  {
-    "objectID": "lab_molec_low_te_buffer.html",
-    "href": "lab_molec_low_te_buffer.html",
-    "title": "Low TE Buffer",
-    "section": "",
-    "text": "Edit this page\n\nLow TE buffer has 10 times less EDTA than regular TE buffer. This prevents EDTA from interfering with any future interactions.\n\n\n\n\nTris base\nEDTA (Ethylenediamine Tetraacetic Acid, Disodium Salt Dihydrate)\nHCL\nDI water\nstir bar\n\n\n\n\n\nmagnetic stir plate\npH meter\n\n\n\n\n\n1. Add 800 ml deionized water to large erlenmeyer flask\n2. Add appropriate amount of Tris Base and EDTA to create desired concentration\n\n\n\n\nConcentration\nTris Base\nEDTA\nFinal Molarity\n\n\n\n\n20x low\n24.22g\n0.584g\n0.2M Tris and 2mM EDTA\n\n\n10X low\n12.11g\n0.292g\n0.1M Tris and 1mM EDTA\n\n\n1X low\n1.211g\n29.2mg\n10mM Tris and 0.1mM EDTA\n\n\n\n\n3. Add magnetic stir bar, mix for 5 mins at 300 rpm on magnetic stir plate\n4. Set up stir plate and pH meter in fume hood and calibrate if needed.\n\nCalibrate pH meter if it hasn’t been calibrated recently\nUse 2-3 pH standards. Directions here\nKeep pH meter in a liquid always! Do not let probe dry out!\n\n5. Keep mixture mixing and slowly add HCl until pH is 8.0.\n\nKeep mixture mixing on magnetic stir plate at 300rpm\nPut the pH meter’s probe into mixture\nSlowly add quantities of HCl, checking pH as you go, until pH is 8.0\n\nAs pH lowers, more HCl will be required to continue to lower it since pH is a log scale\nLast time it took 10.5mL amount of HCl, I recommend doing 1000 uL increment amounts to start and then do less as you get closer to 8.0\nIf you go over, adjust back down with NaOH\n\n\n6. Bring volume to 1L with DI water\n7. Tranfer mixture into a long-term autoclave-safe storage container\n8. Sterilize by autoclaving for 50 min with cap tightened to a single turn. Store.\n\n\n\n\n\nDouble check pH is 8.0 before and after diluting\nMake 1X from 20X:\n\nCombine 1 part 20X to 19 parts DI water (ex. 50uL 20X TE + 950uL DI H20)",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "Low TE Buffer"
-    ]
-  },
-  {
-    "objectID": "lab_molec_low_te_buffer.html#materials",
-    "href": "lab_molec_low_te_buffer.html#materials",
-    "title": "Low TE Buffer",
-    "section": "",
-    "text": "Tris base\nEDTA (Ethylenediamine Tetraacetic Acid, Disodium Salt Dihydrate)\nHCL\nDI water\nstir bar",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "Low TE Buffer"
-    ]
-  },
-  {
-    "objectID": "lab_molec_low_te_buffer.html#equipment",
-    "href": "lab_molec_low_te_buffer.html#equipment",
-    "title": "Low TE Buffer",
-    "section": "",
-    "text": "magnetic stir plate\npH meter",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "Low TE Buffer"
-    ]
-  },
-  {
-    "objectID": "lab_molec_low_te_buffer.html#protocol",
-    "href": "lab_molec_low_te_buffer.html#protocol",
-    "title": "Low TE Buffer",
-    "section": "",
-    "text": "1. Add 800 ml deionized water to large erlenmeyer flask\n2. Add appropriate amount of Tris Base and EDTA to create desired concentration\n\n\n\n\nConcentration\nTris Base\nEDTA\nFinal Molarity\n\n\n\n\n20x low\n24.22g\n0.584g\n0.2M Tris and 2mM EDTA\n\n\n10X low\n12.11g\n0.292g\n0.1M Tris and 1mM EDTA\n\n\n1X low\n1.211g\n29.2mg\n10mM Tris and 0.1mM EDTA\n\n\n\n\n3. Add magnetic stir bar, mix for 5 mins at 300 rpm on magnetic stir plate\n4. Set up stir plate and pH meter in fume hood and calibrate if needed.\n\nCalibrate pH meter if it hasn’t been calibrated recently\nUse 2-3 pH standards. Directions here\nKeep pH meter in a liquid always! Do not let probe dry out!\n\n5. Keep mixture mixing and slowly add HCl until pH is 8.0.\n\nKeep mixture mixing on magnetic stir plate at 300rpm\nPut the pH meter’s probe into mixture\nSlowly add quantities of HCl, checking pH as you go, until pH is 8.0\n\nAs pH lowers, more HCl will be required to continue to lower it since pH is a log scale\nLast time it took 10.5mL amount of HCl, I recommend doing 1000 uL increment amounts to start and then do less as you get closer to 8.0\nIf you go over, adjust back down with NaOH\n\n\n6. Bring volume to 1L with DI water\n7. Tranfer mixture into a long-term autoclave-safe storage container\n8. Sterilize by autoclaving for 50 min with cap tightened to a single turn. Store.",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "Low TE Buffer"
-    ]
-  },
-  {
-    "objectID": "lab_molec_low_te_buffer.html#diluting",
-    "href": "lab_molec_low_te_buffer.html#diluting",
-    "title": "Low TE Buffer",
-    "section": "",
-    "text": "Double check pH is 8.0 before and after diluting\nMake 1X from 20X:\n\nCombine 1 part 20X to 19 parts DI water (ex. 50uL 20X TE + 950uL DI H20)",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "Low TE Buffer"
-    ]
-  },
-  {
-    "objectID": "field_permits_US.html",
-    "href": "field_permits_US.html",
-    "title": "US Field Permits",
-    "section": "",
-    "text": "Edit this page\n\n\nFor questions regarding which permits are appropriate for your specific activities, contact the Florida Fish and Wildlife Conservation Commission Marine Fisheries Management department at 850-487-0554.\n\n\nRecreational fishing (via pole or spear) is quite simple in Florida. Here is the page for Recreational Saltwater Licenses & Permits and here is the page with specific information regarding spearing.\n\n\n\nA Special Activity License (SAL) is required if collection plans exceed marine fisheries regulations. In order to collect Holacanthus, a SAL is required because families of ornamental reef fish such as angelfish are on the prohibited species harvest list (see Spearing page for details).\nThere are a few different types of SALs, but we will be submitting a Scientific Research SAL.\n** Will continue updating after we hear back about our application! - Annabel 03/14/2024\n\n\n\nPermitting in the Florida Keys is very tricky! There are designated marine zones and to conduct any species collections in waters along the keys in these zones requires a NOAA National Marine Sanctuaries Permit Application.\nFor questions regarding FKNMS permits, contact Dr. Harrison Albert:\n\nEmail: harrison.albert@noaa.gov\nPhone: 786-243-6037\n\nIt seemed like the permit application could be filled out with Throughout sanctuary checked in Section C - Project Information Proposed location of activities:, but after email correspondence with Dr. Harrison Albert, it seems like we may need to be more specific. Email thread copied below:\nMarch 4, 2024\n\nHello,\nI am a first year PhD student at Northeastern University advised by Dr. Remy Gatins (CC’d here). We are planning fieldwork for July and are trying to gather information about collection sites and required permitting.\nOur plan is to collect Holacanthus angelfish for my research focused on the origins of divergence between the two species in the Tropical Western Atlantic: H. ciliaris and H. bermudensis. Ideally we will collect 10-15 individuals (of each species if possible) via scuba by spearing from three different locations along the Florida Keys. Currently we are planning to collect from Tavernier with Conch Republic Divers, Layton with the Keys Marine Laboratory, and Key West with Finz Dive Center. If our collections take place at sites outside of special sanctuary zones, how do you recommend we complete the NOAA National Marine Sanctuaries permit application?\nApologies for the lack of detail regarding specific collection site information. Please let me know if we should designate specific sampling zones/coordinates in order to move forward.\nThank you in advance for your help! Looking forward to hearing from you.\nCheers, Annabel\n\nMarch 12, 2024\n\nHello Annabel,\nThank you for your patience while I reviewed your FKNMS permitting email inquiry.\nUnfortunately, this request is a bit complicated. At this time, I am not able to provide you with ONMS permit guidance until you are able to provide the FKNMS permits office with a SAL. Once / if you are able to obtain a SAL, I will also need to know the specific locations you are requesting to collect from (i.e., 4 GPS points that connect to create a polygon), especially if the collections will take place in Key Largo or Looe Key Existing Management Areas (which I would try to avoid conducting in for ease of permitting).\nPlease let me know once you obtain the SAL, or if FWC is able to provide you with information / guidance on whether this would be possible & issued in your requested timeline and we can proceed from there to apply for the ONMS permit.\nAll the best,\nDr. Harrison\n\nTo collect fish samples along the Keys outside of these special zones, no FKNMS permit is necessary. These permits seem to be especially important for any work disturbing the seafloor such as coral coring, for example, but to just spear some fish we should be good! See this email from Kyle Phillips, a scientist at the Keys Marine Laboratory in Layton, FL:\n\nYou should only need a FKNMS permit if you wish to collect specimens within special areas such as SPAs, ERs, or ROAs that’re within the sanctuary. My initial thoughts are that this won’t be necessary, we can hopefully find these fish at patch reefs outside of these special areas (still within the sanctuary), so it’s likely you’ll just need the SAL from FWC. … Just to clarify the sanctuary stuff, all sites that we would take you to are within the FKNMS. It’s just that with fish collections, you’d only need a FKNMS permit if you were disturbing the seafloor or collecting in a ‘special area’ like a ROA, ER, etc (which we shouldn’t need to do). We’ll be good though, just wanted to clear that up a bit.\n\n** Will continue updating after we hear back about our application! - Annabel 05/31/2024",
-    "crumbs": [
-      "Field Protocols",
-      "Permits",
-      "US Field Permits"
-    ]
-  },
-  {
-    "objectID": "field_permits_US.html#florida",
-    "href": "field_permits_US.html#florida",
-    "title": "US Field Permits",
-    "section": "",
-    "text": "For questions regarding which permits are appropriate for your specific activities, contact the Florida Fish and Wildlife Conservation Commission Marine Fisheries Management department at 850-487-0554.\n\n\nRecreational fishing (via pole or spear) is quite simple in Florida. Here is the page for Recreational Saltwater Licenses & Permits and here is the page with specific information regarding spearing.\n\n\n\nA Special Activity License (SAL) is required if collection plans exceed marine fisheries regulations. In order to collect Holacanthus, a SAL is required because families of ornamental reef fish such as angelfish are on the prohibited species harvest list (see Spearing page for details).\nThere are a few different types of SALs, but we will be submitting a Scientific Research SAL.\n** Will continue updating after we hear back about our application! - Annabel 03/14/2024\n\n\n\nPermitting in the Florida Keys is very tricky! There are designated marine zones and to conduct any species collections in waters along the keys in these zones requires a NOAA National Marine Sanctuaries Permit Application.\nFor questions regarding FKNMS permits, contact Dr. Harrison Albert:\n\nEmail: harrison.albert@noaa.gov\nPhone: 786-243-6037\n\nIt seemed like the permit application could be filled out with Throughout sanctuary checked in Section C - Project Information Proposed location of activities:, but after email correspondence with Dr. Harrison Albert, it seems like we may need to be more specific. Email thread copied below:\nMarch 4, 2024\n\nHello,\nI am a first year PhD student at Northeastern University advised by Dr. Remy Gatins (CC’d here). We are planning fieldwork for July and are trying to gather information about collection sites and required permitting.\nOur plan is to collect Holacanthus angelfish for my research focused on the origins of divergence between the two species in the Tropical Western Atlantic: H. ciliaris and H. bermudensis. Ideally we will collect 10-15 individuals (of each species if possible) via scuba by spearing from three different locations along the Florida Keys. Currently we are planning to collect from Tavernier with Conch Republic Divers, Layton with the Keys Marine Laboratory, and Key West with Finz Dive Center. If our collections take place at sites outside of special sanctuary zones, how do you recommend we complete the NOAA National Marine Sanctuaries permit application?\nApologies for the lack of detail regarding specific collection site information. Please let me know if we should designate specific sampling zones/coordinates in order to move forward.\nThank you in advance for your help! Looking forward to hearing from you.\nCheers, Annabel\n\nMarch 12, 2024\n\nHello Annabel,\nThank you for your patience while I reviewed your FKNMS permitting email inquiry.\nUnfortunately, this request is a bit complicated. At this time, I am not able to provide you with ONMS permit guidance until you are able to provide the FKNMS permits office with a SAL. Once / if you are able to obtain a SAL, I will also need to know the specific locations you are requesting to collect from (i.e., 4 GPS points that connect to create a polygon), especially if the collections will take place in Key Largo or Looe Key Existing Management Areas (which I would try to avoid conducting in for ease of permitting).\nPlease let me know once you obtain the SAL, or if FWC is able to provide you with information / guidance on whether this would be possible & issued in your requested timeline and we can proceed from there to apply for the ONMS permit.\nAll the best,\nDr. Harrison\n\nTo collect fish samples along the Keys outside of these special zones, no FKNMS permit is necessary. These permits seem to be especially important for any work disturbing the seafloor such as coral coring, for example, but to just spear some fish we should be good! See this email from Kyle Phillips, a scientist at the Keys Marine Laboratory in Layton, FL:\n\nYou should only need a FKNMS permit if you wish to collect specimens within special areas such as SPAs, ERs, or ROAs that’re within the sanctuary. My initial thoughts are that this won’t be necessary, we can hopefully find these fish at patch reefs outside of these special areas (still within the sanctuary), so it’s likely you’ll just need the SAL from FWC. … Just to clarify the sanctuary stuff, all sites that we would take you to are within the FKNMS. It’s just that with fish collections, you’d only need a FKNMS permit if you were disturbing the seafloor or collecting in a ‘special area’ like a ROA, ER, etc (which we shouldn’t need to do). We’ll be good though, just wanted to clear that up a bit.\n\n** Will continue updating after we hear back about our application! - Annabel 05/31/2024",
-    "crumbs": [
-      "Field Protocols",
-      "Permits",
-      "US Field Permits"
-    ]
-  },
-  {
-    "objectID": "lab_gen_pipetting.html",
-    "href": "lab_gen_pipetting.html",
-    "title": "Pipetting",
-    "section": "",
-    "text": "Adapted from Lotterhos Lab pipetting protocol.\nEdit this page\n\n\nSingle channels:\n\nP2.5 (.1-2.5 uL)\nP10 (.5-10 uL)\nP20 (2-20 uL)\nP100 (10-100 uL)\nP200 (20-200 uL)\nP1000 (100-1000 uL)\n\nMultichannels:\n\nP10 (.5-10 uL)\nP100 (10-100 uL)\np1200 (120-1200 uL)\n\nElectronic Single Channels\n\nP20 (1-20 uL)\nP100 (5-100 uL)\nP1000 (50-1000 uL)\n\nElectronic Multi Channels\n\nP10 (0.5-10 uL)\nP100 (5-100 uL)\nP1200 (50-1200 uL)\n\n\n\n\n\nAll pipettes in the lab have both filtered and non-filtered compatible tips.\nFiltered tips help prevent whatever you’re pipetting from getting into the pipette through aspiration. Therefore, it is best to use filtered tips when working with different samples to prevent cross contamination from any sample that has gotten into the pipette (ex. when pipetting different DNA samples for a DNA extraction)\nUnfiltered tips are appropriate to use when pipetting solutions, dyes, and buffers, i.e. things less likely to cause significant contamination to other pipetted materials. (Ex. loading dye, gel ladders, extraction buffers, etc.)\nSpray a kimwipe with ethanol and wipe down pipettes before and after use to remove any potential remaining sample.\n\n\n\n\nDrawing up liquid. Check the amount on the pipette is correct. When pipetting, be sure only to push down on the plunger to the first stop and slowly release to pick up the liquid until your thumb comes completely off the plunger. If you go past the first stop, you will draw up more liquid than the amount you set on the pipette and/or create bubbles. If you push down and then release quickly to draw up liquid, it can cause aspiration and contaminate the pipette if you aren’t using filtered tips. If you are using filtered tips, aspiration can cause liquid to land on the filter, so the pipette tip will hold less liquid than you specified. When drawing up liquid, you may choose to pipette up and down 3 times to pre-wet the pipette tip. Ensure to only go to the first stop for each of the 3 times.\nCheck the pipette tip has the correct amount. Look at the pipette tip, or all the pipette tips if using the multichannel. Does it have the amount of liquid that you expect? Are there air bubbles (other than a tiny bubble that often forms at the very apex of the tip)? If so, push out the liquid and restart.\nPushing out liquid. Slowly push down on the plunger past the first stop until you reach the final stopping point for the plunger. Keep your thumb on the plunger until the tip of the pipette is completely removed from the solution. Drawing up your thumb before the tip is removed will suck up some of the solution.\nCheck the pipette tip is empty. After you push the liquid out, check the pipette tip again and make sure it is empty. Dispose of the tip in a EHS-labeled waste jar. If there is any liquid in the tip that didn’t get pushed out or beads of liquid on the inside of the tip, proceed to the next step.\nSolution is stuck in the pipette tip. If there is any liquid in the tip that didn’t get pushed out, carefully take the tip off. When you put the tip back on the pipette, some of the liquid may get pushed out, so carefully put the tip back on over the well where the solution needs to go. Then push down to the second stop and push the rest of the liquid out.",
-    "crumbs": [
-      "Lab Protocols",
-      "General Protocols",
-      "Pipetting"
-    ]
-  },
-  {
-    "objectID": "lab_gen_pipetting.html#pipettes-in-the-lab",
-    "href": "lab_gen_pipetting.html#pipettes-in-the-lab",
-    "title": "Pipetting",
-    "section": "",
-    "text": "Single channels:\n\nP2.5 (.1-2.5 uL)\nP10 (.5-10 uL)\nP20 (2-20 uL)\nP100 (10-100 uL)\nP200 (20-200 uL)\nP1000 (100-1000 uL)\n\nMultichannels:\n\nP10 (.5-10 uL)\nP100 (10-100 uL)\np1200 (120-1200 uL)\n\nElectronic Single Channels\n\nP20 (1-20 uL)\nP100 (5-100 uL)\nP1000 (50-1000 uL)\n\nElectronic Multi Channels\n\nP10 (0.5-10 uL)\nP100 (5-100 uL)\nP1200 (50-1200 uL)",
-    "crumbs": [
-      "Lab Protocols",
-      "General Protocols",
-      "Pipetting"
-    ]
-  },
-  {
-    "objectID": "lab_gen_pipetting.html#filtered-vs.-non-filtered-pipette-tips",
-    "href": "lab_gen_pipetting.html#filtered-vs.-non-filtered-pipette-tips",
-    "title": "Pipetting",
-    "section": "",
-    "text": "All pipettes in the lab have both filtered and non-filtered compatible tips.\nFiltered tips help prevent whatever you’re pipetting from getting into the pipette through aspiration. Therefore, it is best to use filtered tips when working with different samples to prevent cross contamination from any sample that has gotten into the pipette (ex. when pipetting different DNA samples for a DNA extraction)\nUnfiltered tips are appropriate to use when pipetting solutions, dyes, and buffers, i.e. things less likely to cause significant contamination to other pipetted materials. (Ex. loading dye, gel ladders, extraction buffers, etc.)\nSpray a kimwipe with ethanol and wipe down pipettes before and after use to remove any potential remaining sample.",
-    "crumbs": [
-      "Lab Protocols",
-      "General Protocols",
-      "Pipetting"
-    ]
-  },
-  {
-    "objectID": "lab_gen_pipetting.html#pointers-for-pipetting",
-    "href": "lab_gen_pipetting.html#pointers-for-pipetting",
-    "title": "Pipetting",
-    "section": "",
-    "text": "Drawing up liquid. Check the amount on the pipette is correct. When pipetting, be sure only to push down on the plunger to the first stop and slowly release to pick up the liquid until your thumb comes completely off the plunger. If you go past the first stop, you will draw up more liquid than the amount you set on the pipette and/or create bubbles. If you push down and then release quickly to draw up liquid, it can cause aspiration and contaminate the pipette if you aren’t using filtered tips. If you are using filtered tips, aspiration can cause liquid to land on the filter, so the pipette tip will hold less liquid than you specified. When drawing up liquid, you may choose to pipette up and down 3 times to pre-wet the pipette tip. Ensure to only go to the first stop for each of the 3 times.\nCheck the pipette tip has the correct amount. Look at the pipette tip, or all the pipette tips if using the multichannel. Does it have the amount of liquid that you expect? Are there air bubbles (other than a tiny bubble that often forms at the very apex of the tip)? If so, push out the liquid and restart.\nPushing out liquid. Slowly push down on the plunger past the first stop until you reach the final stopping point for the plunger. Keep your thumb on the plunger until the tip of the pipette is completely removed from the solution. Drawing up your thumb before the tip is removed will suck up some of the solution.\nCheck the pipette tip is empty. After you push the liquid out, check the pipette tip again and make sure it is empty. Dispose of the tip in a EHS-labeled waste jar. If there is any liquid in the tip that didn’t get pushed out or beads of liquid on the inside of the tip, proceed to the next step.\nSolution is stuck in the pipette tip. If there is any liquid in the tip that didn’t get pushed out, carefully take the tip off. When you put the tip back on the pipette, some of the liquid may get pushed out, so carefully put the tip back on over the well where the solution needs to go. Then push down to the second stop and push the rest of the liquid out.",
-    "crumbs": [
-      "Lab Protocols",
-      "General Protocols",
-      "Pipetting"
-    ]
-  },
-  {
-    "objectID": "welcome.html",
-    "href": "welcome.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Welcome"
-  },
-  {
-    "objectID": "field_finclips.html",
-    "href": "field_finclips.html",
-    "title": "Fin Clips Protocol",
-    "section": "",
-    "text": "Edit this page\n\n\n\nScrew top vials\n95% ethanol\n70% Ethanol\nDI Water\nForceps\nScissors\n\n\n\n\n\n\nFill screw top vials with 95% ethanol.\n\n\nPrepare tubes, one with DI H2O and one with 70% ethanol.\n\n\nSterilize tools by rinsing in DI water, then 70% ethanol, then wiping with Kimwipe.\n\n\nCut ~1cm of fin and plsce in screw top vial.\n\n\nLabel vial and sterilize tools.\n\n\nStore vials in -20 freezer, or -80 for long term storage.",
-    "crumbs": [
-      "Field Protocols",
-      "Fieldwork general",
-      "Fin Clips Protocol"
-    ]
-  },
-  {
-    "objectID": "field_finclips.html#materials",
-    "href": "field_finclips.html#materials",
-    "title": "Fin Clips Protocol",
-    "section": "",
-    "text": "Screw top vials\n95% ethanol\n70% Ethanol\nDI Water\nForceps\nScissors",
-    "crumbs": [
-      "Field Protocols",
-      "Fieldwork general",
-      "Fin Clips Protocol"
-    ]
-  },
-  {
-    "objectID": "field_finclips.html#protocol",
-    "href": "field_finclips.html#protocol",
-    "title": "Fin Clips Protocol",
-    "section": "",
-    "text": "Fill screw top vials with 95% ethanol.\n\n\nPrepare tubes, one with DI H2O and one with 70% ethanol.\n\n\nSterilize tools by rinsing in DI water, then 70% ethanol, then wiping with Kimwipe.\n\n\nCut ~1cm of fin and plsce in screw top vial.\n\n\nLabel vial and sterilize tools.\n\n\nStore vials in -20 freezer, or -80 for long term storage.",
-    "crumbs": [
-      "Field Protocols",
-      "Fieldwork general",
-      "Fin Clips Protocol"
     ]
   },
   {
