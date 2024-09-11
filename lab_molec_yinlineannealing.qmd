@@ -3,9 +3,35 @@
 
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_molec_yinlineannealing.qmd)
 
-To create adapter P1, combine each oligo 1a with its complementary oligo 1b in a 1:1 ratio in working strength annealing buffer (final buffer concentration 1X) for a total annealed adapter concentration of 40 µM. 
-
 ## Stock Adapter Oligos
 The stock oligos are in the -80 in the Lotterhos Lab. These are kept at concentrations of 500 µM. 
 
+## 10X Annealing Buffer
+Make a stock of 50 mL of annealing buffer with the following recipe:
 
+| Component            | Volume  |
+|:---------------------|:--------|
+| Tris (1M) | 5 mL   |
+| NaCl (5M) | 5 mL   | 
+| EDTA (0.5M)    | 1 mL   |
+| Nuclease-free water    | 39 mL   |
+|----------------------|---------|
+|**Total Volume**      |**50 µL**|
+
+## Annealed Adapter Recipe
+To create **Adapter 1**, combine each oligo **1a** with its complementary oligo **1b** in a 1:1 ratio in working strength annealing buffer (final buffer concentration 1X) for a total annealed adapter concentration of **40 µM**. Follow this process for all y-in line adapters.
+
+The following recipe calls for oligos 1a and 1b to be at a concentration of 200 µM, so first you will need to dilute from the stock. 
+
+| Component            | Volume  |
+|:---------------------|:--------|
+| oligo 1a (200 µM) | 20 µL   |
+| oligo 1b (200 µM) | 20 µL    |
+| 10X annealing buffer    | 10 µL   |
+| Nuclease-free water    | 50 µL   |
+|----------------------|---------|
+|**Total Volume**      |**100 µL**|
+
+## Annealing
+In the thermocycler, incubate at 97.5°C for 2:30 minutes, and then cool at a rate of not greater than 3°C per minute until the solution reaches a temperature of 21°C. Hold at 4°C.
+*In the Gatins Lab, this protocol is called **y-in line annealing** and is located in the kapaplus folder on the thermocycler.*
