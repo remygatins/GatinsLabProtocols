@@ -134,27 +134,40 @@
   {
     "objectID": "lab_molec_yinlineannealing.html",
     "href": "lab_molec_yinlineannealing.html",
-    "title": "Annealing Y-in line adapters",
+    "title": "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)",
     "section": "",
-    "text": "Edit this page",
+    "text": "Edit this page\nTo create adapter P1, combine each oligo 1a with its complementary oligo 1b in a 1:1 ratio in working strength annealing buffer (final buffer concentration 1X) for a total annealed adapter concentration of 40 µM.\n\n\n\nThe stock oligos are in the -80 in the Lotterhos Lab. These are kept at concentrations of 500 µM.",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
       "Illumina WGS Library Prep",
-      "Annealing Y-in line adapters"
+      "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)"
     ]
   },
   {
     "objectID": "lab_molec_yinlineannealing.html#custom-adapters-from-dr.-katie-lotterhos",
     "href": "lab_molec_yinlineannealing.html#custom-adapters-from-dr.-katie-lotterhos",
-    "title": "Annealing Y-in line adapters",
+    "title": "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)",
     "section": "",
-    "text": "Edit this page",
+    "text": "Edit this page\nTo create adapter P1, combine each oligo 1a with its complementary oligo 1b in a 1:1 ratio in working strength annealing buffer (final buffer concentration 1X) for a total annealed adapter concentration of 40 µM.",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
       "Illumina WGS Library Prep",
-      "Annealing Y-in line adapters"
+      "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)"
+    ]
+  },
+  {
+    "objectID": "lab_molec_yinlineannealing.html#stock-adapter-oligos",
+    "href": "lab_molec_yinlineannealing.html#stock-adapter-oligos",
+    "title": "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)",
+    "section": "",
+    "text": "The stock oligos are in the -80 in the Lotterhos Lab. These are kept at concentrations of 500 µM.",
+    "crumbs": [
+      "Lab Protocols",
+      "Molecular Protocols",
+      "Illumina WGS Library Prep",
+      "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)"
     ]
   },
   {
