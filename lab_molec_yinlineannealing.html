@@ -339,6 +339,9 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#custom-adapters-from-dr.-katie-lotterhos" id="toc-custom-adapters-from-dr.-katie-lotterhos" class="nav-link" data-scroll-target="#custom-adapters-from-dr.-katie-lotterhos">Custom adapters from Dr.&nbsp;Katie Lotterhos</a></li>
   <li><a href="#stock-adapter-oligos" id="toc-stock-adapter-oligos" class="nav-link" data-scroll-target="#stock-adapter-oligos">Stock Adapter Oligos</a></li>
+  <li><a href="#x-annealing-buffer" id="toc-x-annealing-buffer" class="nav-link" data-scroll-target="#x-annealing-buffer">10X Annealing Buffer</a></li>
+  <li><a href="#annealed-adapter-recipe" id="toc-annealed-adapter-recipe" class="nav-link" data-scroll-target="#annealed-adapter-recipe">Annealed Adapter Recipe</a></li>
+  <li><a href="#annealing" id="toc-annealing" class="nav-link" data-scroll-target="#annealing">Annealing</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -354,11 +357,91 @@ ul.task-list li input[type="checkbox"] {
 <section id="custom-adapters-from-dr.-katie-lotterhos" class="level2">
 <h2 class="anchored" data-anchor-id="custom-adapters-from-dr.-katie-lotterhos">Custom adapters from Dr.&nbsp;Katie Lotterhos</h2>
 <p><a href="https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_molec_yinlineannealing.qmd">Edit this page</a></p>
-<p>To create adapter P1, combine each oligo 1a with its complementary oligo 1b in a 1:1 ratio in working strength annealing buffer (final buffer concentration 1X) for a total annealed adapter concentration of 40 µM.</p>
 </section>
 <section id="stock-adapter-oligos" class="level2">
 <h2 class="anchored" data-anchor-id="stock-adapter-oligos">Stock Adapter Oligos</h2>
 <p>The stock oligos are in the -80 in the Lotterhos Lab. These are kept at concentrations of 500 µM.</p>
+</section>
+<section id="x-annealing-buffer" class="level2">
+<h2 class="anchored" data-anchor-id="x-annealing-buffer">10X Annealing Buffer</h2>
+<p>Make a stock of 50 mL of annealing buffer with the following recipe:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Volume</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Tris (1M)</td>
+<td style="text-align: left;">5 mL</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NaCl (5M)</td>
+<td style="text-align: left;">5 mL</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">EDTA (0.5M)</td>
+<td style="text-align: left;">1 mL</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Nuclease-free water</td>
+<td style="text-align: left;">39 mL</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">———————-</td>
+<td style="text-align: left;">———</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Total Volume</strong></td>
+<td style="text-align: left;"><strong>50 µL</strong></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="annealed-adapter-recipe" class="level2">
+<h2 class="anchored" data-anchor-id="annealed-adapter-recipe">Annealed Adapter Recipe</h2>
+<p>To create <strong>Adapter 1</strong>, combine each oligo <strong>1a</strong> with its complementary oligo <strong>1b</strong> in a 1:1 ratio in working strength annealing buffer (final buffer concentration 1X) for a total annealed adapter concentration of <strong>40 µM</strong>. Follow this process for all y-in line adapters.</p>
+<p>The following recipe calls for oligos 1a and 1b to be at a concentration of 200 µM, so first you will need to dilute from the stock.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Volume</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">oligo 1a (200 µM)</td>
+<td style="text-align: left;">20 µL</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">oligo 1b (200 µM)</td>
+<td style="text-align: left;">20 µL</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">10X annealing buffer</td>
+<td style="text-align: left;">10 µL</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Nuclease-free water</td>
+<td style="text-align: left;">50 µL</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">———————-</td>
+<td style="text-align: left;">———</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Total Volume</strong></td>
+<td style="text-align: left;"><strong>100 µL</strong></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="annealing" class="level2">
+<h2 class="anchored" data-anchor-id="annealing">Annealing</h2>
+<p>In the thermocycler, incubate at 97.5°C for 2:30 minutes, and then cool at a rate of not greater than 3°C per minute until the solution reaches a temperature of 21°C. Hold at 4°C. <em>In the Gatins Lab, this protocol is called <strong>y-in line annealing</strong> and is located in the kapaplus folder on the thermocycler.</em></p>
 
 
 </section>
