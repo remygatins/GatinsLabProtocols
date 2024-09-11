@@ -16,6 +16,15 @@
 - [ ] Fill out the [Intake form](https://docs.google.com/forms/d/e/1FAIpQLSeRMAg-o4vpdjGcVK-HBbFxNBGn3mARwnBbX9F4UOrTeDf9nQ/viewform) for the MSC
 - [ ] Read the **Lab Safety Plan** and electronically sign the **Lab Safety Agreement** and **Lab Access Waiver**, these forms should be sent to [Ryan Hill](mailto:r.hill@northeastern.edu), and CC Dr. Gatins as well.
 
+## MSC Setup
+- [ ] Email [Ryan Hill](mailto:r.hill@northeastern.edu) about getting ID card access to campus facilities, including the main Edwards building, the bunker, and the lab (Edwards 134).
+- [ ] In order to print at the MSC, you can connect to each printer using its unique IP address:
+
+| B&W Printer - Grad Trailer | 10.30.13.247 |
+| Color Printer - Faculty Hallway | 10.30.13.248 |
+| B&W Printer - Faculty Hallway | 10.30.13.249 |
+
+
 ## Molecular lab
 - [ ] Ask Dr. Gatins to add you to the Gatins Lab group on SciSchield (BioRaft)
 
