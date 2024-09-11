@@ -1,5 +1,5 @@
-# Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)
-## Custom adapters from Dr. Katie Lotterhos
+# Annealing Y-in line adapters for use in Illumina WGS
+These are custom adapters created by Dr. Katie Lotterhos.
 
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_molec_yinlineannealing.qmd)
 
