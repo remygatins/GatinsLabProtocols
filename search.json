@@ -201,7 +201,7 @@
     "href": "welcome_onboarding.html",
     "title": "Onboarding",
     "section": "",
-    "text": "Edit this page\n\n\n\nAsk Dr. Gatins to add you to our Lab Slack Channel\nShare your email with Dr. Gatins to gain access to our Google Drive. This will give you editing access to:\n\nthe lab webpage, where you can add yourself to the People page\nA shared lab resources folder\nThe Gatins Lab calendar\n\nCreate a GitHub account (if you don’t have one already) and ask me to add you as a collaborator to this protocols page\nAdd your contact information to the Gatins Lab Contact information sheet\n\n\n\n\nNavigate to the Gatins Lab Onboarding Docs to find all the documents listed below\n\nFill out the Intake form for the MSC\nRead the Lab Safety Plan and electronically sign the Lab Safety Agreement and Lab Access Waiver, these forms should be sent to Ryan Hill, and CC Dr. Gatins as well.\n\n\n\n\n\nAsk Dr. Gatins to add you to the Gatins Lab group on SciSchield (BioRaft)\n\nComplete the following trainings on SciSchield:\n\nLaboratory Safety Program Orientation\nFundamentals of Laboratory Safety\nHazardous Waste Training\nBiosafety Training\nCryogenic Liquids\nRegulated Medical Waste\nany other training specific to your work\n\nContact Rosie from the Ocean Genome Legacy Center to schedule the following trainings:\n\nShared Equipment Training\nAutoclave\nCryogeneics (Liquid Nitrogen)\n\nAdd your photo to the lab board! Link to profile template here.",
+    "text": "Edit this page\n\n\n\nAsk Dr. Gatins to add you to our Lab Slack Channel\nShare your email with Dr. Gatins to gain access to our Google Drive. This will give you editing access to:\n\nthe lab webpage, where you can add yourself to the People page\nA shared lab resources folder\nThe Gatins Lab calendar\n\nCreate a GitHub account (if you don’t have one already) and ask me to add you as a collaborator to this protocols page\nAdd your contact information to the Gatins Lab Contact information sheet\n\n\n\n\nNavigate to the Gatins Lab Onboarding Docs to find all the documents listed below\n\nFill out the Intake form for the MSC\nRead the Lab Safety Plan and electronically sign the Lab Safety Agreement and Lab Access Waiver, these forms should be sent to Ryan Hill, and CC Dr. Gatins as well.\n\n\n\n\n\nEmail Ryan Hill about getting ID card access to campus facilities, including the main Edwards building, the bunker, and the lab (Edwards 134).\nIn order to print at the MSC, you can connect to each printer using its unique IP address:\n\nB&W Printer - Grad Trailer | 10.30.13.247 |\nColor Printer - Faculty Hallway | 10.30.13.248 |\nB&W Printer - Faculty Hallway | 10.30.13.249 |\n\n\n\n\nAsk Dr. Gatins to add you to the Gatins Lab group on SciSchield (BioRaft)\n\nComplete the following trainings on SciSchield:\n\nLaboratory Safety Program Orientation\nFundamentals of Laboratory Safety\nHazardous Waste Training\nBiosafety Training\nCryogenic Liquids\nRegulated Medical Waste\nany other training specific to your work\n\nContact Rosie from the Ocean Genome Legacy Center to schedule the following trainings:\n\nShared Equipment Training\nAutoclave\nCryogeneics (Liquid Nitrogen)\n\nAdd your photo to the lab board! Link to profile template here.",
     "crumbs": [
       "Welcome",
       "Onboarding"
@@ -224,6 +224,17 @@
     "title": "Onboarding",
     "section": "",
     "text": "Navigate to the Gatins Lab Onboarding Docs to find all the documents listed below\n\nFill out the Intake form for the MSC\nRead the Lab Safety Plan and electronically sign the Lab Safety Agreement and Lab Access Waiver, these forms should be sent to Ryan Hill, and CC Dr. Gatins as well.",
+    "crumbs": [
+      "Welcome",
+      "Onboarding"
+    ]
+  },
+  {
+    "objectID": "welcome_onboarding.html#msc-setup",
+    "href": "welcome_onboarding.html#msc-setup",
+    "title": "Onboarding",
+    "section": "",
+    "text": "Email Ryan Hill about getting ID card access to campus facilities, including the main Edwards building, the bunker, and the lab (Edwards 134).\nIn order to print at the MSC, you can connect to each printer using its unique IP address:\n\nB&W Printer - Grad Trailer | 10.30.13.247 |\nColor Printer - Faculty Hallway | 10.30.13.248 |\nB&W Printer - Faculty Hallway | 10.30.13.249 |",
     "crumbs": [
       "Welcome",
       "Onboarding"
