@@ -1,4 +1,11 @@
-# Annealing Y-in line adapters
+# Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)
 ## Custom adapters from Dr. Katie Lotterhos
 
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_molec_yinlineannealing.qmd)
+
+To create adapter P1, combine each oligo 1a with its complementary oligo 1b in a 1:1 ratio in working strength annealing buffer (final buffer concentration 1X) for a total annealed adapter concentration of 40 µM. 
+
+## Stock Adapter Oligos
+The stock oligos are in the -80 in the Lotterhos Lab. These are kept at concentrations of 500 µM. 
+
+
