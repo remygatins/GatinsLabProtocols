@@ -20,9 +20,9 @@
 - [ ] Email [Ryan Hill](mailto:r.hill@northeastern.edu) about getting ID card access to campus facilities, including the main Edwards building, the bunker, and the lab (Edwards 134).
 - [ ] In order to print at the MSC, you can connect to each printer using its unique IP address:
 
-| B&W Printer - Grad Trailer | 10.30.13.247 |
-| Color Printer - Faculty Hallway | 10.30.13.248 |
-| B&W Printer - Faculty Hallway | 10.30.13.249 |
+B&W Printer - Grad Trailer - 10.30.13.247
+Color Printer - Faculty Hallway - 10.30.13.248
+B&W Printer - Faculty Hallway - 10.30.13.249
 
 
 ## Molecular lab
