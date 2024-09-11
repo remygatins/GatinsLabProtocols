@@ -16,7 +16,7 @@ Make a stock of 50 mL of annealing buffer with the following recipe:
 | EDTA (0.5M)    | 1 mL   |
 | Nuclease-free water    | 39 mL   |
 |----------------------|---------|
-|**Total Volume**      |**50 µL**|
+|**Total Volume**      |**50 mL**|
 
 ## Annealed Adapter Recipe
 To create **Adapter 1**, combine each oligo **1a** with its complementary oligo **1b** in a 1:1 ratio in working strength annealing buffer (final buffer concentration 1X) for a total annealed adapter concentration of **40 µM**. Follow this process for all y-in line adapters.
