@@ -21,12 +21,12 @@ Make a stock of 50 mL of annealing buffer with the following recipe:
 ## Annealed Adapter Recipe
 To create **Adapter 1**, combine oligo **1a** with its complementary oligo **1b** in a 1:1 ratio in working strength annealing buffer (final buffer concentration 1X) for a total annealed adapter concentration of **40 µM**. Follow this process for all y-in line adapters.
 
-The following recipe calls for oligos 1a and 1b to be at a concentration of 200 µM, so first you will need to dilute from the stock. 
+The following recipe calls for oligos a and b to be at a concentration of 200 µM, so first you will need to dilute from the stock. 
 
 | Component            | Volume  |
 |:---------------------|:--------|
-| oligo 1a (200 µM) | 20 µL   |
-| oligo 1b (200 µM) | 20 µL    |
+| oligo a (200 µM) | 20 µL   |
+| oligo b (200 µM) | 20 µL    |
 | 10X annealing buffer    | 10 µL   |
 | Nuclease-free water    | 50 µL   |
 |----------------------|---------|
