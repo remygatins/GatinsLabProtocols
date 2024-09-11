@@ -134,79 +134,66 @@
   {
     "objectID": "lab_molec_yinlineannealing.html",
     "href": "lab_molec_yinlineannealing.html",
-    "title": "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)",
+    "title": "Annealing Y-in line adapters for use in Illumina WGS",
     "section": "",
-    "text": "Edit this page\n\n\n\nThe stock oligos are in the -80 in the Lotterhos Lab. These are kept at concentrations of 500 µM.\n\n\n\nMake a stock of 50 mL of annealing buffer with the following recipe:\n\n\n\nComponent\nVolume\n\n\n\n\nTris (1M)\n5 mL\n\n\nNaCl (5M)\n5 mL\n\n\nEDTA (0.5M)\n1 mL\n\n\nNuclease-free water\n39 mL\n\n\n———————-\n———\n\n\nTotal Volume\n50 µL\n\n\n\n\n\n\nTo create Adapter 1, combine each oligo 1a with its complementary oligo 1b in a 1:1 ratio in working strength annealing buffer (final buffer concentration 1X) for a total annealed adapter concentration of 40 µM. Follow this process for all y-in line adapters.\nThe following recipe calls for oligos 1a and 1b to be at a concentration of 200 µM, so first you will need to dilute from the stock.\n\n\n\nComponent\nVolume\n\n\n\n\noligo 1a (200 µM)\n20 µL\n\n\noligo 1b (200 µM)\n20 µL\n\n\n10X annealing buffer\n10 µL\n\n\nNuclease-free water\n50 µL\n\n\n———————-\n———\n\n\nTotal Volume\n100 µL\n\n\n\n\n\n\nIn the thermocycler, incubate at 97.5°C for 2:30 minutes, and then cool at a rate of not greater than 3°C per minute until the solution reaches a temperature of 21°C. Hold at 4°C. In the Gatins Lab, this protocol is called y-in line annealing and is located in the kapaplus folder on the thermocycler.",
+    "text": "These are custom adapters created by Dr. Katie Lotterhos.\nEdit this page\n\n\nThe stock oligos are in the -80 in the Lotterhos Lab. These are kept at concentrations of 500 µM.\n\n\n\nMake a stock of 50 mL of annealing buffer with the following recipe:\n\n\n\nComponent\nVolume\n\n\n\n\nTris (1M)\n5 mL\n\n\nNaCl (5M)\n5 mL\n\n\nEDTA (0.5M)\n1 mL\n\n\nNuclease-free water\n39 mL\n\n\n———————-\n———\n\n\nTotal Volume\n50 µL\n\n\n\n\n\n\nTo create Adapter 1, combine each oligo 1a with its complementary oligo 1b in a 1:1 ratio in working strength annealing buffer (final buffer concentration 1X) for a total annealed adapter concentration of 40 µM. Follow this process for all y-in line adapters.\nThe following recipe calls for oligos 1a and 1b to be at a concentration of 200 µM, so first you will need to dilute from the stock.\n\n\n\nComponent\nVolume\n\n\n\n\noligo 1a (200 µM)\n20 µL\n\n\noligo 1b (200 µM)\n20 µL\n\n\n10X annealing buffer\n10 µL\n\n\nNuclease-free water\n50 µL\n\n\n———————-\n———\n\n\nTotal Volume\n100 µL\n\n\n\n\n\n\nIn the thermocycler, incubate at 97.5°C for 2:30 minutes, and then cool at a rate of not greater than 3°C per minute until the solution reaches a temperature of 21°C. Hold at 4°C. In the Gatins Lab, this protocol is called y-in line annealing and is located in the kapaplus folder on the thermocycler.",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
       "Illumina WGS Library Prep",
-      "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)"
-    ]
-  },
-  {
-    "objectID": "lab_molec_yinlineannealing.html#custom-adapters-from-dr.-katie-lotterhos",
-    "href": "lab_molec_yinlineannealing.html#custom-adapters-from-dr.-katie-lotterhos",
-    "title": "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)",
-    "section": "",
-    "text": "Edit this page",
-    "crumbs": [
-      "Lab Protocols",
-      "Molecular Protocols",
-      "Illumina WGS Library Prep",
-      "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)"
+      "Annealing Y-in line adapters for use in Illumina WGS"
     ]
   },
   {
     "objectID": "lab_molec_yinlineannealing.html#stock-adapter-oligos",
     "href": "lab_molec_yinlineannealing.html#stock-adapter-oligos",
-    "title": "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)",
+    "title": "Annealing Y-in line adapters for use in Illumina WGS",
     "section": "",
     "text": "The stock oligos are in the -80 in the Lotterhos Lab. These are kept at concentrations of 500 µM.",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
       "Illumina WGS Library Prep",
-      "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)"
+      "Annealing Y-in line adapters for use in Illumina WGS"
     ]
   },
   {
     "objectID": "lab_molec_yinlineannealing.html#x-annealing-buffer",
     "href": "lab_molec_yinlineannealing.html#x-annealing-buffer",
-    "title": "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)",
+    "title": "Annealing Y-in line adapters for use in Illumina WGS",
     "section": "",
     "text": "Make a stock of 50 mL of annealing buffer with the following recipe:\n\n\n\nComponent\nVolume\n\n\n\n\nTris (1M)\n5 mL\n\n\nNaCl (5M)\n5 mL\n\n\nEDTA (0.5M)\n1 mL\n\n\nNuclease-free water\n39 mL\n\n\n———————-\n———\n\n\nTotal Volume\n50 µL",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
       "Illumina WGS Library Prep",
-      "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)"
+      "Annealing Y-in line adapters for use in Illumina WGS"
     ]
   },
   {
     "objectID": "lab_molec_yinlineannealing.html#annealed-adapter-recipe",
     "href": "lab_molec_yinlineannealing.html#annealed-adapter-recipe",
-    "title": "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)",
+    "title": "Annealing Y-in line adapters for use in Illumina WGS",
     "section": "",
     "text": "To create Adapter 1, combine each oligo 1a with its complementary oligo 1b in a 1:1 ratio in working strength annealing buffer (final buffer concentration 1X) for a total annealed adapter concentration of 40 µM. Follow this process for all y-in line adapters.\nThe following recipe calls for oligos 1a and 1b to be at a concentration of 200 µM, so first you will need to dilute from the stock.\n\n\n\nComponent\nVolume\n\n\n\n\noligo 1a (200 µM)\n20 µL\n\n\noligo 1b (200 µM)\n20 µL\n\n\n10X annealing buffer\n10 µL\n\n\nNuclease-free water\n50 µL\n\n\n———————-\n———\n\n\nTotal Volume\n100 µL",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
       "Illumina WGS Library Prep",
-      "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)"
+      "Annealing Y-in line adapters for use in Illumina WGS"
     ]
   },
   {
     "objectID": "lab_molec_yinlineannealing.html#annealing",
     "href": "lab_molec_yinlineannealing.html#annealing",
-    "title": "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)",
+    "title": "Annealing Y-in line adapters for use in Illumina WGS",
     "section": "",
     "text": "In the thermocycler, incubate at 97.5°C for 2:30 minutes, and then cool at a rate of not greater than 3°C per minute until the solution reaches a temperature of 21°C. Hold at 4°C. In the Gatins Lab, this protocol is called y-in line annealing and is located in the kapaplus folder on the thermocycler.",
     "crumbs": [
       "Lab Protocols",
       "Molecular Protocols",
       "Illumina WGS Library Prep",
-      "Annealing Y-in line adapters for use in Illumina WGS (PAGE IN PROGRESS)"
+      "Annealing Y-in line adapters for use in Illumina WGS"
     ]
   },
   {
