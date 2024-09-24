@@ -45,6 +45,7 @@ Contact [Rosie](mailto:r.falco@northeastern.edu) from the **Ocean Genome Legacy 
 - [ ] Cryogeneics (Liquid Nitrogen)
 
 Complete the following Institutional Animal Care and Use Committee (IACUC) tasks:
+
 - [ ] Ask Dr. Gatins to add you to the Institutional Animal Care and Use Committee (IACUC) Animal Care and Use protocol. 
 - [ ] Complete the Animal Contact Questionnare and send the form with your immunization records to Erin Credle (e.credle@northeastern.edu).
 - [ ] Review the Division of Laboratory Animal Medicine (DLAM) & IACUC Training Course on Canvas
