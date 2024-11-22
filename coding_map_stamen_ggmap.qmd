@@ -1,1 +1,2 @@
-<iframe src="./Coding_Map_Stamen_Ggmap.html"></iframe>
+<iframe src="./html/coding_map_stamen_ggmap.html" scrolling="no" style="overflow:hidden" width="100%" height="7749.12px" />
+
