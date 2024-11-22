@@ -109,6 +109,16 @@ website:
             - prof_development.qmd
             - prof_dev_job_boards.qmd
 
+    - title: "Coding"
+      logo: pictures/Gatins_Lab_logo_dark_simple.png
+      style: "floating"
+      background: light
+      collapse-level: 1
+      contents:
+        - section: "Maps"
+          contents:
+            - Coding_Map_Stamen_Ggmap.html
+
 
 format:
   html:
