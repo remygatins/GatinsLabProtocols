@@ -23,7 +23,6 @@ website:
       - text: "Coding"
         file: coding.qmd
 
-
     right:
       - icon: github
         href: https://github.com/remygatins
@@ -101,17 +100,6 @@ website:
           contents: 
             - field_diving_general.qmd
 
-     - title: "Coding"
-      logo: pictures/Gatins_Lab_logo_dark_simple.png
-      style: "floating"
-      background: light
-      collapse-level: 1
-      contents:
-        - coding.qmd
-        - section: "Maps"
-          contents:
-            - coding_map_stamen_ggmap.qmd
-  
     - title: "Professional Development"
       logo: pictures/Gatins_Lab_logo_dark_simple.png
       style: "floating"
@@ -123,7 +111,17 @@ website:
             - prof_development.qmd
             - prof_dev_job_boards.qmd
 
-   
+    - title: "Coding"
+      logo: pictures/Gatins_Lab_logo_dark_simple.png
+      style: "floating"
+      background: light
+      collapse-level: 1
+      contents:
+        - coding.qmd
+        - section: "Maps"
+          contents:
+            - coding_map_stamen_ggmap.qmd
+
 
 format:
   html:
@@ -135,4 +133,3 @@ editor: visual
 
 execute:
   freeze: auto
-
