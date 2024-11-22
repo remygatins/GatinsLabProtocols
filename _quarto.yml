@@ -18,10 +18,10 @@ website:
         file: lab_generalprotocols.qmd
       - text: "Field Protocols"
         file: fieldprotocols.qmd
-      - text: "Coding"
-        file: coding.qmd
       - text: "Professional Development"
         file: prof_development.qmd
+      - text: "Coding"
+        file: coding.qmd
 
 
     right:
@@ -111,8 +111,7 @@ website:
         - section: "Maps"
           contents:
             - coding_map_stamen_ggmap.qmd
-
-    
+  
     - title: "Professional Development"
       logo: pictures/Gatins_Lab_logo_dark_simple.png
       style: "floating"
