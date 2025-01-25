@@ -19,6 +19,7 @@
 - [ ] BSB data sheet printed on water proof paper
 
 **Steps:**
+
 - 1. place sterile bottles in cooler with sterile stoppers already pressed in
 - 2. surround bottles with ice
 - 3. once you have reached the collection site, mark down site info onto data sheet and choose a bottle to collect water (each are marked with a number)
@@ -36,6 +37,7 @@
 - 13. change gloves then repeat steps 3-12 at next site
 
 ## Next Step:
+
 - bring bottles on ice back to the lab
 - filter water same day then store in -20 C freezer
 
