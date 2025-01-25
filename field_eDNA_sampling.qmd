@@ -1,7 +1,7 @@
 # eDNA Field Sampling
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/field_eDNA_sampling.qmd)
 
-## Sampling eDNA from water on boat
+## Sampling eDNA from water on boat (water collection)
 
 **Need:**
  
@@ -19,22 +19,25 @@
 - [ ] BSB data sheet printed on water proof paper
 
 **Steps:**
-1. place sterile bottles in cooler with sterile stoppers already pressed in
-2. surround bottles with ice
-3. once you have reached the collection site, mark down site info onto data sheet and choose a bottle to collect water (each are marked with a number)
-4. wearing gloves place sterilized bottle between hose clamps and tighten them
-5. push down stopper to check that it is snug
-6. clip smaller rope onto the stopper (making sure rope is coming down from top of device, not sides)
-7. lower device into water and let it go down until bubbles stop/you think it has reached the bottom
-  - make sure smaller rope has slack so stopper is not prematurely pulled
-  - count tape markers to estimate depth (every 10 feet)
-8. once device has reached the bottom, pull on smaller rope to pull out stopper
-9. wait ~1 min before pulling up device
-10. when device it at the top of the water slowly pull it up onto the boat keeping the bottle upright
-11. put on gloves and screw lid of bottle on
-12. take bottle out of device and add back to the cooler (make sure it is surrounded with ice)
-13. change gloves then repeat steps 3-12 at next site
+- 1. place sterile bottles in cooler with sterile stoppers already pressed in
+- 2. surround bottles with ice
+- 3. once you have reached the collection site, mark down site info onto data sheet and choose a bottle to collect water (each are marked with a number)
+- 4. wearing gloves place sterilized bottle between hose clamps and tighten them
+- 5. push down stopper to check that it is snug
+- 6. clip smaller rope onto the stopper (making sure rope is coming down from top of device, not sides)
+- 7. lower device into water and let it go down until bubbles stop/you think it has reached the bottom
+  - - make sure smaller rope has slack so stopper is not prematurely pulled
+  - - count tape markers to estimate depth (every 10 feet)
+- 8. once device has reached the bottom, pull on smaller rope to pull out stopper
+- 9. wait ~1 min before pulling up device
+- 10. when device it at the top of the water slowly pull it up onto the boat keeping the bottle upright
+- 11. put on gloves and screw lid of bottle on
+- 12. take bottle out of device and add back to the cooler (make sure it is surrounded with ice)
+- 13. change gloves then repeat steps 3-12 at next site
 
 ## Next Step:
 - bring bottles on ice back to the lab
 - filter water same day then store in -20 C freezer
+
+## filtering water in the field (eg Grabowski tanks at MSC)
+
