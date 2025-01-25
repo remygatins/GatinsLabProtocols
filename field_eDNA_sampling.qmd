@@ -36,4 +36,5 @@
 13. change gloves then repeat steps 3-12 at next site
 
 ## Next Step:
-- filter water back in the lab: https://remygatins.github.io/GatinsLabProtocols/lab_molec_eDNA_filtration.html
+- bring bottles on ice back to the lab
+- filter water same day then store in -20 C freezer
