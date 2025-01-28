@@ -1,4 +1,65 @@
 # eDNA qPCR Protocol
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_molec_eDNA_qpcr.qmd)
 
-Page in progress
+# qPCR (BSB)
+
+## standard curve:
+
+### gblock plate and standard curve:
+
+**NEED:**
+
+- [ ] primer master mix
+  - [ ] 6.91 ul BSB-F 
+  - [ ] 6.91 ul BSB-R
+  - [ ] 3.46 ul BSB-P
+  - [ ] 904.32 ul H20
+- [ ] Taquman master mix
+- [ ] gblock
+- [ ] ice
+- [ ] 15 ml tube
+- [ ] PCR plate (Bio-rad #HSP9601: https://www.bio-rad.com/en-us/sku/HSP9601-hard-shell-96-well-pcr-plates-low-profile-thin-wall-skirted-white-clear?ID=HSP9601)
+- [ ] plate seal/cover (Bio-rad Microseal 'B' seal Seals #MSB1001)
+
+**PLATE PLAN:**
+
+**STEPS:**
+
+1. resuspend gblock if needed (https://www.idtdna.com/pages/education/decoded/article/tips-for-working-with-gblocks-gene-fragments)
+2. make gblock concentrations using Tim's dilution calculator and our dilution calculator (C = 10 or 1 depending on starting concentration; https://docs.google.com/spreadsheets/d/1ZA_yLsmvcSCtYSLhoJNwShIfMoxdycmk1gIEXeU-3TY/edit?usp=sharing)
+3. keep dilutions on ice
+4. make or thaw primer master mix (enough for 96 wells * 1.2 for pipet error)
+5. pipet 1,152 ul of the taquman master mix into a 15 ml tube
+6. then pipet 921.6 ul of the primer master mix into the same tube
+7. swirl gently, and transfer half of the liquid to a 1.5 or 2 ml tube to make it easier to pipet from (transfer the remaining combined master mix once it runs low)
+8. pipet 129.6 ul of the combined master mix into each well of a strip tube
+9. using a multichannel pipet, pipet out 18 ul of strip tube solution into each well of the plate
+10. after 6 columns, pipet out another 129.6 ul of the combined master mix into each well of the same strip tube
+11. Finish pipetting 18 ul of the strip tube solution into the remaining wells of the plate
+12. working backwards, pipet 2 ul of each dilution into designated well (working from nuclease free negative control up to 10^8 concentration)
+13. place down plate seal, making sure it covers every well
+14. vortex, then bring to shared lab space to centrifuge (you can find a plate balance next to the empty tube racks)
+15. place into Bio-rad qPCR machine and start BSB eDNA run (labeled: BSB-eDNA)
+  - BSB-eDNA Protocol File:
+    - Modified: Aug 28, 2024, 2:13 PM
+    - Method: CALC
+    - LId Temperature: 105 °C
+    - Reaction Volume: 20 ul
+      - Steps:
+        1. 95 °C, 00:10:00
+        2. 95 °C, 00:00:10
+        3. 60 °C, 00:00:45
+        Plate Read
+        4. Goto 2 39X
+16. while the machine is running go to BR.io, choose plate that is currently running and click on to plate setup to label each well
+  - Fluorophore: FAM
+  - Concentration: gblock concentration (eg 10^8 = 1.00E+08)
+  - Sample Type: standard
+  - Sample Name: name of sample (eg 10^8)
+17. before putting all concentration and samples back into freezer: make aloquots of 29 ul of 10^6 copy number concentration to use as positive control on sample plates
+18. once plate is done, discard plate and look at results
+19. export PCRD file and upload to CFX Maestro Software on lab laptop
+20. exclude wells and concentrations where (usually low concentration such as 1 and 3)
+21. check efficiency and R^2 values (), if good save slope and y-intercept numbers to use for later cq calculations
+
+## qPCR for samples:
