@@ -1,2 +1,3 @@
-# eDNA Water Filtration
+# eDNA Water Collection & Filtration
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_molec_eDNA_filtration.qmd)
+
