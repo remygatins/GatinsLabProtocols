@@ -1,2 +1,79 @@
 # Preparing for the field!
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/fieldprotocols.qmd)
+
+**a packing list and general reminders as you prepare to collect samples** 
+*NOTE: This page is geared toward angelfish collections and preparation will differ for other types of sample collection trips*
+
+# Packing List (for 1 person):
+- [ ] pole spear (1)
+- [ ] extra sling for spear
+- [ ] spear heads (3)
+- [ ] net (1)
+- [ ] catch bag (1)
+- [ ] fish gloves
+- [ ] tissue vials (autoclaved & filled with 95% ethanol, enough for fin and gill tissues)
+- [ ] muscle vials (not sterile)
+- [ ] zymo DNA/RNA shield (just in case, bring in parafilmed falcon tube)
+- [ ] otolith plate (1)
+- [ ] tube racks (for falcon tubes and for 1.5/2mL tubes)
+- [ ] dissecting kit
+- [ ] ziplocs
+    - [ ] large
+    - [ ] small
+- [ ] field box!
+    - [ ] zip ties (!!! various sizes)
+    - [ ] carabiners & D-rings
+    - [ ] sharpies (fine + regular)
+    - [ ] pens
+    - [ ] pencils
+    - [ ] ruler/measuring tape
+    - [ ] rubber bands
+    - [ ] tape (lab tape + electrical tape)
+    - [ ] extra tweezers and dissecting scissors
+- [ ] Calibrite color checker
+- [ ] yellow specimen tags
+- [ ] field scale
+- [ ] underwater paper
+- [ ] squirt bottle (labeled "FIELD")
+- [ ] sterile gloves (in ziplocs)
+- [ ] kim wipes
+- [ ] dive gear
+    - [ ] BCD
+    - [ ] reg
+    - [ ] dive computer
+    - [ ] signal tube & reel
+    - [ ] fins
+    - [ ] wetsuit
+    - [ ] rashguard
+    - [ ] shorts
+    - [ ] headband
+    - [ ] dive boots
+    - [ ] mask/snorkel
+    - [ ] weight belt
+    - [ ] defog
+    - [ ] underwater camera
+    - [ ] camera strap for diving (yellow)
+    - [ ] flashlight
+    - [ ] gear bag
+    - [ ] dive knife
+    - [ ] dive slate
+    - [ ] underwater pencils
+- [ ] parafilm
+- [ ] white photo board
+- [ ] GPS
+- [ ] fish saw
+- [ ] multitool
+- [ ] dry bag
+- [ ] towel
+- [ ] travel mug and waterbottle
+- [ ] mini first aid kit (bandaids, antibiotic ointment, medical tape, painkillers, etc.)
+- [ ] fish book
+- [ ] flash drive + USB/USB-C adapter
+- [ ] SD card reader
+- [ ] portable charger
+- [ ] headlamp
+- [ ] spare camera battery
+- [ ] copy of permit(s) (we have sealable plastic pouches to keep important paperwork safe from water)
+- [ ] datasheets
+
+
