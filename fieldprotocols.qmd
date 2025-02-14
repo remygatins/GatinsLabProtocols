@@ -1,2 +1,2 @@
-# Scientific Permitting in Panama
-[Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/field_permits_Panama.qmd)
+# Preparing for the field!
+[Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/fieldprotocols.qmd)
