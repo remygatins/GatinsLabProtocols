@@ -96,6 +96,7 @@ website:
         - section: "Permits"
           contents:
             - field_permits_US.qmd
+            - field_permits_Panama.qmd
         - section: "Diving"
           contents: 
             - field_diving_general.qmd
