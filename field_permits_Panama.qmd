@@ -7,6 +7,7 @@ If you are traveling to Panama for fieldwork, you will need permits to (1) colle
 If you are requesting new permits, begin this process EARLY -- as in at least 3-4 months in advance. The STRI webpage linked [here](https://stri.si.edu/plan-your-visit/scientific-research-permits/miambiente-request-permit) contains information on required materials for your application.
 
 ** NOTE:** All collaborators will be required to send the following documents:
+
 - [ ] Copy of passport
 - [ ] Signed Release of Responsibility
 - [ ] 1-page CV in Spanish
@@ -16,6 +17,7 @@ It costs $25 to amend an existing collection permit.
 
 ## 2. Export Permits
 Export permits take ~2 months to be approved. Follow [this page](https://stri.si.edu/plan-your-visit/scientific-research-permits/miambiente-export-permit) to ensure you follow all the steps required for a successful export permit application. The required paperwork includes the following completed *in Spanish*:
+
 - [ ] Ministerio de Ambiente Export Permit Form
 - [ ] Collecting Report form
 - [ ] Material Transfer Agreement
