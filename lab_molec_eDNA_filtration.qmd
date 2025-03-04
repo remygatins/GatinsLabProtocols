@@ -7,8 +7,8 @@
 - [ ] ice
 - [ ] eDNA citizen scientist sampler
 - [ ] packs/bags with sterile forcepts, filter housing (with filter and filter backing already within), and tubing
-   - [ ] [1 μm filters] (https://www.sigmaaldrich.com/US/en/product/aldrich/wha7190004?srsltid=AfmBOopvf1rWBzCE_YJs1MM8i__gSBdbwJ7Tvsy5VnJdUL2gn3IS6iDq)
-   - [ ] [drain disc/filter backing] (https://www.sterlitech.com/polyester-drain-discs-mesh-spacers-petedd47100.html?queryID=be87749bff21cf79daafc35c2b13d9e8&objectID=1261&indexName=live_default_products)
+   - [ ] [1 μm filters](https://www.sigmaaldrich.com/US/en/product/aldrich/wha7190004?srsltid=AfmBOopvf1rWBzCE_YJs1MM8i__gSBdbwJ7Tvsy5VnJdUL2gn3IS6iDq)
+   - [ ] [drain disc/filter backing](https://www.sterlitech.com/polyester-drain-discs-mesh-spacers-petedd47100.html?queryID=be87749bff21cf79daafc35c2b13d9e8&objectID=1261&indexName=live_default_products)
 - [ ] 2 ml or 5 ml tubes
 - [ ] gloves
 - [ ] container for dirty instruments & filter housings
