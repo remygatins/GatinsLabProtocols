@@ -42,7 +42,7 @@ website:
 #           - welcome.qmd
             - welcome_onboarding.qmd
             - welcome_google_drive.qmd
-            - lab_exit.qmd
+            - welcome_lab_exit.qmd
             
     - title: "Lab Protocols"
       logo: pictures/Gatins_Lab_logo_dark_simple.png
