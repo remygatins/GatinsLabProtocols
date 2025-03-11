@@ -1,2 +1,5 @@
 # Exiting the Lab
+[Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/welcome_lab_exit.qmd)
+
+
 
