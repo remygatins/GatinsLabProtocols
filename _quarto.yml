@@ -68,7 +68,6 @@ website:
             - lab_molec_etoh.qmd
             - section: "eDNA Protocols"
               contents:
-                - field_eDNA_sampling.qmd
                 - lab_molec_eDNA_filtration.qmd
                 - lab_molec_eDNA_extraction.qmd
                 - lab_molec_eDNA_qpcr.qmd
@@ -92,7 +91,7 @@ website:
           contents:
             - fieldprotocols.qmd
             - field_finclips.qmd
-            - field_eDNA_sampling.qmd
+            - lab_molec_eDNA_filtration.qmd
         - section: "Permits"
           contents:
             - field_permits_US.qmd
