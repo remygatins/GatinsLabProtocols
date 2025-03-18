@@ -214,5 +214,5 @@ Prepped Bin:
 ## Next Steps:
 
 - lysis and extract DNA from filters
-- bleach nalgene bottles, stoppers, and filter supplies (see: [Prep section](##prep))
-- prep filter bags (see: [Prep section](##prep))
+- bleach nalgene bottles, stoppers, and filter supplies (see: [Prep section](#prep))
+- prep filter bags (see: [Prep section](#prep))
