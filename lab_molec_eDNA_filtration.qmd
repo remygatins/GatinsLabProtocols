@@ -62,16 +62,11 @@ filter packs:
 
 supplies cleaned but not prepped 
 
-<img width="600" alt="" src="pictures/eDNAwater_filternotprepped].jpeg">
-
-![eDNAwater_filternotprepped](https://github.com/user-attachments/assets/c1d2b7f5-b1c8-4259-9f51-be2134687a81)
+<img width="600" alt="" src="pictures/eDNAwater_filternotprepped.jpeg">
 
 supplies cleaned and prepped with filters
 
 <img width="600" alt="" src="pictures/eDNA_filtersprepped.jpeg">
-
-![eDNA_filtersprepped](https://github.com/user-attachments/assets/4187f387-4486-47f0-96b1-5fda35c989c6)
-
 
 **NOTES:**
 
@@ -84,10 +79,6 @@ drain disc and filter boxes:
 <img width="600" alt="" src="pictures/eDNAwater_filterclosed.jpeg">
 
 <img width="600" alt="" src="pictures/eDNAwater_filteropen.jpeg">
-
-![eDNAwater_filterclosed](https://github.com/user-attachments/assets/e5feca2a-5208-4ec9-bd0f-db7bb6c8a2eb)
-
-![eDNAwater_filteropen](https://github.com/user-attachments/assets/26310fc7-eff5-4153-a740-6b63aa856df4)
 
 ## Water collection in field (eg off boat)
 
@@ -148,8 +139,6 @@ filtering water in lab:
 
 <img width="600" alt="" src="pictures/eDNAwater_filteringinlab.jpeg">
 
-![eDNAwater_filteringinlab](https://github.com/user-attachments/assets/c7c1196b-01f2-46f5-b776-bbb3c08f910c)
-
 **Steps:**
 
 - [ ] 1. Wipe down bench area with 10% bleach, DI water, then 75% ethanol (repeat wipedown with bleach within each filter)
@@ -189,8 +178,6 @@ filtering water in lab:
 Prepped Bin:
 
 <img width="600" alt="" src="pictures/eDNAwater_bin.jpeg">
-
-![eDNAwater_bin](https://github.com/user-attachments/assets/e2217782-c597-4cb6-a8ef-33bc65c53a5e)
 
 ### Prep Tanks
 
