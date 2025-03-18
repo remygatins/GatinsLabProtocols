@@ -14,7 +14,7 @@
   - [ ] 6.91 ul BSB-R
   - [ ] 3.46 ul BSB-P
   - [ ] 904.32 ul H20
-- [ ] Taquman master mix
+- [ ] Taqman master mix
 - [ ] gblock
 - [ ] ice
 - [ ] 15 ml tube
