@@ -47,7 +47,7 @@ Cooler with bottles capped:
 
 Bottle with stopper:
 
-<img width="600" alt="" src="pictures/eDNAwater_bottle.jpeg">
+<img width="300" alt="" src="pictures/eDNAwater_bottle.jpeg">
 
 - [ ] 2. prep filters:
    - [ ]  2.1 using clean forcepts and wearing clean gloves, place 1 polyester (PETE) Drain disc (mesh spacer) onto metal mesh on black filter housing piece
@@ -175,23 +175,27 @@ filtering water in lab:
 - [ ] container for dirty instruments & filter housings (and dirty gloves)
 - [ ] gray bin
 
-Prepped Bin:
-
-<img width="600" alt="" src="pictures/eDNAwater_bin.jpeg">
-
 ### Prep Tanks
 
 - [ ] 1. Prep tanks for experiment
    - [ ] 1.1 clean tanks
-   - [ ] 1.2 fill tanks
-   - [ ] 1.3 standardize water height and water flow rate
+   - [ ] 1.2 fill tanks with water
+   - [ ] 1.3 standardize tanks
+      - [ ] 1.33 water height: adjust outflow tube angle/height
+      - [ ] 1.32 water flow rate: time how fast a 5 gallon bucket fills up with water
+      - [ ] 1.33 ziptie mesh over outflow tube opening
+      - [ ] 1.34 use clamps to cover tanks with mesh (prevent birds from entering & organisms from escaping)
    - [ ] 1.4 add organisms to tanks
       - [ ] 1.41 decide # of organisms per tank
-      - [ ] 1.42 figure out how to standardize (size, gender...)
-      - [ ] 1.43 have empty tank for control (could also have other tanks with different organism)
+      - [ ] 1.42 figure out how to standardize (eg size, gender...)
+      - [ ] 1.43 have empty tank for control (could also have other tanks with different organisms)
    - [ ] 1.5 decide how many hours after organism addition or removal you want to filter water
    - [ ] 1.6 add temp loggers
 - [ ] 2. when ready to filter, place ice bucket, gloves, dirty container, filter pack bags, and tubes on tube rack into gray lab bin
+
+Prepped Bin:
+
+<img width="600" alt="" src="pictures/eDNAwater_bin.jpeg">
 
 ### Filtering
 
