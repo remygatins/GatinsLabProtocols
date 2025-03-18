@@ -18,8 +18,8 @@
 - [ ] gblock
 - [ ] ice
 - [ ] 15 ml tube
-- [ ] PCR plate (Bio-rad #HSP9601: https://www.bio-rad.com/en-us/sku/HSP9601-hard-shell-96-well-pcr-plates-low-profile-thin-wall-skirted-white-clear?ID=HSP9601)
-- [ ] plate seal/cover (Bio-rad Microseal 'B' seal Seals #MSB1001)
+- [ ] PCR plate [Bio-rad #HSP9601](https://www.bio-rad.com/en-us/sku/HSP9601-hard-shell-96-well-pcr-plates-low-profile-thin-wall-skirted-white-clear?ID=HSP9601)
+- [ ] plate seal/cover ([Bio-rad Microseal 'B' seal Seals #MSB1001](https://www.bio-rad.com/en-us/sku/17010701-microseal-b-pcr-plate-sealing-film-adhesive-optical?ID=17010701))
 
 **PLATE PLAN:**
 
