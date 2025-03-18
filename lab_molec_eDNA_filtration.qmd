@@ -29,8 +29,6 @@
 Bleach & MilliQ bath set up:
 
 <img width="600" alt="" src="pictures/eDNAwater_bleachbath.jpg">
-
-![eDNAwater_bleachbath](https://github.com/user-attachments/assets/578b321c-cc9c-4f67-99ed-a822c5ac526c)
  
 **NOTES:**
 
@@ -47,12 +45,9 @@ Cooler with bottles capped:
 
 <img width="600" alt="" src="pictures/eDNAwater_cooler.jpeg">
 
-![eDNAwater_cooler](https://github.com/user-attachments/assets/f22f6365-cf81-4cb3-8f87-fa9ddbb849d2)
-
 Bottle with stopper:
 
-![eDNAwater_bottle](https://github.com/user-attachments/assets/468c52b7-3c46-46d8-aa84-94c9bbd70e93)
-
+<img width="600" alt="" src="pictures/eDNAwater_bottle.jpeg">
 
 - [ ] 2. prep filters:
    - [ ]  2.1 using clean forcepts and wearing clean gloves, place 1 polyester (PETE) Drain disc (mesh spacer) onto metal mesh on black filter housing piece
@@ -67,9 +62,13 @@ filter packs:
 
 supplies cleaned but not prepped 
 
+<img width="600" alt="" src="pictures/eDNAwater_filternotprepped].jpeg">
+
 ![eDNAwater_filternotprepped](https://github.com/user-attachments/assets/c1d2b7f5-b1c8-4259-9f51-be2134687a81)
 
 supplies cleaned and prepped with filters
+
+<img width="600" alt="" src="pictures/eDNA_filtersprepped.jpeg">
 
 ![eDNA_filtersprepped](https://github.com/user-attachments/assets/4187f387-4486-47f0-96b1-5fda35c989c6)
 
@@ -81,6 +80,10 @@ supplies cleaned and prepped with filters
 - [drain disc/filter backing](https://www.sterlitech.com/polyester-drain-discs-mesh-spacers-petedd47100.html?queryID=be87749bff21cf79daafc35c2b13d9e8&objectID=1261&indexName=live_default_products)
 
 drain disc and filter boxes:
+
+<img width="600" alt="" src="pictures/eDNAwater_filterclosed.jpeg">
+
+<img width="600" alt="" src="pictures/eDNAwater_filteropen.jpeg">
 
 ![eDNAwater_filterclosed](https://github.com/user-attachments/assets/e5feca2a-5208-4ec9-bd0f-db7bb6c8a2eb)
 
@@ -105,7 +108,7 @@ drain disc and filter boxes:
 
 water collection device:
 
-PHOTO
+PHOTO!!!!!
 
 **Steps:**
 
@@ -142,6 +145,8 @@ PHOTO
 - [ ] container for dirty instruments & filter housings
 
 filtering water in lab: 
+
+<img width="600" alt="" src="pictures/eDNAwater_filteringinlab.jpeg">
 
 ![eDNAwater_filteringinlab](https://github.com/user-attachments/assets/c7c1196b-01f2-46f5-b776-bbb3c08f910c)
 
@@ -182,6 +187,8 @@ filtering water in lab:
 - [ ] gray bin
 
 Prepped Bin:
+
+<img width="600" alt="" src="pictures/eDNAwater_bin.jpeg">
 
 ![eDNAwater_bin](https://github.com/user-attachments/assets/e2217782-c597-4cb6-a8ef-33bc65c53a5e)
 
