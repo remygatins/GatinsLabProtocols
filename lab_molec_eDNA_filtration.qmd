@@ -28,7 +28,7 @@
 
 Bleach & MilliQ bath set up:
 
-<img width="600" alt="center" src="pictures/eDNAwater_bleachbath.jpeg">
+<img width="600" alt="" src="pictures/eDNAwater_bleachbath.jpg">
 
 ![eDNAwater_bleachbath](https://github.com/user-attachments/assets/578b321c-cc9c-4f67-99ed-a822c5ac526c)
  
@@ -44,6 +44,8 @@ Bleach & MilliQ bath set up:
 - [ ] 1. store bottles sealed in clean cooler (plastic cap if not collecting water soon, change to sterile stoppers when collecting water)
 
 Cooler with bottles capped:
+
+<img width="600" alt="" src="pictures/eDNAwater_cooler.jpeg">
 
 ![eDNAwater_cooler](https://github.com/user-attachments/assets/f22f6365-cf81-4cb3-8f87-fa9ddbb849d2)
 
