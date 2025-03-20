@@ -217,6 +217,6 @@ Prepped Bin:
 
 ## Next Steps:
 
-- lysis and extract DNA from filters
+- [lysis and extract DNA from filters](https://remygatins.github.io/GatinsLabProtocols/lab_molec_eDNA_extraction.html)
 - bleach nalgene bottles, stoppers, and filter supplies (see: [Prep section](#prep))
 - prep filter bags (see: [Prep section](#prep))
