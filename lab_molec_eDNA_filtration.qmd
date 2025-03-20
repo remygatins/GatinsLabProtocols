@@ -28,7 +28,7 @@
 
 Bleach & MilliQ bath set up:
 
-<img width="600" alt="" src="pictures/eDNAwater_bleachbath.jpg">
+<img width="300" alt="" src="pictures/eDNAwater_bleachbath.jpg">
  
 **NOTES:**
 
@@ -43,7 +43,7 @@ Bleach & MilliQ bath set up:
 
 Cooler with bottles capped:
 
-<img width="600" alt="" src="pictures/eDNAwater_cooler.jpeg">
+<img width="300" alt="" src="pictures/eDNAwater_cooler.jpeg">
 
 Bottle with stopper:
 
@@ -62,11 +62,11 @@ filter packs:
 
 supplies cleaned but not prepped 
 
-<img width="600" alt="" src="pictures/eDNAwater_filternotprepped.jpeg">
+<img width="300" alt="" src="pictures/eDNAwater_filternotprepped.jpeg">
 
 supplies cleaned and prepped with filters
 
-<img width="600" alt="" src="pictures/eDNA_filtersprepped.jpeg">
+<img width="300" alt="" src="pictures/eDNA_filtersprepped.jpeg">
 
 **NOTES:**
 
@@ -76,9 +76,9 @@ supplies cleaned and prepped with filters
 
 drain disc and filter boxes:
 
-<img width="600" alt="" src="pictures/eDNAwater_filterclosed.jpeg">
+<img width="300" alt="" src="pictures/eDNAwater_filterclosed.jpeg">
 
-<img width="600" alt="" src="pictures/eDNAwater_filteropen.jpeg">
+<img width="300" alt="" src="pictures/eDNAwater_filteropen.jpeg">
 
 ## Water collection in field (eg off boat)
 
@@ -137,7 +137,7 @@ PHOTO!!!!!
 
 filtering water in lab: 
 
-<img width="600" alt="" src="pictures/eDNAwater_filteringinlab.jpeg">
+<img width="300" alt="" src="pictures/eDNAwater_filteringinlab.jpeg">
 
 **Steps:**
 
@@ -195,7 +195,7 @@ filtering water in lab:
 
 Prepped Bin:
 
-<img width="600" alt="" src="pictures/eDNAwater_bin.jpeg">
+<img width="300" alt="" src="pictures/eDNAwater_bin.jpeg">
 
 ### Filtering
 
