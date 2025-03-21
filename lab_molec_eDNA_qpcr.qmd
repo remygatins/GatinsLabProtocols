@@ -1,7 +1,27 @@
-# eDNA qPCR Protocol
+# eDNA qPCR Protocol (BSB)
+
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_molec_eDNA_qpcr.qmd)
 
-# qPCR (BSB)
+## qPCR profile:
+
+<img width="430" alt="" src="pictures/eDNAqPCR_profile.png">
+
+<img width="430" alt="Screenshot 2024-07-31 at 1 15 29 PM" src="https://github.com/user-attachments/assets/1126da8c-da21-42e7-91f0-f82cace7b5c7">
+
+<img width="552" alt="" src="pictures/eDNAqPCR_profile2.png">
+
+<img width="552" alt="Screenshot 2024-07-31 at 1 15 53 PM" src="https://github.com/user-attachments/assets/5ec21e51-08bb-4cac-b93b-2c956d037ebc">
+
+
+**RESOURCES:**
+
+- [BSB eDNA qPCR supplies](https://docs.google.com/spreadsheets/d/1mhRRfssO4oSUR1PfabGZuQd-7WKd-uLb7ejLS4Qbwyo/edit?usp=sharing)
+- [eDNA BSB qPCR Assay document and protocol resources](https://docs.google.com/document/d/1mVxfi3i9k1xxNkycKfKhOgId1RCR28_PBVNqh4CJs2Y/edit?usp=sharing)
+- [BR.io](https://www.br.io) -> website that qPCR machine is connected to
+  - only one BR.io account can be connected to a user at a time
+- qPCR machine = Bio-Rad CFX Opus 96 (Real-Time PCR System)
+  - username: gatins; password: gatins
+  - [resource hub for machine](https://info.bio-rad.com/CFX-Resource-Hub.html)
 
 ## standard curve:
 
@@ -10,56 +30,208 @@
 **NEED:**
 
 - [ ] primer master mix
-  - [ ] 6.91 ul BSB-F 
-  - [ ] 6.91 ul BSB-R
-  - [ ] 3.46 ul BSB-P
-  - [ ] 904.32 ul H20
-- [ ] Taqman master mix
-- [ ] gblock
+  - [ ] 6.91 μl BSB-F 
+  - [ ] 6.91 μl BSB-R
+  - [ ] 3.46 μl BSB-P
+  - [ ] 904.32 μl H20
+- [ ] [TaqMan™ Environmental Master Mix 2.0](https://www.thermofisher.com/order/catalog/product/4396838)
+- [ ] gblock (ASK REMY)
 - [ ] ice
 - [ ] 15 ml tube
-- [ ] PCR plate [Bio-rad #HSP9601](https://www.bio-rad.com/en-us/sku/HSP9601-hard-shell-96-well-pcr-plates-low-profile-thin-wall-skirted-white-clear?ID=HSP9601)
+- [ ] 1 or 2 ml microcentrifuge tube
+- [ ] PCR strip tubes
+- [ ] Hard-Shell PCR plate, 96-well, thin wall ([Bio-rad #HSP9601](https://www.bio-rad.com/en-us/sku/HSP9601-hard-shell-96-well-pcr-plates-low-profile-thin-wall-skirted-white-clear?ID=HSP9601); pkg of 50, white shell/clear well)
 - [ ] plate seal/cover ([Bio-rad Microseal 'B' seal Seals #MSB1001](https://www.bio-rad.com/en-us/sku/17010701-microseal-b-pcr-plate-sealing-film-adhesive-optical?ID=17010701))
 
 **PLATE PLAN:**
 
+<img width="1124" alt="" src="pictures/eDNAqPCR_gblockplate.png">
+
+<img width="1124" alt="eDNAqPCR_gblockplate" src="https://github.com/user-attachments/assets/2d3b9e4c-fc21-4fbe-b17c-0fe72fc602c4" />
+
+**PREP:**
+
+- [ ] 1. wipe down PCR hood and counter with 10% bleach
+- [ ] 2. sterilize hood with UV light
+- [ ] 3. thaw primer master mix or individual primers/probe (if you have to make more master mix) in ice container with lid to block light (to protect probe)
+- [ ] 4. make and print plate plan
+- [ ] 5. tape plate plan to hood
+- [ ] 6. grab ice
+
 **STEPS:**
 
-1. resuspend gblock if needed (https://www.idtdna.com/pages/education/decoded/article/tips-for-working-with-gblocks-gene-fragments)
-2. make gblock concentrations using Tim's dilution calculator and our dilution calculator (C = 10 or 1 depending on starting concentration; https://docs.google.com/spreadsheets/d/1ZA_yLsmvcSCtYSLhoJNwShIfMoxdycmk1gIEXeU-3TY/edit?usp=sharing)
-3. keep dilutions on ice
-4. make or thaw primer master mix (enough for 96 wells * 1.2 for pipet error)
-5. pipet 1,152 ul of the taquman master mix into a 15 ml tube
-6. then pipet 921.6 ul of the primer master mix into the same tube
-7. swirl gently, and transfer half of the liquid to a 1.5 or 2 ml tube to make it easier to pipet from (transfer the remaining combined master mix once it runs low)
-8. pipet 129.6 ul of the combined master mix into each well of a strip tube
-9. using a multichannel pipet, pipet out 18 ul of strip tube solution into each well of the plate
-10. after 6 columns, pipet out another 129.6 ul of the combined master mix into each well of the same strip tube
-11. Finish pipetting 18 ul of the strip tube solution into the remaining wells of the plate
-12. working backwards, pipet 2 ul of each dilution into designated well (working from nuclease free negative control up to 10^8 concentration)
-13. place down plate seal, making sure it covers every well
-14. vortex, then bring to shared lab space to centrifuge (you can find a plate balance next to the empty tube racks)
-15. place into Bio-rad qPCR machine and start BSB eDNA run (labeled: BSB-eDNA)
+- [ ] 1. resuspend gblock if needed: [IDT protocol](https://www.idtdna.com/pages/education/decoded/article/tips-for-working-with-gblocks-gene-fragments)
+- [ ] 2. make gblock concentrations using Tim's dilution calculator and our dilution calculator (C = 10 or 1 depending on starting concentration; [dilution calculator](https://docs.google.com/spreadsheets/d/1ZA_yLsmvcSCtYSLhoJNwShIfMoxdycmk1gIEXeU-3TY/edit?usp=sharing))
+- [ ] 3. keep dilutions on ice
+- [ ] 4. make or thaw primer master mix (enough for 96 wells * 1.2 for pipet error)
+- [ ] 5. pipet 1,152 μl of the taquman master mix into a 15 ml tube
+- [ ] 6. then pipet 921.6 μl of the primer master mix into the same tube
+- [ ] 7. swirl gently, and transfer half of the liquid to a 1.5 or 2 ml tube to make it easier to pipet from (transfer the remaining combined master mix once it runs low)
+- [ ] 8. pipet 129.6 μl of the combined master mix into each well of a strip tube
+- [ ] 9. using a multichannel pipet, pipet out 18 μl of strip tube solution into each well of the plate
+- [ ] 10. after 6 columns, pipet out another 129.6 μl of the combined master mix into each well of the same strip tube (might need to pipet it around if running low in specific tubes of the strip tube)
+- [ ] 11. Finish pipetting 18 μl of the strip tube solution into the remaining wells of the plate
+- [ ] 12. working backwards, pipet 2 μl of each dilution into their designated well shown in the plate plan above (work from the nuclease free negative control up to 10^8 concentration)
+- [ ] 13. place down plate seal, making sure it covers every well
+- [ ] 14. vortex, then bring to the shared lab space to centrifuge for ~10-20 secounds by holding down the short spin button (you can find a plate balance in the lab next to the empty tube racks)
+- [ ] 15. wipe down seal with a kimwipe
+- [ ] 16. place into Bio-rad qPCR machine and start BSB eDNA run (labeled: BSB-eDNA) which can be found in "Files" under "My Files"
+
   - BSB-eDNA Protocol File:
     - Modified: Aug 28, 2024, 2:13 PM
     - Method: CALC
-    - LId Temperature: 105 °C
-    - Reaction Volume: 20 ul
+    - Lid Temperature: 105 °C
+    - Reaction Volume: 20 μl
       - Steps:
         1. 95 °C, 00:10:00
         2. 95 °C, 00:00:10
         3. 60 °C, 00:00:45
         Plate Read
         4. Goto 2 39X
-16. while the machine is running go to BR.io, choose plate that is currently running and click on to plate setup to label each well
+
+<img width="300" alt="" src="pictures/eDNAqPCR_protocolfile.jpeg">
+
+![eDNAqPCR_protocolfile](https://github.com/user-attachments/assets/9d5a0ec7-bada-4cdd-ba30-2abe356a9aa1)
+
+
+  - Run Setup:
+    - Scan Mode: SYBR/FAM
+    - Plate ID: I usually labeled with date and if it is a gblock plate or sample plate (eg. 2024-10-03_gBlock4)
+    - Run File Name: I usually leave as the default (eg. BSB-eDNA_20241003_130438_795BR04561_gatins)
+    - Save Location: either save to "my file" and extact after the run with a USB or have it upload to BR.io (what I usually do so that I can label each well while the machine is running)
+
+<img width="300" alt="" src="pictures/eDNAqPCR_protocolfile2.jpeg">
+
+![eDNAqPCR_protocolfile2](https://github.com/user-attachments/assets/af50e650-9de5-4160-b32d-b91ac2369149)
+
+  
+- [ ] 17. if uploading directly to BR.io, while the machine is running go to [BR.io](https://www.br.io), choose plate that is currently running and click on to plate setup to then label each well
   - Fluorophore: FAM
-  - Concentration: gblock concentration (eg 10^8 = 1.00E+08)
+  - Concentration: gblock concentration (eg. 10^8 = 1.00E+08)
   - Sample Type: standard
-  - Sample Name: name of sample (eg 10^8)
-17. before putting all concentration and samples back into freezer: make aloquots of 29 ul of 10^6 copy number concentration to use as positive control on sample plates
-18. once plate is done, discard plate and look at results
-19. export PCRD file and upload to CFX Maestro Software on lab laptop
-20. exclude wells and concentrations where (usually low concentration such as 1 and 3)
-21. check efficiency and R^2 values (), if good save slope and y-intercept numbers to use for later cq calculations
+  - Sample Name: name of sample (eg. 10^8)
+- [ ] 18. before putting all concentration and samples back into freezer: make aloquots of 29 μl of the 10^6 copy number concentration to use as positive control on sample plates (freeze at -20 C in 0.5 ml tubes)
+- [ ] 19. once plate is done, discard plate and look at results
+- [ ] 20. export PCRD file and upload to CFX Maestro Software on lab laptop
+- [ ] 21. exclude wells and concentrations where less than 95% of the replicates amplified to determine the limit of detection (usually low concentration such as 1 and 3)
+- [ ] 22. check efficiency and R^2 values, if good, save slope and y-intercept numbers to use for later cq calculations
+  - efficiency should be between 90 and 105, ideally between 97 and 102
+  - Slope should be between -3.3 and -3.5
+  - R^2 should be between 0.995 and 1.00
+
+<img width="" alt="" src="pictures/eDNAqPCR_gblockcurve.jpg">
+
+![eDNAqPCR_gblockcurve](https://github.com/user-attachments/assets/3f6e0ce8-7cac-4706-a507-2efc1bdaa155)
+
+**GBLOCK/STANDARD CURVE NOTES:**
+- grayed out boxes = wells/replicates that have been excluded
+- Cq number = at which cycle each well amplified at/crosses the threshold line
+- concentration replicates should idealy be within 0.5 Cq cycles of each other
+- in example photo above, efficiency = 96.1% & R^2 = 0.996
+- avoid freeze-thawing gBlock by making aloquots
+- keep everything on ice for as long as you can (including plate; plate ice packs can be found in -20 C freezer)
+- the probe is light sensetive
+- work in PCR hood when possible (cleaned with UV)  
 
 ## qPCR for samples:
+
+**NEED:**
+- [ ] primer master mix
+  - [ ] 6.91 μl BSB-F 
+  - [ ] 6.91 μl BSB-R
+  - [ ] 3.46 μl BSB-P
+  - [ ] 904.32 μl H20
+- [ ] [TaqMan™ Environmental Master Mix 2.0](https://www.thermofisher.com/order/catalog/product/4396838)
+- [ ] ice
+- [ ] 15 ml tube
+- [ ] 1 or 2 ml microcentrifuge tube
+- [ ] PCR strip tubes
+- [ ] Hard-Shell PCR plate, 96-well, thin wall ([Bio-rad #HSP9601](https://www.bio-rad.com/en-us/sku/HSP9601-hard-shell-96-well-pcr-plates-low-profile-thin-wall-skirted-white-clear?ID=HSP9601); pkg of 50, white shell/clear well)
+- [ ] plate seal/cover ([Bio-rad Microseal 'B' seal Seals #MSB1001](https://www.bio-rad.com/en-us/sku/17010701-microseal-b-pcr-plate-sealing-film-adhesive-optical?ID=17010701))
+
+**PLATE PLAN:**
+
+<img width="" alt="" src="pictures/eDNAqPCR_plateplan.png">
+
+<img width="1123" alt="eDNAqPCR_plateplan" src="https://github.com/user-attachments/assets/53c69d5a-1abc-4598-9791-5a8ed39fcffa" />
+
+
+**PLATE NOTES:**
+- each plate can hold up to 11 samples with 6 replicates each
+- each column is a new sample
+- the last two wells of each column is for positive control (i.e. spike)
+  - spiked wells: 1 ul of 10^6 gblock & 1 ul of sample or water (same as rest of column)
+- column 12 is for negative control; replace the 2 μl sample with 2 μl nuclease free water
+- work in PCR hood as much as possible
+- be very careful with gBlock since it is very concentrated arificial DNA
+
+**PREP:**
+
+- [ ] 1. wipe down PCR hood and counter with 10% bleach
+- [ ] 2. sterilize hood with UV light
+- [ ] 3. grab ice
+- [ ] 4. thaw primer master mix or individual primers/probe (if you have to make more master mix) in ice container with lid to block light (to protect probe)
+- [ ] 5. thaw 10^6 gBlock concentration aloquot in ice bucket
+- [ ] 6. start to thaw samples
+- [ ] 7. make and print plate plan
+- [ ] 8. tape plate plan to hood
+
+**STEPS:**
+
+- [ ] 1. pipet 1,152 μl of the taquman master mix into a 15 ml tube
+- [ ] 2. then pipet 921.6 μl of the primer master mix into the same tube
+- [ ] 3. swirl gently, and transfer half of the liquid to a 1.5 or 2 ml tube to make it easier to pipet from (transfer the remaining combined master mix once it runs low)
+- [ ] 4. pipet 129.6 μl of the combined master mix into each well of a strip tube
+- [ ] 5. using a multichannel pipet, pipet out 18 μl of strip tube solution into each well of the plate
+- [ ] 6. after 6 columns, pipet out another 129.6 μl of the combined master mix into each well of the same strip tube (might need to pipet it around if running low in specific tubes of the strip tube)
+- [ ] 7. Finish pipetting 18 μl of the strip tube solution into the remaining wells of the plate
+- [ ] 8. starting with column 12 to avoid contaminating the neg control wells, pipet 2 μl of nuclease free water into each well in rows A-F (as shown in the blank plate plan above)
+- [ ] 9. pipet 1 μl of nuclease free water into wells G12 & H12
+- [ ] 10. vortex and centrifuge first sample (sample going in column 11), before pipetting 2 μl in each well for rows A-F then 1 μl for rows G-H
+- [ ] 11. repeat step 10 for every sample working right to left
+- [ ] 12. vortex and centrifuge thawed gBlock aliquot and pipet 1 μl into every well in rows G-H (making sure to change tips for every sample)
+- [ ] 13. place down plate seal, making sure it covers every well
+- [ ] 14. vortex, then bring to the shared lab space to centrifuge for ~10-20 secounds by holding down the short spin button (you can find a plate balance in the lab next to the empty tube racks)
+- [ ] 15. wipe down seal with a kimwipe
+- [ ] 16. place into Bio-rad qPCR machine and start BSB eDNA run (labeled: BSB-eDNA) which can be found in "Files" under "My Files"
+
+  - BSB-eDNA Protocol File:
+    - Modified: Aug 28, 2024, 2:13 PM
+    - Method: CALC
+    - Lid Temperature: 105 °C
+    - Reaction Volume: 20 μl
+      - Steps:
+        1. 95 °C, 00:10:00
+        2. 95 °C, 00:00:10
+        3. 60 °C, 00:00:45
+        Plate Read
+        4. Goto 2 39X
+
+<img width="300" alt="" src="pictures/eDNAqPCR_protocolfile.jpeg">
+
+![eDNAqPCR_protocolfile](https://github.com/user-attachments/assets/9d5a0ec7-bada-4cdd-ba30-2abe356a9aa1)
+
+
+  - Run Setup:
+    - Scan Mode: SYBR/FAM
+    - Plate ID: I usually labeled with date and if it is a gblock plate or sample plate (eg. 2024-11-05_plate5)
+    - Run File Name: I usually leave as the default (eg. 20241105_112821_CT023639_HOGAN.zpcr)
+    - Save Location: either save to "my file" and extact after the run with a USB or have it upload to BR.io (what I usually do so that I can label each well while the machine is running)
+
+<img width="300" alt="" src="pictures/eDNAqPCR_protocolfile2.jpeg">
+
+![eDNAqPCR_protocolfile2](https://github.com/user-attachments/assets/af50e650-9de5-4160-b32d-b91ac2369149)
+
+  
+- [ ] 17. if uploading directly to BR.io, while the machine is running go to [BR.io](https://www.br.io), choose plate that is currently running and click on to plate setup to then label each well
+  - Fluorophore: FAM
+  - Sample Type: unknown (columns 1-11, rows A-F), positive control (columns 1-12, rows G-H), negative control (column 12, rows A-F)
+  - Sample Name: name of sample (eg. 5TW_6hr_2410_01)
+- [ ] 18. once plate is done, discard plate and look at results
+- [ ] 19. export PCRD file and upload to CFX Maestro Software on lab laptop
+- [ ] 20. 
+
+## Calculating 
+
+
+Copy number = 10^(([average Cq value from qPCR results] - [y-int])/ [slope])
