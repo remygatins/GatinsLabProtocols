@@ -80,7 +80,7 @@ drain disc and filter boxes:
 
 <img width="300" alt="" src="pictures/eDNAwater_filteropen.jpeg">
 
-## Water collection in field (eg off boat)
+## Water collection in field (eg. off boat)
 
 **Need:**
 
@@ -163,7 +163,7 @@ filtering water in lab:
 - start and end filtering process by filtering 1 L bottle of milliQ H20 stored in sterile glass bottle (use for extraction neg control, 2 total)
 - Keep bottles of water in ice cooler while working
 
-## filtering water in the field (eg Grabowski tanks at MSC)
+## filtering water in the field (eg. Grabowski tanks at MSC)
 
 **Need:**
 
@@ -178,19 +178,19 @@ filtering water in lab:
 ### Prep Tanks
 
 - [ ] 1. Prep tanks for experiment
-   - [ ] 1.1 clean tanks
+   - [ ] 1.1 clean tanks with scrub brushs (algae growth) and remove particulates/litter/substrate (eg. dirt, leaves, rocks, shells, bugs...) with nets and water pump
    - [ ] 1.2 fill tanks with water
    - [ ] 1.3 standardize tanks
-      - [ ] 1.33 water height: adjust outflow tube angle/height
-      - [ ] 1.32 water flow rate: time how fast a 5 gallon bucket fills up with water
-      - [ ] 1.33 ziptie mesh over outflow tube opening
+      - [ ] 1.33 water height: adjust standpipe/outflow tube angle/height (eg. pipe height = 50 cm)
+      - [ ] 1.32 water flow rate: time how fast a 5 gallon bucket fills up with water (eg. 5 gallons in 1:30 mins +/- 10 seconds)
+      - [ ] 1.33 ziptie mesh over standpipe/outflow tube opening
       - [ ] 1.34 use clamps to cover tanks with mesh (prevent birds from entering & organisms from escaping)
    - [ ] 1.4 add organisms to tanks
       - [ ] 1.41 decide # of organisms per tank
-      - [ ] 1.42 figure out how to standardize (eg size, gender...)
+      - [ ] 1.42 figure out how to standardize (eg. size, gender...)
       - [ ] 1.43 have empty tank for control (could also have other tanks with different organisms)
    - [ ] 1.5 decide how many hours after organism addition or removal you want to filter water
-   - [ ] 1.6 add temp loggers
+   - [ ] 1.6 add temp loggers (can be borrowed from Grabowski lab)
 - [ ] 2. when ready to filter, place ice bucket, gloves, dirty container, filter pack bags, and tubes on tube rack into gray lab bin
 
 Prepped Bin:
