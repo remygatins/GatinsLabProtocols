@@ -1,93 +1,95 @@
-# eDNA Filter Extraction
+# eDNA Filter Extraction (using Qiagen blood and tissue kit):
 
 [Edit this Page](https://github.com/remygatins/GatinsLab/blob/main/lab_molec_eDNA_extraction.qmd)
 
-
-## DNA extraction from filters (using Qiagen blood and tissue kit):
-
-### Filter Lysing:
+## Filter Lysing:
 
 **Need:**
 
 - [ ] sterile sissors and forcepts
 - [ ] 50 ml tube with 10% bleach OR 
-- [ ] ethanol lamp with 100% ethanol and 50 ml tube with 70% ethanol
+- [ ] ethanol lamp with 100% ethanol + 50 ml tube with 70% ethanol & 50 ml tube of MilliQ water
 - [ ] DI water spray bottle
 - [ ] 2 ml tubes (with tapered not flat bottoms)
 - [ ] ice container
-- [ ] Buffer ATL (if there are precipitates heat at 56 C and mix gently)
-- [ ] Proteinase K
+- [ ] [Qiagen blood and tissue kit](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/dna-purification/genomic-dna/dneasy-blood-and-tissue-kit?catno=69506) (box labeled for eDNA use)
+  - [ ] Buffer ATL (if there are precipitates heat at 56 C and mix gently)
+  - [ ] Proteinase K
+
+<img width="300" alt="" src="pictures/eDNAextraction_kit.jpeg">
 
 **Steps:**
 
-- 1. preheat thermomixer to 56 °C
-- 2. clean area with 10% bleach, water, then 70% ethanol
-- 3. prep ice container
-- 4. label 2 ml tubes 
-- 5. add 360 µl of Buffer ATL & 40 µl of Proteinase K into 2 ml tubes
-- 6. clean instruments by soaking in 10% bleach, spraying with DI water, then wiping down with kimwipe. (could also sterilize with DI water, 70% ethanol, and an ethanol lamp filled with 100% ethanol)
-- 7. carefully remove filter from storage tube with forcepts and unroll until it is just folded in half
-- 8. cut filters into 3 strips
+- [ ] 1. preheat thermomixer to 56 °C
+- [ ] 2. clean area with 10% bleach, water, then 70% ethanol
+- [ ] 3. prep ice container
+- [ ] 4. label 2 ml tubes
+- [ ] 5. add 360 µl of Buffer ATL & 40 µl of Proteinase K into labeled 2 ml tubes
+- [ ] 6. clean instruments by soaking in 10% bleach, spraying with DI water (holding over waste container/glassware), then wiping down with kimwipe. (could also sterilize with DI water, 70% ethanol, then then running instrument through an ethanol lamp filled with 100% ethano)
+- [ ] 7. carefully remove filter from storage tube with forcepts and unroll until it is just folded in half
+- [ ] 8. cut filters into 3 strips
 
-![349096291-7b747c90-082d-4e7a-9294-30f2747ce480](https://github.com/user-attachments/assets/d397460b-593e-4c4c-aaf7-a6c99c2066c8)
+<img width="300" alt="" src="pictures/eDNAextraction_filter.jpeg">
 
-- 9. place filter strips into 2ml tube with the Buffer ATL & Proteinase K
-- 10. seal tube
-- 11. vortex for 15 sec
-- 12. store on ice until all filters have been cut up and transfered
-- 13. repeat steps 6 through 12 for every filter
-- 14. Place samples on thermo-mixer set at 56 °C at 600 rpm (check after 2 mins to make sure everything is sealed)
-- 15. incubate for at least 12–14 hr
+- [ ] 9. place filter strips into 2ml tube with the Buffer ATL & Proteinase K
+- [ ] 10. seal tube
+- [ ] 11. vortex for 15 sec
+- [ ] 12. store on ice until all filters have been cut up and transfered
+- [ ] 13. repeat steps 6 through 12 for every filter (changing gloves between each filter)
+- [ ] 14. Place samples on thermo-mixer set at 56 °C at 600 rpm (check after 2 mins to make sure everything is sealed)
+- [ ] 15. incubate for at least 12–14 hr
 
-### DNA Extraction:
+## DNA extraction:
 
 **Need:**
 
-- [ ] Buffer AL
-- [ ] 100% ethanol
-- [ ] DNeasy spin columns
-- [ ] collection tubes
-- [ ] Buffer AW1
-- [ ] Buffer AW2
+- [ ] 100% molecular grade ethanol
+- [ ] [Qiagen blood and tissue kit](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/dna-purification/genomic-dna/dneasy-blood-and-tissue-kit?catno=69506) (box labeled for eDNA use)
+  - [ ] DNeasy spin columns
+  - [ ] DNeasy collection tubes
+  - [ ] Buffer AL
+  - [ ] Buffer AW1
+  - [ ] Buffer AW2
 - [ ] 1.5 or 2 ml microcentrifuge tubes (for final storage)
-- [ ] warmed 1X low TE buffer (37ºC)
+- [ ] warmed 1X low TE buffer (37ºC); may need to make by diluting [20X low TE buffer](https://remygatins.github.io/GatinsLabProtocols/lab_molec_low_te_buffer.html)
 
 **Steps:**
 
-- 1. prep and clean bench with 10% bleach, water, then 70% ethanol
-- 2. label spin-column tubes
-- 3. remove samples from thermo-mixer
-- 4. add 400 μl Buffer AL to samples, then vortex
-- 5. add 400 μl Ethanol (100% molecular grade), then vortex
-- 6. pipet half of solution to DNeasy Mini spin column placed in a 2 ml collection tube
-- 7. centrifuge for 1 min at ≥ 6000 x g (8000 rpm)
-- 8. change gloves after each centrifuge step
-- 9. discard the flow-through & collection tube
-- 10. tranfer spin column to a new collection tube
-- 11. pipet the rest of the solution from the initial tubes into the spin column
-- 12. centrifuge for 1 min at ≥ 6000 x g (8000 rpm)
-- 13. discard the flow-through & collection tube
-- 14. tranfer spin column to a new collection tube
-- 15. add 500 μl Buffer AW1
-- 16. centrifuge for 1 min at ≥6000 x g (8000 rpm)
-- 17. discard the flow-through & collection tube
-- 18. tranfer spin column to a new collection tube
-- 19. add 500 μl Buffer AW2
-- 20. centrifuge for 3 min at 20,000 x g (14,000 rpm)
-- 21. discard flow through & spin again for 1 more min
-- 22. make sure spin column membrane are dry after this step; spin again for 1 min if not
-- 23. discard the flow-through & collection tube
-- 24. tranfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube
-- 25. add 50 μl of warm low TE (warm in thermomixer, 37 C)
-- 26. incubate for 1 min at room temperature (15–25°C)
-- 27. centrifuge for 1 min at ≥6000 x g (8000 rpm)
-- 28. add another 50 μl warm low TE
-- 29. incubate for 10 min at room temperature (15–25°C)
-- 30. centrifuge for 1 min at ≥6000 x g (8000 rpm)
-- 31. store in fridge for a few days or freeze at -20 or -80 if not using immediately 
+- [ ] 1. prep and clean bench with 10% bleach, water, then 70% ethanol
+- [ ] 2. label spin-column tubes
+- [ ] 3. remove samples from thermo-mixer
+- [ ] 4. add 400 μl Buffer AL to samples, then vortex
+- [ ] 5. add 400 μl Ethanol (100% molecular grade), then vortex
+- [ ] 6. pipet half of solution to DNeasy Mini spin column placed in a 2 ml collection tube
+- [ ] 7. centrifuge for 1 min at ≥ 6000 x g (8000 rpm)
+- [ ] 8. change gloves after each centrifuge step
+- [ ] 9. discard the flow-through & collection tube
+- [ ] 10. tranfer spin column to a new collection tube
+- [ ] 11. pipet the rest of the solution from the initial tubes into the spin column
+- [ ] 12. centrifuge for 1 min at ≥ 6000 x g (8000 rpm)
+- [ ] 13. discard the flow-through & collection tube
+- [ ] 14. tranfer spin column to a new collection tube
+- [ ] 15. add 500 μl Buffer AW1
+- [ ] 16. centrifuge for 1 min at ≥6000 x g (8000 rpm)
+- [ ] 17. discard the flow-through & collection tube
+- [ ] 18. tranfer spin column to a new collection tube
+- [ ] 19. add 500 μl Buffer AW2
+- [ ] 20. centrifuge for 3 min at 20,000 x g (14,000 rpm)
+- [ ] 21. discard flow through & spin again for 1 more min
+- [ ] 22. make sure spin column membrane are dry after this step; spin again for 1 min if not
+- [ ] 23. discard the flow-through & collection tube
+- [ ] 24. tranfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube
+- [ ] 25. add 50 μl of warm low TE (warm in thermomixer, 37 C)
+- [ ] 26. incubate for 1 min at room temperature (15–25°C)
+- [ ] 27. centrifuge for 1 min at ≥6000 x g (8000 rpm)
+- [ ] 28. add another 50 μl warm low TE
+- [ ] 29. incubate for 10 min at room temperature (15–25°C)
+- [ ] 30. centrifuge for 1 min at ≥6000 x g (8000 rpm)
+- [ ] 31. store in fridge for a few days or freeze at -20 or -80 if not using immediately 
 
-### Possible Next Step:
+## Possible Next Step:
 
-- Qubit
-- need to dilute DNA? -> dilute with low TE
-- PCR then gel or qPCR
+- [Qubit](https://remygatins.github.io/GatinsLabProtocols/lab_equip_qubit.html)
+- need to dilute DNA? -> dilute with [low TE buffer](https://remygatins.github.io/GatinsLabProtocols/lab_molec_low_te_buffer.html)
+- PCR then [gel](https://remygatins.github.io/GatinsLabProtocols/lab_molec_gel_electrophoresis.html) or [qPCR](https://remygatins.github.io/GatinsLabProtocols/lab_molec_eDNA_qpcr.html)
+  - if doing PCR then gel, follow the qPCR profile and amounts (replace the probe with water, and use PCR strip tubes instead of a plate
