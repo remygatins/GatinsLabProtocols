@@ -29,7 +29,7 @@
 - [ ] 7. carefully remove filter from storage tube with forcepts and unroll until it is just folded in half
 - [ ] 8. cut filters into 3 strips
 
-<img width="300" alt="" src="pictures/eDNAextraction_filter.jpeg">
+<img width="" alt="" src="pictures/eDNAextraction_filter.jpeg">
 
 - [ ] 9. place filter strips into 2ml tube with the Buffer ATL & Proteinase K
 - [ ] 10. seal tube
