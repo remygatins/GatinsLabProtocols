@@ -1,4 +1,6 @@
-# eDNA Filter Extraction (using Qiagen blood and tissue kit):
+# eDNA Filter Extraction 
+
+**(using Qiagen blood and tissue kit)**
 
 [Edit this Page](https://github.com/remygatins/GatinsLab/blob/main/lab_molec_eDNA_extraction.qmd)
 
