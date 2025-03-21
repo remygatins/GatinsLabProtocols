@@ -28,7 +28,7 @@
 
 Bleach & MilliQ bath set up:
 
-<img width="300" alt="" src="pictures/eDNAwater_bleachbath.jpg">
+<img width="500" alt="" src="pictures/eDNAwater_bleachbath.jpg">
  
 **NOTES:**
 
@@ -76,9 +76,9 @@ supplies cleaned and prepped with filters
 
 drain disc and filter boxes:
 
-<img width="300" alt="" src="pictures/eDNAwater_filterclosed.jpeg">
+<img width="500" alt="" src="pictures/eDNAwater_filterclosed.jpeg">
 
-<img width="300" alt="" src="pictures/eDNAwater_filteropen.jpeg">
+<img width="500" alt="" src="pictures/eDNAwater_filteropen.jpeg">
 
 ## Water collection in field (eg. off boat)
 
@@ -100,6 +100,9 @@ drain disc and filter boxes:
 water collection device:
 
 PHOTO!!!!!
+
+<img width="400" alt="" src="pictures/??.jpeg">
+
 
 **Steps:**
 
@@ -137,7 +140,7 @@ PHOTO!!!!!
 
 filtering water in lab: 
 
-<img width="300" alt="" src="pictures/eDNAwater_filteringinlab.jpeg">
+<img width="400" alt="" src="pictures/eDNAwater_filteringinlab.jpeg">
 
 **Steps:**
 
