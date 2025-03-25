@@ -22,7 +22,7 @@
 
 **Steps:**
 
-***BOLDED STEPS** = differs from Qiagen blood and tissue kit protocol
+***BOLDED STEPS** = modifications to Qiagen blood and tissue kit protocol
 
 - [ ] 1. preheat thermomixer to 56 °C
 - [ ] 2. clean area with 10% bleach, water, then 70% ethanol
@@ -58,6 +58,8 @@
 - [ ] warmed 1X low TE buffer (37ºC); may need to make by diluting [20X low TE buffer](https://remygatins.github.io/GatinsLabProtocols/lab_molec_low_te_buffer.html)
 
 **Steps:**
+
+***BOLDED STEPS** = modifications to Qiagen blood and tissue kit protocol
 
 - [ ] 1. prep and clean bench with 10% bleach, water, then 70% ethanol
 - [ ] 2. label spin-column tubes
