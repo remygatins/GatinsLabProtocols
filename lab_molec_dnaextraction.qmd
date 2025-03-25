@@ -1,1 +1,3 @@
 # Qiagen DNeasy extraction
+
+[DNeasy® Blood & Tissue Kit (Quick-Start Protocol April 2016)]()
