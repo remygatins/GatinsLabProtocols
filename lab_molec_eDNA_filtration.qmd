@@ -200,6 +200,8 @@ Prepped Bin:
 
 <img width="300" alt="" src="pictures/eDNAwater_bin.jpeg">
 
+eDNAwater_bin.jpeg
+
 ### Filtering
 
 - [ ] 1. Transport supplies (in gray bin) and eDNA citizen scientist sampler to filter site
