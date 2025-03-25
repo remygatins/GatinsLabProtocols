@@ -22,11 +22,13 @@
 
 **Steps:**
 
+***BOLDED STEPS** = differs from Qiagen blood and tissue kit protocol
+
 - [ ] 1. preheat thermomixer to 56 °C
 - [ ] 2. clean area with 10% bleach, water, then 70% ethanol
 - [ ] 3. prep ice container
 - [ ] 4. label 2 ml tubes
-- [ ] 5. add 360 µl of Buffer ATL & 40 µl of Proteinase K into labeled 2 ml tubes
+- [ ] 5. add **360 µl of Buffer ATL** & **40 µl of Proteinase K** into labeled 2 ml tubes
 - [ ] 6. clean instruments by soaking in 10% bleach, spraying with DI water (holding over waste container/glassware), then wiping down with kimwipe. (could also sterilize with DI water, 70% ethanol, then then running instrument through an ethanol lamp filled with 100% ethano)
 - [ ] 7. carefully remove filter from storage tube with forcepts and unroll until it is just folded in half
 - [ ] 8. cut filters into 3 strips
@@ -39,7 +41,7 @@
 - [ ] 12. store on ice until all filters have been cut up and transfered
 - [ ] 13. repeat steps 6 through 12 for every filter (changing gloves between each filter)
 - [ ] 14. Place samples on thermo-mixer set at 56 °C at 600 rpm (check after 2 mins to make sure everything is sealed)
-- [ ] 15. incubate for at least 12–14 hr
+- [ ] 15. incubate for at least **12–14 hr**
 
 ## DNA extraction:
 
@@ -60,8 +62,8 @@
 - [ ] 1. prep and clean bench with 10% bleach, water, then 70% ethanol
 - [ ] 2. label spin-column tubes
 - [ ] 3. remove samples from thermo-mixer
-- [ ] 4. add 400 μl Buffer AL to samples, then vortex
-- [ ] 5. add 400 μl Ethanol (100% molecular grade), then vortex
+- [ ] 4. add **400 μl Buffer AL** to samples, then vortex
+- [ ] 5. add **400 μl Ethanol (100% molecular grade)**, then vortex
 - [ ] 6. pipet half of solution to DNeasy Mini spin column placed in a 2 ml collection tube
 - [ ] 7. centrifuge for 1 min at ≥ 6000 x g (8000 rpm)
 - [ ] 8. change gloves after each centrifuge step
@@ -81,10 +83,10 @@
 - [ ] 22. make sure spin column membrane are dry after this step; spin again for 1 min if not
 - [ ] 23. discard the flow-through & collection tube
 - [ ] 24. tranfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube
-- [ ] 25. add 50 μl of warm low TE (warm in thermomixer, 37 C)
+- [ ] 25. add **50 μl of warm low TE buffer** (warm in thermomixer, 37 C)
 - [ ] 26. incubate for 1 min at room temperature (15–25°C)
 - [ ] 27. centrifuge for 1 min at ≥6000 x g (8000 rpm)
-- [ ] 28. add another 50 μl warm low TE
+- [ ] 28. add another **50 μl warm low TE buffer**
 - [ ] 29. incubate for 10 min at room temperature (15–25°C)
 - [ ] 30. centrifuge for 1 min at ≥6000 x g (8000 rpm)
 - [ ] 31. store in fridge for a few days or freeze at -20 or -80 if not using immediately 
