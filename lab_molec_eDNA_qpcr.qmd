@@ -4,13 +4,7 @@
 
 ## qPCR profile
 
-<img width="430" alt="" src="pictures/eDNAqPCR_profile.png">
-
-<img width="430" alt="Screenshot 2024-07-31 at 1 15 29 PM" src="https://github.com/user-attachments/assets/1126da8c-da21-42e7-91f0-f82cace7b5c7">
-
-<img width="552" alt="" src="pictures/eDNAqPCR_profile2.png">
-
-<img width="552" alt="Screenshot 2024-07-31 at 1 15 53 PM" src="https://github.com/user-attachments/assets/5ec21e51-08bb-4cac-b93b-2c956d037ebc">
+<img width="430" alt="" src="pictures/eDNAqPCR_profile.png"> <img width="552" alt="" src="pictures/eDNAqPCR_profile2.png">
 
 
 **RESOURCES:**
@@ -45,9 +39,7 @@
 
 [**PLATE PLAN:**](https://docs.google.com/spreadsheets/d/1ZA_yLsmvcSCtYSLhoJNwShIfMoxdycmk1gIEXeU-3TY/edit?usp=sharing)
 
-<img width="1124" alt="" src="pictures/eDNAqPCR_gblockplate.png">
-
-<img width="1124" alt="eDNAqPCR_gblockplate" src="https://github.com/user-attachments/assets/2d3b9e4c-fc21-4fbe-b17c-0fe72fc602c4" />
+<img width="900" alt="" src="pictures/eDNAqPCR_gblockplate.png">
 
 **PREP:**
 
@@ -97,8 +89,6 @@
 
 <img width="300" alt="" src="pictures/eDNAqPCR_protocolfile.jpeg">
 
-![eDNAqPCR_protocolfile](https://github.com/user-attachments/assets/9d5a0ec7-bada-4cdd-ba30-2abe356a9aa1)
-
 
   - Run Setup:
     - Scan Mode: SYBR/FAM
@@ -107,9 +97,6 @@
     - Save Location: either save to "my file" and extact after the run with a USB or have it upload to BR.io (what I usually do so that I can label each well while the machine is running)
 
 <img width="300" alt="" src="pictures/eDNAqPCR_protocolfile2.jpeg">
-
-![eDNAqPCR_protocolfile2](https://github.com/user-attachments/assets/af50e650-9de5-4160-b32d-b91ac2369149)
-
   
 - [ ] 17. if uploading directly to BR.io, while the machine is running go to [BR.io](https://www.br.io), choose plate that is currently running and click on to plate setup to then label each well
   - Fluorophore: FAM
@@ -125,9 +112,7 @@
   - Slope should be between -3.3 and -3.5
   - R^2 should be between 0.995 and 1.00
 
-<img width="" alt="" src="pictures/eDNAqPCR_gblockcurve.jpg">
-
-![eDNAqPCR_gblockcurve](https://github.com/user-attachments/assets/3f6e0ce8-7cac-4706-a507-2efc1bdaa155)
+<img width="600" alt="" src="pictures/eDNAqPCR_gblockcurve.jpg">
 
 **GBLOCK/STANDARD CURVE NOTES:**
 - grayed out boxes = wells/replicates that have been excluded
@@ -157,9 +142,7 @@
 
 [**PLATE PLAN:**](https://docs.google.com/spreadsheets/d/1VQfYPV60tebJGguQfghsxpS0YRRm-WdmMyxA82zIlHk/edit?usp=sharing) 
 
-<img width="" alt="" src="pictures/eDNAqPCR_plateplan.png">
-
-<img width="1123" alt="eDNAqPCR_plateplan" src="https://github.com/user-attachments/assets/53c69d5a-1abc-4598-9791-5a8ed39fcffa" />
+<img width="900" alt="" src="pictures/eDNAqPCR_plateplan.png">
 
 
 **PLATE NOTES:**
@@ -216,9 +199,6 @@
 
 <img width="300" alt="" src="pictures/eDNAqPCR_protocolfile.jpeg">
 
-![eDNAqPCR_protocolfile](https://github.com/user-attachments/assets/9d5a0ec7-bada-4cdd-ba30-2abe356a9aa1)
-
-
   - Run Setup:
     - Scan Mode: SYBR/FAM
     - Plate ID: I usually labeled with date and if it is a gblock plate or sample plate (eg. 2024-11-05_plate5)
@@ -226,9 +206,6 @@
     - Save Location: either save to "my file" and extact after the run with a USB or have it upload to BR.io (what I usually do so that I can label each well while the machine is running)
 
 <img width="300" alt="" src="pictures/eDNAqPCR_protocolfile2.jpeg">
-
-![eDNAqPCR_protocolfile2](https://github.com/user-attachments/assets/af50e650-9de5-4160-b32d-b91ac2369149)
-
   
 - [ ] 17. if uploading directly to BR.io, while the machine is running go to [BR.io](https://www.br.io), choose plate that is currently running and click on to plate setup to then label each well
   - Fluorophore: FAM
@@ -243,9 +220,7 @@
 
 example of odd amplification vs normal amplification for one sample (in log scale):
 
-<img width="" alt="" src="pictures/eDNAqPCR_oddsample.jpg">
-
-![eDNAqPCR_oddsample](https://github.com/user-attachments/assets/12dfc0d4-7453-4a39-a9bc-f5171ab86456)
+<img width="600" alt="" src="pictures/eDNAqPCR_oddsample.jpg">
 
 - normal amplification should occur in cycles later than your highest gBlock concentrations (eg. 10^8 or 10^6)
 - positive detection is assumed for a samples as long as at least one replicate was positive
@@ -262,10 +237,7 @@ Copy number = 10^(([average Cq value from qPCR results] - [y-int])/ [slope])
 
 it will look like this:
 
-<img width="" alt="" src="pictures/eDNAqPCR_wells.png">
-
-![eDNAqPCR_wells](https://github.com/user-attachments/assets/0289e9e5-85e7-4806-a912-7a8da2487fdd)
-
+<img width="600" alt="" src="pictures/eDNAqPCR_wells.png">
 
 - [ ] 2. to label wells if it has not already been done = go to settings -> plate setup -> view/edit plate...
 - [ ] 3. while also on this page, choose sample replicates so analysis is easier later on 
@@ -273,10 +245,7 @@ it will look like this:
 
 example:
 
-<img width="" alt="" src="pictures/eDNAqPCR_lesswells.png">
-
-![eDNAqPCR_lesswells](https://github.com/user-attachments/assets/619a00db-0a7c-41a4-bd59-43bb341ad58f)
-
+<img width="600" alt="" src="pictures/eDNAqPCR_lesswells.png">
 
   - [ ] 4.1 see qPCR notes above for examples
   - [ ] 4.2 all spike + sample wells should have amplified and been between +/- 2 of spike + nuclease free wells
@@ -287,9 +256,7 @@ example:
 
 example Quantification Cq Results sheet (zoomed in; only showing replicates for ~2-3 samples):
 
-<img width="" alt="" src="pictures/eDNAqPCR_results.jpg">
-
-![eDNAqPCR_results](https://github.com/user-attachments/assets/28bbd623-5e2e-468f-99ef-7ad78af547d4)
+<img width="600" alt="" src="pictures/eDNAqPCR_results.jpg">
 
 - [ ] 8. copy Cq Mean for each sample from Quantification Cq Results and paste into datasheet (make avg Cq column) or if did not group samples by replicate (see content column above), manually average Cq for each sample (usually 6 reps per sample) then paste into datasheet
 - [ ] 9. imput Cq value into copy number formula and use y-intercept and slope from standard curve/gblock plate
