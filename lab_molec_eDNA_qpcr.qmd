@@ -152,7 +152,7 @@
 - each plate can hold up to 11 samples with 6 replicates each
 - each column is a new sample
 - the last two wells of each column is for positive control (i.e. spike)
-  - spiked wells: 1 ul of 10^6 gblock & 1 ul of sample or water (same as rest of column)
+  - spiked wells: 1 μl of 10^6 gblock & 1 μl of sample or water (same as rest of column)
   - the purpose of the spiked wells is to check for DNA inhabition
 - column 12 is for negative control; replace the 2 μl sample with 2 μl nuclease free water
 - work in PCR hood as much as possible
