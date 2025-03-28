@@ -101,9 +101,10 @@ water collection device:
 
 <img width="400" alt="" src="pictures/eDNAwater_device.jpeg">
 
-<img width="400" alt="" src="pictures/eDNAwater_deviceabove.jpeg">
+<img width="300" alt="" src="pictures/eDNAwater_deviceabove.jpeg">
 
-<img width="400" alt="" src="pictures/eDNAwater_deviceclose.jpeg">
+<img width="300" alt="" src="pictures/eDNAwater_deviceclose.jpeg">
+
 
 **Steps:**
 
