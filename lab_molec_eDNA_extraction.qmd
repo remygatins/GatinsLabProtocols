@@ -20,6 +20,15 @@
 
 <img width="300" alt="" src="pictures/eDNAextraction_kit.jpeg">
 
+**Notes:**
+
+- extract milliQ water filters with same steps to use as extraction negative control (check with Qubit afterwards)
+  - usually two per experiment or field collection  
+- it is best to label tubes before starting lysis and extraction 
+  - lysis tubes: sample name
+  - spin-column tubes: sample name
+  - final storage tubes: samples name (eg. 9TW_2410_01 or UMMS_2409_01) usually on top & side; & DNA extraction date
+
 **Steps:**
 
 ***BOLDED STEPS** = modifications to Qiagen blood and tissue kit protocol
