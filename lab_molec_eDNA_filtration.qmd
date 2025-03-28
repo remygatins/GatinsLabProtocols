@@ -125,7 +125,7 @@ PHOTO!!!!!
 **Next Step:**
 
 - bring bottles on ice back to the lab
-- filter water same day then store in -20 C freezer
+- filter water same day then store in -20 C freezer (see: filtering in the lab below)
 
 ## filtering in the lab
 
@@ -137,6 +137,7 @@ PHOTO!!!!!
 - [ ] 2 ml microcentrifuge tubes (label before starting filtering process)
 - [ ] gloves
 - [ ] container for dirty instruments & filter housings
+- [ ] 2 1L sterile glass bottles filled with milliQ water
 
 filtering water in lab: 
 
@@ -177,6 +178,7 @@ filtering water in lab:
 - [ ] gloves
 - [ ] container for dirty instruments & filter housings (and dirty gloves)
 - [ ] gray bin
+- [ ] 2 1L sterile glass bottles filled with milliQ water (to use for extraction negative control)
 
 ### Prep Tanks
 
@@ -202,21 +204,24 @@ Prepped Bin:
 
 ### Filtering
 
-- [ ] 1. Transport supplies (in gray bin) and eDNA citizen scientist sampler to filter site
-- [ ] 2. Wearing clean gloves, attach filter housing (black side) to long tube attached to the eDNA citizen scientist sampler
-- [ ] 3. Attach clear hard plastic tube to beige part of the filter housing
-- [ ] 4. Turn on vaccume with plastic tube sticking upwards for a few seconds before placing into water
-- [ ] 5. Remove from water once filtered water reaches the 900 ml mark on the sampler storage container (water in long tube should make it reach 1 L)
-- [ ] 6. Keep vaccume on and hold hard plastic tube upwards until all of the water in the long tube has reached the storage container
-- [ ] 7. One vaccume is shut off, pull filter housing off long tube and take off the hard plastic tube (place in dirty container)
-- [ ] 8. Gently open filter housing and using the plastic forcepts in the bag, fold filter and its backing in half like a taco then fold 2-3 more times until it looks like it will fit into 2ml microcentrifuge tube
-- [ ] 9. Place filter into 2ml microcentrifuge tube then discard forcepts and both sides of the filter housing into the dirty container
-- [ ] 10. Place microcentrifuge tube into ice
-- [ ] 11. Pour storage container water out (either back into same tank you took it from, or onto grass/rocks)
-- [ ] 12. Place storage container back into citizen scientist sampler and screw lid back on
+- [ ] 1. filter 1 L of milliQ water (stored in sterile glass bottle) in the lab then store on ice
+- [ ] 2. Transport supplies (in gray bin) and eDNA citizen scientist sampler to filter site
+- [ ] 3. Wearing clean gloves, attach filter housing (black side) to long tube attached to the eDNA citizen scientist sampler
+- [ ] 4. Attach clear hard plastic tube to beige part of the filter housing
+- [ ] 5. Turn on vaccume with plastic tube sticking upwards for a few seconds before placing into water
+- [ ] 6. Remove from water once filtered water reaches the 900 ml mark on the sampler storage container (water in long tube should make it reach 1 L)
+- [ ] 7. Keep vaccume on and hold hard plastic tube upwards until all of the water in the long tube has reached the storage container
+- [ ] 8. One vaccume is shut off, pull filter housing off long tube and take off the hard plastic tube (place in dirty container)
+- [ ] 9. Gently open filter housing and using the plastic forcepts in the bag, fold filter and its backing in half like a taco then fold 2-3 more times until it looks like it will fit into 2ml microcentrifuge tube
+- [ ] 10. Place filter into 2ml microcentrifuge tube then discard forcepts and both sides of the filter housing into the dirty container
+- [ ] 11. Place microcentrifuge tube into ice
+- [ ] 12. Pour storage container water out (either back into same tank you took it from, or onto grass/rocks)
+- [ ] 13. Place storage container back into citizen scientist sampler and screw lid back on
 - [ ] 14. Change gloves
 - [ ] 15. repeat steps for all tanks/samples sites
-- [ ] 16. transport samples back to lab and store in freezer until ready to extract
+- [ ] 16. transport supplies and samples back to lab
+- [ ] 17. filter 1 L of milliQ water (stored in sterile glass bottle)
+- [ ] 18. transfer all samples from ice to -20 freezer until ready to extract
 
 ## Next Steps:
 
