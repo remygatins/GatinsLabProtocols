@@ -115,6 +115,7 @@
 <img width="600" alt="" src="pictures/eDNAqPCR_gblockcurve.jpg">
 
 **GBLOCK/STANDARD CURVE NOTES:**
+
 - grayed out boxes = wells/replicates that have been excluded
 - Cq number = at which cycle each well amplified at/crosses the threshold line
 - concentration replicates should idealy be within 0.5 Cq cycles of each other
@@ -127,6 +128,7 @@
 ## qPCR for samples
 
 **NEED:**
+
 - [ ] primer master mix
   - [ ] 6.91 μl BSB-F 
   - [ ] 6.91 μl BSB-R
@@ -146,6 +148,7 @@
 
 
 **PLATE NOTES:**
+
 - each plate can hold up to 11 samples with 6 replicates each
 - each column is a new sample
 - the last two wells of each column is for positive control (i.e. spike)
