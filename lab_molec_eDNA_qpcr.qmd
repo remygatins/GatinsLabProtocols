@@ -245,14 +245,14 @@ it will look like this:
 - [ ] 2. to label wells if it has not already been done = go to settings -> plate setup -> view/edit plate...
 - [ ] 3. while also on this page, choose sample replicates so analysis is easier later on 
 - [ ] 4. check for any oddities by going through all replicates for one sample at a time (unhighlight all wells then highlight only wells you want to look at)
+  - 4.1 see qPCR notes above for examples
+  - 4.2 all spike + sample wells should have amplified and been between +/- 2 of spike + nuclease free wells
+  - 4.3 negative control wells should have no amplification (cq = N/A)
 
 example:
 
 <img width="600" alt="" src="pictures/eDNAqPCR_lesswells.png">
 
-  - [ ] 4.1 see qPCR notes above for examples
-  - [ ] 4.2 all spike + sample wells should have amplified and been between +/- 2 of spike + nuclease free wells
-  - [ ] 4.3 negative control wells should have no amplification (cq = N/A)
 - [ ] 5. once done looking over all the wells, exluded wells as needed (by right clicking and choosing exclude from analysis)
 - [ ] 6. rehighlight all the wells and export all the datasheets to excel from CFX Maestro Software
 - [ ] 7. open the Quantification Cq Results excel sheet 
