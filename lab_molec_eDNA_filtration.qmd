@@ -99,7 +99,7 @@ drain disc and filter boxes:
 
 water collection device:
 
-<img width="300" alt="" src="pictures/eDNAwater_device.jpeg"> <img width="350" alt="" src="pictures/eDNAwater_deviceabove.jpeg"> <img width="300" alt="" src="pictures/eDNAwater_deviceclose.jpeg">
+<img width="300" alt="" src="pictures/eDNAwater_device.jpeg"> <img width="325" alt="" src="pictures/eDNAwater_deviceabove.jpeg"> <img width="300" alt="" src="pictures/eDNAwater_deviceclose.jpeg">
 
 
 **Steps:**
