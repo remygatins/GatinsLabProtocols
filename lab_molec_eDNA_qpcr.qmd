@@ -69,7 +69,7 @@
 - [ ] 9. using a multichannel pipet, pipet out 18 μl of strip tube solution into each well of the plate
 - [ ] 10. after 6 columns, pipet out another 129.6 μl of the combined master mix into each well of the same strip tube (might need to pipet it around if running low in specific tubes of the strip tube)
 - [ ] 11. Finish pipetting 18 μl of the strip tube solution into the remaining wells of the plate
-- [ ] 12. working backwards, pipet 2 μl of each dilution into their designated well shown in the plate plan above (work from the nuclease free negative control up to 10^8 concentration)
+- [ ] 12. working backwards, pipet 2 μl of each dilution into their designated well shown in the plate plan above (work from the nuclease-free water negative control up to 10^8 concentration)
 - [ ] 13. place down plate seal, making sure it covers every well
 - [ ] 14. vortex, then bring to the shared lab space to centrifuge for ~10-20 secounds by holding down the short spin button (you can find a plate balance in the lab next to the empty tube racks)
 - [ ] 15. wipe down seal with a kimwipe
@@ -154,7 +154,7 @@
 - the last two wells of each column is for positive control (i.e. spike)
   - spiked wells: 1 μl of 10^6 gblock & 1 μl of sample or water (same as rest of column)
   - the purpose of the spiked wells is to check for DNA inhabition
-- column 12 is for negative control; replace the 2 μl sample with 2 μl nuclease free water
+- column 12 is for negative control; replace the 2 μl sample with 2 μl nuclease-free water
 - work in PCR hood as much as possible
 - be very careful with gBlock since it is very concentrated arificial DNA
 
@@ -178,8 +178,8 @@
 - [ ] 5. using a multichannel pipet, pipet out 18 μl of strip tube solution into each well of the plate
 - [ ] 6. after 6 columns, pipet out another 129.6 μl of the combined master mix into each well of the same strip tube (might need to pipet it around if running low in specific tubes of the strip tube)
 - [ ] 7. Finish pipetting 18 μl of the strip tube solution into the remaining wells of the plate
-- [ ] 8. starting with column 12 to avoid contaminating the neg control wells, pipet 2 μl of nuclease free water into each well in rows A-F (as shown in the blank plate plan above)
-- [ ] 9. pipet 1 μl of nuclease free water into wells G12 & H12
+- [ ] 8. starting with column 12 to avoid contaminating the neg control wells, pipet 2 μl of nuclease-free water into each well in rows A-F (as shown in the blank plate plan above)
+- [ ] 9. pipet 1 μl of nuclease-free water into wells G12 & H12
 - [ ] 10. vortex and centrifuge first sample (sample going in column 11), before pipetting 2 μl in each well for rows A-F then 1 μl for rows G-H
 - [ ] 11. repeat step 10 for every sample working right to left
 - [ ] 12. vortex and centrifuge thawed gBlock aliquot and pipet 1 μl into every well in rows G-H (making sure to change tips for every sample)
@@ -246,7 +246,7 @@ it will look like this:
 - [ ] 3. while also on this page, choose sample replicates so analysis is easier later on 
 - [ ] 4. check for any oddities by going through all replicates for one sample at a time (unhighlight all wells then highlight only wells you want to look at)
   - 4.1 see qPCR notes above for examples
-  - 4.2 all spike + sample wells should have amplified and been between +/- 2 of spike + nuclease free wells
+  - 4.2 all spike + sample wells should have amplified and been between +/- 2 of spike + nuclease-free water wells
   - 4.3 negative control wells should have no amplification (cq = N/A)
 
 example:
