@@ -8,6 +8,8 @@ Protocol adapted from [Lotterhos lab protocol](https://drk-lo.github.io/lotterho
 
 ## Tissue Lysing
 
+!!!! ASK ABOUT ORDER: TISSUE IN TUBES FIRST OR BUFFERS
+
 **Need:**
 
 - [ ] scale
