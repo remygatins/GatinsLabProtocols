@@ -4,7 +4,7 @@
 
 [Edit this Page](https://github.com/remygatins/GatinsLab/blob/main/lab_molec_eDNA_extraction.qmd)
 
-## Filter Lysing:
+## Filter Lysing
 
 **Need:**
 
@@ -52,7 +52,7 @@
 - [ ] 14. Place samples on thermo-mixer set at 56 °C at 600 rpm (check after 2 mins to make sure everything is sealed)
 - [ ] 15. incubate for at least **12–14 hr**
 
-## DNA extraction:
+## DNA extraction
 
 **Need:**
 
@@ -102,7 +102,7 @@
 - [ ] 30. centrifuge for 1 min at ≥6000 x g (8000 rpm)
 - [ ] 31. store in fridge for a few days or freeze at -20 or -80 if not using immediately 
 
-## Possible Next Step:
+## Possible Next Step
 
 - [Qubit](https://remygatins.github.io/GatinsLabProtocols/lab_equip_qubit.html)
 - need to dilute DNA? -> dilute with [low TE buffer](https://remygatins.github.io/GatinsLabProtocols/lab_molec_low_te_buffer.html)
