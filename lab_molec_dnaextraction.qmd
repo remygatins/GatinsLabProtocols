@@ -11,3 +11,6 @@ Protocol adapted from [Lotterhos lab protocol](https://drk-lo.github.io/lotterho
 ## DNA extraction
 
 ## Possible Next Step
+
+- [Qubit](https://remygatins.github.io/GatinsLabProtocols/lab_equip_qubit.html)
+- PCR then [gel electrophoresis](https://remygatins.github.io/GatinsLabProtocols/lab_molec_gel_electrophoresis.html)
