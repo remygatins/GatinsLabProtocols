@@ -967,7 +967,7 @@
     "href": "lab_equip_80_freezer.html",
     "title": "-80C Freezer",
     "section": "",
-    "text": "Edit this page\n\n\n\n\n\n\n\ngo to -80C Freezer Database to see what shelfs are empty\nNOTE: fill rest of freezer before 1A shelves due to temp monitoring wires\nOnce samples/boxes have been moved to freezer update -80C Freezer Database\n\nadd box name, owner, and link to the datasheet associated with the samples\n\nadditionally add the box contents (samples within each box) on next tab",
+    "text": "Edit this page\n\n\n\n\n\n\n\ngo to -80C Freezer Database to see what shelfs are empty\nNOTE: fill rest of freezer before 1A shelves due to temp monitoring wires\nOnce samples/boxes have been moved to freezer, update -80C Freezer Database\n\nadd box name, owner, and link to the datasheet associated with the samples\n\nadditionally add the box contents (samples within each box) on next tab",
     "crumbs": [
       "Lab Protocols",
       "Equipment",
@@ -979,7 +979,7 @@
     "href": "lab_equip_80_freezer.html#adding-samplesboxes-to--80c-freezer",
     "title": "-80C Freezer",
     "section": "",
-    "text": "go to -80C Freezer Database to see what shelfs are empty\nNOTE: fill rest of freezer before 1A shelves due to temp monitoring wires\nOnce samples/boxes have been moved to freezer update -80C Freezer Database\n\nadd box name, owner, and link to the datasheet associated with the samples\n\nadditionally add the box contents (samples within each box) on next tab",
+    "text": "go to -80C Freezer Database to see what shelfs are empty\nNOTE: fill rest of freezer before 1A shelves due to temp monitoring wires\nOnce samples/boxes have been moved to freezer, update -80C Freezer Database\n\nadd box name, owner, and link to the datasheet associated with the samples\n\nadditionally add the box contents (samples within each box) on next tab",
     "crumbs": [
       "Lab Protocols",
       "Equipment",
