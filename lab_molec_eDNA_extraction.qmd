@@ -38,7 +38,7 @@
 - [ ] 3. prep ice container
 - [ ] 4. label 2 ml tubes
 - [ ] 5. add **360 µl of Buffer ATL** & **40 µl of Proteinase K** into labeled 2 ml tubes
-- [ ] 6. clean instruments by soaking in 10% bleach, spraying with DI water (holding over waste container/glassware), then wiping down with kimwipe. (could also sterilize with DI water, 70% ethanol, then then running instrument through an ethanol lamp filled with 100% ethano)
+- [ ] 6. clean instruments by soaking in 10% bleach, spraying with DI water (holding over waste container/glassware), then wiping down with kimwipe. (could also sterilize with DI water, 70% ethanol, then then running instrument through an ethanol lamp filled with 100% ethanol)
 - [ ] 7. carefully remove filter from storage tube with forcepts and unroll until it is just folded in half
 - [ ] 8. cut filters into 3 strips
 
