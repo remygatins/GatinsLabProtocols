@@ -18,7 +18,7 @@ Protocol adapted from [Lotterhos lab protocol](https://drk-lo.github.io/lotterho
 - [ ] weighting boats
 - [ ] 1 ml tubes
 - [ ] ice container
-- [ ] [Qiagen blood and tissue kit](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/dna-purification/genomic-dna/dneasy-blood-and-tissue-kit?catno=69506) (box labeled for eDNA use)
+- [ ] [Qiagen blood and tissue kit](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/dna-purification/genomic-dna/dneasy-blood-and-tissue-kit?catno=69506) 
   - [ ] Buffer ATL (if there are precipitates heat at 56 C and mix gently)
   - [ ] Proteinase K
 
