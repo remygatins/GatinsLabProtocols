@@ -1,3 +1,5 @@
 # Qiagen DNeasy extraction (blood and tissue kit)
 
+[Edit this Page]()
+
 Protocol adapted from [Lotterhos lab protocol](https://drk-lo.github.io/lotterhoslabprotocols/molecprot_dnaextractionqiagen.html) & [DNeasy® Blood & Tissue Kit (Quick-Start Protocol April 2016)](https://www.qiagen.com/us/resources/resourcedetail?id=68f29296-5a9f-40fa-8b3d-1c148d0b3030&lang=en)
