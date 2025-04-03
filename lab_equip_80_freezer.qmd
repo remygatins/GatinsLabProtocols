@@ -10,7 +10,7 @@
 
 - [ ] go to [-80C Freezer Database](https://docs.google.com/spreadsheets/d/1A_5X403WKix3_2ExyA4KuSsd1mhb68AhzCNNQmD8gNo/edit?gid=326844608#gid=326844608) to see what shelfs are empty
 - [ ] NOTE: fill rest of freezer before 1A shelves due to temp monitoring wires
-- [ ] Once samples/boxes have been moved to freezer update [-80C Freezer Database](https://docs.google.com/spreadsheets/d/1A_5X403WKix3_2ExyA4KuSsd1mhb68AhzCNNQmD8gNo/edit?gid=326844608#gid=326844608)
+- [ ] Once samples/boxes have been moved to freezer, update [-80C Freezer Database](https://docs.google.com/spreadsheets/d/1A_5X403WKix3_2ExyA4KuSsd1mhb68AhzCNNQmD8gNo/edit?gid=326844608#gid=326844608)
   - [ ] add box name, owner, and link to the datasheet associated with the samples
 - [ ] additionally add the box contents (samples within each box) on next tab
 
