@@ -3,8 +3,8 @@
 
 ## LAB TASKS
 
-- [ ] for completed projects: move organized samples from -20 C freezer to -80 C (update freezer database)
-- [ ] check lab freezer database and update if nessessary 
+- [ ] for completed projects: move organized samples from -20°C freezer to -80°C (update [-80°C Freezer Database](https://docs.google.com/spreadsheets/d/1A_5X403WKix3_2ExyA4KuSsd1mhb68AhzCNNQmD8gNo/edit?gid=326844608#gid=326844608))
+- [ ] check [-80°C Freezer Database](https://docs.google.com/spreadsheets/d/1A_5X403WKix3_2ExyA4KuSsd1mhb68AhzCNNQmD8gNo/edit?gid=326844608#gid=326844608) and update if nessessary 
 
 ## ONLINE TASKS
 
