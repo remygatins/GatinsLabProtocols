@@ -488,7 +488,40 @@
     "href": "welcome_lab_exit.html",
     "title": "Exiting the Lab",
     "section": "",
-    "text": "Exiting the Lab\nEdit this page",
+    "text": "Edit this page\n\n\n\nfor completed projects: move organized samples from -20 C freezer to -80 C (update freezer database)\ncheck lab freezer database and update if nessessary\n\n\n\n\n\n\n\nconfirm that Remy is a collaborator for relevent lab project repositories (that are associated your personal account)\nfork relevent personal repositories to The Gatins Lab organization\n\n\n\n\n\n\nupload any relevent documents to google drive folders associated with your lab projects (& share with Remy if not already)\n\n\n\n\n\n\nconfirm that Remy has ways to contact you (ie. personal email & phone number)",
+    "crumbs": [
+      "Welcome",
+      "Exiting the Lab"
+    ]
+  },
+  {
+    "objectID": "welcome_lab_exit.html#lab-tasks",
+    "href": "welcome_lab_exit.html#lab-tasks",
+    "title": "Exiting the Lab",
+    "section": "",
+    "text": "for completed projects: move organized samples from -20 C freezer to -80 C (update freezer database)\ncheck lab freezer database and update if nessessary",
+    "crumbs": [
+      "Welcome",
+      "Exiting the Lab"
+    ]
+  },
+  {
+    "objectID": "welcome_lab_exit.html#online-tasks",
+    "href": "welcome_lab_exit.html#online-tasks",
+    "title": "Exiting the Lab",
+    "section": "",
+    "text": "confirm that Remy is a collaborator for relevent lab project repositories (that are associated your personal account)\nfork relevent personal repositories to The Gatins Lab organization\n\n\n\n\n\n\nupload any relevent documents to google drive folders associated with your lab projects (& share with Remy if not already)",
+    "crumbs": [
+      "Welcome",
+      "Exiting the Lab"
+    ]
+  },
+  {
+    "objectID": "welcome_lab_exit.html#final-tasks",
+    "href": "welcome_lab_exit.html#final-tasks",
+    "title": "Exiting the Lab",
+    "section": "",
+    "text": "confirm that Remy has ways to contact you (ie. personal email & phone number)",
     "crumbs": [
       "Welcome",
       "Exiting the Lab"
