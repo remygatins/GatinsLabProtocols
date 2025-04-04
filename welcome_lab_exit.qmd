@@ -1,5 +1,25 @@
 # Exiting the Lab
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/welcome_lab_exit.qmd)
 
+## LAB TASKS
+
+- [ ] for completed projects: move organized samples from -20 C freezer to -80 C (update freezer database)
+- [ ] check lab freezer database and update if nessessary 
+
+## ONLINE TASKS
+
+### GITHUB
+
+- [ ] confirm that Remy is a collaborator for relevent lab project repositories (that are associated your personal account)
+- [ ] fork relevent personal repositories to [The Gatins Lab organization](https://github.com/The-Gatins-Lab)
+
+<img width="500" alt="" src="pictures/githubforkexample.jpeg">
 
 
+### OTHER
+
+- [ ] upload any relevent documents to google drive folders associated with your lab projects (& share with Remy if not already)
+
+## FINAL TASKS
+
+- [ ] confirm that Remy has ways to contact you (ie. personal email & phone number)
