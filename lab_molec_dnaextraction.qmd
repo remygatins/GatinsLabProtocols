@@ -45,6 +45,60 @@ Protocol adapted from [Lotterhos lab protocol](https://drk-lo.github.io/lotterho
 
 ## DNA extraction
 
+**Need:**
+
+- [ ] 96-100% molecular grade ethanol
+- [ ] [Qiagen blood and tissue kit](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/dna-purification/genomic-dna/dneasy-blood-and-tissue-kit?catno=69506)
+  - [ ] DNeasy spin columns
+  - [ ] DNeasy collection tubes
+  - [ ] Buffer AL
+  - [ ] Buffer AW1
+  - [ ] Buffer AW2
+- [ ] 1.5 or 2 ml microcentrifuge tubes (for final storage)
+- [ ] warmed 1X low TE buffer (37ºC); may need to make by diluting [20X low TE buffer](https://remygatins.github.io/GatinsLabProtocols/lab_molec_low_te_buffer.html)
+
+**Steps:**
+
+- [ ] 1. prep and clean bench with 10% bleach, water, then 70% ethanol
+- [ ] 2. label spin-column tubes and final storage tubes
+- [ ] 3. remove samples from thermo-mixer
+- [ ] 4. add 200 μl Buffer AL to samples, then vortex
+- [ ] 5. add 200 μl Ethanol (96-100% molecular grade) to samples, then vortex
+  - Note: A working solution of Buffer AL & ethanol can be made to be aliquoted into sample tubes.
+- [ ] 6. pipet the mixture into a DNeasy Mini spin column placed in a 2 ml collection tube
+- [ ] 7. centrifuge for 1 min at ≥ 6000 x g (8000 rpm)
+- [ ] 8. change gloves after each centrifuge step
+- [ ] 9. discard the flow-through & collection tube
+- [ ] 10. tranfer spin column to a new collection tube
+- [ ] 11. pipet 500 μl Buffer AW1 into the spin column
+- [ ] 12. centrifuge for 1 min at ≥6000 x g (8000 rpm)
+- [ ] 13. discard the flow-through & collection tube
+- [ ] 14. tranfer spin column to a new collection tube
+- [ ] 15. pipet 500 μl Buffer AW2 into the spin column
+- [ ] 16. centrifuge for 3 min at 20,000 x g (14,000 rpm)
+- [ ] 17. discard flow through, place back into collection tube, & spin again for 1 more min
+- [ ] 18. make sure all the spin column membranes are dry after this step; spin again for 1 min if not
+- [ ] 19. discard the flow-through & collection tube
+- [ ] 20. tranfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube (for final storage)
+
+?????
+
+The Qiagen protocol suggests performing 2 elutions, but 1 elution is typically enough to elute DNA with concentrations in the hundreds. If performing only one elution (as in Cvi extractions), perform the longer incubation (10 min) at room temperature, which is done for the second elution in the Qiagen protocol.
+Elute the DNA by adding 200 μl Buffer AE or (low TE buffer if working with CviMVP samples) to the center of the spin column membrane. Incubate for 1 min at room temperature (15–25°C). Centrifuge for 1 min at ≥6000 x g.
+
+Perform second elution by adding 200 μl Buffer AE to the center of the spin column membrane. Incubate for 10 min at room temperature (15–25°C). Centrifuge for 1 min at ≥6000 x g.
+
+Extracted DNA can be place in fridge for a few days, or store at -20 or -80 for long term storage. AVOID numerous freeze-thaw cycles.
+
+
+- [ ] 25. add **50 μl of warm low TE buffer** (warm in thermomixer, 37 C)
+- [ ] 26. incubate for 1 min at room temperature (15–25°C)
+- [ ] 27. centrifuge for 1 min at ≥6000 x g (8000 rpm)
+- [ ] 28. add another **50 μl warm low TE buffer**
+- [ ] 29. incubate for 10 min at room temperature (15–25°C)
+- [ ] 30. centrifuge for 1 min at ≥6000 x g (8000 rpm)
+- [ ] 31. store in fridge for a few days or freeze at -20 or -80 if not using immediately 
+
 ## Possible Next Step
 
 - [Qubit](https://remygatins.github.io/GatinsLabProtocols/lab_equip_qubit.html)
