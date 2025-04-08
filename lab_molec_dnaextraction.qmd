@@ -4,11 +4,9 @@
 
 [Edit this Page](https://github.com/remygatins/GatinsLabProtocols/blob/main/lab_molec_dnaextraction.qmd)
 
-Protocol adapted from [Lotterhos lab protocol](https://drk-lo.github.io/lotterhoslabprotocols/molecprot_dnaextractionqiagen.html) & [DNeasy® Blood & Tissue Kit (Quick-Start Protocol April 2016)](https://www.qiagen.com/us/resources/resourcedetail?id=68f29296-5a9f-40fa-8b3d-1c148d0b3030&lang=en)
+Protocol adapted from [Lotterhos lab protocol](https://drk-lo.github.io/lotterhoslabprotocols/molecprot_dnaextractionqiagen.html), [DNeasy® Blood & Tissue Kit (Quick-Start Protocol April 2016)](https://www.qiagen.com/us/resources/resourcedetail?id=aa250d94-fc4b-4e27-bb74-d32391ff8a48&lang=en), & [DNeasy Blood & Tissue Handbook](https://www.qiagen.com/us/resources/resourcedetail?id=68f29296-5a9f-40fa-8b3d-1c148d0b3030&lang=en)
 
 ## Tissue Lysing
-
-!!!! ASK ABOUT ORDER: TISSUE IN TUBES FIRST OR BUFFERS
 
 **Need:**
 
@@ -41,7 +39,7 @@ Protocol adapted from [Lotterhos lab protocol](https://drk-lo.github.io/lotterho
 - [ ] 13. repeat steps 5 through 11 for every sample
 - [ ] 14. confirm that all tubes are sealed, then vortex for 15 seconds
 - [ ] 15. place samples on thermo-mixer set at 56 °C at 600 rpm (check after 2 mins to make sure everything is sealed)
-- [ ] 16. Samples can be left for at least 2 hours or overnight to allow for all tissue to be completely lysed.
+- [ ] 16. samples can be left for at least 2 hours or overnight to allow for all tissue to be completely lysed
 
 ## DNA extraction
 
