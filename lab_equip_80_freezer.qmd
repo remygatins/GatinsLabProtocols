@@ -6,11 +6,13 @@
 
 <img width="600" alt="" src="pictures/80_freezer_layout.png">
 
+
 ## Adding samples/boxes to -80°C freezer
 
 - [ ] go to [-80°C Freezer Database](https://docs.google.com/spreadsheets/d/1A_5X403WKix3_2ExyA4KuSsd1mhb68AhzCNNQmD8gNo/edit?gid=326844608#gid=326844608) to see what shelfs are empty
-- [ ] NOTE: fill rest of freezer before 1A shelves due to temp monitoring wires
+- [ ] NOTE: skip 1A shelves due to temp monitoring wires
 - [ ] Once samples/boxes have been moved to freezer, update [-80°C Freezer Database](https://docs.google.com/spreadsheets/d/1A_5X403WKix3_2ExyA4KuSsd1mhb68AhzCNNQmD8gNo/edit?gid=326844608#gid=326844608)
   - [ ] add box name, owner, and link to the datasheet associated with the samples
-- [ ] additionally add the box contents (samples within each box) on next tab
+  - [ ] add the box contents (samples within each box) to datasheet on the next tab (Box_Contents)
 
+<img width="600" alt="" src="pictures/9x9boxlayout.jpeg">
