@@ -15,4 +15,4 @@
   - [ ] add box name, owner, and link to the datasheet associated with the samples
   - [ ] add the box contents (samples within each box) to datasheet on the next tab (Box_Contents)
 
-<img width="600" alt="" src="pictures/9x9boxlayout.jpg">
+<img width="600" alt="" src="pictures/9x9boxlayout.png">
