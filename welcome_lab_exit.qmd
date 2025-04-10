@@ -3,22 +3,29 @@
 
 ## LAB TASKS
 
-- [ ] for completed projects: move organized samples from -20°C freezer to -80°C (update [-80°C Freezer Database](https://docs.google.com/spreadsheets/d/1A_5X403WKix3_2ExyA4KuSsd1mhb68AhzCNNQmD8gNo/edit?gid=326844608#gid=326844608))
-- [ ] check [-80°C Freezer Database](https://docs.google.com/spreadsheets/d/1A_5X403WKix3_2ExyA4KuSsd1mhb68AhzCNNQmD8gNo/edit?gid=326844608#gid=326844608) and update if nessessary 
+- [ ] organize and clean lab bench/space
+- [ ] organize and return field and lab equipment used for your projects to their designated areas in the lab 
+- [ ] comfirm everything is properly labeled (eg. samples)
+- [ ] dispose of anything that is no longer needed or useful (eg. old solutions, buffers, or samples)
+- [ ] move any samples for long term storage from -20°C freezer to -80°C freezer (update [-80°C Freezer Database](https://docs.google.com/spreadsheets/d/1A_5X403WKix3_2ExyA4KuSsd1mhb68AhzCNNQmD8gNo/edit?gid=326844608#gid=326844608))
+- [ ] check [-80°C Freezer Database](https://docs.google.com/spreadsheets/d/1A_5X403WKix3_2ExyA4KuSsd1mhb68AhzCNNQmD8gNo/edit?gid=326844608#gid=326844608) and update data if nessessary ([see -80°C protocol](https://remygatins.github.io/GatinsLabProtocols/lab_equip_80_freezer.html))
 
 ## ONLINE TASKS
 
 ### GITHUB
 
+- [ ] update github protocols for your project (in personal repository associated with the project & and in [lab website github](https://github.com/remygatins/GatinsLabProtocols) if nessessary)
+- [ ] add or update ReadMe repository to make sure all relevent project information is there and linked to make it easier for new people in the lab to follow
+  - [ ] make sure data is linked in ReadMe (eg. google sheets) 
+- [ ] upload r scripts to github 
 - [ ] confirm that Remy is a collaborator for relevent lab project repositories (that are associated your personal account)
 - [ ] fork relevent personal repositories to [The Gatins Lab organization](https://github.com/The-Gatins-Lab)
 
 <img width="500" alt="" src="pictures/githubforkexample.jpg">
 
-
 ### OTHER
 
-- [ ] upload any relevent documents to google drive folders associated with your lab projects (& share with Remy if not already)
+- [ ] upload any relevent documents to google drive folders associated with your lab projects (add links to github) & share with Remy if not already
 
 ## FINAL TASKS
 
