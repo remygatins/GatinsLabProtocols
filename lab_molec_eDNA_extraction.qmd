@@ -102,7 +102,7 @@
 - [ ] 30. centrifuge for 1 min at ≥6000 x g (8000 rpm)
 - [ ] 31. store in fridge for a few days or freeze at -20 or -80 if not using immediately 
 
-## Possible Next Step
+## Possible Next Steps
 
 - [Qubit](https://remygatins.github.io/GatinsLabProtocols/lab_equip_qubit.html)
 - need to dilute DNA? -> dilute with [low TE buffer](https://remygatins.github.io/GatinsLabProtocols/lab_molec_low_te_buffer.html)
