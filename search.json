@@ -1036,7 +1036,7 @@
     "href": "lab_equip_80_freezer.html",
     "title": "-80°C Freezer",
     "section": "",
-    "text": "Edit this page\n\n\n\n\n\n\n\ngo to -80°C Freezer Database to see what shelfs are empty\nNOTE: skip 1A shelves due to temp monitoring wires\nOnce samples/boxes have been moved to freezer, update -80°C Freezer Database\n\nadd box name, owner, and link to the datasheet associated with the samples\nadd the box contents (samples within each box) to datasheet on the next tab (Box_Contents)",
+    "text": "Edit this page\n\n\n\n\n\n\n\ngo to -80°C Freezer Database to see what shelfs and cases are empty\nNOTE: skip 1A case due to temp monitoring wires\nOnce samples/boxes have been moved to freezer, update -80°C Freezer Database\n\nadd box name, owner, and link to the datasheet associated with the samples\nadd the box contents (samples within each box) to datasheet on the next tab (Box_Contents)",
     "crumbs": [
       "Lab Protocols",
       "Equipment",
@@ -1048,7 +1048,7 @@
     "href": "lab_equip_80_freezer.html#adding-samplesboxes-to--80c-freezer",
     "title": "-80°C Freezer",
     "section": "",
-    "text": "go to -80°C Freezer Database to see what shelfs are empty\nNOTE: skip 1A shelves due to temp monitoring wires\nOnce samples/boxes have been moved to freezer, update -80°C Freezer Database\n\nadd box name, owner, and link to the datasheet associated with the samples\nadd the box contents (samples within each box) to datasheet on the next tab (Box_Contents)",
+    "text": "go to -80°C Freezer Database to see what shelfs and cases are empty\nNOTE: skip 1A case due to temp monitoring wires\nOnce samples/boxes have been moved to freezer, update -80°C Freezer Database\n\nadd box name, owner, and link to the datasheet associated with the samples\nadd the box contents (samples within each box) to datasheet on the next tab (Box_Contents)",
     "crumbs": [
       "Lab Protocols",
       "Equipment",
