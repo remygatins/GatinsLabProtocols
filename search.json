@@ -488,7 +488,7 @@
     "href": "welcome_lab_exit.html",
     "title": "Exiting the Lab",
     "section": "",
-    "text": "Edit this page\n\n\n\nfor completed projects: move organized samples from -20°C freezer to -80°C (update -80°C Freezer Database)\ncheck -80°C Freezer Database and update if nessessary\n\n\n\n\n\n\n\nconfirm that Remy is a collaborator for relevent lab project repositories (that are associated your personal account)\nfork relevent personal repositories to The Gatins Lab organization\n\n\n\n\n\n\nupload any relevent documents to google drive folders associated with your lab projects (& share with Remy if not already)\n\n\n\n\n\n\nconfirm that Remy has ways to contact you (ie. personal email & phone number)",
+    "text": "Edit this page\n\n\n\norganize and clean lab bench/space\norganize and return field and lab equipment used for your projects to their designated areas in the lab\ncomfirm everything is properly labeled (eg. samples)\ndispose of anything that is no longer needed or useful (eg. old solutions, buffers, or samples)\nmove any samples for long term storage from -20°C freezer to -80°C freezer (update -80°C Freezer Database)\ncheck -80°C Freezer Database and update data if nessessary (see -80°C protocol)\n\n\n\n\n\n\n\nupdate github protocols for your project (in personal repository associated with the project & and in lab website github if nessessary)\nadd or update ReadMe repository to make sure all relevent project information is there and linked to make it easier for new people in the lab to follow\n\nmake sure data is linked in ReadMe (eg. google sheets)\n\nupload r scripts to github\nconfirm that Remy is a collaborator for relevent lab project repositories (that are associated your personal account)\nfork relevent personal repositories to The Gatins Lab organization\n\n\n\n\n\n\nupload any relevent documents to google drive folders associated with your lab projects (add links to github) & share with Remy if not already\n\n\n\n\n\n\nconfirm that Remy has ways to contact you (ie. personal email & phone number)",
     "crumbs": [
       "Welcome",
       "Exiting the Lab"
@@ -499,7 +499,7 @@
     "href": "welcome_lab_exit.html#lab-tasks",
     "title": "Exiting the Lab",
     "section": "",
-    "text": "for completed projects: move organized samples from -20°C freezer to -80°C (update -80°C Freezer Database)\ncheck -80°C Freezer Database and update if nessessary",
+    "text": "organize and clean lab bench/space\norganize and return field and lab equipment used for your projects to their designated areas in the lab\ncomfirm everything is properly labeled (eg. samples)\ndispose of anything that is no longer needed or useful (eg. old solutions, buffers, or samples)\nmove any samples for long term storage from -20°C freezer to -80°C freezer (update -80°C Freezer Database)\ncheck -80°C Freezer Database and update data if nessessary (see -80°C protocol)",
     "crumbs": [
       "Welcome",
       "Exiting the Lab"
@@ -510,7 +510,7 @@
     "href": "welcome_lab_exit.html#online-tasks",
     "title": "Exiting the Lab",
     "section": "",
-    "text": "confirm that Remy is a collaborator for relevent lab project repositories (that are associated your personal account)\nfork relevent personal repositories to The Gatins Lab organization\n\n\n\n\n\n\nupload any relevent documents to google drive folders associated with your lab projects (& share with Remy if not already)",
+    "text": "update github protocols for your project (in personal repository associated with the project & and in lab website github if nessessary)\nadd or update ReadMe repository to make sure all relevent project information is there and linked to make it easier for new people in the lab to follow\n\nmake sure data is linked in ReadMe (eg. google sheets)\n\nupload r scripts to github\nconfirm that Remy is a collaborator for relevent lab project repositories (that are associated your personal account)\nfork relevent personal repositories to The Gatins Lab organization\n\n\n\n\n\n\nupload any relevent documents to google drive folders associated with your lab projects (add links to github) & share with Remy if not already",
     "crumbs": [
       "Welcome",
       "Exiting the Lab"
