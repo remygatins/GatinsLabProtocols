@@ -1279,8 +1279,8 @@
     ]
   },
   {
-    "objectID": "lab_molec_eDNA_extraction.html#possible-next-step",
-    "href": "lab_molec_eDNA_extraction.html#possible-next-step",
+    "objectID": "lab_molec_eDNA_extraction.html#possible-next-steps",
+    "href": "lab_molec_eDNA_extraction.html#possible-next-steps",
     "title": "eDNA Filter Extraction",
     "section": "",
     "text": "Qubit\nneed to dilute DNA? -&gt; dilute with low TE buffer\nPCR then gel or qPCR\n\nif doing PCR then gel, follow the qPCR profile and amounts (replace the probe with water, and use PCR strip tubes instead of a plate",
