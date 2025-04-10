@@ -78,26 +78,20 @@ Protocol adapted from [Lotterhos lab protocol](https://drk-lo.github.io/lotterho
 - [ ] 18. make sure all the spin column membranes are dry after this step; spin again for 1 min if not
 - [ ] 19. discard the flow-through & collection tube
 - [ ] 20. tranfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube (for final storage)
+- [ ] 21. elute the DNA
+  - [ ] 21.1. if only eluting once: 
+    - [ ] add 100 μl of warm low TE buffer (warm in thermomixer, 37ºC) to the center of the spin column membrane 
+    - [ ] incubate for 10 min at room temperature (15–25°C) then centrifuge for 1 min at ≥6000 x g (8000 rpm)
+  - [ ] ?? 21.2. if eluting twice (to increase yeild):
+    - [ ] add 100 μl of warm low TE buffer (warm in thermomixer, 37ºC) to the center of the spin column membrane 
+    - [ ] ?? incubate for 1 min at room temperature (15–25°C) then centrifuge for 1 min at ≥6000 x g (8000 rpm)
+    - [ ] transfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube (label different than first to note that it was has the second elution in it) 
+    - [ ] add another 100 μl warm low TE buffer
+    - [ ] incubate for 10 min at room temperature (15–25°C)
+    - [ ] centrifuge for 1 min at ≥6000 x g (8000 rpm)
+- [ ] 22. store in fridge for a few days or freeze at -20 or -80 if not using immediately 
 
-?????
-
-The Qiagen protocol suggests performing 2 elutions, but 1 elution is typically enough to elute DNA with concentrations in the hundreds. If performing only one elution (as in Cvi extractions), perform the longer incubation (10 min) at room temperature, which is done for the second elution in the Qiagen protocol.
-Elute the DNA by adding 200 μl Buffer AE or (low TE buffer if working with CviMVP samples) to the center of the spin column membrane. Incubate for 1 min at room temperature (15–25°C). Centrifuge for 1 min at ≥6000 x g.
-
-Perform second elution by adding 200 μl Buffer AE to the center of the spin column membrane. Incubate for 10 min at room temperature (15–25°C). Centrifuge for 1 min at ≥6000 x g.
-
-Extracted DNA can be place in fridge for a few days, or store at -20 or -80 for long term storage. AVOID numerous freeze-thaw cycles.
-
-
-- [ ] 25. add **50 μl of warm low TE buffer** (warm in thermomixer, 37 C)
-- [ ] 26. incubate for 1 min at room temperature (15–25°C)
-- [ ] 27. centrifuge for 1 min at ≥6000 x g (8000 rpm)
-- [ ] 28. add another **50 μl warm low TE buffer**
-- [ ] 29. incubate for 10 min at room temperature (15–25°C)
-- [ ] 30. centrifuge for 1 min at ≥6000 x g (8000 rpm)
-- [ ] 31. store in fridge for a few days or freeze at -20 or -80 if not using immediately 
-
-## Possible Next Step
+## Possible Next Steps 
 
 - [Qubit](https://remygatins.github.io/GatinsLabProtocols/lab_equip_qubit.html)
 - PCR then [gel electrophoresis](https://remygatins.github.io/GatinsLabProtocols/lab_molec_gel_electrophoresis.html)
