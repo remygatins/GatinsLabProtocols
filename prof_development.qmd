@@ -2,20 +2,22 @@
 
 [Edit This Page](https://github.com/remygatins/GatinsLabProtocols/blob/main/prof_development.qmd)
 
-## cold emails
+## Cold emails
 
-### cold email examples
+### Cold email examples
 
 ## CVs & resumes
 
 ### CV vs resume
 
-### updating CV
+### Updating CV
 
-### updating resume
+### Updating resume
 
-## interviews
+## Interviews
 
-### preparing for interviews
+### Preparing for interviews
 
-### questions for interviews
+### Questions for interviewers
+
+
