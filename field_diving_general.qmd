@@ -2,4 +2,54 @@
 
 [Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/field_diving_general.qmd)
 
-Page in progress
+## RESOURCES:
+
+[Northeastern University Standards for Scientific Diving Manual](https://docs.google.com/document/d/1XbJ7c7fEFmbSQWTk0qmhgO48cEAgjwc0/edit?usp=sharing&ouid=114733812275008259707&rtpof=true&sd=true)
+
+## Planning a Dive
+
+- [ ] fill out 
+
+Marissa 
+
+## Scientific Diving Info
+
+**Scientific Diver Certification Steps:**
+
+- SCUBA certification
+- Swimming evaluation
+- SCUBA and skin diving evaluation
+- Current Scientific Diving Medical Examination
+- 100 hours of theoretical and practical training
+- Test of knowledge/written examination
+- Current CPR, First Aid and Oxygen
+- Administration Training
+- 12 supervised training dives
+
+**3 Seas scientific diving Course Prerequisites:**
+
+- Open water scuba certification
+- 10 open water dives (can include certification dives)
+- diving medical exam (within last 5 years)
+- [DAN membership & insurance](https://dan.org/membership-insurance/membership/)
+- Northeastern University Diving Forms
+- check out dive:
+  - Surface swim while switching between regulator and snorkel
+  - BC on/off (surface & underwater)
+  - Weight belt on/off (surface & underwater)
+  - Mask on/off (surface & underwater)
+  - Regulator purge/blow
+  - Regulator retrieval
+  - Air sharing
+  - Neutral buoyancy
+- swim test:
+  - Swim 25m underwater with no gear
+  - Swim 400 m with no gear in under 12 minutes (8 laps/16 pool lengths)
+  - Tread water for 10 minutes (or 2 minutes without use of hands)
+
+**Maintaining Active Scientific Diver Status:
+
+- Complete at least 1 logged dive every 6 months
+- Complete at least 12 science or training divers per year
+- Maintain CPR, First Aid, & O2 Admin Certification
+- Current diving medical examination (varies frequency with age)
