@@ -8,9 +8,8 @@
 
 ## Planning a Dive
 
-- [ ] fill out 
-
-Marissa 
+- [ ] fill out dive plan & email it to Marissa Varade (Three Seas Program Manager & Diving Safety Officer) at least 24-48 hours before diving 
+  - m.varade@northeastern.edu
 
 ## Scientific Diving Info
 
@@ -47,7 +46,7 @@ Marissa
   - Swim 400 m with no gear in under 12 minutes (8 laps/16 pool lengths)
   - Tread water for 10 minutes (or 2 minutes without use of hands)
 
-**Maintaining Active Scientific Diver Status:
+**Maintaining Active Scientific Diver Status:**
 
 - Complete at least 1 logged dive every 6 months
 - Complete at least 12 science or training divers per year
