@@ -715,6 +715,59 @@
     ]
   },
   {
+    "objectID": "index.html#gatins-lab-protocols-website",
+    "href": "index.html#gatins-lab-protocols-website",
+    "title": "Welcome",
+    "section": "Gatins Lab Protocols Website",
+    "text": "Gatins Lab Protocols Website\n\n\n\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Welcome",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator"
+  },
+  {
+    "objectID": "people.html#remy-gatins-ph.d",
+    "href": "people.html#remy-gatins-ph.d",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator"
+  },
+  {
+    "objectID": "people.html#annabel-hughes",
+    "href": "people.html#annabel-hughes",
+    "title": "People",
+    "section": "Annabel Hughes",
+    "text": "Annabel Hughes\nPhD Student"
+  },
+  {
+    "objectID": "people.html#lee-fenuccio",
+    "href": "people.html#lee-fenuccio",
+    "title": "People",
+    "section": "Lee Fenuccio",
+    "text": "Lee Fenuccio\nCo-op Student"
+  },
+  {
+    "objectID": "people.html#future-students",
+    "href": "people.html#future-students",
+    "title": "People",
+    "section": "Future students",
+    "text": "Future students"
+  },
+  {
+    "objectID": "people.html#postdocs",
+    "href": "people.html#postdocs",
+    "title": "People",
+    "section": "Postdocs",
+    "text": "Postdocs"
+  },
+  {
     "objectID": "lab_molec_illuminalibraryprep.html",
     "href": "lab_molec_illuminalibraryprep.html",
     "title": "Illumina Library Prep",
@@ -845,56 +898,14 @@
     ]
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "prof_development_interviews.html",
+    "href": "prof_development_interviews.html",
+    "title": "Interviews",
     "section": "",
-    "text": "Principal Investigator"
-  },
-  {
-    "objectID": "people.html#remy-gatins-ph.d",
-    "href": "people.html#remy-gatins-ph.d",
-    "title": "People",
-    "section": "",
-    "text": "Principal Investigator"
-  },
-  {
-    "objectID": "people.html#annabel-hughes",
-    "href": "people.html#annabel-hughes",
-    "title": "People",
-    "section": "Annabel Hughes",
-    "text": "Annabel Hughes\nPhD Student"
-  },
-  {
-    "objectID": "people.html#lee-fenuccio",
-    "href": "people.html#lee-fenuccio",
-    "title": "People",
-    "section": "Lee Fenuccio",
-    "text": "Lee Fenuccio\nCo-op Student"
-  },
-  {
-    "objectID": "people.html#future-students",
-    "href": "people.html#future-students",
-    "title": "People",
-    "section": "Future students",
-    "text": "Future students"
-  },
-  {
-    "objectID": "people.html#postdocs",
-    "href": "people.html#postdocs",
-    "title": "People",
-    "section": "Postdocs",
-    "text": "Postdocs"
-  },
-  {
-    "objectID": "index.html#gatins-lab-protocols-website",
-    "href": "index.html#gatins-lab-protocols-website",
-    "title": "Welcome",
-    "section": "Gatins Lab Protocols Website",
-    "text": "Gatins Lab Protocols Website\n\n\n\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "text": "Interviews",
     "crumbs": [
-      "Welcome",
-      "Welcome"
+      "Professional Development",
+      "Interviews"
     ]
   },
   {
