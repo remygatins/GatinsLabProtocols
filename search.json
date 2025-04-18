@@ -4,7 +4,11 @@
     "href": "prof_development.html",
     "title": "Cold emails",
     "section": "",
-    "text": "Edit This Page"
+    "text": "Edit This Page",
+    "crumbs": [
+      "Professional Development",
+      "Cold emails"
+    ]
   },
   {
     "objectID": "lab_molec_dnaextraction.html",
