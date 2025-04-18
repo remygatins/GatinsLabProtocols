@@ -109,7 +109,7 @@ website:
       contents:
         - section: "Professional Development"
           contents:
-            - prof_development_emails.qmd
+            - prof_development.qmd
             - prof_development_CV.qmd
             - prof_development_interviews.qmd
             - prof_dev_job_boards.qmd
