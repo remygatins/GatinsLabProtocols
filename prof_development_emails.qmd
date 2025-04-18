@@ -1,10 +1,8 @@
-# Professional Development
+# Cold emails
 
 [Edit This Page](https://github.com/remygatins/GatinsLabProtocols/blob/main/prof_development.qmd)
 
-## Cold emails
-
-### Cold email examples
+## Cold email examples
 
 ## CVs & resumes
 
