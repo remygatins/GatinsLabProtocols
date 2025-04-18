@@ -81,13 +81,13 @@ Protocol adapted from [Lotterhos lab protocol](https://drk-lo.github.io/lotterho
 - [ ] 21. elute the DNA
   - [ ] 21.1. if only eluting once: 
     - [ ] add 100 μl of warm low TE buffer (warm in thermomixer, 37ºC) to the center of the spin column membrane 
-    - [ ] incubate for 10 min at room temperature (15–25°C) then centrifuge for 1 min at ≥6000 x g (8000 rpm)
-  - [ ] ?? 21.2. if eluting twice (to increase yeild):
+    - [ ] incubate for 1 min at room temperature (15–25°C) then centrifuge for 1 min at ≥6000 x g (8000 rpm)
+  - [ ] 21.2. if eluting twice (to increase yeild):
     - [ ] add 100 μl of warm low TE buffer (warm in thermomixer, 37ºC) to the center of the spin column membrane 
-    - [ ] ?? incubate for 1 min at room temperature (15–25°C) then centrifuge for 1 min at ≥6000 x g (8000 rpm)
-    - [ ] transfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube (label different than first to note that it was has the second elution in it) 
+    - [ ] incubate for 1 min at room temperature (15–25°C) then centrifuge for 1 min at ≥6000 x g (8000 rpm)
+    - [ ] transfer spin column to a new 1.5 ml or 2 ml microcentrifuge tube (label tube differently than the first to note that it has the second elution in it) 
     - [ ] add another 100 μl warm low TE buffer
-    - [ ] incubate for 10 min at room temperature (15–25°C)
+    - [ ] incubate for 1 min at room temperature (15–25°C)
     - [ ] centrifuge for 1 min at ≥6000 x g (8000 rpm)
 - [ ] 22. store in fridge for a few days or freeze at -20 or -80 if not using immediately 
 
