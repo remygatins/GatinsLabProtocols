@@ -13,6 +13,7 @@
 - various carabiners, D-rings, clasps, & hooks
 - dive slate
 - zip ties
+- transect
 
 ## eDNA
 
@@ -35,6 +36,7 @@
 
 ## General
 
+- Garmin GPSMAP® 67i (GPS Handheld with inReach® Satellite Technology)
 - clip board
 - sharpies (fine + regular)
 - pens
