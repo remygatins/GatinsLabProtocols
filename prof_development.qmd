@@ -1,4 +1,4 @@
-# Professional Development General
+# General
 
 [Edit This Page](https://github.com/remygatins/GatinsLabProtocols/blob/main/prof_development.qmd)
 
