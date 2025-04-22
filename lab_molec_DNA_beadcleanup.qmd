@@ -3,9 +3,11 @@
 KS8001
 [KAPA cleanup bead protocol](https://rochesequencingstore.com/wp-content/uploads/2022/07/KAPA-Pure-Beads-Technical-Data-Sheet.pdf)
 
-<img width="600" alt="" src="pictures/***">
+<img width="600" alt="" src="pictures/Kapa_bead_cleanup.png">
 
 [Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_molec_DNA_beadcleanup.qmd)
+
+
 
 ## Preparation:
 - [ ] 1. Take beads out of refrigerator and allow them to come to room temperature before beginning (~30 min) . Vortex well.
