@@ -1,5 +1,7 @@
 # Interviews
 
+[Edit This Page](https://github.com/remygatins/GatinsLabProtocols/blob/main/prof_development_interviews.qmd)
+
 ## Job
 
 ### Preparing for interviews
