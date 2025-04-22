@@ -1,10 +1,37 @@
 # Lab Field Gear
 
-[Edit This Page]()
+[Edit This Page](https://github.com/remygatins/GatinsLabProtocols/blob/main/field_lab_gear.qmd)
 
 ## Diving
 
 - underwater camera: OM SYSTEM TG-7 + housing & strobe
 - spears
 - nets
-- 
+- dive weights:
+  - 2 pounds (x3)
+- dive bags
+- various clasps & hooks
+- slate
+
+## eDNA
+
+- Smith-Root eDNA Citizen Scientist
+- PVC bottom water device
+- Nalgene bottles (x12)
+- stoppers (with wire)
+- cooler (red)
+
+## Building Supplies
+
+- bird netting for tanks
+- PVC (3/4")
+- PVC primer and cement
+- thin rope/line (green & purple)
+- yellow floats
+- wire
+- metal rings
+- electrical tape (various colors)
+
+## General
+
+- clip board
