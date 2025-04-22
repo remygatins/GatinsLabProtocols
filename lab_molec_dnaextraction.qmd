@@ -30,7 +30,7 @@ Protocol adapted from [Lotterhos lab protocol](https://drk-lo.github.io/lotterho
   - [ ] 5.1. label 1 ml tubes
   - [ ] 5.2. add 180 µl of Buffer ATL & 20 µl of Proteinase K into labeled 1 ml tubes
 - [ ] 6. tare weighing boat on scale
-- [ ] 7. carefully remove tissue from storage tube with forcepts and use sterile blade to cut a piece of tissue roughly 20mg in weight. Using 100% EtoH, gently rinse tissue and pat dry with clean kim wipe, so that the tissue appears nearly dry
+- [ ] 7. carefully remove tissue from storage tube with forcepts and use sterile blade to cut a piece of tissue roughly 20mg in weight
 - [ ] 8. plase tissue on weighing boat and measure weight (should weigh around 20mg +/-2mg, if not remove or add tissue as nessesary) 
 - [ ] 9. once correct weight, place tissue in prepped 1 ml tube
 - [ ] 10. record weight in lab notebook
