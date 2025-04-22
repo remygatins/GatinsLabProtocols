@@ -9,9 +9,10 @@
 - nets
 - dive weights:
   - 2 pounds (x3)
-- dive bags
-- various clasps & hooks
-- slate
+- dive bags/catch bags
+- various carabiners, D-rings, clasps, & hooks
+- dive slate
+- zip ties
 
 ## eDNA
 
@@ -35,3 +36,9 @@
 ## General
 
 - clip board
+- sharpies (fine + regular)
+- pens
+- pencils
+- ziplock bags
+- rubber bands
+- dissecting kits, scalpals, tweezers, forcepts, scissors
