@@ -19,7 +19,7 @@
 - Smith-Root eDNA Citizen Scientist
 - PVC bottom water device
 - Nalgene bottles (x12)
-- stoppers (with wire)
+- stoppers (with wire & without)
 - cooler (red)
 
 ## Building Supplies
