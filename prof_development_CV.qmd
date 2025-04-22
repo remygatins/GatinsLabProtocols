@@ -1,6 +1,6 @@
 # CVs & Resumes
 
-[Edit This Page]()
+[Edit This Page](https://github.com/remygatins/GatinsLabProtocols/blob/main/prof_development_CV.qmd)
 
 ## CV vs resume
 
