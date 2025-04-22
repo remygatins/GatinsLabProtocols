@@ -91,6 +91,7 @@ website:
         - section: "Fieldwork general"
           contents:
             - fieldprotocols.qmd
+            - field_lab_gear.qmd
             - field_finclips.qmd
             - lab_molec_eDNA_filtration.qmd
         - section: "Permits"
