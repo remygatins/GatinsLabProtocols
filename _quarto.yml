@@ -123,6 +123,7 @@ website:
       collapse-level: 1
       contents:
         - coding.qmd
+        - coding_synology.qmd
         - section: "Maps"
           contents:
             - coding_map_stamen_ggmap.qmd
