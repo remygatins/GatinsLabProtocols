@@ -20,7 +20,7 @@ On a MAC:
 5. Open "Finder" and navigate down to "Locations" on the left toolbar   
 6. Within "Network" you should see our GatinsLab Synology under the IP "129.10.11.41"  
 7. Navigate within that volume to access the files and use it as any other folder on your computer. 
-- e.g., you can change directory in the command line to that directory and source copy any file from the explorer cluser into it.
+  - e.g., you can change directory in the command line to that directory and source copy any file from the explorer cluser into it.
 
 
 **Option 2: QuickConnect**  
@@ -34,18 +34,23 @@ Gives you access through the web browser to the synology NAS platform
 ## File Structure
 
 Within our GatinsLab Synology there are two main shared folders: 
-- Lab_Resources
-- Projects
 
-Within the "Projects" folder, you should create a folder for each one of your project using the following syntax: **YYYY_ProjectName_YourInitials** (e.g., 2024_BSB_RangeWide_RG).  
+* Lab_Resources
+* Projects
+
+Within the "Projects" folder, you should create a folder for each one of your projects using the following syntax: **YYYY_ProjectName_YourInitials** (e.g., 2024_BSB_RangeWide_RG).  
 
 If you have multiple projects (e.g., one for each of your dissertation chapters), make a folder for each project. 
 
 Within your project folder, create the following subfolders and files:
-- Raw Data (folder and put any raw data obtained directly from any sequencing facility)
-- Explorer (any files, analyses and scripts you have on the explorer cluster)
-- Documents (within this folder you can have more subfolders but put any relevant documents of the project here)
-- Metadata (please upload any metadata associated with the project)
-- Readme.txt (make a readme file briefly stating what the project was about and list any links to external repositories such as GoogleDrive, Github, etc)
+
+* Raw Data (folder and put any raw data obtained directly from any sequencing facility)  
+* Explorer (any files, analyses and scripts you have on the explorer cluster)  
+  - src  
+  - data  
+  - results  
+* Documents (within this folder you can have more subfolders but put any relevant documents of the project here)  
+* Metadata (please upload any metadata associated with the project)  
+* Readme.txt (make a readme file briefly stating what the project was about and list any links to external repositories such as GoogleDrive, Github, etc)  
 
 
