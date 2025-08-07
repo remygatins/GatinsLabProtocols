@@ -1,10 +1,10 @@
-#Synology
+# Synology
 
-
-Accessing Synology NAS system
+Quick Guide to access the Gatins Lab Synology NAS system
 
 You first need to be added as a user from the admin account. Let Remy know if you want to be added. Once you are added you will get an email asking you to set up your new password
 
+*Option 1:*
 Connect to NU VPN
 
 **On a MAC:**
