@@ -36,7 +36,7 @@ Within our GatinsLab Synology there are two main shared folders:
 - Lab_Resources
 - Projects
 
-Within the "Projects" folder, you should create a folder for each one of your project using the following syntax: **YYYY_<ProjectName>_<YourInitials>** (e.g., 2024_BSB_RangeWide_RG).  
+Within the "Projects" folder, you should create a folder for each one of your project using the following syntax: **YYYY_ProjectName_YourInitials** (e.g., 2024_BSB_RangeWide_RG).  
 
 If you have multiple projects (e.g., one for each of your dissertation chapters), make a folder for each project. 
 
