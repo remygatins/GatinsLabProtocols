@@ -1048,7 +1048,7 @@
     "href": "coding_synology.html",
     "title": "Gatins Lab Protocols",
     "section": "",
-    "text": "Accessing Synology NAS system\nYou first need to be added as a user from the admin account. Let Remy know if you want to be added. Once you are added you will get an email asking you to set up your new password\nConnect to NU VPN\nOn a MAC: - In your tool bar go the “Go” tab - hit “Connect to server” - add the following address “smb://129.10.11.41” and hit “connect”",
+    "text": "#Synology\nAccessing Synology NAS system\nYou first need to be added as a user from the admin account. Let Remy know if you want to be added. Once you are added you will get an email asking you to set up your new password\nConnect to NU VPN\nOn a MAC: - In your tool bar go the “Go” tab - hit “Connect to server” - add the following address “smb://129.10.11.41” and hit “connect”",
     "crumbs": [
       "Coding",
       "coding_synology.html"
