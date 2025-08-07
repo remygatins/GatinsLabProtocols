@@ -28,7 +28,7 @@ Gives you access through the web browser to the synology NAS platform
 
 1. Go to <https://quickconnect.to/gatins>
 2. Sign in with your username and password
-3. Access your files through the "File Manager" or "Synology DiskDrive"
+3. Access our shared lab files through the "File Manager" or "Synology DiskDrive"
 
 
 ## File Structure
