@@ -1,8 +1,8 @@
-# Synology
+# Synology NAS
 
 Quick Guide to access the Gatins Lab Synology NAS system.
 
-NAS is a Network-attached-storage system that is connected to our lab computer (similar to an external hardrive) however it acts as its own computer. It is easy to extend the memory on it by simply adding new hard drives but thinks of them all as one large hard drive. We will use it to store backup data for all our projects and for lab member to store their data before leaving the lab. 
+**NAS** is a **Network-attached-storage** system that is connected to our lab computer (similar to an external hard drive), however, it acts as its own computer. It is easy to extend the memory on it by simply adding new hard drives but thinks of them all as just one large hard drive. We will use it to store backup data for all our projects and for lab member to store their data before leaving the lab. 
 
 ## Connect to Gatins Lab Synology system
 
@@ -35,9 +35,15 @@ Within our GatinsLab Synology there are two main shared folders:
 - Lab_Resources
 - Projects
 
-Within the "Projects" folder, you should create a folder for each project using the following syntax: **YYYY_<ProjectName>_<YourInitials>** (e.g., 2024_BSB_RangeWide_RG).  
+Within the "Projects" folder, you should create a folder for each one of your project using the following syntax: **YYYY_<ProjectName>_<YourInitials>** (e.g., 2024_BSB_RangeWide_RG).  
 
 If you have multiple projects (e.g., one for each of your dissertation chapters), make a folder for each project. 
 
+Within your project folder, create the following subfolders and files:
+- Raw Data (folder and put any raw data obtained directly from any sequencing facility)
+- Explorer (any files, analyses and scripts you have on the explorer cluster)
+- Documents (within this folder you can have more subfolders but put any relevant documents of the project here)
+- Metadata (please upload any metadata preferably downloaded )
+- Readme.txt (make a readme file briefly stating what the project was about and list any links to external repositories such as GoogleDrive, Github, etc)
 
 
