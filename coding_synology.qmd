@@ -26,7 +26,7 @@ On a MAC:
 **Option 2: QuickConnect**  
 Gives you access through the web browser to the synology NAS platform
 
-1. Copy and paste "https://quickconnect.to/gatins" in your web browser
+1. Go to <https://quickconnect.to/gatins>
 2. Sign in with your username and password
 3. Access your files through the "File Manager" or "Synology DiskDrive"
 
