@@ -1,14 +1,24 @@
 # Synology
 
-Quick Guide to access the Gatins Lab Synology NAS system
+Quick Guide to access the Gatins Lab Synology NAS system.
 
-You first need to be added as a user from the admin account. Let Remy know if you want to be added. Once you are added you will get an email asking you to set up your new password
+NAS is a Network-attached-storage system that is connected to our lab computer (similar to an external hardrive) however it acts as its own computer. It is easy to extend the memory on it by just adding new harddrives to it so we will use it to store backup data for all our projects. 
 
-*Option 1:*
-Connect to NU VPN
+You first need to be added as a user from the admin account. Let Remy know if you want to be added. Once you are added, you will get an email to your personal email asking you to set up your new password. Your username will be the same as your Northeastern username. 
 
-**On a MAC:**
-- In your tool bar go the "Go" tab
-- hit "Connect to server"
-- add the following address "smb://129.10.11.41" and hit "connect"
+**Option 1: Create a folder in finder**  
+*Preferred option*
 
+On a MAC:
+1. First connect to NU VPN
+2. In your tool bar go the "Go" tab and hit "Connect to server"
+3. copy and paste the following address "smb://129.10.11.41" and hit "connect"
+4. add your username and password
+5. Open your finder 
+
+
+*Option 2: QuickConnect*
+
+1. Copy and paste "https://quickconnect.to/gatins" in your web browser
+2. Add your username and password
+3. Access your files through the "File Manager" or "Synology DiskDrive"
