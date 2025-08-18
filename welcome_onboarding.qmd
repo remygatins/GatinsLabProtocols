@@ -44,6 +44,7 @@ Contact [Rosie](mailto:r.falco@northeastern.edu) from the **Ocean Genome Legacy 
 - [ ] Autoclave
 - [ ] Cryogeneics (Liquid Nitrogen)
 
+## IACUC
 Complete the following Institutional Animal Care and Use Committee (IACUC) tasks:
 
 - [ ] Ask Dr. Gatins to add you to the Institutional Animal Care and Use Committee (IACUC) Animal Care and Use protocol. 
