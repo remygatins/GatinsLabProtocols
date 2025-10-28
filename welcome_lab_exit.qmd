@@ -23,6 +23,11 @@
 
 <img width="500" alt="" src="pictures/githubforkexample.jpg">
 
+### SYNOLOGY
+
+-[ ] transfer all data to our [lab synology](https://remygatins.github.io/GatinsLabProtocols/coding_synology.html)
+-[ ] make sure to add a README document and add all links associated with other data repositories (e.g. github repository, Google drive folder, etc)
+
 ### OTHER
 
 - [ ] upload any relevent documents to google drive folders associated with your lab projects (add links to github) & share with Remy if not already
