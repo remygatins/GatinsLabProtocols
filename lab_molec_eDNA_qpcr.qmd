@@ -133,12 +133,12 @@
   - [ ] 6.91 μl BSB-F 
   - [ ] 6.91 μl BSB-R
   - [ ] 3.46 μl BSB-P
-  - [ ] 904.32 μl H20
+  - [ ] 904.32 μl Nuclease-free H20
 - [ ] [TaqMan™ Environmental Master Mix 2.0](https://www.thermofisher.com/order/catalog/product/4396838)
 - [ ] ice
-- [ ] 15 ml tube
+- [ ] 5 ml tube
 - [ ] 1 or 2 ml microcentrifuge tube
-- [ ] PCR strip tubes
+- [ ] PCR strip tube
 - [ ] Hard-Shell PCR plate, 96-well, thin wall ([Bio-rad #HSP9601](https://www.bio-rad.com/en-us/sku/HSP9601-hard-shell-96-well-pcr-plates-low-profile-thin-wall-skirted-white-clear?ID=HSP9601); pkg of 50, white shell/clear well)
 - [ ] plate seal/cover ([Bio-rad Microseal 'B' seal Seals #MSB1001](https://www.bio-rad.com/en-us/sku/17010701-microseal-b-pcr-plate-sealing-film-adhesive-optical?ID=17010701))
 
@@ -153,38 +153,52 @@
 - each column is a new sample
 - the last two wells of each column is for positive control (i.e. spike)
   - spiked wells: 1 μl of 10^6 gblock & 1 μl of sample or water (same as rest of column)
-  - the purpose of the spiked wells is to check for DNA inhabition
+  - the purpose of the spiked wells is to check for DNA inhibition
 - column 12 is for negative control; replace the 2 μl sample with 2 μl nuclease-free water
-- work in PCR hood as much as possible
+- work in PCR hood for master mix setup and negative controls, do not bring samples or gBlock into the hood
 - be very careful with gBlock since it is very concentrated arificial DNA
 
 **PREP:**
 
-- [ ] 1. wipe down PCR hood and counter with 10% bleach
-- [ ] 2. sterilize hood with UV light
-- [ ] 3. grab ice
-- [ ] 4. thaw primer master mix or individual primers/probe (if you have to make more master mix) in ice container with lid to block light (to protect probe)
-- [ ] 5. thaw 10^6 gBlock concentration aloquot in ice bucket
-- [ ] 6. start to thaw samples
+- [ ] 1. wipe down PCR hood, including the outside of everything in it (pipettes, tip boxes, waste container) with 10% bleach
+- [ ] 2. ensure the hood has everything that needs to be sterilized:
+  - [ ] 1x 1000 tip box (~2 tips per plate)
+  - [ ] 1x 200 tip box (~20 tips per plate)
+  - [ ] 1x 20 tip box (~2 tips per plate)
+  - [ ] 1x 10 tip box (~8 tips per plate)
+  - [ ] plate seal (cut using the template seal)
+  - [ ] 1 or 2 mL tube with at least 30 uL of NF water (OPEN)
+  - [ ] 5 mL tube
+  - [ ] PCR strip tube
+  - [ ] 96-well plate
+  - [ ] 200 uL multichannel pipette
+  - [ ] opened waste container (so you do not have to open it after sterilization)
+  - [ ] a pair of gloves (laid to ensure the palm side of both hands is sterilized)
+  - [ ] ice container with ice
+- [ ] 3. sterilize hood with UV light for at least 20 minutes
+- [ ] 4. thaw primer master mix or individual primers/probe (if you have to make more master mix) in ice container or fridge with lid to block light (to protect probe)
+- [ ] 5. thaw 10^6 gBlock concentration aliquot in ice bucket or fridge
+- [ ] 6. start to thaw samples in the fridge
 - [ ] 7. make and print plate plan
 - [ ] 8. tape plate plan to hood
 
 **STEPS:**
 
-- [ ] 1. pipet 1,152 μl of the taquman master mix into a 15 ml tube
-- [ ] 2. then pipet 921.6 μl of the primer master mix into the same tube
-- [ ] 3. swirl gently, and transfer half of the liquid to a 1.5 or 2 ml tube to make it easier to pipet from (transfer the remaining combined master mix once it runs low)
+- [ ] 1. Move ice outside of hood, place taqman master mix and primer master mix into ice
+- [ ] 2. pipet 1,152 μl of the taquman master mix into a 5 ml tube
+- [ ] 3. then pipet 921.6 μl of the primer master mix into the same tube, pipetting up and down to mix
 - [ ] 4. pipet 129.6 μl of the combined master mix into each well of a strip tube
 - [ ] 5. using a multichannel pipet, pipet out 18 μl of strip tube solution into each well of the plate
-- [ ] 6. after 6 columns, pipet out another 129.6 μl of the combined master mix into each well of the same strip tube (might need to pipet it around if running low in specific tubes of the strip tube)
-- [ ] 7. Finish pipetting 18 μl of the strip tube solution into the remaining wells of the plate
-- [ ] 8. starting with column 12 to avoid contaminating the neg control wells, pipet 2 μl of nuclease-free water into each well in rows A-F (as shown in the blank plate plan above)
-- [ ] 9. pipet 1 μl of nuclease-free water into wells G12 & H12
-- [ ] 10. vortex and centrifuge first sample (sample going in column 11), before pipetting 2 μl in each well for rows A-F then 1 μl for rows G-H
-- [ ] 11. repeat step 10 for every sample working right to left
-- [ ] 12. vortex and centrifuge thawed gBlock aliquot and pipet 1 μl into every well in rows G-H (making sure to change tips for every sample)
-- [ ] 13. place down plate seal, making sure it covers every well
-- [ ] 14. vortex, then bring to the shared lab space to centrifuge for ~10-20 secounds by holding down the short spin button (you can find a plate balance in the lab next to the empty tube racks)
+- [ ] 6. after 5 columns, pipet out another 129.6 μl of the combined master mix into each well of the same strip tube (might need to pipet it around if running low in specific tubes of the strip tube)
+- [ ] 8. Finish pipetting 18 μl of the strip tube solution into the remaining wells of the plate
+- [ ] 9. starting with column 12 to avoid contaminating the neg control wells, pipet 2 μl of nuclease-free water into each well in rows A-F (as shown in the blank plate plan above)
+- [ ] 10. pipet 1 μl of nuclease-free water into wells G12 & H12
+- [ ] 11. seal negative column (A12-F12) with trimmed piece of seal, move plate on to a plate ice block OUTSIDE OF HOOD to keep cold, UV the remaining seal for an additional 5 minutes
+- [ ] 12. Swap the master mix for the samples and gBlock in the ice bucket, vortex and centrifuge first sample (sample going in column 11), before pipetting 2 μl in each well for rows A-F then 1 μl for rows G-H
+- [ ] 13. repeat step 12 for every sample working right to left
+- [ ] 14. vortex and centrifuge thawed gBlock aliquot and pipet 1 μl into every well in rows G-H (making sure to change tips for every sample)
+- [ ] 15. place down remaining plate seal, making sure it covers every well
+- [ ] 16. vortex, then bring to the shared lab space to centrifuge for ~10-20 secounds by holding down the short spin button (you can find a plate balance in the lab next to the empty tube racks)
 - [ ] 15. wipe down seal with a kimwipe
 - [ ] 16. place into Bio-rad qPCR machine and start BSB eDNA run (labeled: BSB-eDNA) which can be found in "Files" under "My Files"
 
