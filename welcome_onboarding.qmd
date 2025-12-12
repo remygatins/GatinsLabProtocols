@@ -63,6 +63,6 @@ Add your photo to the lab board! Link to profile template [here](https://www.can
 - [ ] If you need to backup data request access to the Synology NAS system below
 
 ## Synology NAS
-- [ ] Ask Dr. Gatins to add you to the Synology using your personal email
+- [ ] Ask Dr. Gatins to add you to our lab Synology using your personal email
 - [ ] Once you are added, follow the detailed instructions of our [Synology NAS](https://remygatins.github.io/GatinsLabProtocols/coding_synology.html) to create a folder project and use the Synology
  
