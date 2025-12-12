@@ -9,6 +9,7 @@
     - The Gatins Lab calendar
 - [ ] Create a GitHub account (if you don't have one already) and ask me to add you as a collaborator to this protocols page
 - [ ] Add your contact information to the [Gatins Lab Contact information sheet](https://docs.google.com/spreadsheets/d/1F0nNCh9XOA6ftbaqpWzlNunnv5DYv7lUeQRbHXoanlk/edit#gid=0) 
+- [ ] Add your photo to the lab board! Link to profile template [here](https://www.canva.com/design/DAF6ukfdlcA/64Soj04BBS37ls7ZPvtQlA/view?utm_content=DAF6ukfdlcA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview).
 
 ## General MSC requirements
 *Navigate to the [Gatins Lab Onboarding Docs](https://drive.google.com/drive/u/0/folders/1RO_sHPwa3eDx0-oPS0HqBablwW_Gx5R4) to find all the documents listed below*  
@@ -52,7 +53,6 @@ Complete the following Institutional Animal Care and Use Committee (IACUC) tasks
 - [ ] Review the Division of Laboratory Animal Medicine (DLAM) & IACUC Training Course on Canvas
 - [ ] Take the "Assessment Quiz for Working with Rodents"
 
-Add your photo to the lab board! Link to profile template [here](https://www.canva.com/design/DAF6ukfdlcA/64Soj04BBS37ls7ZPvtQlA/view?utm_content=DAF6ukfdlcA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview).
 
 ## Northeastern Explorer Cluster
 - [ ] if you will be running analyses on Northeastern's Explorer High Performance Cluster (HPC) you first need to submit an access request [here](https://service.northeastern.edu/tech?id=sc_cat_item&sys_id=0ae24596db535fc075892f17d496199c)
