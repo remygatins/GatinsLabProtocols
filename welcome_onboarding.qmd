@@ -54,4 +54,15 @@ Complete the following Institutional Animal Care and Use Committee (IACUC) tasks
 
 Add your photo to the lab board! Link to profile template [here](https://www.canva.com/design/DAF6ukfdlcA/64Soj04BBS37ls7ZPvtQlA/view?utm_content=DAF6ukfdlcA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview).
 
+## Northeastern Explorer Cluster
+- [ ] if you will be running analyses on Northeastern's Explorer High Performance Cluster (HPC) you first need to submit an access request [here](https://service.northeastern.edu/tech?id=sc_cat_item&sys_id=0ae24596db535fc075892f17d496199c)
+        - Add your NU email to populate the requester information
+        - University sponsor: r.gatins@northeastern.edu
+        - Gaussian: No
+- [ ] Let Dr. Gatins know once you have been approved so she can add you to our shared folder on the cluster (/projects/gatins)
+- [ ] If you need to backup data request access to the Synology NAS system below
 
+## Synology NAS
+- [ ] Ask Dr. Gatins to add you to the Synology using your personal email
+- [ ] Once you are added, follow the detailed instructions of our [Synology NAS](https://remygatins.github.io/GatinsLabProtocols/coding_synology.html) to create a folder project and use the Synology
+ 
