@@ -74,9 +74,10 @@ website:
                 - lab_molec_eDNA_qpcr.qmd
             - lab_molec_dnaextraction.qmd
             - lab_molec_DNA_beadcleanup.qmd
-            - section: "Illumina WGS Library Prep"
+            - section: "WGS Library Prep"
               contents:
-                - lab_molec_illuminalibraryprep.qmd
+                - lab_molec_KAPAlibraryprep.qmd
+                - lab_molec_illuminaDNAlibraryprep.qmd
                 - lab_molec_yinlineannealing.qmd
             - lab_molec_gel_electrophoresis.qmd
             - lab_molec_low_te_buffer.qmd
