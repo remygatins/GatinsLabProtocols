@@ -1,5 +1,5 @@
 
-# Illumina Library Prep
+# KAPA WGS Library Prep
 ## KAPA HyperPlus kit
 Kit KR 1145
 
