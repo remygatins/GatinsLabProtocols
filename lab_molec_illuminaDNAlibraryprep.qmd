@@ -1,1 +1,22 @@
-# Illumina DNA library prep
+# Illumina DNA Prep
+[Edit this page](https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_molec_illuminaDNAlibraryprep.qmd)
+
+The [Illumina DNA Prep kit](https://support-docs.illumina.com/LP/IlluminaDNAPrep/Content/LP/Illumina_DNA/DNA-Prep/Overview.htm) provides a simple workflow for preparing a whole-genome sequencing pool consisting of up to 384 unique dual-indexed paired-end libraries/samples. In our lab, we have all of the components needed for the Illumina DNA Prep workflow, including Illumina DNA/RNA unique dual (UD) index adapters: Plates A and B. This means we can uniquely index up to 192 samples on a single lane.
+
+We have had luck preparing full and half-reactions, so decide which way to prepare depending on your input quantity. All reactions require 100-500ng of DNA to start, so low concentration samples may require the full 30 uL input volume to reach this quantity while higher-concentration samples can be prepped using the halved input volume of 15 uL.
+
+## Prepare samples and reagents
+- [] Fill an ice bucket
+- [] Decide which samples to prepare (typically in batches of 16, but this can vary depending on your comfort level with the protocol), and remove them from the freezer to thaw on ice or at room temperature
+- [] Prepare kit reagents as follows:
+
+| Reagent | Storage box | Preparation |
+|-------|----------|----------|
+| Tagmentation Buffer 1 (TB1) | -20C | Bring to room temperature |
+| Bead-Linked Transposomes (BLT) | 4C (bead box) | Bring to room temperature |
+| Enhanced PCR Mix (EPM) | -20C | Thaw on ice |
+| Tagment Stop Buffer (TSB) | 4C | Place at room temperature |
+| Tagment Wash Buffer (TWB) | 4C | Place at room temperature |
+| Resuspension Buffer | -20C | Place at room temperature (this isn't used until the very end of the protocol, but it takes forever to thaw so I take it out early |
+
+See [this link](https://support-docs.illumina.com/LP/IlluminaDNAPrep/Content/LP/Illumina_DNA/ResourcesReferences_IDP_IDPE_UPIP_PCR.htm) for links to resources regarding pooling best-practices depending on plexity and individual index sequences (you'll need this for submission to a sequencer if you want them to demultiplex your samples).
