@@ -296,8 +296,8 @@ Contact your sequencing company for specific instructions. Below are important d
 
 See [this link](https://support-docs.illumina.com/LP/IlluminaDNAPrep/Content/LP/Illumina_DNA/ResourcesReferences_IDP_IDPE_UPIP_PCR.htm) for resources regarding pooling best-practices depending on plexity and individual index sequences.
 
-**[Plate A](link to table)**
+**[Plate A](https://github.com/remygatins/GatinsLabProtocols/blob/main/docs/PlateA_index_sequences.csv)**
 <img width="300" alt="" src="pictures/plateA_illumina.png">
 
-**[Plate B](link to table)**
+**[Plate B](https://github.com/remygatins/GatinsLabProtocols/blob/main/docs/PlateB_index_sequences.csv)**
 <img width="300" alt="" src="pictures/plateB_illumina.png">
