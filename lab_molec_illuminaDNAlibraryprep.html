@@ -345,6 +345,11 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#illumina-dna-prep" id="toc-illumina-dna-prep" class="nav-link active" data-scroll-target="#illumina-dna-prep">Illumina DNA Prep</a>
   <ul class="collapse">
   <li><a href="#prepare-samples-and-reagents" id="toc-prepare-samples-and-reagents" class="nav-link" data-scroll-target="#prepare-samples-and-reagents">Prepare samples and reagents</a></li>
+  <li><a href="#step-1-tagment-genomic-dna" id="toc-step-1-tagment-genomic-dna" class="nav-link" data-scroll-target="#step-1-tagment-genomic-dna"><em>Step 1:</em> Tagment Genomic DNA</a></li>
+  <li><a href="#step-2-post-tagmentation-clean-up" id="toc-step-2-post-tagmentation-clean-up" class="nav-link" data-scroll-target="#step-2-post-tagmentation-clean-up"><em>Step 2:</em> Post-Tagmentation Clean Up</a></li>
+  <li><a href="#step-3-amplify-tagmented-dna" id="toc-step-3-amplify-tagmented-dna" class="nav-link" data-scroll-target="#step-3-amplify-tagmented-dna"><em>Step 3:</em> Amplify Tagmented DNA</a></li>
+  <li><a href="#step-4-clean-up-libraries" id="toc-step-4-clean-up-libraries" class="nav-link" data-scroll-target="#step-4-clean-up-libraries"><em>Step 4:</em> Clean Up Libraries</a></li>
+  <li><a href="#step-5-quality-check" id="toc-step-5-quality-check" class="nav-link" data-scroll-target="#step-5-quality-check"><em>Step 5:</em> Quality Check</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -358,14 +363,20 @@ ul.task-list li input[type="checkbox"] {
 <section id="illumina-dna-prep" class="level1">
 <h1>Illumina DNA Prep</h1>
 <p><a href="https://github.com/remygatins/GatinsLabProtocols/edit/main/lab_molec_illuminaDNAlibraryprep.qmd">Edit this page</a></p>
-<p>The <a href="https://support-docs.illumina.com/LP/IlluminaDNAPrep/Content/LP/Illumina_DNA/DNA-Prep/Overview.htm">Illumina DNA Prep kit</a> provides a simple workflow for preparing a whole-genome sequencing pool consisting of up to 384 unique dual-indexed paired-end libraries/samples. In our lab, we have all of the components needed for the Illumina DNA Prep workflow, including Illumina DNA/RNA unique dual (UD) index adapters: Plates A and B. This means we can uniquely index up to 192 samples on a single lane.</p>
-<p>We have had luck preparing full and half-reactions, so decide which way to prepare depending on your input quantity. All reactions require 100-500ng of DNA to start, so low concentration samples may require the full 30 uL input volume to reach this quantity while higher-concentration samples can be prepped using the halved input volume of 15 uL.</p>
+<p>The <a href="https://support-docs.illumina.com/LP/IlluminaDNAPrep/Content/LP/Illumina_DNA/DNA-Prep/Overview.htm">Illumina DNA Prep kit</a> provides a workflow for preparing a whole-genome sequencing pool consisting of up to 384 unique dual-indexed paired-end libraries/samples. In the Gatins lab, we have all of the components needed for the Illumina DNA Prep workflow, including Illumina DNA/RNA unique dual (UD) index adapters: Plates A and B. This means we can uniquely index up to 192 samples on a single lane.</p>
+<blockquote class="blockquote">
+<p>NOTE: This protocol will detail preparations utilizing 100-500ng of starting DNA so that standardization is not necessary at the end of the protocol. If you will be using this kit to prepare lower-quantity samples, please refer to the protocol online and make changes accordingly.</p>
+</blockquote>
+<p>We have had luck preparing full and half-reactions, so decide which way to prepare depending on your input quantity. All reactions require 100-500ng of DNA to start, so low concentration samples may require the full 30 µl input volume to reach this quantity while higher-concentration samples can be prepped using the halved input volume of 15 µl.</p>
+<blockquote class="blockquote">
+<p>NOTE: It is easiest to prepare libraries in batches of 16 using strip tubes, but prepare fewer samples for your first time or feel free to upgrade to a full plate if you feel very comfortable with the protocol.</p>
+</blockquote>
 <section id="prepare-samples-and-reagents" class="level2">
 <h2 class="anchored" data-anchor-id="prepare-samples-and-reagents">Prepare samples and reagents</h2>
-<ul>
-<li>[] Fill an ice bucket</li>
-<li>[] Decide which samples to prepare (typically in batches of 16, but this can vary depending on your comfort level with the protocol), and remove them from the freezer to thaw on ice or at room temperature</li>
-<li>[] Prepare kit reagents as follows:</li>
+<ul class="task-list">
+<li><label><input type="checkbox">Fill an ice bucket</label></li>
+<li><label><input type="checkbox">Decide which samples to prepare (typically in batches of 16, but this can vary depending on your comfort level with the protocol), and remove them from the freezer to thaw on ice or at room temperature</label></li>
+<li><label><input type="checkbox">Prepare kit reagents as follows:</label></li>
 </ul>
 <table class="caption-top table">
 <colgroup>
@@ -383,37 +394,459 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Tagmentation Buffer 1 (TB1)</td>
-<td>-20C</td>
+<td>-20°C</td>
 <td>Bring to room temperature</td>
 </tr>
 <tr class="even">
 <td>Bead-Linked Transposomes (BLT)</td>
-<td>4C (bead box)</td>
+<td>4°C (bead box)</td>
 <td>Bring to room temperature</td>
 </tr>
 <tr class="odd">
 <td>Enhanced PCR Mix (EPM)</td>
-<td>-20C</td>
+<td>-20°C</td>
 <td>Thaw on ice</td>
 </tr>
 <tr class="even">
 <td>Tagment Stop Buffer (TSB)</td>
-<td>4C</td>
+<td>4°C</td>
 <td>Place at room temperature</td>
 </tr>
 <tr class="odd">
 <td>Tagment Wash Buffer (TWB)</td>
-<td>4C</td>
+<td>4°C</td>
 <td>Place at room temperature</td>
 </tr>
 <tr class="even">
 <td>Resuspension Buffer</td>
-<td>-20C</td>
-<td>Place at room temperature (this isn’t used until the very end of the protocol, but it takes forever to thaw so I take it out early</td>
+<td>-20°C</td>
+<td>Place at room temperature (this isn’t used until the very end of the protocol, but it takes forever to thaw so I take it out early)</td>
 </tr>
 </tbody>
 </table>
-<p>See <a href="https://support-docs.illumina.com/LP/IlluminaDNAPrep/Content/LP/Illumina_DNA/ResourcesReferences_IDP_IDPE_UPIP_PCR.htm">this link</a> for links to resources regarding pooling best-practices depending on plexity and individual index sequences (you’ll need this for submission to a sequencer if you want them to demultiplex your samples).</p>
+</section>
+<section id="step-1-tagment-genomic-dna" class="level2">
+<h2 class="anchored" data-anchor-id="step-1-tagment-genomic-dna"><em>Step 1:</em> Tagment Genomic DNA</h2>
+<ol type="1">
+<li>Standardize DNA to 100-500ng in 15 µl (half rxn) or 30 µl (full rxn) in strip tubes or a plate: | | half rxn | full rxn | |—–|———-|———-| |DNA | 2-15 µl | 2-30 µl | |nuclease-free water| 15-DNA volume (µl) | 30-DNA volume (µl) |</li>
+</ol>
+<blockquote class="blockquote">
+<p>NOTE: I like to keep all of this organized in a google/Excel sheet. Here is an example of what this might look like:</p>
+</blockquote>
+<p><img width="300" alt="" src="pictures/standardizing.png"></p>
+<ol start="2" type="1">
+<li>Vortex BLT for 10 seconds to resuspend. Repeat as necessary. DO NOT centrifuge.</li>
+<li>Vortex TB1 to mix.</li>
+<li>For each sample, combine the following volumes to prepare the <em>Tagmentation Master Mix</em>. Multiply each volume by the number of samples being processed (these numbers already include extra to account for pipetting error):</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>BLT</td>
+<td>5.5 µl</td>
+<td>11 µl</td>
+</tr>
+<tr class="even">
+<td>TB1</td>
+<td>5.5 µl</td>
+<td>11 µl</td>
+</tr>
+</tbody>
+</table>
+<ol start="5" type="1">
+<li>Vortex the Tagmentation Master Mix for 10 seconds to resuspend.</li>
+</ol>
+<p>6a. <strong>IF COMPLETING &gt;16 SAMPLES</strong> 7a. Divide the Tagmentation Master Mix volume equally into an 8-strip tube 8a. Using a multichannel pipette, transfer Tagmentation Master Mix from the 8-tube strip to each well of the plate containing a sample.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tagmentation Master Mix</td>
+<td>10 µl</td>
+<td>20 µl</td>
+</tr>
+</tbody>
+</table>
+<p>9a. Pipette each sample 10 times to mix before switching tips and moving on to the next column. 10a. Discard the 8-tube strip after Master Mix has been dispensed.</p>
+<p>6b. <strong>IF COMPLETING &lt;16 SAMPLES</strong> 7b. Pipette Tagmentation Master Mix one sample at a time, mixing 10 times with the pipette after each addition. Switch tips in between samples.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tagmentation Master Mix</td>
+<td>10 µl</td>
+<td>20 µl</td>
+</tr>
+</tbody>
+</table>
+<blockquote class="blockquote">
+<p>This step can be done on each sample individually if you are working with a small enough number of samples, saving plastics and opportunity for additional pipetting error. If you are preparing &gt;16 samples in one batch, follow option (a).</p>
+</blockquote>
+<ol start="11" type="1">
+<li>Place on the preprogrammed thermal cycler and run the TAG program:</li>
+</ol>
+<p>• Choose the preheat lid option and set to 100°C • Set the reaction volume to 50 µl • 55°C for 15 minutes • Hold at 10°C</p>
+<blockquote class="blockquote">
+<p>NOTE: In the Gatins Lab, go to “My Folders” and the TAG program is saved in the illumina_dna_prep folder</p>
+</blockquote>
+<p><strong>Program Duration: ~15 minutes</strong></p>
+</section>
+<section id="step-2-post-tagmentation-clean-up" class="level2">
+<h2 class="anchored" data-anchor-id="step-2-post-tagmentation-clean-up"><em>Step 2:</em> Post-Tagmentation Clean Up</h2>
+<p><strong>Before starting this step, I like to take the Adapter plate that I will be using out and place it on ice to thaw before we reach <em>Step 3</em>.</strong></p>
+<ol type="1">
+<li>If precipitates are observed in TSB, heat at 37°C for 10 minutes and vortex until precipitates are dissolved.</li>
+<li>Remove samples from thermal cycler following the TAG program and add TSB to each sample:</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>TSB</td>
+<td>5 µl</td>
+<td>10 µl</td>
+</tr>
+</tbody>
+</table>
+<ol start="3" type="1">
+<li>Place on the preprogrammed thermal cycler and run the PTC program:</li>
+</ol>
+<p>• Choose the preheat lid option and set to 100°C • Set the reaction volume to 60 μl • 37°C for 15 minutes • Hold at 10°C</p>
+<blockquote class="blockquote">
+<p>NOTE: In the Gatins Lab, go to “My Folders” and the PTC program is saved in the illumina_dna_prep folder</p>
+</blockquote>
+<p><strong>Program Duration: ~15 minutes</strong></p>
+<ol start="4" type="1">
+<li>Remove from thermal cycler and place tubes or plate on magnetic stand until liquid is clear (~3 minutes).</li>
+</ol>
+<blockquote class="blockquote">
+<p>If preparing samples in a plate, ask Lotterhos lab for their plate magnet. Otherwise, use the two-column magnet in our lab for strip tubes.</p>
+</blockquote>
+<ol start="5" type="1">
+<li>Vortex to mix TWB during this time.</li>
+<li>Using a multichannel pipette, remove and discard supernatant.</li>
+<li>Wash the beads as follows:</li>
+</ol>
+<ol type="a">
+<li>Remove the samples from the magnetic stand.</li>
+<li>Use a deliberately slow pipetting technique to add TWB directly onto the beads:</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>TWB</td>
+<td>50 µl</td>
+<td>100 µl</td>
+</tr>
+</tbody>
+</table>
+<ol start="3" type="a">
+<li>Pipette slowly until beads are fully resuspended.</li>
+<li>Place the samples on the magnetic stand and wait until the liquid is clear (~3 minutes).</li>
+<li>Using a multichannel pipette, remove and discard supernatant.</li>
+</ol>
+<ol start="8" type="1">
+<li>Wash the beads a second time, but <em>DO NOT</em> remove and discard supernatant (step e). Keep on the magnetic stand until step Step 3 of the Procedure: <em>Amplify Tagmented DNA</em>. The TWB remains in the wells to prevent overdrying of the beads.</li>
+</ol>
+</section>
+<section id="step-3-amplify-tagmented-dna" class="level2">
+<h2 class="anchored" data-anchor-id="step-3-amplify-tagmented-dna"><em>Step 3:</em> Amplify Tagmented DNA</h2>
+<ol type="1">
+<li>Invert to mix and centrifuge EPM.</li>
+<li>Spin down adapter plate in big centrifuge (located in the shared molecular space) for 1 minute at 1000 x g to settle liquid away from the seal.</li>
+<li>Prepare PCR Master Mix. Multiply each volume by the number of samples being processed:</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>EPM</td>
+<td>11 µl</td>
+<td>22 µl</td>
+</tr>
+<tr class="even">
+<td>nuclease-free water</td>
+<td>11 µl</td>
+<td>22 µl</td>
+</tr>
+</tbody>
+</table>
+<ol start="4" type="1">
+<li>Vortex, and then centrifuge the PCR Master Mix at 280 × g for 10 seconds.</li>
+<li>With the plate on the magnetic stand, use a 200 μl multichannel pipette to remove and discard supernatant. • Foam that remains on the well walls does not adversely affect the library.</li>
+<li>Remove from magnetic stand.</li>
+<li>Immediately add PCR Master Mix onto the beads in each sample well and pipette until beads are fully resuspended.</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>PCR Master Mix</td>
+<td>20 µl</td>
+<td>40 µl</td>
+</tr>
+</tbody>
+</table>
+<ol start="8" type="1">
+<li>Add the appropriate index adapters to each sample:</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Prepared i7+i5</td>
+<td>5 µl</td>
+<td>10 µl</td>
+</tr>
+</tbody>
+</table>
+<ol start="9" type="1">
+<li>Using a pipette set to 20 μl (half rxn) or 40 μl (full rxn), pipette 10 times to mix. Alternatively, seal the sample plate and use a plate shaker at 1600 rpm for 1 minute.</li>
+<li>Seal the samples and centrifuge at 280 × g for 30 seconds.</li>
+<li>Place on the preprogrammed thermal cycler and run the BLT PCR program: • Choose the preheat lid option and set to 100°C • 68°C for 3 minutes • 98°C for 3 minutes • 5 cycles of:  98°C for 45 seconds  62°C for 30 seconds  68°C for 2 minutes  68°C for 1 minute • Hold at 10°C</li>
+</ol>
+<blockquote class="blockquote">
+<p>NOTE: In the Gatins Lab, go to “My Folders” and the BLT PCR program is saved in the illumina_dna_prep folder</p>
+</blockquote>
+<p><strong>Program Duration: ~30 minutes</strong></p>
+<blockquote class="blockquote">
+<p>If you are moving straight on to library cleanups and quality checks after the PCR finishes, take out the Illumina Purification Beads (IPB), Qubit reagents, and tapestation tape and reagents to all come to room temperature.</p>
+</blockquote>
+<p><em>SAFE STOPPING POINT!</em> Samples can be left in 4°C fridge for up to 30 days at this point.</p>
+</section>
+<section id="step-4-clean-up-libraries" class="level2">
+<h2 class="anchored" data-anchor-id="step-4-clean-up-libraries"><em>Step 4:</em> Clean Up Libraries</h2>
+<blockquote class="blockquote">
+<p><em>Prep for this step: create fresh 80% ethanol.</em> Enough for 400 µl per sample.</p>
+</blockquote>
+<ol type="1">
+<li>Centrifuge at 280 × g for 1 minute to collect contents at the bottom of the well.</li>
+<li>Place the samples on the magnetic stand and wait until the liquid is clear (~5 minutes).</li>
+<li>While you wait, resuspend IPB as follows:</li>
+</ol>
+<ol type="a">
+<li>To mix, invert the bottle manually for 2 minutes, at a rate of 1 inversion per second. While inverting, rotate the bottle 90 degrees every 30 seconds.</li>
+<li>If beads are still adhered to the walls of the container, invert the bottle manually for an additional 1 minute.</li>
+</ol>
+<ol start="4" type="1">
+<li>Transfer supernatant from each well of the PCR plate to the corresponding well of a new plate/set of tubes.</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>supernatant to transfer</td>
+<td>22.5 µl</td>
+<td>45 µl</td>
+</tr>
+</tbody>
+</table>
+<ol start="5" type="1">
+<li>For standard DNA input &gt; 500 bp, perform the following steps.</li>
+</ol>
+<ol type="a">
+<li>Add nuclease-free water to each well-containing supernatant.</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>nuclease-free water</td>
+<td>20 µl</td>
+<td>40 µl</td>
+</tr>
+</tbody>
+</table>
+<ol start="2" type="a">
+<li>Add IPB to each well-containing supernatant and pipette each well 10 times to mix.</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>IPB</td>
+<td>22.5 µl</td>
+<td>45 µl</td>
+</tr>
+</tbody>
+</table>
+<ol start="3" type="a">
+<li>Seal the samples and incubate at room temperature for 5 minutes.</li>
+<li>Place on the magnetic stand and wait until the liquid is clear (~5 minutes).</li>
+<li>During incubation, thoroughly vortex the IPB stock tube, and then add a volume to each well of a <strong>new</strong> plate/set of tubes:</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>IPB (new)</td>
+<td>7.5 µl</td>
+<td>15 µl</td>
+</tr>
+</tbody>
+</table>
+<ol start="6" type="a">
+<li>Transfer supernatant from each well of the first plate into the corresponding well of the new plate/tubes containing undiluted IPB.</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>supernatant</td>
+<td>62.5 µl</td>
+<td>125 µl</td>
+</tr>
+</tbody>
+</table>
+<ol start="7" type="a">
+<li>Pipette each well 10 times to mix. Alternatively, seal the plate and use a plate shaker at 1600 rpm for 1 minute.</li>
+<li>Discard the first plate/set of tubes.</li>
+</ol>
+<ol start="6" type="1">
+<li>Incubate the sealed samples at room temperature for 5 minutes.</li>
+<li>Place on the magnetic stand and wait until the liquid is clear (~5 minutes).</li>
+<li>Without disturbing the beads, remove and discard supernatant.</li>
+<li>Wash beads as follows.</li>
+</ol>
+<ol type="a">
+<li>With the samples on the magnetic stand, add 200 μl fresh 80% EtOH without mixing.</li>
+<li>Incubate for 30 seconds.</li>
+<li>Without disturbing the beads, remove and discard supernatant.</li>
+</ol>
+<ol start="10" type="1">
+<li>Wash beads a second time.</li>
+<li>Use a 20 μl pipette to remove and discard residual EtOH.</li>
+<li>Air-dry on the magnetic stand for 5 minutes.</li>
+<li>Remove from the magnetic stand.</li>
+<li>Vortex RSB to mix and add to the beads:</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>RSB</td>
+<td>16 µl</td>
+<td>32 µl</td>
+</tr>
+</tbody>
+</table>
+<ol start="15" type="1">
+<li>Pipette to resuspend.</li>
+<li>Incubate at room temperature for 2 minutes.</li>
+<li>Place the plate on the magnetic stand and wait until the liquid is clear (~2 minutes).</li>
+<li>Transfer final supernatant to a new PCR plate/set of tubes:</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>half rxn</th>
+<th>full rxn</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>final product</td>
+<td>15 µl</td>
+<td>30 µl</td>
+</tr>
+</tbody>
+</table>
+<blockquote class="blockquote">
+<p>NOTE: This is quite tricky with the half rxn volume. It is tough to not grab the beads, so just go slow and transfer one sample at a time if you need.</p>
+</blockquote>
+<p><em>SAFE STOPPING POINT!</em> If you are stopping, seal the samples and store at ‑25°C to ‑15°C for up to 30 days.</p>
+</section>
+<section id="step-5-quality-check" class="level2">
+<h2 class="anchored" data-anchor-id="step-5-quality-check"><em>Step 5:</em> Quality Check</h2>
+<p>At this point, use the <a href="">Qubit 1x High-Sensitivity kit</a> to check individual library concentrations and a <a href="">D1000 Tapestation analysis</a> to check individual library fragment lengths.</p>
+<p>See <a href="https://support-docs.illumina.com/LP/IlluminaDNAPrep/Content/LP/Illumina_DNA/ResourcesReferences_IDP_IDPE_UPIP_PCR.htm">this link</a> for resources regarding pooling best-practices depending on plexity and individual index sequences (you’ll need this for submission to a sequencer if you want them to demultiplex your samples).</p>
 
 
 </section>
