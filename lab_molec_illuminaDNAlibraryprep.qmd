@@ -165,6 +165,7 @@ We have had luck preparing full and half-reactions, so decide which way to prepa
   • 98°C for 3 minutes
 
   • 5 cycles of:
+
       	98°C for 45 seconds
 
       	62°C for 30 seconds
