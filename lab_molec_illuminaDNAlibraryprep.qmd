@@ -21,7 +21,7 @@ We have had luck preparing full and half-reactions, so decide which way to prepa
 | Enhanced PCR Mix (EPM) | -20°C | Thaw on ice |
 | Tagment Stop Buffer (TSB) | 4°C | Place at room temperature |
 | Tagment Wash Buffer (TWB) | 4°C | Place at room temperature |
-| Resuspension Buffer | -20°C | Place at room temperature (this isn't used until the very end of the protocol, but it takes forever to thaw so I take it out early) |
+| Resuspension Buffer (RSB) | -20°C | Place at room temperature (this isn't used until the very end of the protocol, but it takes forever to thaw so I take it out early) |
 
 ## *Step 1:* Tagment Genomic DNA
 
