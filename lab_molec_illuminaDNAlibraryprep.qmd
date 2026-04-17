@@ -272,7 +272,7 @@ Check libraries for the following:
 1. All samples must have average fragment lengths >300bp for paired-end 150bp sequencing. If the Tapestation analysis shows shorter fragments, redo the prep.
 2. All samples must have a minimum concentration of 2 nM for sequencing. Use 600 bp as the average library size in the following formula to calculate your sample concentrations:
 
-<img width="300" alt="" src="pictures/concentration_formula.png">
+<img width="500" alt="" src="pictures/concentration_formula.png">
 
 Samples with concentrations <2nM must be re-prepped.
 
@@ -297,7 +297,7 @@ Contact your sequencing company for specific instructions. Below are important d
 See [this link](https://support-docs.illumina.com/LP/IlluminaDNAPrep/Content/LP/Illumina_DNA/ResourcesReferences_IDP_IDPE_UPIP_PCR.htm) for resources regarding pooling best-practices depending on plexity and individual index sequences.
 
 **[Plate A](https://github.com/remygatins/GatinsLabProtocols/blob/main/docs/PlateA_index_sequences.csv)**
-<img width="300" alt="" src="pictures/plateA_illumina.png">
+<img width="1000" alt="" src="pictures/plateA_illumina.png">
 
 **[Plate B](https://github.com/remygatins/GatinsLabProtocols/blob/main/docs/PlateB_index_sequences.csv)**
-<img width="300" alt="" src="pictures/plateB_illumina.png">
+<img width="1000" alt="" src="pictures/plateB_illumina.png">
