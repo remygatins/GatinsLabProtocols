@@ -26,6 +26,7 @@ We have had luck preparing full and half-reactions, so decide which way to prepa
 ## *Step 1:* Tagment Genomic DNA
 
 1. Standardize DNA to 100-500ng in 15 µl (half rxn) or 30 µl (full rxn) in strip tubes or a plate:
+
 |     | half rxn | full rxn |
 |-----|----------|----------|
 |DNA | 2-15 µl | 2-30 µl |
