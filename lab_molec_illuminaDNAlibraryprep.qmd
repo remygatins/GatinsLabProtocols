@@ -23,7 +23,7 @@ We have had luck preparing full and half-reactions, so decide which way to prepa
 | Tagment Wash Buffer (TWB) | 4°C | Place at room temperature |
 | Resuspension Buffer (RSB) | -20°C | Place at room temperature (this isn't used until the very end of the protocol, but it takes forever to thaw so I take it out early) |
 
-## *Step 1:* Tagment Genomic DNA
+## Step 1: Tagment Genomic DNA
 
 1. Standardize DNA to 100-500ng in 15 µl (half rxn) or 30 µl (full rxn) in strip tubes or a plate:
 
@@ -48,7 +48,9 @@ We have had luck preparing full and half-reactions, so decide which way to prepa
 5. Vortex the Tagmentation Master Mix for 10 seconds to resuspend.
 
 6a. **IF COMPLETING >16 SAMPLES**
+
   7a. Divide the Tagmentation Master Mix volume equally into an 8-strip tube
+
   8a. Using a multichannel pipette, transfer Tagmentation Master Mix from the 8-tube strip to each well of the plate containing a sample.
 
 |     | half rxn | full rxn |
@@ -56,6 +58,7 @@ We have had luck preparing full and half-reactions, so decide which way to prepa
 | Tagmentation Master Mix | 10 µl | 20 µl |
 
   9a. Pipette each sample 10 times to mix before switching tips and moving on to the next column.
+
   10a. Discard the 8-tube strip after Master Mix has been dispensed.
 
 6b. **IF COMPLETING <16 SAMPLES**
@@ -69,18 +72,21 @@ We have had luck preparing full and half-reactions, so decide which way to prepa
 
 11. Place on the preprogrammed thermal cycler and run the TAG program:
 
-• Choose the preheat lid option and set to 100°C
-• Set the reaction volume to 50 µl
-• 55°C for 15 minutes
-• Hold at 10°C
+  • Choose the preheat lid option and set to 100°C
+
+  • Set the reaction volume to 50 µl
+
+  • 55°C for 15 minutes
+
+  • Hold at 10°C
 
 > NOTE: In the Gatins Lab, go to "My Folders" and the TAG program is saved in the illumina_dna_prep folder
 
-**Program Duration: ~15 minutes**
+*Program Duration: ~15 minutes*
 
-## *Step 2:* Post-Tagmentation Clean Up
+## Step 2: Post-Tagmentation Clean Up
 
-**Before starting this step, I like to take the Adapter plate that I will be using out and place it on ice to thaw before we reach *Step 3*.**
+*Before starting this step, I like to take the Adapter plate that I will be using out and place it on ice to thaw before we reach **Step 3**.*
 
 1. If precipitates are observed in TSB, heat at 37°C for 10 minutes and vortex until precipitates are dissolved.
 2. Remove samples from thermal cycler following the TAG program and add TSB to each sample:
@@ -98,7 +104,7 @@ We have had luck preparing full and half-reactions, so decide which way to prepa
 
 > NOTE: In the Gatins Lab, go to "My Folders" and the PTC program is saved in the illumina_dna_prep folder
 
-**Program Duration: ~15 minutes**
+*Program Duration: ~15 minutes*
 
 4. Remove from thermal cycler and place tubes or plate on magnetic stand until liquid is clear (~3 minutes).
 
@@ -107,19 +113,19 @@ We have had luck preparing full and half-reactions, so decide which way to prepa
 5. Vortex to mix TWB during this time.
 6. Using a multichannel pipette, remove and discard supernatant.
 7. Wash the beads as follows:
-  a. Remove the samples from the magnetic stand.
-  b. Use a deliberately slow pipetting technique to add TWB directly onto the beads:
+  - [ ] Remove the samples from the magnetic stand.
+  - [ ] Use a deliberately slow pipetting technique to add TWB directly onto the beads:
 
 |     | half rxn | full rxn |
 |-----|----------|----------|
 | TWB | 50 µl | 100 µl |
 
-  c. Pipette slowly until beads are fully resuspended.
-  d. Place the samples on the magnetic stand and wait until the liquid is clear (~3 minutes).
-  e. Using a multichannel pipette, remove and discard supernatant.
-8. Wash the beads a second time, but *DO NOT* remove and discard supernatant (step e). Keep on the magnetic stand until step Step 3 of the Procedure: *Amplify Tagmented DNA*. The TWB remains in the wells to prevent overdrying of the beads.
+  - [ ] Pipette slowly until beads are fully resuspended.
+  - [ ] Place the samples on the magnetic stand and wait until the liquid is clear (~3 minutes).
+  - [ ] Using a multichannel pipette, remove and discard supernatant.
+8. Wash the beads a second time, but *DO NOT* remove and discard supernatant (step e). Keep on the magnetic stand until step Step 3 of the Procedure: **Amplify Tagmented DNA**. The TWB remains in the wells to prevent overdrying of the beads.
 
-## *Step 3:* Amplify Tagmented DNA
+## Step 3: Amplify Tagmented DNA
 
 1. Invert to mix and centrifuge EPM.
 2. Spin down adapter plate in big centrifuge (located in the shared molecular space) for 1 minute at 1000 x g to settle liquid away from the seal.
@@ -132,7 +138,9 @@ We have had luck preparing full and half-reactions, so decide which way to prepa
 
 4. Vortex, and then centrifuge the PCR Master Mix at 280 × g for 10 seconds.
 5. With the plate on the magnetic stand, use a 200 μl multichannel pipette to remove and discard supernatant.
+
   •	Foam that remains on the well walls does not adversely affect the library.
+
 6. Remove from magnetic stand.
 7. Immediately add PCR Master Mix onto the beads in each sample well and pipette until beads are fully resuspended.
 
@@ -149,76 +157,88 @@ We have had luck preparing full and half-reactions, so decide which way to prepa
 9. Using a pipette set to 20 μl (half rxn) or 40 μl (full rxn), pipette 10 times to mix. Alternatively, seal the sample plate and use a plate shaker at 1600 rpm for 1 minute.
 10. Seal the samples and centrifuge at 280 × g for 30 seconds.
 11.	Place on the preprogrammed thermal cycler and run the BLT PCR program:
-• Choose the preheat lid option and set to 100°C
-• 68°C for 3 minutes
-• 98°C for 3 minutes
-• 5 cycles of:
-	98°C for 45 seconds
-	62°C for 30 seconds
-	68°C for 2 minutes
-	68°C for 1 minute
-• Hold at 10°C
+
+  • Choose the preheat lid option and set to 100°C
+
+  • 68°C for 3 minutes
+
+  • 98°C for 3 minutes
+
+  • 5 cycles of:
+      	98°C for 45 seconds
+
+      	62°C for 30 seconds
+
+      	68°C for 2 minutes
+
+      	68°C for 1 minute
+
+  • Hold at 10°C
 
 > NOTE: In the Gatins Lab, go to "My Folders" and the BLT PCR program is saved in the illumina_dna_prep folder
 
-**Program Duration: ~30 minutes**
+*Program Duration: ~30 minutes*
 
 > If you are moving straight on to library cleanups and quality checks after the PCR finishes, take out the Illumina Purification Beads (IPB), Qubit reagents, and tapestation tape and reagents to all come to room temperature.
 
-*SAFE STOPPING POINT!* Samples can be left in 4°C fridge for up to 30 days at this point.
+**SAFE STOPPING POINT!** Samples can be left in 4°C fridge for up to 30 days at this point.
 
-## *Step 4:* Clean Up Libraries
+## Step 4: Clean Up Libraries
 
-> *Prep for this step: create fresh 80% ethanol.* Enough for 400 µl per sample.
+> **Prep for this step: create fresh 80% ethanol.** Enough for 400 µl per sample.
 
 1.	Centrifuge at 280 × g for 1 minute to collect contents at the bottom of the well.
 2.	Place the samples on the magnetic stand and wait until the liquid is clear (~5 minutes).
 3.	While you wait, resuspend IPB as follows:
-  a.	To mix, invert the bottle manually for 2 minutes, at a rate of 1 inversion per second. While inverting, rotate the bottle 90 degrees every 30 seconds.
-  b.	If beads are still adhered to the walls of the container, invert the bottle manually for an additional 1 minute.
+
+    a.	To mix, invert the bottle manually for 2 minutes, at a rate of 1 inversion per second. While inverting, rotate the bottle 90 degrees every 30 seconds.
+   
+    b.	If beads are still adhered to the walls of the container, invert the bottle manually for an additional 1 minute.
+
 4.	Transfer supernatant from each well of the PCR plate to the corresponding well of a new plate/set of tubes.
 
 |     | half rxn | full rxn |
 |-----|----------|----------|
 | supernatant to transfer | 22.5 µl | 45 µl |
 
-5.	For standard DNA input > 500 bp, perform the following steps.
-  a.	Add nuclease-free water to each well-containing supernatant.
+5.	For standard DNA input > 500 bp, perform the following steps:
+  - [ ] Add nuclease-free water to each well-containing supernatant.
 
 |     | half rxn | full rxn |
 |-----|----------|----------|
 | nuclease-free water | 20 µl | 40 µl |
 
-  b.	Add IPB to each well-containing supernatant and pipette each well 10 times to mix.
+  - [ ] Add IPB to each well-containing supernatant and pipette each well 10 times to mix.
 
 |     | half rxn | full rxn |
 |-----|----------|----------|
 | IPB | 22.5 µl | 45 µl |
 
-  c.	Seal the samples and incubate at room temperature for 5 minutes.
-  d.	Place on the magnetic stand and wait until the liquid is clear (~5 minutes).
-  e.	During incubation, thoroughly vortex the IPB stock tube, and then add a volume to each well of a **new** plate/set of tubes:
+  - [ ] Seal the samples and incubate at room temperature for 5 minutes.
+  - [ ] Place on the magnetic stand and wait until the liquid is clear (~5 minutes).
+  - [ ] During incubation, thoroughly vortex the IPB stock tube, and then add a volume to each well of a **new** plate/set of tubes:
 
 |     | half rxn | full rxn |
 |-----|----------|----------|
 | IPB (new) | 7.5 µl | 15 µl |
 
-  f.	Transfer supernatant from each well of the first plate into the corresponding well of the new plate/tubes containing undiluted IPB.
+  - [ ] Transfer supernatant from each well of the first plate into the corresponding well of the new plate/tubes containing undiluted IPB.
 
 |     | half rxn | full rxn |
 |-----|----------|----------|
 | supernatant | 62.5 µl | 125 µl |
 
-  g.	Pipette each well 10 times to mix. Alternatively, seal the plate and use a plate shaker at 1600 rpm for 1 minute.
-  h.	Discard the first plate/set of tubes.
+  - [ ] Pipette each well 10 times to mix. Alternatively, seal the plate and use a plate shaker at 1600 rpm for 1 minute.
+  - [ ] Discard the first plate/set of tubes.
 
 6.	Incubate the sealed samples at room temperature for 5 minutes.
 7.	Place on the magnetic stand and wait until the liquid is clear (~5 minutes).
 8.	Without disturbing the beads, remove and discard supernatant.
-9.	Wash beads as follows.
-  a.	With the samples on the magnetic stand, add 200 μl fresh 80% EtOH without mixing.
-  b.	Incubate for 30 seconds.
-  c.	Without disturbing the beads, remove and discard supernatant.
+9.	Wash beads as follows:
+
+  - [ ] With the samples on the magnetic stand, add 200 μl fresh 80% EtOH without mixing.
+  - [ ] Incubate for 30 seconds.
+  - [ ] Without disturbing the beads, remove and discard supernatant.
 10.	Wash beads a second time.
 11.	Use a 20 μl pipette to remove and discard residual EtOH.
 12.	Air-dry on the magnetic stand for 5 minutes.
@@ -240,12 +260,143 @@ We have had luck preparing full and half-reactions, so decide which way to prepa
 
 > NOTE: This is quite tricky with the half rxn volume. It is tough to not grab the beads, so just go slow and transfer one sample at a time if you need.
 
-*SAFE STOPPING POINT!* If you are stopping, seal the samples and store at ‑25°C to ‑15°C for up to 30 days.
+**SAFE STOPPING POINT!** If you are stopping, seal the samples and store at ‑25°C to ‑15°C for up to 30 days.
 
-## *Step 5:* Quality Check
+## Step 5: Quality Check
 
-At this point, use the [Qubit 1x High-Sensitivity kit]() to check individual library concentrations and a [D1000 Tapestation analysis]() to check individual library fragment lengths. 
+At this point, use the [Qubit 1x High-Sensitivity kit](https://github.com/remygatins/GatinsLabProtocols/blob/main/lab_equip_qubit.qmd) to check individual library concentrations and a [D1000 Tapestation analysis](https://github.com/remygatins/GatinsLabProtocols/blob/main/lab_equip_tapestation.qmd) to check individual library fragment lengths. 
 
-See [this link](https://support-docs.illumina.com/LP/IlluminaDNAPrep/Content/LP/Illumina_DNA/ResourcesReferences_IDP_IDPE_UPIP_PCR.htm) for resources regarding pooling best-practices depending on plexity and individual index sequences (you'll need this for submission to a sequencer if you want them to demultiplex your samples).
+Check libraries for the following:
+
+1. All samples must have average fragment lengths >300bp for paired-end 150bp sequencing. If the Tapestation analysis shows shorter fragments, redo the prep.
+2. All samples must have a minimum concentration of 2 nM for sequencing. Use 600 bp as the average library size in the following formula to calculate your sample concentrations:
+
+<img width="300" alt="" src="pictures/concentration_formula.png">
+
+Samples with concentrations <2nM must be re-prepped.
+
+## Step 6: Pool Libraries
+
+When the DNA input is 100–500 ng, quantifying and normalizing individual libraries generated in the same experiment is not necessary. However, the final yield of libraries generated in separate experiments can vary slightly.
+
+1.	Combine 5 μl each library (up to 384 libraries, or 192 in our lab) in a 1.5 ml microcentrifuge tube.
+2.	Vortex to mix, and then centrifuge.
+3.	Quantify the library pool using a dsDNA fluorescent dye method, such as Qubit or PicoGreen.
+
+If you have QC'd each individual library, use this information to pool:
+
+1. Calculate the average concentration from all of your samples, and multiply this number by 5 to find the total quantity (ng) of DNA you will add to the pool for each sample. Use this value to add less volume for higher-concentration samples and more volume for lower-concentration samples. 
+2.	Vortex to mix, and then centrifuge.
+3.	Quantify the library pool using a dsDNA fluorescent dye method, such as Qubit or PicoGreen.
+
+## Step 7: Submission for Sequencing!
+
+Contact your sequencing company for specific instructions. Below are important details regarding the specific dual-index adapters used for our protocol, as you will need these for submission to a sequencer if you want them to demultiplex your samples.
+
+See [this link](https://support-docs.illumina.com/LP/IlluminaDNAPrep/Content/LP/Illumina_DNA/ResourcesReferences_IDP_IDPE_UPIP_PCR.htm) for resources regarding pooling best-practices depending on plexity and individual index sequences.
+
+**Plate A**
+<img width="300" alt="" src="pictures/plateA_illumina.png">
+
+| Index Name	| i7 Bases in Adapter	| i7 Bases for Sample Sheet	| i5 Bases in Adapter	| i5 Bases for Sample Sheet in Forward Orientation	| i5 Bases for Sample Sheet in Reverse Complement Orientation |
+|--------|---------|----------|-----------|-------------|----------|
+UDP0001	CGCTCAGTTC	GAACTGAGCG	TCGTGGAGCG	TCGTGGAGCG	CGCTCCACGA
+UDP0002	TATCTGACCT	AGGTCAGATA	CTACAAGATA	CTACAAGATA	TATCTTGTAG
+UDP0003V3	TCGGATGTCG	CGACATCCGA	TACGTTCATT	TACGTTCATT	AATGAACGTA
+UDP0004	CTTATGGAAT	ATTCCATAAG	TGCCTGGTGG	TGCCTGGTGG	CCACCAGGCA
+UDP0005V3	TCCTATTGTG	CACAATAGGA	TCCATCCGAG	TCCATCCGAG	CTCGGATGGA
+UDP0006	GCGCGATGTT	AACATCGCGC	GTCCACTTGT	GTCCACTTGT	ACAAGTGGAC
+UDP0007	AGAGCACTAG	CTAGTGCTCT	TGGAACAGTA	TGGAACAGTA	TACTGTTCCA
+UDP0008	TGCCTTGATC	GATCAAGGCA	CCTTGTTAAT	CCTTGTTAAT	ATTAACAAGG
+UDP0009	CTACTCAGTC	GACTGAGTAG	GTTGATAGTG	GTTGATAGTG	CACTATCAAC
+UDP0010	TCGTCTGACT	AGTCAGACGA	ACCAGCGACA	ACCAGCGACA	TGTCGCTGGT
+UDP0011	GAACATACGG	CCGTATGTTC	CATACACTGT	CATACACTGT	ACAGTGTATG
+UDP0012	CCTATGACTC	GAGTCATAGG	GTGTGGCGCT	GTGTGGCGCT	AGCGCCACAC
+UDP0013	TAATGGCAAG	CTTGCCATTA	ATCACGAAGG	ATCACGAAGG	CCTTCGTGAT
+UDP0014	GTGCCGCTTC	GAAGCGGCAC	CGGCTCTACT	CGGCTCTACT	AGTAGAGCCG
+UDP0015	CGGCAATGGA	TCCATTGCCG	GAATGCACGA	GAATGCACGA	TCGTGCATTC
+UDP0016	GCCGTAACCG	CGGTTACGGC	AAGACTATAG	AAGACTATAG	CTATAGTCTT
+UDP0017	AACCATTCTC	GAGAATGGTT	TCGGCAGCAA	TCGGCAGCAA	TTGCTGCCGA
+UDP0018	GGTTGCCTCT	AGAGGCAACC	CTAATGATGG	CTAATGATGG	CCATCATTAG
+UDP0019	CTAATGATGG	CCATCATTAG	GGTTGCCTCT	GGTTGCCTCT	AGAGGCAACC
+UDP0020	TCGGCCTATC	GATAGGCCGA	CGCACATGGC	CGCACATGGC	GCCATGTGCG
+UDP0021	AGTCAACCAT	ATGGTTGACT	GGCCTGTCCT	GGCCTGTCCT	AGGACAGGCC
+UDP0022	GAGCGCAATA	TATTGCGCTC	CTGTGTTAGG	CTGTGTTAGG	CCTAACACAG
+UDP0023	AACAAGGCGT	ACGCCTTGTT	TAAGGAACGT	TAAGGAACGT	ACGTTCCTTA
+UDP0024	GTATGTAGAA	TTCTACATAC	CTAACTGTAA	CTAACTGTAA	TTACAGTTAG
+UDP0025	TTCTATGGTT	AACCATAGAA	GGCGAGATGG	GGCGAGATGG	CCATCTCGCC
+UDP0026	CCTCGCAACC	GGTTGCGAGG	AATAGAGCAA	AATAGAGCAA	TTGCTCTATT
+UDP0027	TGGATGCTTA	TAAGCATCCA	TCAATCCATT	TCAATCCATT	AATGGATTGA
+UDP0028	ATGTCGTGGT	ACCACGACAT	TCGTATGCGG	TCGTATGCGG	CCGCATACGA
+UDP0029	AGAGTGCGGC	GCCGCACTCT	TCCGACCTCG	TCCGACCTCG	CGAGGTCGGA
+UDP0030	TGCCTGGTGG	CCACCAGGCA	CTTATGGAAT	CTTATGGAAT	ATTCCATAAG
+UDP0031	TGCGTGTCAC	GTGACACGCA	GCTTACGGAC	GCTTACGGAC	GTCCGTAAGC
+UDP0032	CATACACTGT	ACAGTGTATG	GAACATACGG	GAACATACGG	CCGTATGTTC
+UDP0033	CGTATAATCA	TGATTATACG	GTCGATTACA	GTCGATTACA	TGTAATCGAC
+UDP0034	TACGCGGCTG	CAGCCGCGTA	ACTAGCCGTG	ACTAGCCGTG	CACGGCTAGT
+UDP0035	GCGAGTTACC	GGTAACTCGC	AAGTTGGTGA	AAGTTGGTGA	TCACCAACTT
+UDP0036	TACGGCCGGT	ACCGGCCGTA	TGGCAATATT	TGGCAATATT	AATATTGCCA
+UDP0037	GTCGATTACA	TGTAATCGAC	GATCACCGCG	GATCACCGCG	CGCGGTGATC
+UDP0038	CTGTCTGCAC	GTGCAGACAG	TACCATCCGT	TACCATCCGT	ACGGATGGTA
+UDP0039	CAGCCGATTG	CAATCGGCTG	GCTGTAGGAA	GCTGTAGGAA	TTCCTACAGC
+UDP0040	TGACTACATA	TATGTAGTCA	CGCACTAATG	CGCACTAATG	CATTAGTGCG
+UDP0041	ATTGCCGAGT	ACTCGGCAAT	GACAACTGAA	GACAACTGAA	TTCAGTTGTC
+UDP0042	GCCATTAGAC	GTCTAATGGC	AGTGGTCAGG	AGTGGTCAGG	CCTGACCACT
+UDP0043	GGCGAGATGG	CCATCTCGCC	TTCTATGGTT	TTCTATGGTT	AACCATAGAA
+UDP0044	TGGCTCGCAG	CTGCGAGCCA	AATCCGGCCA	AATCCGGCCA	TGGCCGGATT
+UDP0045	TAGAATAACG	CGTTATTCTA	CCATAAGGTT	CCATAAGGTT	AACCTTATGG
+UDP0046V3	TCCATGTTGC	GCAACATGGA	CTTGTCTTAA	CTTGTCTTAA	TTAAGACAAG
+UDP0047	TATCCAGGAC	GTCCTGGATA	CGGTGGCGAA	CGGTGGCGAA	TTCGCCACCG
+UDP0048	AGTGCCACTG	CAGTGGCACT	TAACAATAGG	TAACAATAGG	CCTATTGTTA
+UDP0049	GTGCAACACT	AGTGTTGCAC	CTGGTACACG	CTGGTACACG	CGTGTACCAG
+UDP0050	ACATGGTGTC	GACACCATGT	TCAACGTGTA	TCAACGTGTA	TACACGTTGA
+UDP0051	GACAGACAGG	CCTGTCTGTC	ACTGTTGTGA	ACTGTTGTGA	TCACAACAGT
+UDP0052	TCTTACATCA	TGATGTAAGA	GTGCGTCCTT	GTGCGTCCTT	AAGGACGCAC
+UDP0053V3	TACCGAACTA	TAGTTCGGTA	CCATGTGTAG	CCATGTGTAG	CTACACATGG
+UDP0054V3	GTAGTAATAG	CTATTACTAC	GAGTCTCTCC	GAGTCTCTCC	GGAGAGACTC
+UDP0055V3	GGTTATGCTA	TAGCATAACC	GCTATGCGCA	GCTATGCGCA	TGCGCATAGC
+UDP0056V3	ACAATAGAGT	ACTCTATTGT	ATCGCATATG	ATCGCATATG	CATATGCGAT
+UDP0057	TTAGGATAGA	TCTATCCTAA	CGTCGACTGG	CGTCGACTGG	CCAGTCGACG
+UDP0058	CCGAAGCGAG	CTCGCTTCGG	TACTAGTCAA	TACTAGTCAA	TTGACTAGTA
+UDP0059	GGACCAACAG	CTGTTGGTCC	ATAGACCGTT	ATAGACCGTT	AACGGTCTAT
+UDP0060	TTCCAGGTAA	TTACCTGGAA	ACAGTTCCAG	ACAGTTCCAG	CTGGAACTGT
+UDP0061	TGATTAGCCA	TGGCTAATCA	AGGCATGTAG	AGGCATGTAG	CTACATGCCT
+UDP0062	TAACAGTGTT	AACACTGTTA	GCAAGTCTCA	GCAAGTCTCA	TGAGACTTGC
+UDP0063	ACCGCGCAAT	ATTGCGCGGT	TTGGCTCCGC	TTGGCTCCGC	GCGGAGCCAA
+UDP0064	GTTCGCGCCA	TGGCGCGAAC	AACTGATACT	AACTGATACT	AGTATCAGTT
+UDP0065	AGACACATTA	TAATGTGTCT	GTAAGGCATA	GTAAGGCATA	TATGCCTTAC
+UDP0066	GCGTTGGTAT	ATACCAACGC	AATTGCTGCG	AATTGCTGCG	CGCAGCAATT
+UDP0067	AGCACATCCT	AGGATGTGCT	TTACAATTCC	TTACAATTCC	GGAATTGTAA
+UDP0068	TTGTTCCGTG	CACGGAACAA	AACCTAGCAC	AACCTAGCAC	GTGCTAGGTT
+UDP0069V3	AAGGCCTTGG	CCAAGGCCTT	TCGAAGTACT	TCGAAGTACT	AGTACTTCGA
+UDP0070V3	TGTGGAGTAA	TTACTCCACA	GACACCGATG	GACACCGATG	CATCGGTGTC
+UDP0071V3	CACTTCTACT	AGTAGAAGTG	CTAGCGTCGA	CTAGCGTCGA	TCGACGCTAG
+UDP0072V3	TGGACTCGTA	TACGAGTCCA	TAGCGAAGCA	TAGCGAAGCA	TGCTTCGCTA
+UDP0073V3	TATCATGAGA	TCTCATGATA	AACACGTGGA	AACACGTGGA	TCCACGTGTT
+UDP0074V3	CTTGGCCTCG	CGAGGCCAAG	GTGTTACCGG	GTGTTACCGG	CCGGTAACAC
+UDP0075V3	GTCTCGTGAA	TTCACGAGAC	AGATTGTTAC	AGATTGTTAC	GTAACAATCT
+UDP0076V3	CCATCCACGC	GCGTGGATGG	TTGACCAATG	TTGACCAATG	CATTGGTCAA
+UDP0077	GGATACCAGA	TCTGGTATCC	CGTTGCTTAC	CGTTGCTTAC	GTAAGCAACG
+UDP0078	CGCACTAATG	CATTAGTGCG	TGACTACATA	TGACTACATA	TATGTAGTCA
+UDP0079	TCCTGACCGT	ACGGTCAGGA	CGGCCTCGTT	CGGCCTCGTT	AACGAGGCCG
+UDP0080	CTGGCTTGCC	GGCAAGCCAG	CAAGCATCCG	CAAGCATCCG	CGGATGCTTG
+UDP0081	ACCAGCGACA	TGTCGCTGGT	TCGTCTGACT	TCGTCTGACT	AGTCAGACGA
+UDP0082	TTGTAACGGT	ACCGTTACAA	CTCATAGCGA	CTCATAGCGA	TCGCTATGAG
+UDP0083	GTAAGGCATA	TATGCCTTAC	AGACACATTA	AGACACATTA	TAATGTGTCT
+UDP0084V3	TAGATCCAGT	ACTGGATCTA	TCGCCGCTAG	TCGCCGCTAG	CTAGCGGCGA
+UDP0085	TTAGGTACCA	TGGTACCTAA	CATGAGTACT	CATGAGTACT	AGTACTCATG
+UDP0086	GGAATTCCAA	TTGGAATTCC	ACGTCAATAC	ACGTCAATAC	GTATTGACGT
+UDP0087	CATGTAGAGG	CCTCTACATG	GATACCTCCT	GATACCTCCT	AGGAGGTATC
+UDP0088	TACACGCTCC	GGAGCGTGTA	ATCCGTAAGT	ATCCGTAAGT	ACTTACGGAT
+UDP0089	GCTTACGGAC	GTCCGTAAGC	CGTGTATCTT	CGTGTATCTT	AAGATACACG
+UDP0090	CGCTTGAAGT	ACTTCAAGCG	GAACCATGAA	GAACCATGAA	TTCATGGTTC
+UDP0091	CGCCTTCTGA	TCAGAAGGCG	GGCCATCATA	GGCCATCATA	TATGATGGCC
+UDP0092	ATACCAACGC	GCGTTGGTAT	ACATACTTCC	ACATACTTCC	GGAAGTATGT
+UDP0093	CTGGATATGT	ACATATCCAG	TATGTGCAAT	TATGTGCAAT	ATTGCACATA
+UDP0094	CAATCTATGA	TCATAGATTG	GATTAAGGTG	GATTAAGGTG	CACCTTAATC
+UDP0095	GGTGGAATAC	GTATTCCACC	ATGTAGACAA	ATGTAGACAA	TTGTCTACAT
+UDP0096	TGGACGGAGG	CCTCCGTCCA	CACATCGGTG	CACATCGGTG	CACCGATGTG
 
 
+**Plate B**
+<img width="300" alt="" src="pictures/plateB_illumina.png">
