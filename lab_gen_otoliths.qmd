@@ -1,0 +1,7 @@
+# Otolith processing protocol
+
+[Edit this page](https://github.com/remygatins/GatinsLab/edit/main/lab_gen_otoliths.qmd)
+
+## Aging
+
+## PLD
