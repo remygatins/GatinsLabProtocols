@@ -319,7 +319,8 @@ yourusername@GatinsLab:~$</code></pre>
 </section>
 <section id="step-3-generate-an-ssh-key-on-the-hpc" class="level3">
 <h3 class="anchored" data-anchor-id="step-3-generate-an-ssh-key-on-the-hpc">Step 3: Generate an SSH Key on the HPC</h3>
-<p>SSH into Explorer and run:</p>
+<p>To transfer large amounts of data we need to configure the transfer so it is not asking for your password each time in order for you to be able to run the transfer in the background without having to leave your computer during this process.</p>
+<p>So, log into Explorer and run:</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ssh-keygen</span> <span class="at">-t</span> ed25519 <span class="at">-N</span> <span class="st">""</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>The <code>-N ""</code> sets an empty passphrase, which is required for unattended transfers. Press Enter through all prompts.</p>
 </section>
@@ -339,7 +340,7 @@ yourusername@GatinsLab:~$</code></pre>
 <h2 class="anchored" data-anchor-id="transferring-files">Transferring Files</h2>
 <section id="connect-to-the-transfer-node" class="level3">
 <h3 class="anchored" data-anchor-id="connect-to-the-transfer-node">Connect to the Transfer Node</h3>
-<p>Always use the dedicated transfer node — <strong>never run transfers on the login/head node</strong> (<code>explorer-01</code> or <code>explorer-02</code>).</p>
+<p>Always use the dedicated transfer node — <strong>never run transfers on the login/head node</strong> (<code>explorer-01</code> or <code>explorer-02</code>). In a new windor connect to the transfer node:</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ssh</span> yourusername@xfer.discovery.neu.edu</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="basic-rsync-command" class="level3">
@@ -348,8 +349,8 @@ yourusername@GatinsLab:~$</code></pre>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">rsync</span> <span class="at">-avz</span> <span class="at">--progress</span> SOURCE yourusername@129.10.11.41:DESTINATION</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>For example, to transfer a folder called <code>my_results</code>:</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb9"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="fu">rsync</span> <span class="at">-avz</span> <span class="at">--progress</span> <span class="dt">\</span></span>
-<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>    /projects/lotterhos/your_project/my_results <span class="dt">\</span></span>
-<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>    yourusername@129.10.11.41:/volume1/Projects/your_folder/</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>    /projects/gatins/your_project/my_results <span class="dt">\</span></span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>    remygatins@129.10.11.41:/volume1/Projects/your_folder/</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="understanding-the-flags" class="level3">
 <h3 class="anchored" data-anchor-id="understanding-the-flags">Understanding the Flags</h3>
