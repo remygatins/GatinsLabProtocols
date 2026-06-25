@@ -125,9 +125,9 @@ website:
       contents:
         - coding.qmd
         - section: "Synology"
-              contents:
-                - coding_synology.qmd
-                - coding_synology_data_transfer.qmd
+          contents:
+            - coding_synology.qmd
+            - coding_synology_data_transfer.qmd
         - section: "Maps"
           contents:
             - coding_map_stamen_ggmap.qmd
