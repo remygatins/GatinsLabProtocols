@@ -124,7 +124,10 @@ website:
       collapse-level: 1
       contents:
         - coding.qmd
-        - coding_synology.qmd
+        - section: "Synology"
+              contents:
+                - coding_synology.qmd
+                - coding_synology_data_transfer.qmd
         - section: "Maps"
           contents:
             - coding_map_stamen_ggmap.qmd
