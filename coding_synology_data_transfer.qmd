@@ -1,0 +1,225 @@
+# Transferring Files from Explorer HPC to Lab Synology
+
+## Overview
+
+This tutorial explains how to transfer files directly from Northeastern's Explorer HPC to the lab Synology NAS. The key principle is to initiate the transfer **from the HPC**, so data travels directly HPC → Synology without going through your laptop — making transfers much faster.
+
+> ⚠️ **Do not use FileZilla from your laptop for large transfers.** This routes data through your home internet connection twice (HPC → laptop → Synology), which is extremely slow.
+
+---
+
+## One-Time Setup
+
+These steps only need to be done **once** per user.
+
+### Step 1: Request a Synology Account
+
+Contact r.gatins@northeastern.edu to get a Synology user account set up before proceeding.
+
+### Step 2: Connect to the Synology for the First Time
+
+Before setting up passwordless login, confirm you can connect to the Synology via SSH using your username and password:
+
+```bash
+ssh yourusername@129.10.11.41
+```
+
+You will see a warning the first time asking if you trust the host — type `yes` and press Enter. Then enter your Synology password when prompted.
+
+If you log in successfully you will see something like:
+
+```
+Using terminal commands to modify system configs...
+Warning: Data should only be stored in shared folders...
+yourusername@GatinsLab:~$
+```
+
+> ⚠️ If you cannot connect, contact r.gatins@northeastern.edu before proceeding.
+
+### Navigating Within the Synology
+
+Once logged in, the lab shared folder is located at:
+
+```bash
+cd /volume1/Projects/
+ls
+```
+
+> 📁 **Always transfer your files into the appropriate subfolder under `/volume1/Projects/`.** Do not store data elsewhere on the Synology as it may be deleted during system updates or restarts.
+
+Type `exit` to log out and proceed to the next step.
+
+---
+
+### Step 3: Generate an SSH Key on the HPC
+
+SSH into Explorer and run:
+
+```bash
+ssh-keygen -t ed25519 -N ""
+```
+
+The `-N ""` sets an empty passphrase, which is required for unattended transfers. Press Enter through all prompts.
+
+### Step 4: Copy Your Key to the Synology
+
+```bash
+ssh-copy-id yourusername@129.10.11.41
+```
+
+Enter your Synology password when prompted — this is the **last time** you will need it.
+
+### Step 5: Test Passwordless Login
+
+```bash
+ssh yourusername@129.10.11.41
+```
+
+If it logs in without asking for a password, you are all set!
+
+---
+
+## Transferring Files
+
+### Connect to the Transfer Node
+
+Always use the dedicated transfer node — **never run transfers on the login/head node** (`explorer-01` or `explorer-02`).
+
+```bash
+ssh yourusername@xfer.discovery.neu.edu
+```
+
+### Basic rsync Command
+
+The general syntax is:
+
+```bash
+rsync -avz --progress SOURCE yourusername@129.10.11.41:DESTINATION
+```
+
+For example, to transfer a folder called `my_results`:
+
+```bash
+rsync -avz --progress \
+    /projects/lotterhos/your_project/my_results \
+    yourusername@129.10.11.41:/volume1/Projects/your_folder/
+```
+
+### Understanding the Flags
+
+| Flag | Meaning |
+|------|---------|
+| `-a` | Archive mode — preserves permissions, timestamps, symlinks, and transfers recursively |
+| `-v` | Verbose — shows filenames as they transfer |
+| `-z` | Compress data during transfer for faster speeds |
+| `--progress` | Shows transfer speed and percentage per file |
+| `--partial` | Keeps partially transferred files so transfers can resume if interrupted |
+| `--checksum` | Verifies file integrity after transfer |
+
+### Trailing Slash Matters
+
+```bash
+# Transfers the CONTENTS of my_results into the destination
+rsync -avz my_results/ yourusername@129.10.11.41:/volume1/Projects/your_folder/
+
+# Transfers the FOLDER ITSELF into the destination
+rsync -avz my_results yourusername@129.10.11.41:/volume1/Projects/your_folder/
+```
+
+---
+
+## Running Large Transfers in the Background
+
+For large transfers (>10GB), run rsync with `nohup` so it keeps going after you log off:
+
+```bash
+nohup rsync -avz --progress --stats --partial --checksum \
+    --log-file=/home/yourusername/rsync_detailed.log \
+    /projects/lotterhos/your_project/my_results \
+    yourusername@129.10.11.41:/volume1/Projects/your_folder/ \
+    > /home/yourusername/rsync.out 2>&1 &
+```
+
+> ⚠️ Always use **full paths** (e.g. `/home/yourusername/`) instead of `~/` in nohup commands — the `~` shortcut does not expand correctly in the background.
+
+You can now safely log off. The transfer will continue running.
+
+---
+
+## Monitoring Your Transfer
+
+**Check if the transfer is still running:**
+
+```bash
+pgrep -u yourusername rsync
+```
+
+Returns a number = still running. Returns nothing = finished.
+
+**Watch the log in real time:**
+
+```bash
+tail -f /home/yourusername/rsync_detailed.log
+```
+
+Press `Ctrl+C` to stop watching — this does **not** stop the transfer.
+
+**Check the summary when finished:**
+
+```bash
+tail /home/yourusername/rsync.out
+```
+
+A successful transfer will show something like:
+
+```
+Total bytes sent: 92,292,919,449
+sent X bytes  received X bytes  21,054,631.07 bytes/sec
+total size is 102,911,653,978  speedup is 1.12
+```
+
+**Verify files arrived on the Synology:**
+
+```bash
+ssh yourusername@129.10.11.41 "ls /volume1/Projects/your_folder/"
+```
+
+---
+
+## Quick Reference
+
+```bash
+# 1. Connect to transfer node
+ssh yourusername@xfer.discovery.neu.edu
+
+# 2. Run transfer in background
+nohup rsync -avz --progress --stats --partial --checksum \
+    --log-file=/home/yourusername/rsync_detailed.log \
+    /projects/lotterhos/YOUR_PROJECT/YOUR_FOLDER \
+    yourusername@129.10.11.41:/volume1/Projects/YOUR_DESTINATION/ \
+    > /home/yourusername/rsync.out 2>&1 &
+
+# 3. Check progress
+tail -f /home/yourusername/rsync_detailed.log
+
+# 4. Verify completion
+tail /home/yourusername/rsync.out
+```
+
+---
+
+## Troubleshooting
+
+| Problem | Likely Cause | Fix |
+|---------|-------------|-----|
+| `Connection timed out` | Running from compute node | Use `xfer.discovery.neu.edu` instead |
+| `Permission denied` | SSH key not set up | Redo Steps 2 and 3 of setup |
+| `No such file or directory` | Wrong path | Double-check source path with `ls` |
+| Log file not created | Used `~/` in nohup | Use full path `/home/yourusername/` |
+| Transfer asks for password | Key not copied to Synology | Run `ssh-copy-id` again |
+
+---
+
+## Getting Help
+
+Contact r.gatins@northeastern.edu for Synology account setup or transfer issues.
