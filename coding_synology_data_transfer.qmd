@@ -53,7 +53,9 @@ Type `exit` to log out and proceed to the next step.
 
 ### Step 3: Generate an SSH Key on the HPC
 
-SSH into Explorer and run:
+To transfer large amounts of data we need to configure the transfer so it is not asking for your password each time in order for you to be able to run the transfer in the background without having to leave your computer during this process. 
+
+So, log into Explorer and run:
 
 ```bash
 ssh-keygen -t ed25519 -N ""
@@ -83,7 +85,7 @@ If it logs in without asking for a password, you are all set!
 
 ### Connect to the Transfer Node
 
-Always use the dedicated transfer node — **never run transfers on the login/head node** (`explorer-01` or `explorer-02`).
+Always use the dedicated transfer node — **never run transfers on the login/head node** (`explorer-01` or `explorer-02`). In a new windor connect to the transfer node:
 
 ```bash
 ssh yourusername@xfer.discovery.neu.edu
@@ -101,8 +103,8 @@ For example, to transfer a folder called `my_results`:
 
 ```bash
 rsync -avz --progress \
-    /projects/lotterhos/your_project/my_results \
-    yourusername@129.10.11.41:/volume1/Projects/your_folder/
+    /projects/gatins/your_project/my_results \
+    remygatins@129.10.11.41:/volume1/Projects/your_folder/
 ```
 
 ### Understanding the Flags
