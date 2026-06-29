@@ -57,6 +57,7 @@ website:
             - lab_gen_pipetting.qmd
             - lab_gen_water.qmd
             - lab_gen_stableisotope.qmd
+            - lab_gen_otoliths.qmd
         - section: "Equipment"
           contents:
             - lab_equip_80_freezer.qmd
