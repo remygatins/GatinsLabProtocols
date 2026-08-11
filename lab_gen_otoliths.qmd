@@ -47,9 +47,10 @@
 #Protocol Beginning
 
 Ensure at least one otolith in the pair has an intact reading axis. When starting out, it is best to learn on  an otolith whose pair also has the reading axis intact, as otoliths can break during cutting.   
-- once you have identified the sulcus, the reading axis is perpendicular. Think of this as the sliver that will be removed from the center of the otolith. In this example, the reading axis follows the pink line
 
-	- The reading axis will not always run  through the very top and bottom of the otolith, just as the sulcus will not always run through the leftmost and rightmost points of the otolith
+- Once you have identified the sulcus, the reading axis is perpendicular. Think of this as the sliver that will be removed from the center of the otolith. In this example, the reading axis follows the pink line
+
+- The reading axis will not always run  through the very top and bottom of the otolith, just as the sulcus will not always run through the leftmost and rightmost points of the otolith
 ADD PICTURE
 
 1. Weigh both otoliths  
@@ -87,28 +88,28 @@ ADD PICTURE
 The saw should have a mark on it to line up the mounted otolith for cutting. If not, you can use a squared slide with tape to mark where the blades will cut.
 ADD PICTURE
 
-Set up the saw for cutting. The correct order is flange, blade, spacer, blade, flange. Tighten.
-Use the larger flanges. The default spacer for holacanthus otoliths is the nut stored with the saw, but feel free to experiment with different spacer widths as needed.
+1. Set up the saw for cutting. The correct order is flange, blade, spacer, blade, flange. Tighten.
+	a. Use the larger flanges. The default spacer for holacanthus otoliths is the nut stored with the saw, but feel free to experiment with different spacer widths as needed.
 
-Fill the basin with water and a few drops of soap. This does not need to be replaced more than once a week.
+	b. Fill the basin with water and a few drops of soap. This does not need to be replaced more than once a week.
 
-Remove the mounting block from the saw and place it upside down against the tape. Insert the slide with the otolith facing up and align the pencil mark on the sulcus with the mark on the tape. Everything should be oriented so that when the block is on the saw, the otolith is first to hit the blade.
+2. Remove the mounting block from the saw and place it upside down against the tape. Insert the slide with the otolith facing up and align the pencil mark on the sulcus with the mark on the tape. Everything should be oriented so that when the block is on the saw, the otolith is first to hit the blade.
 
-Gently tighten the mounting block. Make sure the slide doesn’t wiggle in the mount, but do not over tighten as this risks cracking the glass.
+3. Gently tighten the mounting block. Make sure the slide doesn’t wiggle in the mount, but do not over tighten as this risks cracking the glass.
 
-Stack the weights on the back of the saw. We use two medium weights (~100 g) but feel free to experiment.
+4. Stack the weights on the back of the saw. We use two medium weights (~100 g) but feel free to experiment.
 
-Turn on the saw. Set to a low speed (between 3 and 5).
+5. Turn on the saw. Set to a low speed (between 3 and 5).
 
-Slowly lower the cutting arm to the blade. Do not press down. Listen closely to the sound as there is a distinct noise when the saw cuts glass.
-If the otolith piece falls out during cutting, immediately turn off the saw. Look between the blades to try and see the otolith and scoop it out. You can then stick a curved piece of plastic in between the blades and run the saw at speed 1 for a whole revolution. If the otolith piece does not come out, then it is time to take everything apart and start searching the water bath.
+6. Slowly lower the cutting arm to the blade. Do not press down. Listen closely to the sound as there is a distinct noise when the saw cuts glass.
+	- If the otolith piece falls out during cutting, immediately turn off the saw. Look between the blades to try and see the otolith and scoop it out. You can then stick a curved piece of plastic in between the blades and run the saw at speed 1 for a whole revolution. If the otolith piece does not come out, then it is time to take everything apart and start searching the water bath.
 
-Sometimes the otolith breaks during cutting and there are no salvageable parts. If this happens, make sure to scour the well and remove any pieces before cutting any more otoliths (so you don’t mix up otolith parts)
+	- Sometimes the otolith breaks during cutting and there are no salvageable parts. If this happens, make sure to scour the well and remove any pieces before cutting any more otoliths (so you don’t mix up otolith parts)
 
-Once the otolith is cut, gently reheat the crystal bond to remove the slice. Do not attempt to pry it out as this can damage the otolith.
+7. Once the otolith is cut, gently reheat the crystal bond to remove the slice. Do not attempt to pry it out as this can damage the otolith.
 
-Store the otolith in a 0.5 mL tube or mount onto a slide using crystal bond with the cut side up
-Before mounting, inspect both sides of the cross section to determine which one is better for reading. Mount this side up. If the crystal bond obscures the cross section after mounting, gently sand using wet 600 grit sandpaper then polish with 1 micron lapping film.
+8. Store the otolith in a 0.5 mL tube or mount onto a slide using crystal bond with the cut side up
+	- Before mounting, inspect both sides of the cross section to determine which one is better for reading. Mount this side up. If the crystal bond obscures the cross section after mounting, gently sand using wet 600 grit sandpaper then polish with 1 micron lapping film.
 
 #Imaging the Otolith
 
@@ -116,18 +117,19 @@ This protocol specifically refers to the compound microscope in the former Vollm
 
 The software used for the camera, ToupView, is already downloaded on the lab laptop. It is available for download here: https://www.microscope.com/software-downloads. Angela recommends downloading an older version of the software (2017) as newer versions may not be compatible with the camera.
 
-Turn on the power for the camera and the light box. 
+1. Turn on the power for the camera and the light box. 
 
-Push in/pull out the switch at the top of the microscope so the FOV is visible through the eyepieces
+2. Push in/pull out the switch at the top of the microscope so the FOV is visible through the eyepieces
 
-Bring the lines of the otolith into focus. ToupLite tends to zoom in the image compared to the eyepieces, so I recommend staying on 2x.
+3. Bring the lines of the otolith into focus. ToupLite tends to zoom in the image compared to the eyepieces, so I recommend staying on 2x.
 
-Open ToupView and plug in the camera. Change the position of the lever so the image appears on the screen.
+4. Open ToupView and plug in the camera. Change the position of the lever so the image appears on the screen.
 
-Navigate to options > preferences or use control + P to open the preferences dialogue. Rename the file prefix with the otolith ID.
+5. Navigate to options > preferences or use control + P to open the preferences dialogue. Rename the file prefix with the otolith ID.
 
-After refocusing, click the snap button or use control + Q (quick save) to take pictures of the otolith.
-Once images are taken, they can be transferred to the hard drive for editing and enumerating
+6. After refocusing, click the snap button or use control + Q (quick save) to take pictures of the otolith.
+	- Once images are taken, they can be transferred to the hard drive for editing and enumerating
 
-If necessary, otolith images can be edited using Adobe lightroom (available through Northeastern) or any preferred software.
-Enumerate the otolith using ImageJ and upload the count to the spreadsheet. Each otolith should be counted multiple times with at least a week between then.
+	- If necessary, otolith images can be edited using Adobe lightroom (available through Northeastern) or any preferred software.
+
+7. Enumerate the otolith using ImageJ and upload the count to the spreadsheet. Each otolith should be counted multiple times with at least a week between then.
