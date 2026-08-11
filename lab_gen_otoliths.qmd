@@ -56,7 +56,7 @@ Ensure at least one otolith in the pair has an intact reading axis. When startin
 1. Weigh both otoliths  
 	a. If necessary, gently clean off any dried tissue from the both otoliths. It may be helpful to rehydrate the tissue with a wet kim wipe if there is a lot attached.
 
-	b. Use a weigh boat to transfer the loose otoliths to the balance. Weigh them one at a time and record their masses in the sheet: (https://docs.google.com/spreadsheets/d/1qRPYbAHzQ6yJ0N-8ua_G_tp_o3XYQdfXWglI8qzOcEg/edit?gid=0#gid=0).
+	b. Use a weigh boat to transfer the loose otoliths to the balance. Weigh them one at a time and record their masses in the sheet: (https://docs.google.com/spreadsheets/d/1qRPYbAHzQ6yJ0N-8ua_G_tp_o3XYQdfXWglI8qzOcEg/edit?usp=sharing).
 
 	c. Replace the extra otolith in its storage plate.
 
