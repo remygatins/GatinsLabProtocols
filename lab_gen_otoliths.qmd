@@ -51,12 +51,12 @@ Ensure at least one otolith in the pair has an intact reading axis. When startin
 * Once you have identified the sulcus, the reading axis is perpendicular. Think of this as the sliver that will be removed from the center of the otolith. In this example, the reading axis follows the pink line
 
 * The reading axis will not always run  through the very top and bottom of the otolith, just as the sulcus will not always run through the leftmost and rightmost points of the otolith
-ADD PICTURE
+*ADD PICTURE*
 
 1. Weigh both otoliths  
 	a. If necessary, gently clean off any dried tissue from the both otoliths. It may be helpful to rehydrate the tissue with a wet kim wipe if there is a lot attached.
 
-	b. Use a weigh boat to transfer the loose otoliths to the balance. Weigh them one at a time and record their masses in the sheet: https://docs.google.com/spreadsheets/d/1qRPYbAHzQ6yJ0N-8ua_G_tp_o3XYQdfXWglI8qzOcEg/edit?gid=0#gid=0.
+	b. Use a weigh boat to transfer the loose otoliths to the balance. Weigh them one at a time and record their masses in the sheet: (https://docs.google.com/spreadsheets/d/1qRPYbAHzQ6yJ0N-8ua_G_tp_o3XYQdfXWglI8qzOcEg/edit?gid=0#gid=0).
 
 	c. Replace the extra otolith in its storage plate.
 
@@ -71,22 +71,22 @@ ADD PICTURE
 		iii. Place the blank slide on the hot plate. Leave a third of the slide hanging off so you can easily pick up the slide without burning your fingers.
 
 		iv. Put a small amount of crystal bond flakes on the left third of the slide. Do not put it in the center, as this makes it 	difficult to properly mount the slide on the saw.
-ADD PICTURE
+*ADD PICTURE*
 
 		v. Make the labels. Cut out the paper label for storage and write out the sticker for the slide.
 
 	c. after soaking the otolith, gently dry it off and place on a dark surface. Locate the core of the otolith and the sulcus. Using 	the pencil, gently sketch a line on the top of the otolith perpendicular to the sulcus and through the core. It doesn’t matter 		which side the pencil mark is on.
-ADD PICTURE
+*ADD PICTURE*
 
 3. Mount the otolith. Gently place the otolith on the melted crystal bond with the pencil side up. The line should be perpendicular to the long side of the slide (so the sulcus should run the same direction as the long side). With the slide on the hot plate, use forceps to gently move the crystal bond over the top of the otolith to ensure it is fully encased.
-ADD PICTURE
+*ADD PICTURE*
 
 4. Allow to cool before proceeding to cut.
 
 # Cutting the otolith
 
 The saw should have a mark on it to line up the mounted otolith for cutting. If not, you can use a squared slide with tape to mark where the blades will cut.
-ADD PICTURE
+*ADD PICTURE*
 
 1. Set up the saw for cutting. The correct order is flange, blade, spacer, blade, flange. Tighten.
 	a. Use the larger flanges. The default spacer for holacanthus otoliths is the nut stored with the saw, but feel free to experiment with different spacer widths as needed.
@@ -115,11 +115,11 @@ ADD PICTURE
 
 This protocol specifically refers to the compound microscope in the former Vollmer lab. Speak to Angela for hands-on directions.
 
-The software used for the camera, ToupView, is already downloaded on the lab laptop. It is available for download here: https://www.microscope.com/software-downloads. Angela recommends downloading an older version of the software (2017) as newer versions may not be compatible with the camera.
+The software used for the camera, ToupView, is already downloaded on the lab laptop. It is available for download here: (https://www.microscope.com/software-downloads). Angela recommends downloading an older version of the software (2017) as newer versions may not be compatible with the camera.
 
 1. Turn on the power for the camera and the light box. 
 
-2. Push in/pull out the switch at the top of the microscope so the FOV is visible through the eyepieces
+2. Push in/pull out the switch at the top of the microscope so the FOV is visible through the eyepieces.
 
 3. Bring the lines of the otolith into focus. ToupLite tends to zoom in the image compared to the eyepieces, so I recommend staying on 2x.
 
