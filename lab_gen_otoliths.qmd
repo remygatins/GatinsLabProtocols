@@ -5,9 +5,9 @@
 
 **Materials**
 
-- 1-2 Otoliths (at least one with reading axis intact)
+* 1-2 Otoliths (at least one with reading axis intact)
 
-- 1 small and 1 large Weigh boat (for weighing and crystal bond)
+* 1 small and 1 large Weigh boat (for weighing and crystal bond)
 
 - 2 0.5 mL microcentrifuge tubes 
 
@@ -48,9 +48,9 @@
 
 Ensure at least one otolith in the pair has an intact reading axis. When starting out, it is best to learn on  an otolith whose pair also has the reading axis intact, as otoliths can break during cutting.   
 
-- Once you have identified the sulcus, the reading axis is perpendicular. Think of this as the sliver that will be removed from the center of the otolith. In this example, the reading axis follows the pink line
+* Once you have identified the sulcus, the reading axis is perpendicular. Think of this as the sliver that will be removed from the center of the otolith. In this example, the reading axis follows the pink line
 
-- The reading axis will not always run  through the very top and bottom of the otolith, just as the sulcus will not always run through the leftmost and rightmost points of the otolith
+* The reading axis will not always run  through the very top and bottom of the otolith, just as the sulcus will not always run through the leftmost and rightmost points of the otolith
 ADD PICTURE
 
 1. Weigh both otoliths  
