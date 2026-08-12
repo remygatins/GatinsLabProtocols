@@ -44,7 +44,7 @@
 
 * Lab laptop and hard drive for storing images (Above extra monitor in lab)
 
-# Protocol Beginning
+**Protocol Beginning**
 
 Ensure at least one otolith in the pair has an intact reading axis. When starting out, it is best to learn on  an otolith whose pair also has the reading axis intact, as otoliths can break during cutting.   
 
@@ -83,7 +83,7 @@ Ensure at least one otolith in the pair has an intact reading axis. When startin
 
 4. Allow to cool before proceeding to cut.
 
-# Cutting the otolith
+**Cutting the Otolith**
 
 The saw should have a mark on it to line up the mounted otolith for cutting. If not, you can use a squared slide with tape to mark where the blades will cut.
 *ADD PICTURE*
@@ -111,7 +111,7 @@ The saw should have a mark on it to line up the mounted otolith for cutting. If 
 8. Store the otolith in a 0.5 mL tube or mount onto a slide using crystal bond with the cut side up
 	* Before mounting, inspect both sides of the cross section to determine which one is better for reading. Mount this side up. If the crystal bond obscures the cross section after mounting, gently sand using wet 600 grit sandpaper then polish with 1 micron lapping film.
 
-# Imaging the Otolith
+**Imaging the Otolith**
 
 This protocol specifically refers to the compound microscope in the former Vollmer lab. Speak to Angela for hands-on directions.
 
