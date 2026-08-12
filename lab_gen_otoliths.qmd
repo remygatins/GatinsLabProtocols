@@ -56,7 +56,7 @@ Ensure at least one otolith in the pair has an intact reading axis. When startin
 1. Weigh both otoliths  
 	a. If necessary, gently clean off any dried tissue from the both otoliths. It may be helpful to rehydrate the tissue with a wet kim wipe if there is a lot attached.
 
-	b. Use a weigh boat to transfer the loose otoliths to the balance. Weigh them one at a time and record their masses in the sheet: (https://docs.google.com/spreadsheets/d/1qRPYbAHzQ6yJ0N-8ua_G_tp_o3XYQdfXWglI8qzOcEg/edit?usp=sharing).
+	b. Use a weigh boat to transfer the loose otoliths to the balance. Weigh them one at a time and record their masses in the sheet: ([https://docs.google.com/spreadsheets/d/1qRPYbAHzQ6yJ0N-8ua_G_tp_o3XYQdfXWglI8qzOcEg/edit?usp=sharing]).
 
 	c. Replace the extra otolith in its storage plate.
 
@@ -115,7 +115,7 @@ The saw should have a mark on it to line up the mounted otolith for cutting. If 
 
 This protocol specifically refers to the compound microscope in the former Vollmer lab. Speak to Angela for hands-on directions.
 
-The software used for the camera, ToupView, is already downloaded on the lab laptop. It is available for download here: (https://www.microscope.com/software-downloads). Angela recommends downloading an older version of the software (2017) as newer versions may not be compatible with the camera.
+The software used for the camera, ToupView, is already downloaded on the lab laptop. It is available for download here: [(https://www.microscope.com/software-downloads)]. Angela recommends downloading an older version of the software (2017) as newer versions may not be compatible with the camera.
 
 1. Turn on the power for the camera and the light box. 
 
