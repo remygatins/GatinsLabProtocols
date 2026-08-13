@@ -38,7 +38,7 @@
 * Hot plate (left of the -80 fridge)
 
 * Buhler Isomet saw (Grabowski Lab)
-	+ The saw should have a piece of tape with a vertical line for aligning the core of the otolith with the gap in the saw. If not, directions for creating one are at the bottom of this protocol.
+	+ The saw should have a piece of tape with a vertical line for aligning the core of the otolith with the gap in the saw.
 ![plot](pictures/saw_tape.jpg)
 
 * Microscope and adapter for imaging (Vollmer lab)
@@ -49,7 +49,8 @@
 
 Ensure at least one otolith in the pair has an intact reading axis. When starting out, it is best to learn on  an otolith whose pair also has the reading axis intact, as otoliths can break during cutting.   
 
-* Once you have identified the sulcus, the reading axis is perpendicular. Think of this as the sliver that will be removed from the center of the otolith. In this example, the reading axis follows the pink line
+* Once you have identified the sulcus, the reading axis is perpendicular. Think of this as the sliver that will be removed from the center of the otolith. In this example, the reading axis follows the pink line:
+![plot](pictures/whole_otolith_sulcus.png)
 
 * The reading axis will not always run  through the very top and bottom of the otolith, just as the sulcus will not always run through the leftmost and rightmost points of the otolith
 ![plot](pictures/sulcus.gif)
