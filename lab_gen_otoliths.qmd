@@ -39,6 +39,7 @@
 
 * Buhler Isomet saw (Grabowski Lab)
 	+ The saw should have a piece of tape with a vertical line for aligning the core of the otolith with the gap in the saw. If not, directions for creating one are at the bottom of this protocol.
+![plot](pictures/saw_tape.jpg)
 
 * Microscope and adapter for imaging (Vollmer lab)
 
@@ -71,29 +72,29 @@ Ensure at least one otolith in the pair has an intact reading axis. When startin
 		iii. Place the blank slide on the hot plate. Leave a third of the slide hanging off so you can easily pick up the slide without burning your fingers.
 
 		iv. Put a small amount of crystal bond flakes on the left third of the slide. Do not put it in the center, as this makes it 	difficult to properly mount the slide on the saw.
-*ADD PICTURE*
+![plot](pictures/otolith_crystalbond.jpg)
 
 		v. Make the labels. Cut out the paper label for storage and write out the sticker for the slide.
 
 	c. after soaking the otolith, gently dry it off and place on a dark surface. Locate the core of the otolith and the sulcus. Using 	the pencil, gently sketch a line on the top of the otolith perpendicular to the sulcus and through the core. It doesn’t matter 		which side the pencil mark is on.
 ![plot](pictures/otolith_marked.jpg)
 
-3. Mount the otolith. Gently place the otolith on the melted crystal bond with the pencil side up. The line should be perpendicular to the long side of the slide (so the sulcus should run the same direction as the long side). With the slide on the hot plate, use forceps to gently move the crystal bond over the top of the otolith to ensure it is fully encased.
-*ADD PICTURE*
+3. Mount the otolith. Gently place the otolith on the melted crystal bond with the pencil side up. The line should be perpendicular to the long side of the slide (so the sulcus should run the same direction as the long side). With the slide on the hot plate, use forceps to gently move the crystal bond over the top of the otolith to ensure it is fully encased (shown above).
 
 4. Allow to cool before proceeding to cut.
 
 **Cutting the Otolith**
 
 The saw should have a mark on it to line up the mounted otolith for cutting. If not, you can use a squared slide with tape to mark where the blades will cut.
-*ADD PICTURE*
 
 1. Set up the saw for cutting. The correct order is flange, blade, spacer, blade, flange. Tighten.
+![plot](pictures/saw_blades)
 	a. Use the larger flanges. The default spacer for holacanthus otoliths is the nut stored with the saw, but feel free to experiment with different spacer widths as needed.
 
 	b. Fill the basin with water and a few drops of soap. This does not need to be replaced more than once a week.
 
 2. Remove the mounting block from the saw and place it upside down against the tape. Insert the slide with the otolith facing up and align the pencil mark on the sulcus with the mark on the tape. Everything should be oriented so that when the block is on the saw, the otolith is first to hit the blade.
+![plot](pictures/otolith_jig.jpg)
 
 3. Gently tighten the mounting block. Make sure the slide doesn’t wiggle in the mount, but do not over tighten as this risks cracking the glass.
 
