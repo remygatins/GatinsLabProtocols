@@ -76,7 +76,7 @@ Ensure at least one otolith in the pair has an intact reading axis. When startin
 		v. Make the labels. Cut out the paper label for storage and write out the sticker for the slide.
 
 	c. after soaking the otolith, gently dry it off and place on a dark surface. Locate the core of the otolith and the sulcus. Using 	the pencil, gently sketch a line on the top of the otolith perpendicular to the sulcus and through the core. It doesn’t matter 		which side the pencil mark is on.
-*ADD PICTURE*
+![plot](pictures/otolith_marked.jpg)
 
 3. Mount the otolith. Gently place the otolith on the melted crystal bond with the pencil side up. The line should be perpendicular to the long side of the slide (so the sulcus should run the same direction as the long side). With the slide on the hot plate, use forceps to gently move the crystal bond over the top of the otolith to ensure it is fully encased.
 *ADD PICTURE*
