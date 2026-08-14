@@ -91,7 +91,7 @@ Ensure at least one otolith in the pair has an intact reading axis. When startin
 The saw should have a mark on it to line up the mounted otolith for cutting. If not, you can use a squared slide with tape to mark where the blades will cut.
 
 1. Set up the saw for cutting. The correct order is flange, blade, spacer, blade, flange. Tighten.
-![plot](pictures/saw_blades)
+![plot](pictures/saw_blades.jpg)
 	a. Use the larger flanges. The default spacer for holacanthus otoliths is the nut stored with the saw, but feel free to experiment with different spacer widths as needed.
 
 	b. Fill the basin with water and a few drops of soap. This does not need to be replaced more than once a week.
